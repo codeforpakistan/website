@@ -1,0 +1,49 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+    const events = await getCollection('events');
+    return events.map((event) => ({
+        params: { slug: event.slug },
+        props: { event },
+    }));
+}
+
+const { event } = Astro.props;
+const { Content } = await event.render();
+---
+
+<MainLayout title={`${event.data.title}`}>
+    <div class="py-8">
+        <div class="mb-6 space-y-2">
+            <h1 class="text-3xl md:text-6xl tracking-tight">{event.data.title}</h1>
+            <h2 class="text-lg md:text-3xl font-light text-gray-700">{event.data.location}</h2>
+        </div>
+        <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
+            <div class="flex-grow max-w-5xl">
+                <section>
+                    <img src={event.data.image} alt={event.data.title} class="w-full max-w-3xl mx-auto mb-8" />
+                    <div class="rich-text-content">
+                        <Content />
+                    </div>
+                </section>
+            </div>
+            <div class="md:sticky md:top-24 md:self-start md:w-80 lg:w-96">
+                <aside>
+                    <div class="bg-gray-100 p-6">
+                        <h3 class="text-lg font-bold mb-4">Event Details</h3>
+                        <div class="space-y-4">
+                            <div>
+                                <p class="text-sm text-gray-600 mb-1">Location</p>
+                                <p class="font-medium">{event.data.location}</p>
+                            </div>
+                        </div>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </div>
+</MainLayout>
+
+

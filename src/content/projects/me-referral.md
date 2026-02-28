@@ -1,0 +1,8 @@
+---
+title: "M&E Referral System"
+slug: "me-referral"
+summary: "M&E Referral System for P&D Department"
+image: "/media/project-me-referral.jpg"
+sortOrder: 25
+---
+<p>&nbsp;</p><p><br>The Planning &amp; Development Department was the primary policy/decision-making stakeholder, especially in the field of development in the province. It was responsible for the implementation and monitoring of the overall development plans of the province. One of the department's key activities was monitoring and evaluating development schemes and conducting socio-economic impact analyses.</p><p>The department had an M&amp;E system, but it was only restricted to district monitoring offices (DMOs). The department needed a new Referral System to expand this system to all district departments' personnel, creating more transparency and efficiency in reporting discrepancies in developmental projects.</p><p>The Fellowship team worked with the department on expanding the existing M&amp;E system and developing a new Referral System. The M&amp;E Referral System had the following features:</p><ul><li>The system provided the department with an online web form for referring projects to the M&amp;E cell.</li><li>It allowed users with access to the system to submit referral forms.</li><li>It calculated facts and figures about the total number of project referrals referred to the M&amp;E Cell.</li><li>The secretary user could check all the 'Resolved' and 'Pending' referrals to the M&amp;E Cell.</li></ul><p><strong>Expected Impact</strong></p><p>Among several benefits of this system, the Referral system helped improve oversight on developmental projects and enabled timely identification of issues in running projects and improved interdepartmental communication on development.</p>

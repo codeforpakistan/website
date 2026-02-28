@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "code4pk"
+  },
+  "targets": {
+    "code4pk": {
+      "hosting": {
+        "website": [
+          "code4pk"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

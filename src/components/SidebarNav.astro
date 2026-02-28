@@ -1,0 +1,92 @@
+---
+const normalizePath = (value: string) => {
+  if (!value) return '/';
+  const trimmed = value.replace(/\/+$/, '');
+  return trimmed || '/';
+};
+
+const path = normalizePath(Astro.url.pathname);
+
+const navHrefs = [
+  '/about',
+  '/about/history',
+  '/about/people',
+  '/programs',
+  '/programs/fellowships',
+  '/programs/internships',
+  '/programs/innovator',
+  '/programs/services',
+  '/community',
+  '/community/hackathons',
+  '/community/labs',
+  '/events',
+  '/stories',
+  '/projects',
+  '/reports',
+  '/volunteer',
+  '/jobs',
+  '/donate',
+  '/contact',
+  '/subscribe',
+].map(normalizePath);
+
+const activeHref = navHrefs
+  .filter((href) => path === href || path.startsWith(`${href}/`))
+  .sort((left, right) => right.length - left.length)[0];
+
+const isActive = (href: string) => normalizePath(href) === activeHref;
+---
+
+<nav class="flex flex-col p-4">
+  <ul class="flex flex-col gap-4 list-none m-0 p-0">
+    <li class="relative">
+      <div class="px-4 py-2 text-gray-700 font-semibold">About</div>
+      <ul class="mt-1 space-y-1 list-none">
+        <li><a href="/about" class={`nav-link ${isActive('/about') ? 'nav-link-active' : ''}`}>About Us</a></li>
+        <li><a href="/about/history" class={`nav-link ${isActive('/about/history') ? 'nav-link-active' : ''}`}>Our History</a></li>
+        <li><a href="/about/people" class={`nav-link ${isActive('/about/people') ? 'nav-link-active' : ''}`}>Our People</a></li>
+      </ul>
+    </li>
+
+    <li class="relative">
+      <div class="px-4 py-2 text-gray-700 font-semibold">Programs</div>
+      <ul class="mt-1 space-y-1 list-none">
+        <li><a href="/programs" class={`nav-link ${isActive('/programs') ? 'nav-link-active' : ''}`}>Our Programming</a></li>
+        <li><a href="/programs/fellowships" class={`nav-link ${isActive('/programs/fellowships') ? 'nav-link-active' : ''}`}>Government Fellowships</a></li>
+        <li><a href="/programs/internships" class={`nav-link ${isActive('/programs/internships') ? 'nav-link-active' : ''}`}>Women Internships</a></li>
+        <li><a href="/programs/innovator" class={`nav-link ${isActive('/programs/innovator') ? 'nav-link-active' : ''}`}>Civic Innovator</a></li>
+        <li><a href="/programs/services" class={`nav-link ${isActive('/programs/services') ? 'nav-link-active' : ''}`}>Digital Services</a></li>
+      </ul>
+    </li>
+
+    <li class="relative">
+      <div class="px-4 py-2 text-gray-700 font-semibold">Community</div>
+      <ul class="mt-1 space-y-1 list-none">
+        <li><a href="/community" class={`nav-link ${isActive('/community') ? 'nav-link-active' : ''}`}>Community Hub</a></li>
+        <li><a href="/community/hackathons" class={`nav-link ${isActive('/community/hackathons') ? 'nav-link-active' : ''}`}>Civic Hackathons</a></li>
+        <li><a href="/community/labs" class={`nav-link ${isActive('/community/labs') ? 'nav-link-active' : ''}`}>Civic Innovation Labs</a></li>
+        <li><a href="/events" class={`nav-link ${isActive('/events') ? 'nav-link-active' : ''}`}>Community Events</a></li>
+      </ul>
+    </li>
+
+    <li class="relative">
+      <div class="px-4 py-2 text-gray-700 font-semibold">Impact</div>
+      <ul class="mt-1 space-y-1 list-none">
+        <li><a href="/stories" class={`nav-link ${isActive('/stories') ? 'nav-link-active' : ''}`}>Our Stories</a></li>
+        <li><a href="/projects" class={`nav-link ${isActive('/projects') ? 'nav-link-active' : ''}`}>CivicTech Projects</a></li>
+        <li><a href="/reports" class={`nav-link ${isActive('/reports') ? 'nav-link-active' : ''}`}>Annual Reports</a></li>
+      </ul>
+    </li>
+
+    <li class="relative">
+      <div class="px-4 py-2 text-gray-700 font-semibold">Get Involved</div>
+      <ul class="mt-1 space-y-1 list-none">
+        <li><a href="/volunteer" class={`nav-link ${isActive('/volunteer') ? 'nav-link-active' : ''}`}>Volunteer</a></li>
+        <li><a href="/jobs" class={`nav-link ${isActive('/jobs') ? 'nav-link-active' : ''}`}>Careers</a></li>
+        <li><a href="/donate" class={`nav-link ${isActive('/donate') ? 'nav-link-active' : ''}`}>Donate</a></li>
+        <li><a href="/contact" class={`nav-link ${isActive('/contact') ? 'nav-link-active' : ''}`}>Contact Us</a></li>
+        <li><a href="/subscribe" class={`nav-link ${isActive('/subscribe') ? 'nav-link-active' : ''}`}>Subscribe to Newsletter</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>

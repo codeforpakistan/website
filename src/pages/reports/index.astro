@@ -1,0 +1,59 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+import ReportCard from '../../components/cards/ReportCard.astro';
+import CardSection from '../../components/sections/CardSection.astro';
+import CardGrid from '../../components/sections/CardGrid.astro';
+
+const reports = await getCollection('reports');
+const sortedReports = [...reports].sort((a, b) => {
+  const dateA = a.data.createdAt ?? '';
+  const dateB = b.data.createdAt ?? '';
+  if (dateA !== dateB) return dateB.localeCompare(dateA);
+  const orderA = a.data.sortOrder ?? 0;
+  const orderB = b.data.sortOrder ?? 0;
+  if (orderA !== orderB) return orderB - orderA;
+  return a.data.title.localeCompare(b.data.title);
+});
+
+function getReportYear(createdAt: string) {
+  if (!createdAt) return '';
+  const date = new Date(createdAt);
+  return Number.isNaN(date.getTime()) ? createdAt : String(date.getFullYear());
+}
+---
+
+<MainLayout title="Annual Reports">
+  <div class="py-8">
+  <div class="mb-6 space-y-2">
+    <h1 class="text-3xl md:text-6xl tracking-tight">Annual Reports</h1>
+    <h2 class="text-lg md:text-3xl font-light text-gray-700">View our annual reports and impact assessments documenting our journey in civic innovation.</h2>
+  </div>
+    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
+      <div class="flex-grow max-w-5xl">
+        <p class="text-gray-700 mb-8 leading-relaxed">
+Explore our annual reports showcasing the impact of Code for Pakistan's programs, partnerships, and civic technology initiatives over the years.
+</p>
+
+<CardSection>
+  <CardGrid>
+    {sortedReports.map((report) => (
+      <ReportCard
+        href={`/reports/${report.slug}`}
+        image={report.data.image}
+        title={report.data.title}
+        year={getReportYear(report.data.createdAt)}
+        summary={report.data.summary}
+      />
+    ))}
+  </CardGrid>
+</CardSection>
+
+
+      </div>
+
+    </div>
+  </div>
+</MainLayout>
+
+

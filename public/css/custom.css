@@ -1,0 +1,120 @@
+/* This file is deprecated - now using static/css/input.css with Tailwind CLI */
+
+@layer components {
+  /* Button Components */
+  .btn {
+    @apply inline-block text-center px-4 py-2 font-medium transition-colors duration-200 ease-in-out;
+  }
+  
+  .btn-primary {
+    @apply bg-sky-500 text-white hover:bg-sky-600;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-700 hover:bg-gray-300;
+  }
+  
+  .btn-danger {
+    @apply bg-red-500 text-white hover:bg-red-600;
+  }
+  
+  .btn-warning {
+    @apply bg-amber-500 text-white hover:bg-amber-600;
+  }
+  
+  /* Rich Text Content Styling */
+  .rich-text-content p {
+    @apply !mb-4;
+  }
+  
+  .rich-text-content h1,
+  .rich-text-content h2,
+  .rich-text-content h3,
+  .rich-text-content h4,
+  .rich-text-content h5,
+  .rich-text-content h6 {
+    @apply !font-bold !mt-6 !mb-3 !leading-tight;
+  }
+  
+  .rich-text-content h1 { @apply !text-3xl; }
+  .rich-text-content h2 { @apply !text-2xl; }
+  .rich-text-content h3 { @apply !text-xl; }
+  .rich-text-content h4 { @apply !text-lg; }
+  
+  .rich-text-content a {
+    @apply !text-sky-500 !underline hover:!text-sky-600;
+  }
+  
+  .dark .rich-text-content a {
+    @apply !text-sky-400 hover:!text-sky-300;
+  }
+  
+  .rich-text-content strong,
+  .rich-text-content b {
+    @apply !font-bold;
+  }
+  
+  .rich-text-content em,
+  .rich-text-content i {
+    @apply !italic;
+  }
+  
+  .rich-text-content ul,
+  .rich-text-content ol {
+    @apply !ml-6 !mb-4;
+  }
+  
+  .rich-text-content ul {
+    @apply !list-disc;
+  }
+  
+  .rich-text-content ol {
+    @apply !list-decimal;
+  }
+  
+  .rich-text-content li {
+    @apply !mb-2;
+  }
+  
+  .rich-text-content blockquote {
+    @apply !border-l-4 !border-sky-500 !pl-4 !my-4 !italic !text-slate-600;
+  }
+  
+  .dark .rich-text-content blockquote {
+    @apply !border-sky-400 !text-slate-400;
+  }
+  
+  .rich-text-content code {
+    @apply !bg-slate-100 !px-1.5 !py-1 !rounded !font-mono !text-sm;
+  }
+  
+  .dark .rich-text-content code {
+    @apply !bg-slate-700;
+  }
+  
+  .rich-text-content pre {
+    @apply !bg-slate-100 !p-4 !rounded-lg !overflow-x-auto !my-4;
+  }
+  
+  .dark .rich-text-content pre {
+    @apply !bg-slate-800;
+  }
+  
+  .rich-text-content img {
+    @apply !max-w-full !h-auto !my-4;
+  }
+  
+  /* CKEditor full width styling */
+  .django-ckeditor-widget,
+  .django-ckeditor-widget iframe {
+    @apply !w-full !max-w-full;
+  }
+  
+  #cke_id_bio {
+    @apply !w-full;
+  }
+  
+  .cke_chrome {
+    @apply !w-full;
+  }
+}

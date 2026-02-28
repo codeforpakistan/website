@@ -1,0 +1,130 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+import JobCard from '../../components/cards/JobCard.astro';
+import CardSection from '../../components/sections/CardSection.astro';
+import CardGrid from '../../components/sections/CardGrid.astro';
+
+const jobs = (await getCollection('jobs')).sort((a, b) => {
+  const orderA = a.data.sortOrder ?? 0;
+  const orderB = b.data.sortOrder ?? 0;
+  if (orderA !== orderB) return orderA - orderB;
+  return a.data.title.localeCompare(b.data.title);
+});
+---
+
+<MainLayout title="Jobs">
+  <div class="py-8">
+  <div class="mb-6 space-y-2">
+    <h1 class="text-3xl md:text-6xl tracking-tight">Career Opportunities</h1>
+    <h2 class="text-lg md:text-3xl font-light text-gray-700">Join our team and help build technology for social good.</h2>
+  </div>
+    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
+      <div class="flex-grow max-w-5xl">
+        <div class="w-full mb-8">
+  <img src="/img/people_banner.jpg" alt="Career Opportunities" class="w-full h-auto rounded-lg">
+</div>
+
+<section class="section">
+  <p class="lead">
+    At Code for Pakistan, we believe in the incredible potential of individuals to drive real change. Here, you're not
+    just an employee; you're a catalyst for transformation. Your ideas, your energy, your passion – they all matter, and
+    they all make a difference.
+  </p>
+  <p>
+    We thrive on innovation, creativity, and agility. Your voice will be heard, your talents celebrated, and your growth
+    fostered as you work on social impact projects that improve the lives of fellow Pakistanis.&nbsp;
+  </p>
+</section>
+
+<section class="section">
+  <h3 class="heading">Why work with us</h3>
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    <div class="space-y-2">
+      <img src="/img/jobs_remote.jpg" alt="Remote first" class="w-full bg-white rounded-lg aspect-video h-auto" />
+      <h4 class="heading">Remote first</h4>
+      <p class="text-sm">
+        Choose where you work, creating a comfortable and productive setting that suits you best. Work when you feel
+        most creative by defining your own work hours.
+      </p>
+    </div>
+    <div class="space-y-2">
+      <img src="/img/jobs_location.jpg" alt="Work on location" class="w-full bg-white rounded-lg aspect-video h-auto" />
+      <h4 class="heading">Work on location</h4>
+      <p class="text-sm">
+        Join one of our office spaces, in all major towns, to enjoy a comfortable and calm work
+        environment that fosters collaboration, creativity, and boosts productivity.
+      </p>
+    </div>
+    <div class="space-y-2">
+      <img src="/img/jobs_inclusion.jpg" alt="Diversity, inclusion, equity" class="w-full bg-white rounded-lg aspect-video h-auto" />
+      <h4 class="heading">Diversity, inclusion, equity</h4>
+      <p class="text-sm">
+        Accommodating your needs is a part of our work culture. &nbsp;We recognize and respect your unique situations
+        and responsibilities towards your close ones.
+      </p>
+    </div>
+  </div>
+</section>
+
+<section class="section border-s-8 border-sky-500 ps-8 bg-sky-100">
+  <h3 class="heading">Benefits and Support</h3>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+    <ul class="list-disc list-outside ps-4 space-y-2">
+      <li>Health insurance for immediate family members</li>
+      <li>Paid time off</li>
+      <li>24 annual leaves</li>
+      <li>Performance bonuses for outstanding accomplishments</li>
+    </ul>
+    <ul class="list-disc list-outside ps-4 space-y-2">
+      <li>Parental leaves (both mother and father are eligible)</li><li>Employee's old age benefits program</li><li>Work-related expense reimbursements</li><li>Communication and technology allowances</li><li>Training packages for technology up-skilling</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section">
+  <h3 class="heading">How it works</h3>
+  <div class="grid grid-cols-1 md:grid-cols-5 gap-8 textcenter">
+    <div class="space-y-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="w-full h-auto text-gray-500 pb-4 ps-0 pe-8" viewBox="0 0 24 24"><!-- Icon from Material Symbols Light by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="M5.839 17.904L3 15.066l.689-.689l2.125 2.125l4.25-4.25l.688.714zm0-7.231L3 7.835l.689-.689l2.125 2.125l4.25-4.25l.688.714zm7.18 5.442v-1h8v1zm0-7.23v-1h8v1z"/></svg>
+      <p class="text-sm">We receive your application, review it, and shortlist potential candidates</p>
+    </div>
+    <div class="space-y-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="w-full h-auto text-gray-500 pb-4 ps-0 pe-8" viewBox="0 0 24 24"><!-- Icon from Material Symbols Light by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="M18.93 20q-2.528 0-5.184-1.266t-4.935-3.555t-3.545-4.935T4 5.07q0-.458.3-.763T5.05 4h2.473q.408 0 .712.257t.411.659L9.142 7.3q.07.42-.025.733t-.333.513L6.59 10.592q.616 1.117 1.361 2.076t1.59 1.817q.87.87 1.874 1.62q1.004.749 2.204 1.414l2.139-2.177q.244-.263.549-.347q.304-.083.674-.033l2.103.43q.408.1.662.411t.254.712v2.435q0 .45-.306.75t-.763.3M6.12 9.654l1.92-1.765q.095-.077.124-.212q.03-.135-.01-.25l-.443-2.12q-.039-.153-.135-.23T7.327 5H5.275q-.115 0-.192.077t-.077.192q.029 1.025.321 2.14t.794 2.245m8.45 8.334q1.014.502 2.16.743q1.148.24 2 .257q.115 0 .192-.077T19 18.72v-2.008q0-.153-.077-.25q-.077-.096-.23-.134l-1.85-.379q-.116-.039-.203-.01q-.086.03-.182.125zm0 0"/></svg>
+      <p class="text-sm">Our team reaches out for an initial assessment through telephonic interview</p>
+    </div>
+    <div class="space-y-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="w-full h-auto text-gray-500 pb-4 ps-0 pe-8" viewBox="0 0 24 24"><!-- Icon from Material Symbols Light by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="M8.117 16.539q.327 0 .548-.222q.22-.221.22-.549t-.222-.548t-.549-.22t-.548.222t-.22.549t.222.547t.549.22m0-3.769q.327 0 .548-.221q.22-.222.22-.55t-.222-.547t-.549-.22t-.548.221t-.22.55t.222.547t.549.22m0-3.769q.327 0 .548-.221q.22-.222.22-.55t-.222-.547t-.549-.22t-.548.221q-.22.222-.22.549t.222.548t.549.22m3.075 7.27h5.385v-1h-5.385zm0-3.77h5.385v-1h-5.385zm0-3.77h5.385v-1h-5.385zM5.616 20q-.691 0-1.153-.462T4 18.384V5.616q0-.691.463-1.153T5.616 4h12.769q.69 0 1.153.463T20 5.616v12.769q0 .69-.462 1.153T18.384 20zm0-1h12.769q.23 0 .423-.192t.192-.424V5.616q0-.231-.192-.424T18.384 5H5.616q-.231 0-.424.192T5 5.616v12.769q0 .23.192.423t.423.192M5 5v14z"/></svg>
+      <p class="text-sm">We send your screening tasks to be performed at home to assess your capabilities</p>
+    </div>
+    <div class="space-y-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="w-full h-auto text-gray-500 pb-4 ps-0 pe-8" viewBox="0 0 24 24"><!-- Icon from Material Symbols Light by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="M11.998 11.885q-1.042 0-1.77-.728T9.5 9.387q0-1.022.728-1.762t1.77-.74q1.021 0 1.762.74q.74.74.74 1.762q0 1.042-.74 1.77t-1.762.728m.002-1q.617 0 1.059-.432q.441-.431.441-1.068q0-.618-.441-1.059q-.442-.441-1.068-.441t-1.06.441q-.431.441-.431 1.068t.431 1.059t1.069.432m-5.5 6.23v-1.4q0-.402.206-.756t.557-.565q1.074-.636 2.278-.958q1.205-.32 2.459-.32t2.459.32t2.278.958q.352.21.558.565t.205.757v1.4zm5.5-3q-1.121 0-2.25.327t-2.215.943v.75h8.93v-.77q-1.067-.615-2.206-.932q-1.138-.317-2.259-.317m0 2.019h4.466h-8.932zM4.622 21q-.697 0-1.16-.462T3 19.378V16h1v3.385q0 .23.192.423t.423.192H8v1zM3 8V4.622q0-.697.463-1.16T4.622 3H8v1H4.616q-.231 0-.424.192T4 4.615V8zm13 13v-1h3.385q.23 0 .423-.192t.192-.424V16h1v3.378q0 .697-.462 1.16t-1.16.462zm4-13V4.616q0-.231-.192-.424T19.385 4H16V3h3.378q.697 0 1.16.463T21 4.622V8z"/></svg>
+      <p class="text-sm">You are interviewed by a hiring manager and rest of your team to assess suitability</p>
+    </div>
+    <div class="space-y-2">
+      <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" class="w-full h-auto text-gray-500 pb-4 ps-0 pe-8" viewBox="0 0 24 24"><!-- Icon from Material Symbols Light by Google - https://github.com/google/material-design-icons/blob/master/LICENSE --><path fill="currentColor" d="m10.562 15.908l6.396-6.396l-.708-.708l-5.688 5.688l-2.85-2.85l-.708.708zM12.003 21q-1.866 0-3.51-.708q-1.643-.709-2.859-1.924t-1.925-2.856T3 12.003t.709-3.51Q4.417 6.85 5.63 5.634t2.857-1.925T11.997 3t3.51.709q1.643.708 2.859 1.922t1.925 2.857t.709 3.509t-.708 3.51t-1.924 2.859t-2.856 1.925t-3.509.709M12 20q3.35 0 5.675-2.325T20 12t-2.325-5.675T12 4T6.325 6.325T4 12t2.325 5.675T12 20m0-8"/></svg>
+      <p class="text-sm">After reference checks, we do a a final interview and send you an offer letter</p>
+    </div>
+  </div>
+</section>
+
+<CardSection sectionClass="section" title="Current Openings" titleClass="heading">
+<p>Are you ready to become a part of the change you've always wanted to see? Take the first step towards a citizen-centered Pakistan and explore our open positions now!</p>
+<CardGrid gridClass="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
+  {jobs.map((job) => (
+    <JobCard
+      href={`/jobs/${job.slug}`}
+      title={job.data.title}
+      location={job.data.location}
+      summary={job.data.summary}
+    />
+  ))}
+</CardGrid>
+</CardSection>
+      </div>
+
+    </div>
+  </div>
+</MainLayout>
+
+

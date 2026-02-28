@@ -1,0 +1,140 @@
+---
+import SidebarNav from '../components/SidebarNav.astro';
+import SiteFooter from '../components/SiteFooter.astro';
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+}
+
+const siteTitle = 'Code for Pakistan';
+const { title } = Astro.props;
+const pageTitle = title?.trim() ?? '';
+const resolvedTitle = pageTitle ? `${pageTitle} | ${siteTitle}` : siteTitle;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{resolvedTitle}</title>
+  </head>
+  <body class="min-h-screen flex flex-col overflow-x-hidden bg-gray-50 text-gray-900">
+    <div class="header-band" style="--band-bg:url('/img/band.svg')"></div>
+
+    <header class="fixed top-5 left-0 right-0 h-16 bg-white border-b z-[104] flex items-center">
+      <div class="flex items-center px-2 lg:px-4 lg:w-64">
+        <button id="openMenuBtn" class="lg:hidden text-gray-700 hover:text-sky-500 transition-colors p-2 mr-2" aria-label="Open menu">
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M3 18v-2h18v2zm0-5v-2h18v2zm0-5V6h18v2z" />
+          </svg>
+        </button>
+
+        <button id="closeMenuBtn" class="lg:hidden hidden text-gray-700 hover:text-sky-500 transition-colors p-2 mr-2" aria-label="Close menu">
+          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M6.4 19L5 17.6l5.6-5.6L5 6.4L6.4 5l5.6 5.6L17.6 5L19 6.4L13.4 12l5.6 5.6l-1.4 1.4l-5.6-5.6z" />
+          </svg>
+        </button>
+
+        <a href="/" class="flex items-center gap-2 lg:gap-3 font-semibold text-xl lg:text-2xl tracking-tighter">
+          <img src="/img/cfp_logomark.png" alt="Code for Pakistan" class="hidden lg:flex h-8" />
+          <div class="flex items-center gap-1 lg:gap-2 text-nowrap">
+            <span class="text-green-500">Code for</span>
+            <span class="text-sky-500">Pakistan</span>
+          </div>
+        </a>
+      </div>
+
+    </header>
+
+    <div id="menuOverlay" class="lg:hidden fixed inset-0 bg-black bg-opacity-50 z-[102] hidden transition-opacity duration-300 mt-with-header"></div>
+
+    <div class="pt-with-header">
+      <div class="flex flex-1">
+        <aside id="sidebar" class="w-full lg:w-64 fixed left-0 top-with-header bg-white bottom-0 border-e overflow-y-auto z-[103] transition-transform duration-300 lg:translate-x-0 -translate-x-full">
+          <SidebarNav />
+        </aside>
+
+        <main class="flex-1 lg:ml-64 w-full px-4 lg:px-8">
+          <slot />
+        </main>
+      </div>
+
+      <SiteFooter />
+    </div>
+
+    <script>
+      const openMenuBtn = document.getElementById('openMenuBtn');
+      const closeMenuBtn = document.getElementById('closeMenuBtn');
+      const sidebar = document.getElementById('sidebar');
+      const menuOverlay = document.getElementById('menuOverlay');
+
+      function scrollSidebarToBottomIfActiveBelow(container: HTMLElement | null) {
+        if (!container) return;
+        const activeLink = container.querySelector('.nav-link-active') as HTMLElement | null;
+        if (!activeLink) return;
+
+        const containerRect = container.getBoundingClientRect();
+        const activeRect = activeLink.getBoundingClientRect();
+
+        if (activeRect.bottom > containerRect.bottom) {
+          container.scrollTop = container.scrollHeight;
+        }
+      }
+
+      function runSidebarScrollCheck(container: HTMLElement | null) {
+        requestAnimationFrame(() => {
+          scrollSidebarToBottomIfActiveBelow(container);
+        });
+
+        setTimeout(() => {
+          scrollSidebarToBottomIfActiveBelow(container);
+        }, 220);
+      }
+
+      if (sidebar) {
+        runSidebarScrollCheck(sidebar);
+      }
+
+      if (openMenuBtn && closeMenuBtn && sidebar && menuOverlay) {
+        const openBtn = openMenuBtn;
+        const closeBtn = closeMenuBtn;
+        const sidebarEl = sidebar;
+        const overlayEl = menuOverlay;
+
+        function setMenuState(isOpen: boolean) {
+          sidebarEl.classList.toggle('-translate-x-full', !isOpen);
+          overlayEl.classList.toggle('hidden', !isOpen);
+          openBtn.classList.toggle('hidden', isOpen);
+          closeBtn.classList.toggle('hidden', !isOpen);
+          document.body.style.overflow = isOpen ? 'hidden' : '';
+        }
+
+        function openMenu() {
+          setMenuState(true);
+          runSidebarScrollCheck(sidebarEl);
+        }
+
+        function closeMenu() {
+          setMenuState(false);
+        }
+
+        openBtn.addEventListener('click', openMenu);
+        closeBtn.addEventListener('click', closeMenu);
+        overlayEl.addEventListener('click', closeMenu);
+
+        if (window.innerWidth < 1024) {
+          const sidebarLinks = sidebarEl.querySelectorAll('a');
+          sidebarLinks.forEach((link) => {
+            link.addEventListener('click', () => {
+              closeMenu();
+            });
+          });
+        }
+      }
+    </script>
+  </body>
+</html>

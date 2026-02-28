@@ -1,0 +1,200 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* Header Band */
+  .header-band {
+    @apply h-5 bg-contain bg-center bg-repeat-x fixed top-0 left-0 right-0 z-[105];
+    background-image: var(--band-bg);
+  }
+}
+
+@layer utilities {
+  /* Account for header band + top bar */
+  .pt-with-header {
+    padding-top: calc(1.25rem + 4rem);
+  }
+  
+  .top-with-header {
+    top: calc(1.25rem + 4rem);
+  }
+  
+  .mt-with-header {
+    margin-top: calc(1.25rem + 4rem);
+  }
+}
+
+@layer components {
+  /* Button Components */
+  .btn {
+    @apply inline-block text-center px-4 py-2 transition-colors duration-200 ease-in-out rounded-full;
+  }
+  
+  .btn-lg {
+    @apply text-xl px-8 py-4;
+  }
+  
+  .btn-sm {
+    @apply text-sm px-3 py-1;
+  }
+  
+  .btn-primary {
+    @apply bg-sky-500 text-white hover:bg-sky-600;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-200 text-gray-700 hover:bg-gray-300;
+  }
+  
+  .btn-danger {
+    @apply bg-red-500 text-white hover:bg-red-600;
+  }
+  
+  .btn-warning {
+    @apply bg-amber-500 text-white hover:bg-amber-600;
+  }
+  
+  /* Link Component */
+  .link {
+    @apply text-sky-500 no-underline hover:underline;
+  }
+
+  /* Navigation Link Component */
+  .nav-link {
+    @apply block px-4 py-2 text-sm text-gray-500 no-underline transition-colors rounded-full hover:text-white hover:bg-sky-500;
+  }
+
+  .nav-link-active {
+    @apply bg-sky-500 text-white font-semibold;
+  }
+
+  /* Section Component */
+  .section {
+    @apply my-2 md:my-4 lg:my-8 py-2 md:py-4 lg:py-8 space-y-2 md:space-y-4;
+  }
+
+  .section.first {
+    @apply mt-0 pt-0;
+  }
+
+  /* Heading Styles */
+  .heading {
+    @apply font-semibold text-gray-900 tracking-tight;
+  }
+
+  h1.heading {
+    @apply text-3xl lg:text-6xl;
+  }
+
+  h2.heading {
+    @apply text-xl lg:text-3xl;
+  }
+
+  h3.heading {
+    @apply text-lg lg:text-2xl;
+  }
+
+  h4.heading {
+    @apply text-base lg:text-xl;
+  }
+
+  p.lead {
+    @apply text-lg lg:text-xl text-gray-500 font-medium tracking-tight;
+  }
+
+  /* Responsive Text Scaling */
+  .text-scale {
+    @apply text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl;
+  }
+
+  .text-scale-sm {
+    @apply text-xs md:text-sm lg:text-base xl:text-lg 2xl:text-xl;
+  }
+
+  .text-scale-lg {
+    @apply text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl;
+  }
+  
+  /* Rich Text Content Styling */
+  .rich-text-content p {
+    @apply !mb-4;
+  }
+  
+  .rich-text-content h1,
+  .rich-text-content h2,
+  .rich-text-content h3,
+  .rich-text-content h4,
+  .rich-text-content h5,
+  .rich-text-content h6 {
+    @apply !font-bold !mt-6 !mb-3 !leading-tight;
+  }
+  
+  .rich-text-content h1 { @apply !text-3xl; }
+  .rich-text-content h2 { @apply !text-2xl; }
+  .rich-text-content h3 { @apply !text-xl; }
+  .rich-text-content h4 { @apply !text-lg; }
+  
+  .rich-text-content a {
+    @apply !text-sky-500 !underline hover:!text-sky-600;
+  }
+  
+  .rich-text-content strong,
+  .rich-text-content b {
+    @apply !font-bold;
+  }
+  
+  .rich-text-content em,
+  .rich-text-content i {
+    @apply !italic;
+  }
+  
+  .rich-text-content ul,
+  .rich-text-content ol {
+    @apply !ml-6 !mb-4;
+  }
+  
+  .rich-text-content ul {
+    @apply !list-disc;
+  }
+  
+  .rich-text-content ol {
+    @apply !list-decimal;
+  }
+  
+  .rich-text-content li {
+    @apply !mb-2;
+  }
+  
+  .rich-text-content blockquote {
+    @apply !border-l-4 !border-sky-500 !pl-4 !my-4 !italic !text-slate-600;
+  }
+  
+  .rich-text-content code {
+    @apply !bg-slate-100 !px-1.5 !py-1 !rounded !font-mono !text-sm;
+  }
+  
+  .rich-text-content pre {
+    @apply !bg-slate-100 !p-4 !rounded-lg !overflow-x-auto !my-4;
+  }
+  
+  .rich-text-content img {
+    @apply !max-w-full !h-auto !my-4;
+  }
+  
+  /* CKEditor full width styling */
+  .django-ckeditor-widget {
+    display: block !important;
+    width: 100% !important;
+  }
+  
+  .django-ckeditor-widget iframe {
+    width: 100% !important;
+  }
+  
+  [id^="cke_id_"],
+  .cke_chrome,
+  .cke {
+    width: 100% !important;
+  }
+}

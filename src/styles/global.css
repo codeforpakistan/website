@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .header-band {
+    @apply h-5 bg-contain bg-center bg-repeat-x fixed top-0 left-0 right-0 z-[105];
+    background-image: var(--band-bg);
+  }
+}
+
+@layer utilities {
+  .pt-with-header {
+    padding-top: calc(1.25rem + 4rem);
+  }
+
+  .top-with-header {
+    top: calc(1.25rem + 4rem);
+  }
+
+  .mt-with-header {
+    margin-top: calc(1.25rem + 4rem);
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-block text-center px-4 py-2 transition-colors duration-200 ease-in-out rounded-full;
+  }
+
+  .btn-primary {
+    @apply bg-sky-500 text-white hover:bg-sky-600;
+  }
+
+  .nav-link {
+    @apply block px-4 py-2 text-sm text-gray-500 no-underline transition-colors rounded-full hover:text-white hover:bg-sky-500;
+  }
+
+  .nav-link-active {
+    @apply text-white bg-sky-500;
+  }
+
+  .nav-link-active:hover {
+    @apply text-white bg-sky-500;
+  }
+
+  .section {
+    @apply my-2 md:my-4 lg:my-8 py-2 md:py-4 lg:py-8 space-y-2 md:space-y-4;
+  }
+
+  .heading {
+    @apply font-semibold text-gray-900 tracking-tight;
+  }
+
+  h1.heading {
+    @apply text-3xl lg:text-6xl;
+  }
+
+  h2.heading {
+    @apply text-xl lg:text-3xl;
+  }
+
+  .rich-text-content p {
+    @apply my-2;
+  }
+
+  .rich-text-content p + p {
+    @apply mt-4;
+  }
+}

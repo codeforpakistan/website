@@ -1,0 +1,81 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+import PeopleCard from '../../../components/cards/PeopleCard.astro';
+import CardSection from '../../../components/sections/CardSection.astro';
+import CardGrid from '../../../components/sections/CardGrid.astro';
+
+type GroupKey = 'board' | 'staff' | 'volunteer';
+const people = await getCollection('people');
+type PersonEntry = (typeof people)[number];
+
+function normalizeGroup(person: PersonEntry): GroupKey {
+  const explicitGroup = (person.data.group ?? '').toLowerCase().trim();
+  if (explicitGroup === 'board') return 'board';
+  if (explicitGroup === 'staff') return 'staff';
+  if (explicitGroup === 'volunteer' || explicitGroup === 'volunteers') return 'volunteer';
+
+  const designation = (person.data.designation ?? '').toLowerCase();
+  if (designation.includes('board')) return 'board';
+  if (designation === 'volunteer') return 'volunteer';
+  return 'staff';
+}
+
+const sortedPeople = [...people].sort((a, b) => {
+  const orderA = a.data.sortOrder ?? 0;
+  const orderB = b.data.sortOrder ?? 0;
+  if (orderA !== orderB) return orderA - orderB;
+  return a.data.title.localeCompare(b.data.title);
+});
+
+const groupedPeople: Record<GroupKey, typeof sortedPeople> = {
+  board: sortedPeople.filter((person) => normalizeGroup(person) === 'board'),
+  staff: sortedPeople.filter((person) => normalizeGroup(person) === 'staff'),
+  volunteer: sortedPeople.filter((person) => normalizeGroup(person) === 'volunteer'),
+};
+
+const groupMeta: Array<{ key: GroupKey; title: string }> = [
+  { key: 'board', title: 'Board' },
+  { key: 'staff', title: 'Staff' },
+  { key: 'volunteer', title: 'Volunteers' },
+];
+---
+
+<MainLayout title="Our People">
+  <div class="py-8">
+  <div class="mb-6 space-y-2">
+    <h1 class="text-3xl md:text-6xl tracking-tight">Our People</h1>
+    <h2 class="text-lg md:text-3xl font-light text-gray-700">Meet the team behind Code for Pakistan.</h2>
+  </div>
+    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
+      <div class="flex-grow max-w-5xl">
+        <div class="w-full mb-8">
+    <img src="/img/people_banner.jpg" alt="Our People" class="w-full h-auto rounded-lg">
+</div>
+<p class="text-gray-700 mb-8 leading-relaxed">
+Code for Pakistan is made up of people-centered problem solvers: technologists, storytellers, and organizers from many different backgrounds and communities around the country. We’re committed to building an organization that looks like the people we serve.
+</p>
+
+{groupMeta.map((group) => (
+  groupedPeople[group.key].length > 0 && (
+    <CardSection title={group.title}>
+      <CardGrid gridClass="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
+        {groupedPeople[group.key].map((person) => (
+          <PeopleCard
+            href={`/about/people/${person.slug}`}
+            image={person.data.image}
+            title={person.data.title}
+            designation={person.data.designation}
+          />
+        ))}
+      </CardGrid>
+    </CardSection>
+  )
+))}
+      </div>
+
+    </div>
+  </div>
+</MainLayout>
+
+

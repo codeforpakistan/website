@@ -1,0 +1,46 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const reports = await getCollection('reports');
+  return reports.map((report) => ({
+    params: { slug: report.slug },
+    props: { report },
+  }));
+}
+
+const { report } = Astro.props;
+const { Content } = await report.render();
+---
+
+<MainLayout title={`${report.data.title}`}>
+  <div class="py-8">
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">{report.data.title}</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">{report.data.summary}</h2>
+    </div>
+    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
+      <div class="flex-grow max-w-5xl">
+        <section>
+          <img src={report.data.image} alt={report.data.title} class="w-full rounded-lg mb-8" />
+          <div class="rich-text-content">
+            <Content />
+          </div>
+        </section>
+      </div>
+      {report.data.attachment && (
+        <div class="md:sticky md:top-24 md:self-start md:w-80 lg:w-96">
+          <aside>
+            <div class="bg-gray-100 p-6 rounded-lg">
+              <h3 class="text-lg font-bold mb-3">Report Document</h3>
+              <a href={report.data.attachment} class="text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">View attached report document</a>
+            </div>
+          </aside>
+        </div>
+      )}
+    </div>
+  </div>
+</MainLayout>
+
+

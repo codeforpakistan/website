@@ -1,0 +1,18 @@
+---
+interface Props {
+  href: string;
+  image: string;
+  title: string;
+  designation?: string;
+}
+
+const { href, image, title, designation = '' } = Astro.props;
+---
+
+<a href={href} class="block bg-white rounded-lg border hover:border-gray-300 overflow-hidden">
+  <img src={image} alt={title} class="w-full aspect-square object-cover" />
+  <div class="p-3">
+    <h4 class="font-semibold text-gray-900 line-clamp-2">{title}</h4>
+    <p class="text-sm text-gray-600 mt-1 line-clamp-2">{designation}</p>
+  </div>
+</a>

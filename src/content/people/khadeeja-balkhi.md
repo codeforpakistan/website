@@ -1,0 +1,12 @@
+---
+title: "Khadeeja Balkhi"
+slug: "khadeeja-balkhi"
+image: "/media/khadeeja%255B1%255D.JPG"
+designation: "Volunteer"
+group: "volunteer"
+sortOrder: 11
+linkedin: "https://www.linkedin.com/in/kbalkhi/"
+github: ""
+twitter: ""
+---
+<p>Khadeeja Balkhi is a global sustainability specialist and winner of both the CSR Europe and CNN Young Journalist awards. She is also author of 200+ published articles, reports &amp; strategies and most recently the Maldives &amp; Saudi Arabia Country Guides for the World Guide to Sustainable Enterprise.</p>

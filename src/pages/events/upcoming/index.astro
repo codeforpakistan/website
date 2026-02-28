@@ -1,0 +1,27 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+
+const events = await getCollection('events');
+const eventsList = [...events].sort((a, b) => {
+  const orderA = a.data.sortOrder ?? 0;
+  const orderB = b.data.sortOrder ?? 0;
+  if (orderA !== orderB) return orderA - orderB;
+  return a.data.title.localeCompare(b.data.title);
+});
+---
+
+<MainLayout title="Upcoming Events">
+  <h1 class="heading mb-6">Events</h1>
+  <div class="space-y-4">
+    {eventsList.map((event) => (
+      <a href={`/events/${event.slug}`} class="block bg-white border rounded-lg p-5 hover:shadow-sm">
+        <h2 class="text-xl font-semibold mb-1">{event.data.title}</h2>
+        <p class="text-sm text-gray-500 mb-1">{event.data.location}</p>
+        <p class="text-gray-700">{event.data.summary}</p>
+      </a>
+    ))}
+  </div>
+</MainLayout>
+
+
