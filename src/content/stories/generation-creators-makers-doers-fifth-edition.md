@@ -2,7 +2,7 @@
 title: "Meet the Fellows | 5th Edition"
 slug: "generation-creators-makers-doers-fifth-edition"
 summary: "Welcome to \" A Generation of Doers ,\" 5th Edition , a monthly series highlighting the impactful work of the Khyber Pakhtunkhwa (KP) Government Innovation Fellows. This fellowship, a collaboration between Code for Paki..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-generation-creators-makers-doers-fifth-edition.jpg"
 group: "all"
 sortOrder: 38
 designation: ""

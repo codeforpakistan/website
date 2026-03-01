@@ -2,7 +2,7 @@
 title: "Islamabad Civic Hackathon 2016 – Why You Should Care!"
 slug: "islamabad-civic-hackathon-2016-why-you-should-care"
 summary: "What is a \"Civic Hackathon\" and why should I even care? Most of you must have seen viral articles/videos about life hacks, which share ideas which attempt to improve the reader's/viewer's lifestyle. Just like \"life ha..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-islamabad-civic-hackathon-2016-why-you-should-care.jpg"
 group: "all"
 sortOrder: 27
 designation: ""

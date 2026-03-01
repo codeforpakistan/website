@@ -2,7 +2,7 @@
 title: "Lahore Civic Hackathon 2014"
 slug: "lahore-civic-hackathon-2014"
 summary: "The Lahore Civic Hackathon , Jan 24-26, 2014, was a success! In case you missed it, never fear: it was covered by our own bloggers, social media partners, journalists, as well as several other blogs and news sites. Fo..."
-image: "/img/home_banner.jpg"
+image: "/media/events-lahore-civic-hackathon-2014.jpg"
 group: "all"
 sortOrder: 10
 designation: ""

@@ -2,7 +2,7 @@
 title: "Launching 3rd Cycle of KP Civic Innovation Fellowship"
 slug: "launching-3rd-cycle-kp-fellowship"
 summary: "The new Government Innovation Lab, Durshal, bustled with energy and zest on the afternoon of 7th March. Government officials, Code for Pakistan and World Bank representatives, mentors, Alumni Fellows and the new batch..."
-image: "/img/home_banner.jpg"
+image: "/media/events-launching-3rd-cycle-kp-fellowship.jpg"
 group: "all"
 sortOrder: 11
 designation: ""

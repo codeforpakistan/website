@@ -2,7 +2,7 @@
 title: "My first CfA summit"
 slug: "my-first-cfa-summit"
 summary: "When I was invited to attend the Code for America Summit in Oakland this November, I could not help but feel slightly anxious. It was going to be a huge room full of tech experts and civic innovation leaders; fields I..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-my-first-cfa-summit.jpg"
 group: "all"
 sortOrder: 43
 designation: ""

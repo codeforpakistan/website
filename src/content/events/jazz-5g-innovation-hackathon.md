@@ -2,7 +2,7 @@
 title: "Jazz 5G Innovation Hackathon"
 slug: "jazz-5g-innovation-hackathon"
 summary: "The 5G Innovation Hackathon is a collaborative initiative between Jazz and National University of Sciences and Technology (NUST) , in partnership with the National IT Board and Code for Pakistan (CfP) . This hackathon..."
-image: "/img/home_banner.jpg"
+image: "/media/events-jazz-5g-innovation-hackathon.jpg"
 group: "all"
 sortOrder: 6
 designation: ""

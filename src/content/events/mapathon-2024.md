@@ -2,7 +2,7 @@
 title: "Mapathon 2024"
 slug: "mapathon-2024"
 summary: "In September 2024, Pakistan hosted its first-ever nationwide hybrid Mapathon , bringing together a diverse community of technologists, scientists, artists, designers, doctors, and civic enthusiasts. The goal was to em..."
-image: "/img/home_banner.jpg"
+image: "/media/events-mapathon-2024.jpg"
 group: "all"
 sortOrder: 13
 designation: ""

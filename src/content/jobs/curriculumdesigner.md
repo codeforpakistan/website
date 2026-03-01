@@ -2,7 +2,7 @@
 title: "Curriculum Designer"
 slug: "curriculumdesigner"
 summary: "About Code for Pakistan  Imagine a Pakistan where technology strengthens communities, improves lives, and brings citizens and government closer together. That’s the vision driving Code for Pakistan. Code for Pakistan..."
-image: "/img/home_banner.jpg"
+image: "/img/jobs_remote.jpg"
 group: "all"
 sortOrder: 1
 location: ""

@@ -2,7 +2,7 @@ import { defineCollection, z } from 'astro:content';
 
 const peopleSchema = z.object({
   title: z.string(),
-  image: z.string().optional().default('/img/home_banner.jpg'),
+  image: z.string().optional().default('/img/cfp_logomark.png'),
   designation: z.string().optional().default(''),
   group: z.string().optional().default(''),
   sortOrder: z.number().optional().default(0),
@@ -14,7 +14,7 @@ const peopleSchema = z.object({
 const baseSchema = z.object({
   title: z.string(),
   summary: z.string().optional().default(''),
-  image: z.string().optional().default('/img/home_banner.jpg'),
+  image: z.string().optional().default('/img/cfp_logomark.png'),
   group: z.string().optional().default(''),
   sortOrder: z.number().optional().default(0),
   designation: z.string().optional().default(''),
@@ -31,14 +31,14 @@ const baseSchema = z.object({
 const projectSchema = z.object({
   title: z.string(),
   summary: z.string().optional().default(''),
-  image: z.string().optional().default('/img/home_banner.jpg'),
+  image: z.string().optional().default('/img/cfp_logomark.png'),
   sortOrder: z.number().optional().default(0),
 });
 
 const reportSchema = z.object({
   title: z.string(),
   summary: z.string().optional().default(''),
-  image: z.string().optional().default('/img/home_banner.jpg'),
+  image: z.string().optional().default('/img/cfp_logomark.png'),
   sortOrder: z.number().optional().default(0),
   createdAt: z.string().optional().default(''),
   attachment: z.string().optional().default(''),

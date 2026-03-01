@@ -2,7 +2,7 @@
 title: "CfP's 4th Anniversary: Spotlight on Nabeha Khan"
 slug: "spotlight-nabeha-khan"
 summary: "My journey with CfP started in November 2013 with this first email from Sheba: Nov 5 2013 Hi Nabeha,  It was so nice to chat with you at the brunch on Sunday. Thanks so much for your support and offering to help with..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-spotlight-nabeha-khan.jpg"
 group: "all"
 sortOrder: 12
 designation: ""

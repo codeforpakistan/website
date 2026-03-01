@@ -2,7 +2,7 @@
 title: "Civic Hackathon 2020"
 slug: "civic-hackathon-2020-concludes"
 summary: "The Civic Hackathon 2020 , Code for Pakistan’s first ever virtual hackathon co-organised with Telenor Velocity, brought together a mix of technologists, designers, social scientists, NGOs, private sector and governmen..."
-image: "/img/home_banner.jpg"
+image: "/media/events-civic-hackathon-2020-concludes.jpg"
 group: "all"
 sortOrder: 2
 designation: ""

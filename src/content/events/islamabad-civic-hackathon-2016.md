@@ -2,7 +2,7 @@
 title: "Islamabad Civic Hackathon 2016"
 slug: "islamabad-civic-hackathon-2016"
 summary: "Our Second Annual Islamabad Civic Hackathon brought together 150 civic-minded developers, designers, data analysts, professionals, students, mentors, and innovators at The Hive in Islamabad on the 16th and 17th of Jul..."
-image: "/img/home_banner.jpg"
+image: "/media/events-islamabad-civic-hackathon-2016.jpg"
 group: "all"
 sortOrder: 5
 designation: ""

@@ -2,7 +2,7 @@
 title: "The VPN Dilemma"
 slug: "the-vpn-dilemma"
 summary: "Code for Pakistan hosted a town hall at The Black Hole to address one of the most pressing digital issues of our time: The VPN Debate and What It Means for Privacy and Digital Rights in Pakistan . Led by Shaji Ahmed,..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-the-vpn-dilemma.jpg"
 group: "all"
 sortOrder: 67
 designation: ""

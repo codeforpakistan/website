@@ -2,7 +2,7 @@
 title: "We Shape Our Tools and Then Our Tools Shape Us! ~ Marshall Mcluhan"
 slug: "we-shape-our-tools-and-then-our-tools-shape-us"
 summary: "The KP Civic Innovation Fellowship Program, which started with 46 candidate applications,12 Fellows and a handful of mentors in 2014 has far exceeded our expectations! The Program initiated by Code for Pakistan in par..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-we-shape-our-tools-and-then-our-tools-shape-us.jpg"
 group: "all"
 sortOrder: 68
 designation: ""

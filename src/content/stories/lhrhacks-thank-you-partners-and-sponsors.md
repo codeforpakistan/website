@@ -2,7 +2,7 @@
 title: "LHRHacks | Thank You, Partners & Sponsors!"
 slug: "lhrhacks-thank-you-partners-and-sponsors"
 summary: "It takes a village to implement a civic hackathon, and we couldn’t have done it without our amazing partners, sponsors, mentors, judges, and volunteers! We’d like to express our deepest gratitude to all our partners a..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-lhrhacks-thank-you-partners-and-sponsors.jpg"
 group: "all"
 sortOrder: 32
 designation: ""

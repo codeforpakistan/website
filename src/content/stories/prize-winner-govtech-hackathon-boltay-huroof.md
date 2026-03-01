@@ -2,7 +2,7 @@
 title: "First Prize Winner of GovTech Hackathon 2021 — Boltay Huroof"
 slug: "prize-winner-govtech-hackathon-boltay-huroof"
 summary: "Umer Farooq started working on the problem of making education inclusive for the blind community of Pakistan. Umer’s interest in the problem and the deep dive he took resulted in a startup called Boltay Huroof.In a wi..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-prize-winner-govtech-hackathon-boltay-huroof.jpg"
 group: "all"
 sortOrder: 19
 designation: ""

@@ -2,7 +2,7 @@
 title: "Get Ready for Peshawar Civic Hackathon"
 slug: "get-ready-for-peshawar-civic-hackathon"
 summary: "The Peshawar Civic Hackathon starts Friday, January 31. After the wonderful success of the Lahore Civic Hackathon , we’re ready for an exciting weekend in Peshawar. In a matter of 3 days, we’ll discover what the tech-..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-get-ready-for-peshawar-civic-hackathon.jpg"
 group: "all"
 sortOrder: 21
 designation: ""

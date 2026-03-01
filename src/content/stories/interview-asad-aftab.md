@@ -2,7 +2,7 @@
 title: "Interview with Asad Aftab"
 slug: "interview-asad-aftab"
 summary: "Tell us a bit about yourself. Hello! I am Asad Aftab from the best guava producing city of Pakistan Kohat. I am a Computer Systems Engineer from UET Peshawar. Presently, I am pursuing an MS Degree in Electrical Engine..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-interview-asad-aftab.jpg"
 group: "all"
 sortOrder: 26
 designation: ""

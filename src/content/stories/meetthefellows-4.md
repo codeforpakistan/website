@@ -2,7 +2,7 @@
 title: "Meet the Fellows | 4th Edition"
 slug: "meetthefellows#4"
 summary: "Welcome to \"A Generation of Doers,\" 4th Edition , a series highlighting the work of  Khyber Pakhtunkhwa (KP) Government Innovation Fellows who are developing technology-driven solutions for public service challenges...."
-image: "/img/home_banner.jpg"
+image: "/media/stories-meetthefellows-4.jpg"
 group: "all"
 sortOrder: 37
 designation: ""

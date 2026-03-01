@@ -13,7 +13,7 @@ const collectionModels = {
   reports: 'core.report',
 };
 
-const fallbackImage = '/img/home_banner.jpg';
+const fallbackImage = '/img/cfp_logomark.png';
 
 function normalizeImage(raw) {
   const value = String(raw ?? '').trim();

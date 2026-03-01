@@ -2,7 +2,7 @@
 title: "Peshawar Civic Hackathon 2014"
 slug: "peshawar-civic-hackathon-2014"
 summary: "The Peshawar Civic Hackathon concluded on Sunday Feb 2nd with some very impressive solutions to civic problems. All the projects were truly innovative and the effort put into them over the weekend was outstanding. The..."
-image: "/img/home_banner.jpg"
+image: "/media/events-peshawar-civic-hackathon-2014.jpg"
 group: "all"
 sortOrder: 16
 designation: ""

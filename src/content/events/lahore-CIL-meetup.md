@@ -2,7 +2,7 @@
 title: "Lahore CIL Meetup"
 slug: "lahore-CIL-meetup"
 summary: "At the end of the Lahore Civic Hackathon, we had invited all participants to join the Lahore Brigade, so that we could continue civic hacking as a group, beyond the hackathon. The Lahore Brigade is open to anyone who..."
-image: "/img/home_banner.jpg"
+image: "/media/events-lahore-CIL-meetup.jpg"
 group: "all"
 sortOrder: 9
 designation: ""

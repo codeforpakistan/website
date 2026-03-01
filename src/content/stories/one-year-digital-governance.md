@@ -2,7 +2,7 @@
 title: "One Year of Digital Governance"
 slug: "one-year-digital-governance"
 summary: "In August 2023, the  Gilgit-Baltistan Performance Management & Reforms Unit (GB PMRU) and Code for Pakistan (CfP) launched the  Gilgit-Baltistan Government Innovation Fellowship Program , embedding technologists withi..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-one-year-digital-governance.jpg"
 group: "all"
 sortOrder: 47
 designation: ""

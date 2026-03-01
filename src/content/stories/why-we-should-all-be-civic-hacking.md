@@ -2,7 +2,7 @@
 title: "Why should we all be civic hacking?"
 slug: "why-we-should-all-be-civic-hacking"
 summary: "Think about your last time stuck in traffic — or at NADRA getting your National ID Card renewed… Ever had to go to the police station? Visited a ghost government school? What about spending untold hours with no electr..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-why-we-should-all-be-civic-hacking.jpg"
 group: "all"
 sortOrder: 73
 designation: ""

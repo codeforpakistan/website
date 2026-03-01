@@ -2,7 +2,7 @@
 title: "Pakistan’s Water Crisis Needs Data"
 slug: "pakistans-water-crisis-needs-data"
 summary: "Water is Pakistan’s most valuable resource, yet more than  60% of irrigation water is lost before reaching crops. In a country where over  93% of available water is used in agriculture, this isn’t just inefficiency—it..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-pakistans-water-crisis-needs-data.jpg"
 group: "all"
 sortOrder: 50
 designation: ""

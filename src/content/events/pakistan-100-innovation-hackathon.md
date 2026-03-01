@@ -2,7 +2,7 @@
 title: "Pakistan @100 Innovation Hackathon"
 slug: "pakistan-100-innovation-hackathon"
 summary: "The World Bank partnered with CfP for the Pakistan @100 Hackathon in Islamabad, Feb 1-2, 2019, to imagine innovative and forward-thinking solutions to Pakistan’s social development challenges. The seven thematic areas..."
-image: "/img/home_banner.jpg"
+image: "/media/events-pakistan-100-innovation-hackathon.jpg"
 group: "all"
 sortOrder: 15
 designation: ""

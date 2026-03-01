@@ -2,7 +2,7 @@
 title: "Jazz SDG Hackathon 2018"
 slug: "civic-hackathon-2018"
 summary: "From December 7 to 9, the National Incubation Center (NIC) Islamabad hosted the Jazz SDG Hackathon 2018, organized by Jazz (VEON Group) in partnership with Code for Pakistan. The two-and-a-half-day civic tech event br..."
-image: "/img/home_banner.jpg"
+image: "/media/events-civic-hackathon-2018.jpg"
 group: "all"
 sortOrder: 7
 designation: ""

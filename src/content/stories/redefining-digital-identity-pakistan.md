@@ -2,7 +2,7 @@
 title: "Pehchan"
 slug: "redefining-digital-identity-pakistan"
 summary: "Imagine life without your national identity card—a single document that enables everything from opening a bank account to registering a SIM card. It is more than just an ID; it is a gateway to trust and services, a sy..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-redefining-digital-identity-pakistan.JPG"
 group: "all"
 sortOrder: 51
 designation: ""

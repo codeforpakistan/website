@@ -2,7 +2,7 @@
 title: "Meet the Fellows | Third Edition"
 slug: "generation-creators-makers-doers-third-edition"
 summary: "Welcome to the third edition of  A Generation of Doers , where we spotlight the changemakers shaping Khyber Pakhtunkhwa (KP) through the  KP Government Innovation Fellowship Program . Since 2014, Code for Pakistan and..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-generation-creators-makers-doers-third-edition.jpg"
 group: "all"
 sortOrder: 41
 designation: ""

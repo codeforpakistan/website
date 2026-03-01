@@ -2,7 +2,7 @@
 title: "Karachi Civic Hackathon 2013"
 slug: "karachi-civic-hackathon-2013"
 summary: "Pakistan's first ever Civic Hackathon was organized in Karachi in April 2013 with the awesome help of T2F, P@SHA, and Pring, and the turnout, interest, and energy were unexpectedly high. Our goal was to test the hypot..."
-image: "/img/home_banner.jpg"
+image: "/media/events-karachi-civic-hackathon-2013.jpeg"
 group: "all"
 sortOrder: 8
 designation: ""

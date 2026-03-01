@@ -2,7 +2,7 @@
 title: "Breaking Barriers"
 slug: "tabindas-story"
 summary: "In Bannu, a small city in southern Khyber Pakhtunkhwa (KP), internet access didn’t always work. Opportunities for women, especially in technology, were even less reliable. Growing up, Tabinda Qudrat seldom saw women w..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-tabindas-story.jpg"
 group: "all"
 sortOrder: 8
 designation: ""

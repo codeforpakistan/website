@@ -2,7 +2,7 @@
 title: "A Journey Towards the Extraordinary"
 slug: "hajra-asad-follow-her-dreams"
 summary: "Hajira grew up in Charsadda with wealth and privilege but always had the acute sense that something was missing. From a young age, Hajira was precocious. She spent hours wondering about the complexities of life, and t..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-hajra-asad-follow-her-dreams.jpg"
 group: "all"
 sortOrder: 4
 designation: ""

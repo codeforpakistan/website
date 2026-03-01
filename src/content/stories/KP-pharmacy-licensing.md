@@ -2,7 +2,7 @@
 title: "KP Pharmacy Licensing"
 slug: "KP-pharmacy-licensing"
 summary: "For years, Pakistan’s pharmaceutical sector operated with limited oversight, creating dangerous gaps in public health. In Khyber Pakhtunkhwa (KP), counterfeit and expired medicines flooded the market. Without a reliab..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-KP-pharmacy-licensing.jpg"
 group: "all"
 sortOrder: 29
 designation: ""

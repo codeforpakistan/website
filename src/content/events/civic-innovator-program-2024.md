@@ -2,7 +2,7 @@
 title: "Launching the Civic Innovator Program"
 slug: "civic-innovator-program-2024"
 summary: "On November 18, 2024, Code for Pakistan (CfP) marked an important milestone in addressing civic challenges with the launch of the  Civic Innovator Program . This initiative brings together government, academia, and in..."
-image: "/img/home_banner.jpg"
+image: "/media/events-civic-innovator-program-2024.jpg"
 group: "all"
 sortOrder: 12
 designation: ""

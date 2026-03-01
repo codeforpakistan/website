@@ -2,7 +2,7 @@
 title: "Equity, Inclusion, and Diversity in Civic Tech"
 slug: "equity-inclusion-diversity-civic-tech"
 summary: "Code for All  recently published  ‘State of Equity, Inclusion, and Diversity in Civic Tech Organizations’  report, which coincided with  Samina Rizwan ’s (Country Head — Code for Pakistan) keynote session on  ‘Innovat..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-equity-inclusion-diversity-civic-tech.jpg"
 group: "all"
 sortOrder: 17
 designation: ""

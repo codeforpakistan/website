@@ -2,7 +2,7 @@
 title: "Open Source Day for Women"
 slug: "open-source-day-for-women"
 summary: "Why we organized an Open Source Day for Women (OSDW) Code for Pakistan recently hosted Open Source day For Women at the Habib University campus in Karachi. It was a day-long workshop aimed at increasing women's partic..."
-image: "/img/home_banner.jpg"
+image: "/media/events-open-source-day-for-women.jpg"
 group: "all"
 sortOrder: 14
 designation: ""

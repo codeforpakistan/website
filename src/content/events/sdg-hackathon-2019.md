@@ -2,7 +2,7 @@
 title: "SDG Hackathon 2019"
 slug: "sdg-hackathon-2019"
 summary: "ISLAMABAD - Dr Sania Nishtar, Special Assistant to the Prime Minister on Social Protection and Poverty Alleviation, was the Chief Guest at the concluding Award Ceremony here on Sunday, 8 December, for the SDG Hackatho..."
-image: "/img/home_banner.jpg"
+image: "/media/events-sdg-hackathon-2019.jpg"
 group: "all"
 sortOrder: 19
 designation: ""

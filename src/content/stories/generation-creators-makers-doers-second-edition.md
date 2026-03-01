@@ -2,7 +2,7 @@
 title: "Meet the Fellows | Second Edition"
 slug: "generation-creators-makers-doers-second-edition"
 summary: "Welcome to the second edition of \" A Generation of Doers ,\" where we spotlight the change-makers shaping Khyber Pakhtunkhwa (KP) through the KP Government Innovation Fellowship . Since 2014, Code for Pakistan and the..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-generation-creators-makers-doers-second-edition.jpg"
 group: "all"
 sortOrder: 40
 designation: ""

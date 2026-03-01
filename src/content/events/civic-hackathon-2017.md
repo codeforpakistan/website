@@ -2,7 +2,7 @@
 title: "SDG Hackathon 2017"
 slug: "civic-hackathon-2017"
 summary: "Held on August 19–20 at the National Incubation Center, Islamabad, the SDG Hackathon 2017 marked a historic moment as Pakistan’s first civic hackathon focused entirely on the UN Sustainable Development Goals (SDGs) ...."
-image: "/img/home_banner.jpg"
+image: "/media/events-civic-hackathon-2017.jpg"
 group: "all"
 sortOrder: 18
 designation: ""

@@ -2,7 +2,7 @@
 title: "Open Source Day for Women"
 slug: "open-source-day-for-women"
 summary: "Code for Pakistan recently hosted Open Source day For Women at the Habib University campus in Karachi. It was a day-long workshop aimed at increasing women's participation in the open source community. The open source..."
-image: "/img/home_banner.jpg"
+image: "/media/stories-open-source-day-for-women.jpg"
 group: "all"
 sortOrder: 49
 designation: ""
