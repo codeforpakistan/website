@@ -28,7 +28,7 @@ const sortedProjects = [...projects].sort((a, b) => {
               href={`/projects/${project.slug}`}
               image={project.data.image}
               title={project.data.title}
-              summary={project.data.summary}
+              tagline={[project.data.department, project.data.year].filter(Boolean).join(' · ')}
             />
           ))}
         </CardGrid>

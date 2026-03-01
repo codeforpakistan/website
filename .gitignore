@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # firebase local cache
 .firebase/
+
+# firebase service account keys
+*-firebase-adminsdk-*.json

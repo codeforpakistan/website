@@ -4,7 +4,9 @@ import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
   const reports = await getCollection('reports');
-  return reports.map((report) => ({
+  return reports
+    .filter((report) => report.slug !== '2024')
+    .map((report) => ({
     params: { slug: report.slug },
     props: { report },
   }));
@@ -23,7 +25,7 @@ const { Content } = await report.render();
     <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
       <div class="flex-grow max-w-5xl">
         <section>
-          <img src={report.data.image} alt={report.data.title} class="w-full rounded-lg mb-8" />
+          <img src={report.data.image} alt={report.data.title} class="w-full h-auto rounded-lg mb-8 aspect-video" />
           <div class="rich-text-content">
             <Content />
           </div>
@@ -32,9 +34,11 @@ const { Content } = await report.render();
       {report.data.attachment && (
         <div class="md:sticky md:top-24 md:self-start md:w-80 lg:w-96">
           <aside>
-            <div class="bg-gray-100 p-6 rounded-lg">
-              <h3 class="text-lg font-bold mb-3">Report Document</h3>
-              <a href={report.data.attachment} class="text-sky-700 hover:underline" target="_blank" rel="noopener noreferrer">View attached report document</a>
+            <div class="bggray-100 p-6 rounded-lg">
+              <h3 class="text-lg font-bold mb-3">Download Report</h3>
+              <a href={report.data.attachment} class="block w-full" target="_blank" rel="noopener noreferrer" aria-label="View attached report document">
+                <img src="/img/download.svg" alt="PDF Icon" class="w-1/2 h-auto" />
+              </a>
             </div>
           </aside>
         </div>

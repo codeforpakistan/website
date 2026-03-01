@@ -1,8 +1,9 @@
 ---
 title: "PSRA Complaint App"
 slug: "psra-complaint-app"
-summary: "Private Schools Regulatory Authority"
 image: "/media/project-psra-complaint-app.jpg"
+department: "Private Schools Regulatory Authority"
+year: ""
 sortOrder: 38
 ---
 

@@ -1,10 +1,12 @@
 ---
 title: "Complaints Redressal System"
 slug: "complaints-redressal"
-summary: "Complaints Redressal System for Public Safety and Police Complaints Commission"
 image: "/media/project-complaints-redressal.jpg"
+department: "Public Safety & Police Complaints Commission"
+year: ""
 sortOrder: 3
 ---
+
 The Provincial Public Safety &amp; Police Complaints Commission was established on 26th August, 2003. The mandate of the commission includes:
 
 * Making recommendations to the Government for promoting integrity, efficiency and effectiveness of Police

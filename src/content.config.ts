@@ -40,8 +40,18 @@ const eventSchema = z.object({
 
 const projectSchema = z.object({
   title: z.string(),
-  summary: z.string().optional().default(''),
   image: z.string().optional().default('/img/cfp_logomark.png'),
+  department: z.string().optional().default(''),
+  year: z.preprocess((value) => {
+    if (value === undefined || value === null) return undefined;
+    if (typeof value === 'string') {
+      const trimmed = value.trim();
+      if (!trimmed) return undefined;
+      const asNumber = Number(trimmed);
+      return Number.isNaN(asNumber) ? value : asNumber;
+    }
+    return value;
+  }, z.number().int().optional()),
   sortOrder: z.number().optional().default(0),
 });
 
