@@ -1,5 +1,18 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+import PeopleCard from '../../components/cards/PeopleCard.astro';
+import CardGrid from '../../components/sections/CardGrid.astro';
+
+const people = await getCollection('people');
+
+const randomPeople = [...people];
+for (let index = randomPeople.length - 1; index > 0; index -= 1) {
+  const swapIndex = Math.floor(Math.random() * (index + 1));
+  [randomPeople[index], randomPeople[swapIndex]] = [randomPeople[swapIndex], randomPeople[index]];
+}
+
+const featuredPeople = randomPeople.slice(0, 4);
 ---
 
 <MainLayout title="About Us">
@@ -124,13 +137,20 @@ import MainLayout from '../../layouts/MainLayout.astro';
         <a href="/about/people">Our Team</a>
       </h3>
 
-      <div class="grid grid-cols-2 md:grid-cols-4 gap-6 mb-6">
-         
-        <!-- include components/person_card.html removed --> 
-        
-        <p class="col-span-4 text-gray-500">No team members to display.</p>
-        
-      </div>
+      {featuredPeople.length > 0 ? (
+        <CardGrid gridClass="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
+          {featuredPeople.map((person) => (
+            <PeopleCard
+              href={`/about/people/${person.slug}`}
+              image={person.data.image}
+              title={person.data.title}
+              designation={person.data.designation}
+            />
+          ))}
+        </CardGrid>
+      ) : (
+        <p class="text-gray-500">No team members to display.</p>
+      )}
     </section>
 
     <!-- Call to Action -->
