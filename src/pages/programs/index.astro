@@ -1,19 +1,61 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import CardSection from '../../components/sections/CardSection.astro';
+import CardGrid from '../../components/sections/CardGrid.astro';
+import ProjectCard from '../../components/cards/ProjectCard.astro';
+
+const programs = [
+  {
+    href: '/programs/services',
+    title: 'Digital Solutions and Services',
+    tagline:
+      'Working with public sector organizations to design, prototype, and build better services',
+    image: 'https://codeforpakistan.org/web/sites/default/files/styles/max_650x650/public/2024-03/fellowships.jpg?itok=6Nw-QuIm',
+  },
+  {
+    href: '/programs/fellowships',
+    title: 'Government Fellowships',
+    tagline:
+      'Connecting technology professionals with government to improve public services',
+    image: 'https://codeforpakistan.org/web/sites/default/files/styles/max_650x650/public/2024-01/IMG_0239.jpg?itok=kImgops6',
+  },
+  {
+    href: '/programs/internships',
+    title: 'Women Internships',
+    tagline: 'Training and up-skilling women from under-represented communities',
+    image: 'https://codeforpakistan.org/web/sites/default/files/styles/max_650x650/public/2025-02/FAD03135.jpg?itok=BOMAJb3B',
+  },
+  {
+    href: '/programs/innovator',
+    title: 'Civic Innovator',
+    tagline:
+      'Engaging Youth to Improve Public Services and Driving Citizen-Centric Innovation',
+    image: 'https://codeforpakistan.org/web/sites/default/files/styles/max_650x650/public/2024-01/511a539aab4316abcd5453e11b0b49ea.jpg?itok=61J5Fg0r',
+  },
+];
 ---
 
 <MainLayout title="Programs">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Our Programs</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Explore the programs and initiatives we offer.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-        <section>
-</section>
-      </div>
-
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Programs</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">
+        Helping communities work together to find new ways of solving old problems
+      </h2>
+    </div>
+    <div class="max-w-5xl">
+      <CardSection>
+        <CardGrid>
+          {programs.map((program) => (
+            <ProjectCard
+              href={program.href}
+              image={program.image}
+              title={program.title}
+              tagline={program.tagline}
+            />
+          ))}
+        </CardGrid>
+      </CardSection>
     </div>
   </div>
 </MainLayout>
