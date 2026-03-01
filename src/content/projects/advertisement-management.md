@@ -1,7 +1,7 @@
 ---
 title: "Integrated Advertisement Management System (IAMS)"
 slug: "advertisement-management"
-image: "/media/project-advertisement-management.png"
+image: "/media/project-advertisement-management.jpg"
 department: "Information Department"
 year: ""
 sortOrder: 19

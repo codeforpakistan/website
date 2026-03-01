@@ -5,12 +5,25 @@ import '../styles/global.css';
 
 interface Props {
   title?: string;
+  description?: string;
+  image?: string;
+  canonical?: string;
+  noindex?: boolean;
 }
 
 const siteTitle = 'Code for Pakistan';
-const { title } = Astro.props;
+const siteUrl = 'https://www.codeforpakistan.org';
+const defaultDescription = 'Code for Pakistan builds civic technology and collaborates with communities to improve public services.';
+const defaultImage = '/favicon.ico';
+
+const { title, description, image, canonical, noindex } = Astro.props;
 const pageTitle = title?.trim() ?? '';
 const resolvedTitle = pageTitle ? `${pageTitle} | ${siteTitle}` : siteTitle;
+const resolvedDescription = description?.trim() || defaultDescription;
+const imagePath = image || defaultImage;
+const resolvedImage = imagePath.startsWith('http') ? imagePath : new URL(imagePath, siteUrl).toString();
+const canonicalPath = canonical || Astro.url.pathname;
+const resolvedCanonical = canonicalPath.startsWith('http') ? canonicalPath : new URL(canonicalPath, siteUrl).toString();
 ---
 
 <!doctype html>
@@ -20,6 +33,21 @@ const resolvedTitle = pageTitle ? `${pageTitle} | ${siteTitle}` : siteTitle;
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={resolvedDescription} />
+    <link rel="canonical" href={resolvedCanonical} />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={siteTitle} />
+    <meta property="og:title" content={resolvedTitle} />
+    <meta property="og:description" content={resolvedDescription} />
+    <meta property="og:url" content={resolvedCanonical} />
+    <meta property="og:image" content={resolvedImage} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={resolvedTitle} />
+    <meta name="twitter:description" content={resolvedDescription} />
+    <meta name="twitter:image" content={resolvedImage} />
     <title>{resolvedTitle}</title>
   </head>
   <body class="min-h-screen flex flex-col overflow-x-hidden bg-gray-50 text-gray-900">

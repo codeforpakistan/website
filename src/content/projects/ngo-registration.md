@@ -1,7 +1,7 @@
 ---
 title: "NGOs Online Registration System"
 slug: "ngo-registration"
-image: "/media/project-ngo-registration.png"
+image: "/media/project-ngo-registration.jpg"
 department: "Social Welfare Department"
 year: ""
 sortOrder: 33

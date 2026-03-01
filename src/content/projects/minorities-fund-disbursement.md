@@ -1,7 +1,7 @@
 ---
 title: "Minorities Fund Disbursement"
 slug: "minorities-fund-disbursement"
-image: "/media/projects-minorities-fund-disbursement.png"
+image: "/media/projects-minorities-fund-disbursement.jpg"
 department: "Auqaf, Hajj, Minorities & Religious Affairs Department"
 year: ""
 sortOrder: 29

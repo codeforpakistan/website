@@ -5,7 +5,7 @@ summary: "What we accomplished in 2019, and what’s next"
 image: "/media/report-impact-report-2019.jpg"
 sortOrder: 1
 createdAt: "2021-01-19T16:52:11"
-attachment: "/media/report-impact-report-2019.pdf"
+attachment: "https://drive.google.com/file/d/1nyGlUqoRXZMt9XnUyEztlW9knFGdfHRB/view"
 ---
 
 Our vision at Code for Pakistan has been the same since our founding — that everyone in Pakistan has access to inclusive, equitable, and responsive digital public services.

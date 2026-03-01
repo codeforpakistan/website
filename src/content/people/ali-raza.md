@@ -1,7 +1,7 @@
 ---
 title: "Ali Raza"
 slug: "ali-raza"
-image: "/media/ali%2520profile.png"
+image: "/media/ali%2520profile.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 2

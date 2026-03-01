@@ -1,7 +1,7 @@
 ---
 title: "E-Abyana Water Billing System"
 slug: "e-abyana"
-image: "/media/projects-e-abyana.png"
+image: "/media/projects-e-abyana.jpg"
 department: "Agriculture Department"
 year: ""
 sortOrder: 9

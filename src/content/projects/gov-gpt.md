@@ -1,7 +1,7 @@
 ---
 title: "GovGPT: Instant, Verified Government Information Through AI"
 slug: "gov-gpt"
-image: "/media/project-gov-gpt.png"
+image: "/media/project-gov-gpt.jpg"
 department: "KP IT Board"
 year: ""
 sortOrder: 17

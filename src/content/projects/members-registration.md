@@ -1,7 +1,7 @@
 ---
 title: "Members Registration System"
 slug: "members-registration"
-image: "/media/projects-members-registration.png"
+image: "/media/projects-members-registration.jpg"
 department: "Directorate General of Sports"
 year: ""
 sortOrder: 27

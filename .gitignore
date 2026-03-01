@@ -28,3 +28,6 @@ pnpm-debug.log*
 
 # firebase service account keys
 *-firebase-adminsdk-*.json
+
+# report pdfs are hosted in Firebase Storage (not in git)
+public/media/report-*.pdf
