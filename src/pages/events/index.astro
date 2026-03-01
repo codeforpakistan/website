@@ -2,78 +2,49 @@
 import MainLayout from '../../layouts/MainLayout.astro';
 import { getCollection } from 'astro:content';
 import EventCard from '../../components/cards/EventCard.astro';
-import FeaturedEventCard from '../../components/cards/FeaturedEventCard.astro';
-import CardSection from '../../components/sections/CardSection.astro';
 import CardGrid from '../../components/sections/CardGrid.astro';
 
 const events = await getCollection('events');
+
+function toTime(value?: string) {
+  if (!value) return 0;
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+}
+
 const sortedEvents = [...events].sort((a, b) => {
-  const orderA = a.data.sortOrder ?? 0;
-  const orderB = b.data.sortOrder ?? 0;
-  if (orderA !== orderB) return orderA - orderB;
+  const startA = toTime(a.data.startDate);
+  const startB = toTime(b.data.startDate);
+  if (startA !== startB) return startB - startA;
   return a.data.title.localeCompare(b.data.title);
 });
-
-const groupedEvents = sortedEvents.reduce((acc, event) => {
-  const key = (event.data.group || 'all').trim() || 'all';
-  if (!acc[key]) acc[key] = [];
-  acc[key].push(event);
-  return acc;
-}, {} as Record<string, typeof sortedEvents>);
-
-const groupNames = Object.keys(groupedEvents).sort((a, b) => a.localeCompare(b));
 ---
 
 <MainLayout title="Events">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Events</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Join us for hackathons, workshops, and community gatherings.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-    <section class="section">
-        <h3 class="heading">Events</h3>
-        {sortedEvents.length > 0 ? (
-          groupNames.map((group) => (
-            <CardSection
-              title={groupNames.length > 1 ? group : ''}
-              titleClass="text-2xl tracking-tight mb-4 capitalize"
-            >
-              <CardGrid>
-                {groupedEvents[group].map((event) => (
-                  <EventCard
-                    href={`/events/${event.slug}`}
-                    image={event.data.image}
-                    title={event.data.title}
-                    location={event.data.location}
-                    summary={event.data.summary}
-                  />
-                ))}
-              </CardGrid>
-            </CardSection>
-          ))
-        ) : (
-          <div class="col-span-full text-center py-12">
-            <p class="text-gray-500 text-lg">No events at this time.</p>
-          </div>
-        )}
-    </section>
-      </div>
-      <div class="md:sticky md:top-24 md:self-start md:w-80 lg:w-96">
-        <aside>
-    <h3 class="heading mb-4">Featured Events</h3>
-    <div class="space-y-4">
-        {sortedEvents.slice(0, 5).map((event) => (
-          <FeaturedEventCard
-            href={`/events/${event.slug}`}
-            title={event.data.title}
-            location={event.data.location}
-          />
-        ))}
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Events</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">Join us for hackathons, workshops, and community gatherings.</h2>
     </div>
-</aside>
-      </div>
+    <div class="max-w-5xl">
+      {sortedEvents.length > 0 ? (
+        <CardGrid>
+          {sortedEvents.map((event) => (
+            <EventCard
+              href={`/events/${event.slug}`}
+              image={event.data.image}
+              title={event.data.title}
+              location={event.data.location}
+              date={event.data.startDate || event.data.endDate}
+              summary={event.data.summary}
+            />
+          ))}
+        </CardGrid>
+      ) : (
+        <div class="col-span-full text-center py-12">
+          <p class="text-gray-500 text-lg">No events at this time.</p>
+        </div>
+      )}
     </div>
   </div>
 </MainLayout>

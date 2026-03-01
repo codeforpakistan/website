@@ -3,10 +3,17 @@ import MainLayout from '../../../layouts/MainLayout.astro';
 import { getCollection } from 'astro:content';
 
 const events = await getCollection('events');
+
+function toTime(value?: string) {
+  if (!value) return 0;
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+}
+
 const eventsList = [...events].sort((a, b) => {
-  const orderA = a.data.sortOrder ?? 0;
-  const orderB = b.data.sortOrder ?? 0;
-  if (orderA !== orderB) return orderA - orderB;
+  const startA = toTime(a.data.startDate);
+  const startB = toTime(b.data.startDate);
+  if (startA !== startB) return startB - startA;
   return a.data.title.localeCompare(b.data.title);
 });
 ---
@@ -17,7 +24,7 @@ const eventsList = [...events].sort((a, b) => {
     {eventsList.map((event) => (
       <a href={`/events/${event.slug}`} class="block bg-white border rounded-lg p-5 hover:shadow-sm">
         <h2 class="text-xl font-semibold mb-1">{event.data.title}</h2>
-        <p class="text-sm text-gray-500 mb-1">{event.data.location}</p>
+        <p class="text-sm text-gray-500 mb-1">{[event.data.location, event.data.startDate || event.data.endDate].filter(Boolean).join(' · ')}</p>
         <p class="text-gray-700">{event.data.summary}</p>
       </a>
     ))}

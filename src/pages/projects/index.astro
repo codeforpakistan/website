@@ -16,32 +16,23 @@ const sortedProjects = [...projects].sort((a, b) => {
 
 <MainLayout title="Projects">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Projects</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Explore our civic tech projects and open-source initiatives.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-        <p class="text-gray-700 mb-8 leading-relaxed">
-We build technology solutions that address real challenges facing Pakistan's communities.
-</p>
-
-<CardSection>
-  <CardGrid gridClass="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8">
-    {sortedProjects.map((project) => (
-      <ProjectCard
-        href={`/projects/${project.slug}`}
-        image={project.data.image}
-        title={project.data.title}
-        summary={project.data.summary}
-      />
-    ))}
-  </CardGrid>
-</CardSection>
-
-
-      </div>
-
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Projects</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">Explore our civic tech projects and open-source initiatives.</h2>
+    </div>
+    <div class="max-w-5xl">
+      <CardSection>
+        <CardGrid gridClass="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-8">
+          {sortedProjects.map((project) => (
+            <ProjectCard
+              href={`/projects/${project.slug}`}
+              image={project.data.image}
+              title={project.data.title}
+              summary={project.data.summary}
+            />
+          ))}
+        </CardGrid>
+      </CardSection>
     </div>
   </div>
 </MainLayout>

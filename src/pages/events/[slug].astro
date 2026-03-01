@@ -12,18 +12,35 @@ export async function getStaticPaths() {
 
 const { event } = Astro.props;
 const { Content } = await event.render();
+
+const rawDate = (event.data.startDate || event.data.endDate || '').trim();
+
+function formatEventDate(value: string) {
+    if (!value) return '';
+    const parsed = new Date(value);
+    if (Number.isNaN(parsed.getTime())) return value;
+    return parsed.toLocaleDateString('en-US', {
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric',
+    });
+}
+
+const eventDate = formatEventDate(rawDate);
+const taglineParts = [event.data.location?.trim(), eventDate].filter(Boolean);
+const eventTagline = taglineParts.join(' · ');
 ---
 
 <MainLayout title={`${event.data.title}`}>
     <div class="py-8">
         <div class="mb-6 space-y-2">
             <h1 class="text-3xl md:text-6xl tracking-tight">{event.data.title}</h1>
-            <h2 class="text-lg md:text-3xl font-light text-gray-700">{event.data.location}</h2>
+            {eventTagline && <h2 class="text-lg md:text-3xl font-light text-gray-700">{eventTagline}</h2>}
         </div>
         <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
             <div class="flex-grow max-w-5xl">
                 <section>
-                    <img src={event.data.image} alt={event.data.title} class="w-full max-w-3xl mx-auto mb-8" />
+                    <img src={event.data.image} alt={event.data.title} class="w-full rounded-lg mb-8" />
                     <div class="rich-text-content">
                         <Content />
                     </div>

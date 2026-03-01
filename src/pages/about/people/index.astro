@@ -43,37 +43,34 @@ const groupMeta: Array<{ key: GroupKey; title: string }> = [
 
 <MainLayout title="Our People">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Our People</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Meet the team behind Code for Pakistan.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-        <div class="w-full mb-8">
-    <img src="/img/people_banner.jpg" alt="Our People" class="w-full h-auto rounded-lg">
-</div>
-<p class="text-gray-700 mb-8 leading-relaxed">
-Code for Pakistan is made up of people-centered problem solvers: technologists, storytellers, and organizers from many different backgrounds and communities around the country. We’re committed to building an organization that looks like the people we serve.
-</p>
-
-{groupMeta.map((group) => (
-  groupedPeople[group.key].length > 0 && (
-    <CardSection title={group.title}>
-      <CardGrid gridClass="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
-        {groupedPeople[group.key].map((person) => (
-          <PeopleCard
-            href={`/about/people/${person.slug}`}
-            image={person.data.image}
-            title={person.data.title}
-            designation={person.data.designation}
-          />
-        ))}
-      </CardGrid>
-    </CardSection>
-  )
-))}
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Our People</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">Meet the team behind Code for Pakistan.</h2>
+    </div>
+    <div class="max-w-5xl">
+      <div class="w-full mb-8">
+        <img src="/img/people_banner.jpg" alt="Our People" class="w-full h-auto rounded-lg" />
       </div>
+      <p class="text-gray-700 mb-8 leading-relaxed">
+        Code for Pakistan is made up of people-centered problem solvers: technologists, storytellers, and organizers from many different backgrounds and communities around the country. We’re committed to building an organization that looks like the people we serve.
+      </p>
 
+      {groupMeta.map((group) => (
+        groupedPeople[group.key].length > 0 && (
+          <CardSection title={group.title}>
+            <CardGrid gridClass="grid grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8">
+              {groupedPeople[group.key].map((person) => (
+                <PeopleCard
+                  href={`/about/people/${person.slug}`}
+                  image={person.data.image}
+                  title={person.data.title}
+                  designation={person.data.designation}
+                />
+              ))}
+            </CardGrid>
+          </CardSection>
+        )
+      ))}
     </div>
   </div>
 </MainLayout>

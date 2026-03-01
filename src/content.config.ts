@@ -28,6 +28,16 @@ const baseSchema = z.object({
   dueDate: z.string().optional().default(''),
 });
 
+const eventSchema = z.object({
+  title: z.string(),
+  summary: z.string().optional().default(''),
+  image: z.string().optional().default('/img/cfp_logomark.png'),
+  sortOrder: z.number().optional().default(0),
+  location: z.string().optional().default(''),
+  startDate: z.string().optional().default(''),
+  endDate: z.string().optional().default(''),
+});
+
 const projectSchema = z.object({
   title: z.string(),
   summary: z.string().optional().default(''),
@@ -47,7 +57,7 @@ const reportSchema = z.object({
 const people = defineCollection({ schema: peopleSchema });
 const projects = defineCollection({ schema: projectSchema });
 const stories = defineCollection({ schema: baseSchema });
-const events = defineCollection({ schema: baseSchema });
+const events = defineCollection({ schema: eventSchema });
 const reports = defineCollection({ schema: reportSchema });
 const jobs = defineCollection({ schema: baseSchema });
 

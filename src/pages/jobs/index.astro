@@ -15,15 +15,14 @@ const jobs = (await getCollection('jobs')).sort((a, b) => {
 
 <MainLayout title="Jobs">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Career Opportunities</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Join our team and help build technology for social good.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-        <div class="w-full mb-8">
-  <img src="/img/people_banner.jpg" alt="Career Opportunities" class="w-full h-auto rounded-lg">
-</div>
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Career Opportunities</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">Join our team and help build technology for social good.</h2>
+    </div>
+    <div class="max-w-5xl">
+      <div class="w-full mb-8">
+        <img src="/img/people_banner.jpg" alt="Career Opportunities" class="w-full h-auto rounded-lg" />
+      </div>
 
 <section class="section">
   <p class="lead">
@@ -121,8 +120,6 @@ const jobs = (await getCollection('jobs')).sort((a, b) => {
   ))}
 </CardGrid>
 </CardSection>
-      </div>
-
     </div>
   </div>
 </MainLayout>
