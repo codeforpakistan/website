@@ -1,10 +1,13 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
 import { getCollection } from 'astro:content';
+import { sortByDateDesc } from '../../utils/sortByDateDesc';
 
 export async function getStaticPaths() {
   const stories = await getCollection('stories');
-  return stories.map((story) => ({
+  const sortedStories = sortByDateDesc(stories);
+
+  return sortedStories.map((story) => ({
     params: { slug: story.slug },
     props: { story },
   }));

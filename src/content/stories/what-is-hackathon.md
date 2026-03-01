@@ -1,14 +1,83 @@
 ---
 title: "What is a Hackathon?"
 slug: "what-is-hackathon"
-summary: "Thank you for the overwhelming response on our GovTech Hackathon call for registration; over 1300 individuals from over 160 cities signed up for the event. Some of you have been part of our previous hackathons but for..."
+summary: "Learn the science behind 'hackathon' and how to become a part of it!"
 image: "/media/1_NvRxOzJ1IshgqQMlva1x3w.jpg"
-group: "all"
-sortOrder: 70
-designation: ""
-location: ""
-createdAt: ""
-startDate: ""
-dueDate: ""
+date: "2021-10-04"
 ---
-<p>Thank you for the overwhelming response on our GovTech Hackathon call for registration; over 1300 individuals from over 160 cities signed up for the event.</p><p>Some of you have been part of our previous hackathons but for most it will be their first hackathon experience.</p><p>There is curiosity among you to learn more. I know because I have been receiving questions about it in our inbox.</p><p>There is some mystery surrounding Hackathons. What are they? What happens during it? Is it only for tech geniuses?</p><p>Well, let me help clear up some misconceptions around Hackathons.</p><p><img class="img-fluid" src="/media/1_NvRxOzJ1IshgqQMlva1x3w.jpg" data-entity-uuid="8cd6eca1-a8ee-4c18-9878-e0701c5b8700" data-entity-type="file" width="1265" height="278"></p><h2>What is a hackathon?</h2><p>It is an intense event of collaborative ideation and technical creation over a few days. Basically, it is an event where members of a community get together to solve some problems. There are always different flavors and different focuses.</p><h2>Do I need to be a coder to participate in a hackathon?</h2><p>No! You need to team up with other brilliant minds to come up with a big idea (based on instructions provided at the start of the hackathon) and build it into an awesome product or prototype in an intense and short period of time.</p><p>Do you need a coder in your team? Yes. And you might need a developer, designer, marketing specialist, data scientist, and others as well.</p><h2>How do I build my team?</h2><p>If you are registering with an existing team made up of your peers from university or work, that’s great. You are ready to go!</p><p>If you are registering as an individual (and are panicking) — RELAX! We will help you find a team. It is common practice at hackathons to team up with other enthusiastic individuals who want to make a social impact with their skills, but don’t have a team yet. Even if you don’t know anyone, you’ll all be friends in no time.</p><h2>How do I win a hackathon?</h2><p>Wow! You’re catching on quickly. From not knowing what a hackathon is to keeping your eye on the prize, I sure do admire your competitive spirit!</p><p>Go read up on last year’s winning teams from our&nbsp;<a href="http://167.172.68.51/civic-hackathon-2020/">Civic Hackathon</a>&nbsp;co-produced with Telenor Velocity:</p><ul><li><a href="https://codeforpakistan.medium.com/how-biobeings-win-at-code-for-pakistan-s-hackathon-opened-more-doors-for-their-biodiesel-dream-9fbe1860396a"><strong>How BioBeing’s Win at Code for Pakistan’s Hackathon Opened More Doors for Their BioDiesel Dream</strong></a></li><li><a href="https://codeforpakistan.medium.com/how-two-rivals-formed-a-supergroup-to-win-code-for-pakistans-civic-hackathon-2020-caf9e7d691f7"><strong>How Two Rivals Formed a Supergroup to Win Code for Pakistan’s Civic Hackathon 2020</strong></a></li></ul><p>And if you want to know how Team Satisfire took home First Prize,&nbsp;<strong>sign up on our emailing list</strong>; we will share the winning formula with you ?</p><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-V_i6nDgl1_pYzo5Sur6Un3amo9EJ-6An3pxuRd_LPnYMlA/viewform">Sign Up NOW</a></p><h2>What is the outcome of a hackathon?</h2><p>The purpose of organizing hackathons is to come up with solutions for social issues that affect a large number of Pakistanis in a short amount of time. Sometimes outcomes are scalable; teams have gone on to become startups. Sometimes it gets the ball rolling by virtue of people starting to think about those problems and ways to solve it.</p><p>One outcome I can guarantee is that you will find Code for Pakistan’s hackathons to be a great learning opportunity. We have amazing mentors to guide you through the process. We also have great sessions lined up (on topics like, Critical Thinking, Design Thinking, and Product Management), as well as experienced industry experts as judges and mentors.</p><h2>Do I have freedom to come up with ideas?</h2><p>Every hackathon has a theme like our GovTech Hackathon is focused on issues related to education, health, environment, mobility, travel &amp; tourism, among others. As long as you are working on a kickass solution for a problem that affects a large number of people, you can come up with anything you want.</p><h2>What is the judging criteria?</h2><p><strong>Development</strong>: Was the project developed entirely during this hackathon?</p><p><strong>Relevance</strong>: Is the solution relevant to the problem and targeted theme?</p><p><strong>Innovation</strong>: Does the solution employ innovative use of technology?</p><p><strong>Effectiveness</strong>: How many relevant people will be affected by this solution?</p><p><strong>Sustainability</strong>: Does the team have a plan for sustainability of the project?</p><p><strong>Completeness</strong>: How functional and complete is the developed prototype?</p><p><strong>User Experience</strong>: How is the user experience and feel good factor?</p><p><em>Complete details will be shared with the participants.</em></p><h2>What’s the usual schedule of a hackathon?</h2><p>Every hackathon is different, but for our upcoming GovTech Hackathon, activities will start from Friday, October 8th, 2021 to October 10th, 2021. Complete breakdown of schedule will be communicated to registered participants only.</p><p>See you at our next hackathon ?</p><p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc-V_i6nDgl1_pYzo5Sur6Un3amo9EJ-6An3pxuRd_LPnYMlA/viewform">Join our emailing list</a></p>
+Thank you for the overwhelming response on our GovTech Hackathon call for registration; over 1300 individuals from over 160 cities signed up for the event.
+
+Some of you have been part of our previous hackathons but for most it will be their first hackathon experience.
+
+There is curiosity among you to learn more. I know because I have been receiving questions about it in our inbox.
+
+There is some mystery surrounding Hackathons. What are they? What happens during it? Is it only for tech geniuses?
+
+Well, let me help clear up some misconceptions around Hackathons.
+
+![](/media/1_NvRxOzJ1IshgqQMlva1x3w.jpg)
+
+## What is a hackathon?
+
+It is an intense event of collaborative ideation and technical creation over a few days. Basically, it is an event where members of a community get together to solve some problems. There are always different flavors and different focuses.
+
+## Do I need to be a coder to participate in a hackathon?
+
+No! You need to team up with other brilliant minds to come up with a big idea (based on instructions provided at the start of the hackathon) and build it into an awesome product or prototype in an intense and short period of time.
+
+Do you need a coder in your team? Yes. And you might need a developer, designer, marketing specialist, data scientist, and others as well.
+
+## How do I build my team?
+
+If you are registering with an existing team made up of your peers from university or work, that’s great. You are ready to go!
+
+If you are registering as an individual (and are panicking) — RELAX! We will help you find a team. It is common practice at hackathons to team up with other enthusiastic individuals who want to make a social impact with their skills, but don’t have a team yet. Even if you don’t know anyone, you’ll all be friends in no time.
+
+## How do I win a hackathon?
+
+Wow! You’re catching on quickly. From not knowing what a hackathon is to keeping your eye on the prize, I sure do admire your competitive spirit!
+
+Go read up on last year’s winning teams from our [Civic Hackathon](http://167.172.68.51/civic-hackathon-2020/) co-produced with Telenor Velocity:
+
+-   [**How BioBeing’s Win at Code for Pakistan’s Hackathon Opened More Doors for Their BioDiesel Dream**](https://codeforpakistan.medium.com/how-biobeings-win-at-code-for-pakistan-s-hackathon-opened-more-doors-for-their-biodiesel-dream-9fbe1860396a)
+-   [**How Two Rivals Formed a Supergroup to Win Code for Pakistan’s Civic Hackathon 2020**](https://codeforpakistan.medium.com/how-two-rivals-formed-a-supergroup-to-win-code-for-pakistans-civic-hackathon-2020-caf9e7d691f7)
+
+And if you want to know how Team Satisfire took home First Prize, **sign up on our emailing list**; we will share the winning formula with you ?
+
+[Sign Up NOW](https://docs.google.com/forms/d/e/1FAIpQLSc-V_i6nDgl1_pYzo5Sur6Un3amo9EJ-6An3pxuRd_LPnYMlA/viewform)
+
+## What is the outcome of a hackathon?
+
+The purpose of organizing hackathons is to come up with solutions for social issues that affect a large number of Pakistanis in a short amount of time. Sometimes outcomes are scalable; teams have gone on to become startups. Sometimes it gets the ball rolling by virtue of people starting to think about those problems and ways to solve it.
+
+One outcome I can guarantee is that you will find Code for Pakistan’s hackathons to be a great learning opportunity. We have amazing mentors to guide you through the process. We also have great sessions lined up (on topics like, Critical Thinking, Design Thinking, and Product Management), as well as experienced industry experts as judges and mentors.
+
+## Do I have freedom to come up with ideas?
+
+Every hackathon has a theme like our GovTech Hackathon is focused on issues related to education, health, environment, mobility, travel & tourism, among others. As long as you are working on a kickass solution for a problem that affects a large number of people, you can come up with anything you want.
+
+## What is the judging criteria?
+
+**Development**: Was the project developed entirely during this hackathon?
+
+**Relevance**: Is the solution relevant to the problem and targeted theme?
+
+**Innovation**: Does the solution employ innovative use of technology?
+
+**Effectiveness**: How many relevant people will be affected by this solution?
+
+**Sustainability**: Does the team have a plan for sustainability of the project?
+
+**Completeness**: How functional and complete is the developed prototype?
+
+**User Experience**: How is the user experience and feel good factor?
+
+_Complete details will be shared with the participants._
+
+## What’s the usual schedule of a hackathon?
+
+Every hackathon is different, but for our upcoming GovTech Hackathon, activities will start from Friday, October 8th, 2021 to October 10th, 2021. Complete breakdown of schedule will be communicated to registered participants only.
+
+See you at our next hackathon ?
+
+[Join our emailing list](https://docs.google.com/forms/d/e/1FAIpQLSc-V_i6nDgl1_pYzo5Sur6Un3amo9EJ-6An3pxuRd_LPnYMlA/viewform)

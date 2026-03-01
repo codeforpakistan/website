@@ -4,23 +4,10 @@ import { getCollection } from 'astro:content';
 import StoryCard from '../../components/cards/StoryCard.astro';
 import CardSection from '../../components/sections/CardSection.astro';
 import CardGrid from '../../components/sections/CardGrid.astro';
+import { sortByDateDesc } from '../../utils/sortByDateDesc';
 
 const stories = await getCollection('stories');
-const sortedStories = [...stories].sort((a, b) => {
-  const orderA = a.data.sortOrder ?? 0;
-  const orderB = b.data.sortOrder ?? 0;
-  if (orderA !== orderB) return orderA - orderB;
-  return a.data.title.localeCompare(b.data.title);
-});
-
-const groupedStories = sortedStories.reduce((acc, story) => {
-  const key = (story.data.group || 'all').trim() || 'all';
-  if (!acc[key]) acc[key] = [];
-  acc[key].push(story);
-  return acc;
-}, {} as Record<string, typeof sortedStories>);
-
-const groupNames = Object.keys(groupedStories).sort((a, b) => a.localeCompare(b));
+const sortedStories = sortByDateDesc(stories);
 ---
 
 <MainLayout title="Stories">
@@ -30,23 +17,19 @@ const groupNames = Object.keys(groupedStories).sort((a, b) => a.localeCompare(b)
       <h2 class="text-lg md:text-3xl font-light text-gray-700">Insights and learning from our work with governments and civil society organizations</h2>
     </div>
     <div class="max-w-5xl">
-      {groupNames.map((group) => (
-        <CardSection
-          title={groupNames.length > 1 ? group : ''}
-          titleClass="text-2xl md:text-3xl tracking-tight mb-4 capitalize"
-        >
-          <CardGrid>
-            {groupedStories[group].map((story) => (
-              <StoryCard
-                href={`/stories/${story.slug}`}
-                image={story.data.image}
-                title={story.data.title}
-                summary={story.data.summary}
-              />
-            ))}
-          </CardGrid>
-        </CardSection>
-      ))}
+      <CardSection>
+        <CardGrid>
+          {sortedStories.map((story) => (
+            <StoryCard
+              href={`/stories/${story.slug}`}
+              image={story.data.image}
+              title={story.data.title}
+              summary={story.data.summary}
+              date={story.data.date}
+            />
+          ))}
+        </CardGrid>
+      </CardSection>
     </div>
   </div>
 </MainLayout>

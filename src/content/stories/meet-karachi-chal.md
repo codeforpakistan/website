@@ -1,14 +1,42 @@
 ---
 title: "Meet Karachi Chal"
 slug: "meet-karachi-chal"
-summary: "Sometimes, the best ideas emerge when you need an escape.  After a rough month, I flew to Karachi as a mentor for the Build with AI Hackathon hosted by GDG Kolachi at Geeks of Kolachi. To be honest, more than mentorin..."
+summary: "AI itinerary planner that understands Karachi’s vibrant pulse"
 image: "/media/karachi.jpg"
-group: "all"
-sortOrder: 36
-designation: ""
-location: ""
-createdAt: ""
-startDate: ""
-dueDate: ""
+date: "2024-05-07"
 ---
-<p dir="ltr">Sometimes, the best ideas emerge when you need an escape.&nbsp; After a rough month, I flew to Karachi as a mentor for the Build with AI Hackathon hosted by GDG Kolachi at Geeks of Kolachi. To be honest, more than mentoring, I needed a breather at that point.</p><p dir="ltr">Just as we were descending, I peeked out from the window. A sprawling city stretched beneath me—a megacity teeming with life and stories begging to be explored. I'm not a massive planner by nature, but suddenly, it hit me: What if there was a better way to navigate the City of Lights? To find the best biryani in town? Or the ideal spot for ‘kebabs’ on Burns Road? The geek in me wondered how could I tailor my experience while here?</p><p dir="ltr">At that moment, the Young Stunners track "Karachi Chal" blasted through my headphones. I had a lightbulb moment! Why not build an&nbsp;<strong>AI-powered itinerary planner</strong>? One that mirrors Karachi’s vibrancy and culture?</p><figure class="figure"><img class="img-fluid" src="/media/karachi.jpg" data-entity-uuid="0774548e-9061-40dc-a9b6-1e01adc4b822" data-entity-type="file" alt="Karachi" width="960" height="540"><figcaption class="figure-caption">Image: <a href="https://codeforpakistan.org/about/people/ali-raza">Ali Raza</a></figcaption></figure><p dir="ltr">Enter Karachi Chal (meaning "Let's go to Karachi")</p><p dir="ltr">I didn't waste any time. The moment I checked into my hotel—a beautiful old Karachi home converted into a boutique hotel—it took me the next five minutes to register my domain name and begin hacking!</p><p dir="ltr">Then began the real fun. As I stepped into Geeks of Kolachi, it felt like home. Students, young professionals, hackers, coders, and mentors all under one roof-&nbsp; the energy was palpable.</p><figure class="figure"><img class="img-fluid" src="/media/gdg-hackathon.jpg" data-entity-uuid="c77ad31c-8c0d-4786-b882-4023a9d72bcc" data-entity-type="file" alt="GDG Hackathon" width="960" height="540"><figcaption class="figure-caption">Image: <a href="https://www.linkedin.com/in/huzaifa-habib/">Huzaifa Habib</a></figcaption></figure><p dir="ltr">Powered by Google's cutting-edge Gemini language model, Karachi Chal started taking shape.&nbsp; More than an app, the idea is to unlock Karachi's hidden gems, local culture, and diversity. It not only helps you plan itineraries with must-see spots and foodie finds but also manages to navigate those Karachi traffic patterns!</p><p dir="ltr">Karachi Chal is a project born from a moment of spontaneous inspiration, my own escape within an escape. A reminder that when it comes to tech, just like a traveler, unexpected paths often lead to the most rewarding destinations.</p><p dir="ltr">Karachi holds a very personal and emotional place in my heart. It is the birthplace of my late mother, so building Karachi Chal is so much more than just a weekend hackathon project. With my mother's Karachi stories etched in my heart, it was my way to connect with a part of her history in a dynamic, modern way.&nbsp;</p><p dir="ltr"><em>I'm not sure who started chopping onions all of a sudden.</em></p><p dir="ltr">Check out <a href="https://karachichal.com"><strong>Karachi Cha</strong>l</a> yourself, and let me know what you think. The code is all open source under the <a href="https://github.com/codeforpakistan/karachi-chal">MIT License</a>. PRs welcome!&nbsp;</p><p dir="ltr">P.S. At the hackathon, a team already redeployed Karachi Chal as an itinerary planner with integrations with local businesses. Seeing the project outgrow my initial vision was a truly proud and gratifying experience.&nbsp;<br><br>To contribute to Karachi Chal and other fun ongoing projects at Code for Pakistan, head over to the <a href="https://www.codeforpakistan.org/volunteer/register">Get Involved tab</a> on our website and sign up now!<br><br>Written by <a href="https://www.codeforpakistan.org/about/people/ali-raza">Ali Raza</a></p>
+Sometimes, the best ideas emerge when you need an escape.  After a rough month, I flew to Karachi as a mentor for the Build with AI Hackathon hosted by GDG Kolachi at Geeks of Kolachi. To be honest, more than mentoring, I needed a breather at that point.
+
+Just as we were descending, I peeked out from the window. A sprawling city stretched beneath me—a megacity teeming with life and stories begging to be explored. I'm not a massive planner by nature, but suddenly, it hit me: What if there was a better way to navigate the City of Lights? To find the best biryani in town? Or the ideal spot for ‘kebabs’ on Burns Road? The geek in me wondered how could I tailor my experience while here?
+
+At that moment, the Young Stunners track "Karachi Chal" blasted through my headphones. I had a lightbulb moment! Why not build an **AI-powered itinerary planner**? One that mirrors Karachi’s vibrancy and culture?
+
+![Karachi](/media/karachi.jpg)
+
+_Image: [Ali Raza](https://codeforpakistan.org/about/people/ali-raza)_
+
+Enter Karachi Chal (meaning "Let's go to Karachi")
+
+I didn't waste any time. The moment I checked into my hotel—a beautiful old Karachi home converted into a boutique hotel—it took me the next five minutes to register my domain name and begin hacking!
+
+Then began the real fun. As I stepped into Geeks of Kolachi, it felt like home. Students, young professionals, hackers, coders, and mentors all under one roof-  the energy was palpable.
+
+![GDG Hackathon](/media/gdg-hackathon.jpg)
+
+_Image: [Huzaifa Habib](https://www.linkedin.com/in/huzaifa-habib/)_
+
+Powered by Google's cutting-edge Gemini language model, Karachi Chal started taking shape.  More than an app, the idea is to unlock Karachi's hidden gems, local culture, and diversity. It not only helps you plan itineraries with must-see spots and foodie finds but also manages to navigate those Karachi traffic patterns!
+
+Karachi Chal is a project born from a moment of spontaneous inspiration, my own escape within an escape. A reminder that when it comes to tech, just like a traveler, unexpected paths often lead to the most rewarding destinations.
+
+Karachi holds a very personal and emotional place in my heart. It is the birthplace of my late mother, so building Karachi Chal is so much more than just a weekend hackathon project. With my mother's Karachi stories etched in my heart, it was my way to connect with a part of her history in a dynamic, modern way.
+
+_I'm not sure who started chopping onions all of a sudden._
+
+Check out [**Karachi Cha**l](https://karachichal.com) yourself, and let me know what you think. The code is all open source under the [MIT License](https://github.com/codeforpakistan/karachi-chal). PRs welcome!
+
+P.S. At the hackathon, a team already redeployed Karachi Chal as an itinerary planner with integrations with local businesses. Seeing the project outgrow my initial vision was a truly proud and gratifying experience.
+
+To contribute to Karachi Chal and other fun ongoing projects at Code for Pakistan, head over to the [Get Involved tab](https://www.codeforpakistan.org/volunteer/register) on our website and sign up now!
+
+Written by [Ali Raza](https://www.codeforpakistan.org/about/people/ali-raza)

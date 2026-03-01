@@ -4,15 +4,33 @@ interface Props {
   image: string;
   title: string;
   summary?: string;
+  date?: string | Date;
 }
 
-const { href, image, title, summary = '' } = Astro.props;
+const { href, image, title, summary = '', date } = Astro.props;
+
+const parsedDate = date ? new Date(date) : null;
+const hasValidDate = parsedDate && !Number.isNaN(parsedDate.getTime());
+const displayDate = hasValidDate
+  ? new Intl.DateTimeFormat('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    }).format(parsedDate)
+  : date
+    ? String(date)
+    : null;
 ---
 
 <a href={href} class="block bg-white rounded-lg border hover:border-gray-300 overflow-hidden">
   <img src={image} alt={title} class="w-full h-52 object-cover" />
   <div class="p-4">
     <h3 class="font-semibold text-lg text-gray-900 line-clamp-2">{title}</h3>
+    {displayDate && (
+      <p class="text-xs text-gray-500 mt-2">
+        <time datetime={hasValidDate ? parsedDate.toISOString() : undefined}>{displayDate}</time>
+      </p>
+    )}
     <p class="text-sm text-gray-600 mt-2 line-clamp-3">{summary}</p>
   </div>
 </a>

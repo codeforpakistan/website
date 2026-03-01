@@ -1,14 +1,62 @@
 ---
 title: "Pakistan’s Water Crisis Needs Data"
 slug: "pakistans-water-crisis-needs-data"
-summary: "Water is Pakistan’s most valuable resource, yet more than  60% of irrigation water is lost before reaching crops. In a country where over  93% of available water is used in agriculture, this isn’t just inefficiency—it..."
+summary: "— And the Government is Taking Action"
 image: "/media/stories-pakistans-water-crisis-needs-data.jpg"
-group: "all"
-sortOrder: 50
-designation: ""
-location: ""
-createdAt: ""
-startDate: ""
-dueDate: ""
+date: "2025-02-19"
 ---
-<p dir="ltr">Water is Pakistan’s most valuable resource, yet more than&nbsp;<a href="https://www.fao.org/4/ac623e/ac623e0i.htm">60% of irrigation water</a> is lost before reaching crops. In a country where over&nbsp;<a href="https://www.pcrwr.gov.pk/water-management/">93% of available water</a> is used in agriculture, this isn’t just inefficiency—it’s a crisis.</p><p dir="ltr">For decades, Pakistan’s government and international partners, including the <a href="https://www.worldbank.org/en/country/pakistan"><strong>World Bank</strong></a><strong>,</strong> have sought solutions to improve water management. Investments have been made in infrastructure — canals, pipelines, reservoirs — but a critical question remains unanswered:<strong> how much water does a crop actually need</strong>?</p><p dir="ltr">Right now, there is no real-time, field-level data to measure water use and losses. Farmers rely on estimates, but without accurate tracking, it's impossible to optimize irrigation, reduce waste, and improve crop yields.</p><p dir="ltr">Khyber Pakhtunwha’s&nbsp;<a href="https://ofwm.kp.gov.pk/"><strong>On-Farm Water Management Department&nbsp;</strong></a>is piloting a low-cost, IoT-based water monitoring system to fill this gap. Developed in collaboration with final-year university students through Code for Pakistan's <a href="https://codeforpakistan.org/events/civic-innovator-program-2024"><strong>Civic Innovator Program</strong></a><strong> </strong>(CIP), this system is designed to study water consumption at the farm level — helping policymakers and farmers understand how much water is actually required.</p><h4>A New Approach: Measuring Water Use in Real-Time</h4><p dir="ltr">Pakistan has long recognized the need for better water conservation. Organizations like the&nbsp;<a href="https://www.pcrwr.gov.pk/">Pakistan Council of Research in Water Resources</a> (PCRWR) have conducted groundwater investigations, hydrology modelling, and irrigation advisory services, providing weekly SMS recommendations to 20,000 farmers in 41 districts based on NASA satellite data and weather forecasts.</p><p dir="ltr">But while macro-level data exists, on-the-ground measurement is missing.</p><p dir="ltr">To bridge this gap, the On-Farm Water Management Department, under the World Bank-funded<a href="https://documents1.worldbank.org/curated/ru/215351557385929428/pdf/Resettlement-Policy-Framework.pdf"> KPIAP project</a>, is studying how IoT-powered sensors can provide real-time, field-level insights into water usage and losses.</p><p dir="ltr">The prototype system:</p><ul><li dir="ltr">Deploys smart sensors under, on, and above the soil to measure soil moisture, water levels, and flow rates.</li><li dir="ltr">Tracks water loss by detecting variations in inlet and outlet flows—helping farmers and policymakers identify inefficiencies.</li><li dir="ltr">Uses machine learning to analyze patterns and suggest optimal irrigation schedules.</li><li dir="ltr">Provides real-time monitoring through a web-based dashboard, offering data at a glance.</li><li dir="ltr">Sends mobile alerts to notify farmers when their fields need water—or when excessive water is being lost.</li></ul><p dir="ltr">The goal is not just conservation—it’s precision. By understanding exactly how much water crops need, the government can develop data-driven policies, help farmers improve yields, and reduce unnecessary water consumption.</p><h4>From Study to Scalable Solutions</h4><p dir="ltr">While still in the pilot phase, this low-cost, homegrown innovation has the potential to reshape Pakistan’s irrigation strategy. If scaled, it could help:</p><ul><li dir="ltr">Reduce water waste by accurately tracking losses.</li><li dir="ltr">Improve irrigation efficiency with actionable insights.</li><li dir="ltr">Support food security by ensuring crops receive the right amount of water.</li><li dir="ltr">Provide policymakers with real-time data to inform national water management strategies.</li></ul><p dir="ltr">For the first time, Pakistan could have precise, real-time water tracking at the farm level, rather than relying on outdated estimates.</p><p dir="ltr">What Comes Next?&nbsp;</p><blockquote><p dir="ltr"><strong>Turning Data into Policy.</strong></p></blockquote><p dir="ltr">The technology exists. The prototype is built. The need is clear. Now, the focus is on scaling.</p><p dir="ltr">For this effort to succeed, collaboration is key:</p><ul><li dir="ltr">Government agencies must integrate real-time water tracking into national irrigation policies.</li><li dir="ltr">The World Bank and other partners can help fund the expansion of this research.</li><li dir="ltr">Agri-tech companies &amp; investors can scale the hardware and analytics for broader adoption.</li><li dir="ltr">Farmer associations can participate in training programs and pilot projects.</li></ul><p dir="ltr">Pakistan doesn’t need more reports on water shortages — it needs action. This government-backed IoT monitoring system is a practical, scalable solution that could help conserve millions of litres of water, improve agricultural productivity, and safeguard Pakistan’s future against climate change-driven water stress.</p><p dir="ltr">The On-Farm Water Management Department is taking the lead. The data is ready to flow. Now, it’s time to turn innovation into impact — before the water runs dry.<br><br><em>Code for Pakistan collaborates with government departments to meaningfully address digitization challenges to improve government service delivery at low costs. To submit a problem statement, write to us at </em><strong>innovator@codeforpakistan.org</strong></p>
+Water is Pakistan’s most valuable resource, yet more than [60% of irrigation water](https://www.fao.org/4/ac623e/ac623e0i.htm) is lost before reaching crops. In a country where over [93% of available water](https://www.pcrwr.gov.pk/water-management/) is used in agriculture, this isn’t just inefficiency—it’s a crisis.
+
+For decades, Pakistan’s government and international partners, including the [**World Bank**](https://www.worldbank.org/en/country/pakistan)**,** have sought solutions to improve water management. Investments have been made in infrastructure — canals, pipelines, reservoirs — but a critical question remains unanswered: **how much water does a crop actually need**?
+
+Right now, there is no real-time, field-level data to measure water use and losses. Farmers rely on estimates, but without accurate tracking, it's impossible to optimize irrigation, reduce waste, and improve crop yields.
+
+Khyber Pakhtunwha’s [**On-Farm Water Management Department**](https://ofwm.kp.gov.pk/) is piloting a low-cost, IoT-based water monitoring system to fill this gap. Developed in collaboration with final-year university students through Code for Pakistan's [**Civic Innovator Program**](https://codeforpakistan.org/events/civic-innovator-program-2024) (CIP), this system is designed to study water consumption at the farm level — helping policymakers and farmers understand how much water is actually required.
+
+#### A New Approach: Measuring Water Use in Real-Time
+
+Pakistan has long recognized the need for better water conservation. Organizations like the [Pakistan Council of Research in Water Resources](https://www.pcrwr.gov.pk/) (PCRWR) have conducted groundwater investigations, hydrology modelling, and irrigation advisory services, providing weekly SMS recommendations to 20,000 farmers in 41 districts based on NASA satellite data and weather forecasts.
+
+But while macro-level data exists, on-the-ground measurement is missing.
+
+To bridge this gap, the On-Farm Water Management Department, under the World Bank-funded [KPIAP project](https://documents1.worldbank.org/curated/ru/215351557385929428/pdf/Resettlement-Policy-Framework.pdf), is studying how IoT-powered sensors can provide real-time, field-level insights into water usage and losses.
+
+The prototype system:
+
+-   Deploys smart sensors under, on, and above the soil to measure soil moisture, water levels, and flow rates.
+-   Tracks water loss by detecting variations in inlet and outlet flows—helping farmers and policymakers identify inefficiencies.
+-   Uses machine learning to analyze patterns and suggest optimal irrigation schedules.
+-   Provides real-time monitoring through a web-based dashboard, offering data at a glance.
+-   Sends mobile alerts to notify farmers when their fields need water—or when excessive water is being lost.
+
+The goal is not just conservation—it’s precision. By understanding exactly how much water crops need, the government can develop data-driven policies, help farmers improve yields, and reduce unnecessary water consumption.
+
+#### From Study to Scalable Solutions
+
+While still in the pilot phase, this low-cost, homegrown innovation has the potential to reshape Pakistan’s irrigation strategy. If scaled, it could help:
+
+-   Reduce water waste by accurately tracking losses.
+-   Improve irrigation efficiency with actionable insights.
+-   Support food security by ensuring crops receive the right amount of water.
+-   Provide policymakers with real-time data to inform national water management strategies.
+
+For the first time, Pakistan could have precise, real-time water tracking at the farm level, rather than relying on outdated estimates.
+
+What Comes Next?
+
+> **Turning Data into Policy.**
+
+The technology exists. The prototype is built. The need is clear. Now, the focus is on scaling.
+
+For this effort to succeed, collaboration is key:
+
+-   Government agencies must integrate real-time water tracking into national irrigation policies.
+-   The World Bank and other partners can help fund the expansion of this research.
+-   Agri-tech companies & investors can scale the hardware and analytics for broader adoption.
+-   Farmer associations can participate in training programs and pilot projects.
+
+Pakistan doesn’t need more reports on water shortages — it needs action. This government-backed IoT monitoring system is a practical, scalable solution that could help conserve millions of litres of water, improve agricultural productivity, and safeguard Pakistan’s future against climate change-driven water stress.
+
+The On-Farm Water Management Department is taking the lead. The data is ready to flow. Now, it’s time to turn innovation into impact — before the water runs dry.
+
+_Code for Pakistan collaborates with government departments to meaningfully address digitization challenges to improve government service delivery at low costs. To submit a problem statement, write to us at_ **innovator@codeforpakistan.org**
