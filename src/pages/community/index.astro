@@ -1,19 +1,128 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+import EventCard from '../../components/cards/EventCard.astro';
+import CardGrid from '../../components/sections/CardGrid.astro';
+import CardSection from '../../components/sections/CardSection.astro';
+
+const events = await getCollection('events');
+
+function toTime(value?: string) {
+  if (!value) return 0;
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+}
+
+// Filter hackathon events (events with "hackathon" in title or slug)
+const hackathonEvents = events.filter(event => 
+  event.slug.toLowerCase().includes('hackathon') || 
+  event.data.title.toLowerCase().includes('hackathon')
+);
+
+// Sort by date and get top 3
+const featuredHackathons = [...hackathonEvents]
+  .sort((a, b) => {
+    const startA = toTime(a.data.startDate);
+    const startB = toTime(b.data.startDate);
+    if (startA !== startB) return startB - startA;
+    return a.data.title.localeCompare(b.data.title);
+  })
+  .slice(0, 3);
+
+// Civic Innovation Labs data
+const civicLabs = [
+  {
+    title: 'Peshawar CIL',
+    slug: 'peshawar',
+    summary: 'Peshawar Civic Innovation Lab',
+    image: '/media/community/cil_peshawar.jpg'
+  },
+  {
+    title: 'Karachi CIL',
+    slug: 'karachi',
+    summary: 'Karachi Civic Innovation Lab',
+    image: '/media/community/cil_karachi.jpg'
+  },
+  {
+    title: 'Islamabad CIL',
+    slug: 'islamabad',
+    summary: 'Islamabad Civic Innovation Lab',
+    image: '/media/community/cil_islamabad.jpg'
+  }
+];
 ---
 
 <MainLayout title="Community">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Community</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Join our vibrant community of civic technologists.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-        <section>
-</section>
-      </div>
+    <div class="mb-8 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Community</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">Mobilizing civil society to create the change they want to see</h2>
+    </div>
+    
+    <div class="max-w-5xl">
+      <p class="text-lg text-gray-700 mb-12">
+        Community mobilization lies at the heart of civic tech. It is the people that, together, create the change they want to see.
+      </p>
 
+      <!-- Civic Hackathons Section -->
+      <CardSection title="CIVIC HACKATHONS">
+        <div class="mb-6">
+          <p class="text-gray-700 mb-6">
+            The foundation of Code for Pakistan was laid at the first hackathon organized back in 2013. That event was attended by a number of community members whose participation ignited our civic movement. Since then, we have conducted a hackathon every year in different cities with different themes and partners.
+          </p>
+        </div>
+        {featuredHackathons.length > 0 ? (
+          <>
+            <CardGrid>
+              {featuredHackathons.map((event) => (
+                <EventCard
+                  href={`/events/${event.slug}`}
+                  image={event.data.image}
+                  title={event.data.title}
+                  location={event.data.location}
+                  date={event.data.startDate || event.data.endDate}
+                  summary={event.data.summary}
+                />
+              ))}
+            </CardGrid>
+            <div class="mt-6">
+              <a href="/community/hackathons" class="text-blue-600 hover:text-blue-800 font-medium">
+                More Hackathons →
+              </a>
+            </div>
+          </>
+        ) : (
+          <p class="text-gray-500">No hackathons available at this time.</p>
+        )}
+      </CardSection>
+
+      <!-- Civic Innovation Labs Section -->
+      <CardSection title="CIVIC INNOVATION LABS">
+        <div class="mb-6">
+          <p class="text-gray-700 mb-6">
+            We support home-grown efforts by civil society to solve their own problems. Civic Innovation Labs is a volunteer-run effort where professionals from different backgrounds come together to design social impact projects that strengthen their communities.
+          </p>
+          <p class="text-gray-700 mb-6">
+            Over the years CILs have worked with a number of different local government departments to help digitize local services, such as price manipulations, among others.
+          </p>
+        </div>
+        <CardGrid>
+          {civicLabs.map((lab) => (
+            <a href={`/community/labs#${lab.slug}`} class="block bg-white rounded-lg border hover:border-gray-300 transition-shadow overflow-hidden">
+              <img src={lab.image} alt={lab.title} class="w-full h-52 object-cover" />
+              <div class="p-4">
+                <h4 class="font-semibold text-gray-900">{lab.title}</h4>
+                <p class="text-sm text-gray-600 mt-1">{lab.summary}</p>
+              </div>
+            </a>
+          ))}
+        </CardGrid>
+        <div class="mt-6">
+          <a href="/community/labs" class="text-blue-600 hover:text-blue-800 font-medium">
+            More Civic Labs →
+          </a>
+        </div>
+      </CardSection>
     </div>
   </div>
 </MainLayout>

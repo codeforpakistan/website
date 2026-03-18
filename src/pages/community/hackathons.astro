@@ -1,19 +1,67 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+import EventCard from '../../components/cards/EventCard.astro';
+import CardGrid from '../../components/sections/CardGrid.astro';
+
+const events = await getCollection('events');
+
+function toTime(value?: string) {
+  if (!value) return 0;
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+}
+
+// Filter hackathon events
+const hackathonEvents = events.filter(event => 
+  event.slug.toLowerCase().includes('hackathon') || 
+  event.data.title.toLowerCase().includes('hackathon')
+);
+
+// Sort by date (most recent first)
+const sortedHackathons = [...hackathonEvents].sort((a, b) => {
+  const startA = toTime(a.data.startDate);
+  const startB = toTime(b.data.startDate);
+  if (startA !== startB) return startB - startA;
+  return a.data.title.localeCompare(b.data.title);
+});
 ---
 
 <MainLayout title="Civic Hackathons">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Civic Hackathons</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Participate in our civic hackathons and build solutions for Pakistan.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-        <section>
-</section>
+    <div class="mb-8 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Civic Hackathons</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">Hacking our way into the 21st century</h2>
+    </div>
+    
+    <div class="max-w-5xl">
+      <div class="mb-8">
+        <p class="text-lg text-gray-700 mb-4">
+          The foundation of Code for Pakistan was laid at the first hackathon organized back in 2013. That event was attended by a number of community members whose participation ignited the civic movement that is Code for Pakistan.
+        </p>
+        <p class="text-lg text-gray-700">
+          Since then, we have conducted at least one hackathon every year in different parts of the country with different themes and partners.
+        </p>
       </div>
 
+      {sortedHackathons.length > 0 ? (
+        <CardGrid>
+          {sortedHackathons.map((event) => (
+            <EventCard
+              href={`/events/${event.slug}`}
+              image={event.data.image}
+              title={event.data.title}
+              location={event.data.location}
+              date={event.data.startDate || event.data.endDate}
+              summary={event.data.summary}
+            />
+          ))}
+        </CardGrid>
+      ) : (
+        <div class="text-center py-12">
+          <p class="text-gray-500 text-lg">No hackathons available at this time.</p>
+        </div>
+      )}
     </div>
   </div>
 </MainLayout>

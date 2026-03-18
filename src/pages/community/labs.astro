@@ -1,19 +1,106 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import CardSection from '../../components/sections/CardSection.astro';
+
+// Info cards about how CIL works
+const infoCards = [
+  {
+    title: 'Group of Volunteers',
+    description: 'A Code for Pakistan Civic Innovation Lab is not a physical entity but rather a community of passionate individuals who meet regularly to collaborate with local government, nonprofits, and media organizations on technology, data, policy, and design projects that strengthen their communities.',
+    image: '/media/community/cil_volunteers.jpg'
+  },
+  {
+    title: 'Meet Anywhere Anytime',
+    description: 'CIL consists of volunteers who come together—either in person or virtually—to collaborate on projects that enhance civic services, improve governance, and empower communities. Recognition as a CIL depends on active participation, consistent efforts in volunteering, and a shared commitment to making a difference.',
+    image: '/media/community/cil_meeting.jpg'
+  },
+  {
+    title: 'How CIL Works',
+    description: 'Every lab is led by a Lead who is responsible for building the community and maintaining the relationship between the Lab and the local partners. All Labs are connected through an online forum in order to share stories and support each other\'s work. Labs are also closely coordinated with Code for Pakistan\'s other programs.',
+    image: '/media/community/cil_working.jpg'
+  },
+  {
+    title: 'Get Started!',
+    description: 'By working on impactful projects, engaging with stakeholders, and fostering collaboration, you can establish your Lab as a key player in the civic tech ecosystem and contribute to positive societal change.',
+    image: '/media/community/cil_start.jpg'
+  }
+];
+
+// Civic Innovation Labs
+const civicLabs = [
+  {
+    id: 'peshawar',
+    title: 'Peshawar CIL',
+    summary: 'Peshawar Civic Innovation Lab',
+    image: '/media/community/cil_peshawar.jpg'
+  },
+  {
+    id: 'karachi',
+    title: 'Karachi CIL',
+    summary: 'Karachi Civic Innovation Lab',
+    image: '/media/community/cil_karachi.jpg'
+  },
+  {
+    id: 'islamabad',
+    title: 'Islamabad CIL',
+    summary: 'Islamabad Civic Innovation Lab',
+    image: '/media/community/cil_islamabad.jpg'
+  }
+];
 ---
 
 <MainLayout title="Civic Innovation Labs">
   <div class="py-8">
-  <div class="mb-6 space-y-2">
-    <h1 class="text-3xl md:text-6xl tracking-tight">Civic Innovation Labs</h1>
-    <h2 class="text-lg md:text-3xl font-light text-gray-700">Collaborative spaces for civic innovation.</h2>
-  </div>
-    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
-      <div class="flex-grow max-w-5xl">
-        <section>
-</section>
+    <div class="mb-8 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Civic Innovation Labs</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">Supporting home-grown efforts by civil society to solve their own problems</h2>
+    </div>
+    
+    <div class="max-w-5xl">
+      <!-- Info Cards Grid -->
+      <div class="mb-12">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+          {infoCards.map((card) => (
+            <div class="bg-white border rounded-lg overflow-hidden">
+              <img src={card.image} alt={card.title} class="w-full h-48 object-cover" />
+              <div class="p-6">
+                <h3 class="text-xl font-semibold text-gray-900 mb-3">{card.title}</h3>
+                <p class="text-gray-700">{card.description}</p>
+              </div>
+            </div>
+          ))}
+        </div>
       </div>
 
+      <!-- Civic Innovation Labs Section -->
+      <CardSection title="CIVIC INNOVATION LABS">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+          {civicLabs.map((lab) => (
+            <div id={lab.id} class="bg-white rounded-lg border overflow-hidden">
+              <img src={lab.image} alt={lab.title} class="w-full h-52 object-cover" />
+              <div class="p-4">
+                <h4 class="font-semibold text-gray-900">{lab.title}</h4>
+                <p class="text-sm text-gray-600 mt-1">{lab.summary}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+
+        <!-- Call to Action -->
+        <div class="bg-blue-50 border border-blue-200 rounded-lg p-6 text-center">
+          <p class="text-lg text-gray-800 mb-4">
+            So you want to start and lead a Civic Innovation Lab? That's exciting!
+          </p>
+          <a 
+            href="https://docs.google.com/document/d/1kHh6oP2UQI99O4QQTuicndPKtOEyANKhIBvDU3la058/edit?usp=sharing" 
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-medium px-6 py-3 rounded-full transition-colors"
+          >
+            Learn How
+          </a>
+        </div>
+      </CardSection>
     </div>
   </div>
 </MainLayout>
