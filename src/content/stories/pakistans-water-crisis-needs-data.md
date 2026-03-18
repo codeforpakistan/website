@@ -2,7 +2,7 @@
 title: "Pakistan’s Water Crisis Needs Data"
 slug: "pakistans-water-crisis-needs-data"
 summary: "— And the Government is Taking Action"
-image: "/media/stories-pakistans-water-crisis-needs-data.jpg"
+image: "/media/stories/stories-pakistans-water-crisis-needs-data.jpg"
 date: "2025-02-19"
 ---
 Water is Pakistan’s most valuable resource, yet more than [60% of irrigation water](https://www.fao.org/4/ac623e/ac623e0i.htm) is lost before reaching crops. In a country where over [93% of available water](https://www.pcrwr.gov.pk/water-management/) is used in agriculture, this isn’t just inefficiency—it’s a crisis.

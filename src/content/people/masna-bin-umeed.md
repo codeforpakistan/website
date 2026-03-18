@@ -1,7 +1,7 @@
 ---
 title: "Masna Bin Umeed"
 slug: "masna-bin-umeed"
-image: "/media/WhatsApp%2520Image%25202024-11-07%2520at%25204.40.56%2520PM.jpeg"
+image: "/media/people/masna.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 12

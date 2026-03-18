@@ -2,7 +2,7 @@
 title: "Launching 3rd Cycle of KP Civic Innovation Fellowship"
 slug: "launching-3rd-cycle-kp-fellowship"
 summary: "The KP Government Innovation Fellowship Program entered its 3rd cycle in 2017"
-image: "/media/events-launching-3rd-cycle-kp-fellowship.jpg"
+image: "/media/events/events-launching-3rd-cycle-kp-fellowship.jpg"
 sortOrder: 11
 location: "Peshawar"
 startDate: "2017-03-20"

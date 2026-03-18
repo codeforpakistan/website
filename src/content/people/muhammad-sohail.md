@@ -1,7 +1,7 @@
 ---
 title: "Muhammad Sohail"
 slug: "muhammad-sohail"
-image: "/media/sohail%255B1%255D.jpg"
+image: "/media/people/sohail.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 14

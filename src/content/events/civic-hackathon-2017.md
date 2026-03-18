@@ -2,7 +2,7 @@
 title: "SDG Hackathon 2017"
 slug: "civic-hackathon-2017"
 summary: "Driving Civic Innovation for Sustainable Development"
-image: "/media/events-civic-hackathon-2017.jpg"
+image: "/media/events/events-civic-hackathon-2017.jpg"
 sortOrder: 18
 location: "Islamabad"
 startDate: "2017-08-19"

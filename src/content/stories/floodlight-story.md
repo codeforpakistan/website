@@ -2,22 +2,22 @@
 title: "FloodLight & The Power of Community"
 slug: "floodlight-story"
 summary: "A story of innovative technology unveiling the power of community"
-image: "/media/Balochistan_engulfed_Pakistan_Floods.jpeg"
+image: "/media/stories/Balochistan_engulfed_Pakistan_Floods.jpeg"
 date: "2023-02-06"
 ---
 In the summer of 2022, a few months after I'd relocated to Pakistan, torrential rains—quickly becoming floods—began spreading all over the country. Almost [33 million people](https://edition.cnn.com/2022/08/25/asia/pakistan-flooding-climate-minister-intl-hnk/index.html) and livestock were affected by the tragedy. Thousands of casualties were reported. People became homeless overnight as the waves washed away their entire towns and villages. The number of displaced families in need of immediate help was increasing, but nobody knew where to go.
 
-![Balochistan in floods](/media/Balochistan_engulfed_Pakistan_Floods.jpeg)
+![Balochistan in floods](/media/stories/Balochistan_engulfed_Pakistan_Floods.jpeg)
 
 As news of the floods spread across the nation, we were bombarded with a constant stream of updates left, right, and center. But the overflow of information was only overwhelming us further. We struggled to make sense of the disaster and figure out how we could help those affected by it. It was heartbreaking to see so many people left homeless, and it was clear that urgent assistance was needed.
 
-![](/media/man_walkin_in_floods.jpeg)
+![](/media/stories/man_walkin_in_floods.jpeg)
 
 As we at Code for Pakistan searched for ways to contribute to the relief efforts, we hoped that clearer, more accurate information would emerge so that we could better understand the extent of the damage and how we could help the families affected by the floods.
 
 My colleagues and I were checking up on each other to see if we were all doing okay. And in the aftermath of a 2 a.m. Google Meet inspired by this concerned group chat, [FloodLight](https://pak-flood.ushahidi.io/views/map) was created. Pakistan's first-ever data mapping platform for floods, open and accessible to all. Developed on top of an open-source application called [Ushahidi](https://www.ushahidi.com/), FloodLight was up and ready for use the very next morning.
 
-![](/media/FloodLight_page_screenshot.jpg)
+![](/media/stories/FloodLight_page_screenshot.jpg)
 
 Ushahidi was initially [created by](https://venturebeat.com/business/kenyan-tech-bloggers-launch-crisis-report-site/) Kenyan bloggers and activists as a response to civil unrest following a notorious round of [Kenyan elections](https://www.ohchr.org/en/press-releases/2009/10/un-human-rights-team-issues-report-post-election-violence-kenya) in 2007. In this time of crisis when we knew we had to act fast, Ushahidi was the perfect solution!
 
@@ -25,7 +25,7 @@ Ushahidi was initially [created by](https://venturebeat.com/business/kenyan-tech
 
 With the system already in place, the next step was to figure out how to get data. Here, social media was the undisputed answer. To get our message across and connect with people closer to the damage, my team launched a social media campaign that would help crowdsource information onto FloodLight.
 
-![](/media/A_tent_is_not_a_home._Linkedin.jpg)
+![](/media/stories/A_tent_is_not_a_home._Linkedin.jpg)
 
 Within just 2 months, we were able to collect over 1000 data points that illustrated the floods' impact all over Pakistan. From locations of medical camps and relief shelters to fundraisers and soup kitchens, FloodLight showed you everything. As more and more after-effects of the floods surfaced, we modified and expanded the FloodLight platform to respond to these new concerns.
 
@@ -33,7 +33,7 @@ Thanks to our dedicated community of volunteers and [civic hackers](https://digi
 
 But it wasn't just about the data, although whatever we managed to gather _was_ quite valuable. It was about making a meaningful difference. And as we tried to do this, we came across new ways that we could contribute that we hadn't even thought of before. For instance, the time when we reached out to Telenor on Twitter and asked them if they could provide support to Madat Balochistan, a grassroots NGO that we were in contact with. This organization was working tirelessly in one of the areas most severely affected by the floods, and their on-the-ground volunteers were struggling to coordinate aid activities due to damaged telecom lines. Not long after our tweet, Telenor came through with multiple WiFi devices for Madat Balochistan to continue their aid work more effectively!
 
-![](/media/Mah__Telenor_devices_copy.jpg)
+![](/media/stories/Mah__Telenor_devices_copy.jpg)
 
 #### Together Against the Odds
 

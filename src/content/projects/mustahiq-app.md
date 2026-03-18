@@ -1,7 +1,7 @@
 ---
 title: "Mustahiq app"
 slug: "mustahiq-app"
-image: "/media/project-mustahiq-app.jpg"
+image: "/media/projects/project-mustahiq-app.jpg"
 department: "Department of Zakat, Ushr, & Social Welfare"
 year: ""
 sortOrder: 32

@@ -1,7 +1,7 @@
 ---
 title: "GoGB Mobile Application"
 slug: "go-gb"
-image: "/media/project-go-gb.jpg"
+image: "/media/projects/project-go-gb.jpg"
 department: "Commissioner Office, GB"
 year: ""
 sortOrder: 16

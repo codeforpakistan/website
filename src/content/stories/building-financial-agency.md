@@ -2,7 +2,7 @@
 title: "Building Financial Agency Through Women Internships"
 slug: "building-financial-agency"
 summary: "Learn how we are building financial inclusion through small, practical steps."
-image: "/media/5_4.jpg"
+image: "/media/stories/5_4.jpg"
 date: "2025-06-02"
 ---
 When Shahirah talks about her first paycheck, she smiles like it just happened.
@@ -23,7 +23,7 @@ That's where we started.
 With registering SIM cards. With opening bank accounts. With providing internet devices.
 _With access._
 
-![world bank report](/media/5_4.jpg)
+![world bank report](/media/stories/5_4.jpg)
 
 With the phones in place and bank accounts set up, each intern was able to receive a stipend in her own name. Small payments, but deeply meaningful. For many, it was the first time they had earned money that was truly their own.
 
@@ -31,7 +31,7 @@ Some used it to cover household needs. Others saved for education. One intern pa
 
 [Only 13% of women in Pakistan](https://insights.datadarbar.io/female-financial-inclusion-how-women-dont-bank-2/) have access to formal financial services. In conservative regions like KP, the barriers are layered — social, technical, and cultural. While initiatives like Code for Pakistan's internship provide a practical path forward, the larger landscape remains challenging. Even these national figures are contested: the [State Bank claims over 67%](https://www.dawn.com/news/1885077) of adult women now own bank accounts, yet the [World Bank's Findex reports only 11.5](https://www.worldbank.org/en/publication/globalfindex) % — a stark discrepancy that underscores the need for transparent, gender-disaggregated data.
 
-![barriers](/media/6_4.jpg)
+![barriers](/media/stories/6_4.jpg)
 
 Code for Pakistan's approach is to work within these realities. To build access from the ground up and make digital and financial inclusion possible for women who've been left out.
 

@@ -1,7 +1,7 @@
 ---
 title: "Maria Umar"
 slug: "maria-umar"
-image: "/media/Untitled%2520%2528512%2520x%2520512%2520px%2529%2520%25281%2529.jpg"
+image: "/media/people/maria.jpg"
 designation: "Board Member"
 group: "board"
 sortOrder: 2

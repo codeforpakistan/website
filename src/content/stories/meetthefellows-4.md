@@ -2,7 +2,7 @@
 title: "Meet the Fellows | 4th Edition"
 slug: "meetthefellows#4"
 summary: "Welcome to \"A Generation of Doers,\" 4th Edition , a series highlighting the work of  Khyber Pakhtunkhwa (KP) Government Innovation Fellows who are developing technology-driven solutions for public service challenges...."
-image: "/media/stories-meetthefellows-4.jpg"
+image: "/media/stories/stories-meetthefellows-4.jpg"
 date: ""
 ---
 Welcome to "A Generation of Doers," _4th Edition_, a series highlighting the work of [Khyber Pakhtunkhwa (KP) Government Innovation](https://codeforpakistan.org/programs/fellowships/khyber-pakhtunkhwa) Fellows who are developing technology-driven solutions for public service challenges. Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated on this program to bring together technologists, designers, and researchers to create digital tools that improve governance and service delivery.

@@ -1,7 +1,7 @@
 ---
 title: "Doc Seek"
 slug: "doc-seek"
-image: "/media/project-doc-seek.jpg"
+image: "/media/projects/project-doc-seek.jpg"
 department: ""
 year: ""
 sortOrder: 8

@@ -2,7 +2,7 @@
 title: "Old Problems, New Solutions — for the People by the People"
 slug: "old-problems-new-solutions"
 summary: "Discover how Fellowship Model works and empowers people to bring digital transformation and support e-governance initiatives."
-image: "/media/1_620o49MSzNYdrAas_BLQSg.jpg"
+image: "/media/stories/1_620o49MSzNYdrAas_BLQSg.jpg"
 date: "2019-03-11"
 ---
 Have you ever been involved in a traffic accident that turned into a physical fight because the police did not arrive in time?
@@ -18,9 +18,9 @@ What if there is a paid program that lets you to innovate for the government? On
 
 Under the Fellowship, technology enthusiasts are carefully screened and selected by industry experts, donors and mentors. Starting in 2014, so far fourteen projects(with eight more to come in 2018) have been implemented by fifty young enthusiasts.
 
-![](/media/1_620o49MSzNYdrAas_BLQSg.jpg)
+![](/media/stories/1_620o49MSzNYdrAas_BLQSg.jpg)
 
-![](/media/1_UGXZ_o-oBc_yTGX41qbUMQ.jpg)
+![](/media/stories/1_UGXZ_o-oBc_yTGX41qbUMQ.jpg)
 
 _Fellows being mentored and trained by experts under the KP Government Innovation Fellowship Program_
 
@@ -36,9 +36,9 @@ One can sense pride in Sohail’s voice when he says that
 
 The project is currently being enhanced and the future name will be “Raabta” as the enhancement will allow citizens to use this app to report accidents and call for help, enabling citizens to reach out to the government while also being able to verify their challan and license through the app and get access to traffic education resources.
 
-![](/media/1_sq0wtPMB0-cruIs1Mxh-wg.jpg)
+![](/media/stories/1_sq0wtPMB0-cruIs1Mxh-wg.jpg)
 
-![](/media/1_WiJB0jFgRzN4nxLAHM2GLg_0.jpg)
+![](/media/stories/1_WiJB0jFgRzN4nxLAHM2GLg_0.jpg)
 
 _Fellows and volunteers working with the KP Traffic Police to improve their public service delivery_
 

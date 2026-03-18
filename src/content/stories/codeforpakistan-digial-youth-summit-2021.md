@@ -2,7 +2,7 @@
 title: "Code For Pakistan at Digital Youth Summit 21"
 slug: "codeforpakistan-digial-youth-summit-2021"
 summary: "Code for Pakistan joining hands in hands with leading partners at Digital Youth Summit - Pakistan's premiere technology conference!"
-image: "/media/1_fEkOb3RtySVgV4v2MUOtNA_0.jpg"
+image: "/media/stories/1_fEkOb3RtySVgV4v2MUOtNA_0.jpg"
 date: "2021-12-28"
 ---
 The Digital Youth Summit (DYS) is a technology-focused annual conference in Peshawar, Pakistan. Starting in 2014, DYS has become one of the largest, longest-running premier tech conferences in Pakistan. DYS 21 saw over 8,000 visitors at its Peshawar venue & 29,000 plus people tuning in online.
@@ -27,7 +27,7 @@ The panelists discussed the low percentage of women in tech, women-specific chal
 
 [Read more about the GovTech Hackathon](https://codeforpakistan.medium.com/recap-govtech-hackathon-2021-53922c3bc2af)
 
-![](/media/1_UMfwEFeJjd70vGH4-zRzzQ_1.jpg)
+![](/media/stories/1_UMfwEFeJjd70vGH4-zRzzQ_1.jpg)
 
 [**Watch** the video of the panel discussion](https://youtu.be/5XxBPP0nMBs?t=7884)
 
@@ -35,7 +35,7 @@ The panelists discussed the low percentage of women in tech, women-specific chal
 
 Given Code for Pakistan’s expertise with utilizing data for improving governance and civic services, we organized a panel discussion on ‘Designing for Good Governance; Growing Data’s Value’. The panelist included; [Taimor Jhagra](https://twitter.com/Jhagra) (Finance & Health Minister — KP), [Amna Baig](https://twitter.com/amnaappi) (ASP — Islamabad Police), [Sohail Muneer](https://twitter.com/sohailmunir) (Advisor — Smart Dubai Government), and Dr. Hassan Akhtar (Advisor — [AHKRC](http://ahkrc/)), hosted by prominent social media influencer, [Junaid Akram](https://www.facebook.com/junaid.akram).
 
-![](/media/1_Jq8OL3DHQfhgdF0Li0txHg.jpg)
+![](/media/stories/1_Jq8OL3DHQfhgdF0Li0txHg.jpg)
 
 > Watch it live [https://t.co/YISdW7Vuo5](https://t.co/YISdW7Vuo5)[@KPDYS](https://twitter.com/KPDYS?ref_src=twsrc%5Etfw) [#DYS21](https://twitter.com/hashtag/DYS21?src=hash&ref_src=twsrc%5Etfw) [https://t.co/LE2UoizhBO](https://t.co/LE2UoizhBO)
 >
@@ -51,24 +51,24 @@ The panelist touched upon the use of data in creating smart cities, making infor
 
 As a precursor to the Digital Youth Summit event, Code for Pakistan organized [GovTech Hackathon](https://codeforpakistan.medium.com/recap-govtech-hackathon-2021-53922c3bc2af) and [Government Innovation Challenge](https://codeforpakistan.medium.com/top-15-submissions-aeba3aa9c9e). We invited the winners to DYS, to receive their prize money.
 
-![](/media/1_1t06okyZzpfOfRk7rj2Gig.jpg)
+![](/media/stories/1_1t06okyZzpfOfRk7rj2Gig.jpg)
 
-![](/media/1_HWCulI4JHXijRQay4VlQag.jpg)
+![](/media/stories/1_HWCulI4JHXijRQay4VlQag.jpg)
 
-![](/media/1_tU0Bz9SVeP1PjhfO9XzbXA_0.jpg)
+![](/media/stories/1_tU0Bz9SVeP1PjhfO9XzbXA_0.jpg)
 
-![](/media/1_JpTLIohGuOPxeUTIbVTqaQ.jpg)
+![](/media/stories/1_JpTLIohGuOPxeUTIbVTqaQ.jpg)
 
-[![](/media/1_Yi4Iq4f9WiN0sWS3XG2A-A.jpg)](/media/1_Yi4Iq4f9WiN0sWS3XG2A-A.jpg)
+[![](/media/stories/1_Yi4Iq4f9WiN0sWS3XG2A-A.jpg)](/media/stories/1_Yi4Iq4f9WiN0sWS3XG2A-A.jpg)
 
 Digital Youth Summit was attended and addressed by Federal Minister of Science and Technology Syed Shibli Faraz, Federal Minister for Planning, Development and Special Initiatives Asad Umar, KP Ministers Kamran Bangash, Shahram Tarakai, Taimur Jhagra, and other notables.
 
-![](/media/1_4kADdK4PdsdsuxxyEUn00Q.jpg)
+![](/media/stories/1_4kADdK4PdsdsuxxyEUn00Q.jpg)
 
-![](/media/1_-jsDuXev3JEoiyfaAuN1OQ.jpg)
+![](/media/stories/1_-jsDuXev3JEoiyfaAuN1OQ.jpg)
 
-![](/media/1_Cyhgrvo1SRxchmQZTDF2bg.jpg)
+![](/media/stories/1_Cyhgrvo1SRxchmQZTDF2bg.jpg)
 
-![](/media/1_5WSrKN1op10n1uyHGv2Olw.jpg)
+![](/media/stories/1_5WSrKN1op10n1uyHGv2Olw.jpg)
 
-![](/media/1_dI77U0u9-47wBAwEu-QhiQ.jpg)
+![](/media/stories/1_dI77U0u9-47wBAwEu-QhiQ.jpg)

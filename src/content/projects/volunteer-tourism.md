@@ -1,7 +1,7 @@
 ---
 title: "GB Volunteer Tourism Platform"
 slug: "volunteer-tourism"
-image: "/media/project-volunteer-tourism.jpg"
+image: "/media/projects/project-volunteer-tourism.jpg"
 department: "Tourism Department, GB"
 year: 2023
 sortOrder: 14

@@ -1,7 +1,7 @@
 ---
 title: "Anam Zakaria"
 slug: "anam-zakaria"
-image: "/media/anum%255B1%255D.jpg"
+image: "/media/people/anam.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 4

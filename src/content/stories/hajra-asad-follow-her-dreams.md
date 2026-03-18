@@ -2,7 +2,7 @@
 title: "A Journey Towards the Extraordinary"
 slug: "hajra-asad-follow-her-dreams"
 summary: "KP Women Intern Hajira Asad shares her inspiring journey of passion and resilience."
-image: "/media/stories-hajra-asad-follow-her-dreams.jpg"
+image: "/media/stories/stories-hajra-asad-follow-her-dreams.jpg"
 date: "2022-07-04"
 ---
 Hajira grew up in Charsadda with wealth and privilege but always had the acute sense that something was missing. From a young age, Hajira was precocious. She spent hours wondering about the complexities of life, and this thoughtful little girl eventually grew into a young woman who wanted more than to just live in her dad's big house with money and comfort. Within her grew a need to build an identity of her own and do something extraordinary.

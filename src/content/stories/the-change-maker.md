@@ -2,7 +2,7 @@
 title: "The Change Maker"
 slug: "the-change-maker"
 summary: "Journey of a dynamic IT officer who transformed Livestock & Dairy department during a pandemic"
-image: "/media/1%2520N1lIGlDwKV-C52nn9jgpZA.jpg"
+image: "/media/stories/1N1lIGlDwKV-C52nn9jgpZA.jpg"
 date: "2022-06-04"
 ---
 In 2019, the Directorate General of Livestock and Dairy Research — a provincial agency responsible for managing various laboratories of veterinary sciences, livestock and dairy farming — was facing serious challenges that made it hard to fulfill its mandate to ensure healthy and productive animals.
@@ -21,13 +21,13 @@ He was aware that his department was facing serious challenges. All labs were op
 
 So even though the labs were fully equipped, lack of digital automation slowed the entire process down.
 
-![](/media/1%2520N1lIGlDwKV-C52nn9jgpZA.jpg)
+![](/media/stories/1N1lIGlDwKV-C52nn9jgpZA.jpg)
 
 _Lab Result Process_
 
 Arshad had thought about the problem in the years he had spent working at the Directorate. He saw how inefficiencies of the system were also affecting his colleagues, the vet doctors and the researchers. Morale was at an all time low.
 
-![](/media/1%2520v46Qnnnao8IxL7ZmCFxJpA.jpg)
+![](/media/stories/1v46Qnnnao8IxL7ZmCFxJpA.jpg)
 
 > "We were keeping manual data; it's hard to keep a track of it, let alone conduct any deep analysis of it. I remember in 2012, a student researcher requested access to the data registers. Unfortunately, he lost the registers and with it, we lost a few months of data." ~ Dr. Mohammad Shaheen, Senior Research Officer (PhD in Pathology)
 
@@ -55,7 +55,7 @@ Reflecting the agile mindset of the Fellowship, in only a month's time, Code for
 
 While the Fellows were under training and adapting to what Code for Pakistan tried to establish as a new normal, Code for Pakistan's Government Liaison, Nazim Uddin, met with government focal persons to better understand their department's problems. One of the people he met with was Arshad Ali, who briefed Nazim about the existing baseline data and departmental requirements.
 
-![](/media/1%2520H-H8F4eoaXSbloVDpTGkRQ.jpg)
+![](/media/stories/1H-H8F4eoaXSbloVDpTGkRQ.jpg)
 
 With clearer understanding of the problem, Nazim reported back to the team and they began developing a solution that would solve the Directorate's problem.
 
@@ -75,7 +75,7 @@ GovTech is not just about improving government backend systems, but also about c
 
 > GovTech is a whole-of-government approach to public sector modernization and promotes simple, efficient and transparent government with the citizen at the center of reforms.
 
-![](/media/1%2520pnyvHeK0qFqlmv3THANXAQ.jpg)
+![](/media/stories/1pnyvHeK0qFqlmv3THANXAQ.jpg)
 
 The Lab Information Management System helps the department in the following areas:
 

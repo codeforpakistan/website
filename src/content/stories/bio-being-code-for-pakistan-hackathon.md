@@ -2,7 +2,7 @@
 title: "How BioBeing’s Win at Code for Pakistan’s Hackathon Opened More Doors for Their Biodiesel Dream"
 slug: "bio-being-code-for-pakistan-hackathon"
 summary: "Discover how Code for Pakistan's Civic Hackathon, in partnership with Telenor, realized the biodiesel dream for the Bio-Being team!"
-image: "/media/stories-bio-being-code-for-pakistan-hackathon.jpeg"
+image: "/media/stories/stories-bio-being-code-for-pakistan-hackathon.jpeg"
 date: "2021-09-21"
 ---
 When we begin our conversation, Ali Riaz is sitting in an office of a multinational in Karachi, where he works full-time. His expression is thoughtful, and it’s clear he’s preoccupied with something a little heavier than what’s on my mind, which is what I’m going to eat for lunch.

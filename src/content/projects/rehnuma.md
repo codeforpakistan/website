@@ -1,7 +1,7 @@
 ---
 title: "Rehnuma"
 slug: "rehnuma"
-image: "/media/project-rehnuma.jpg"
+image: "/media/projects/project-rehnuma.jpg"
 department: ""
 year: 2014
 sortOrder: 43

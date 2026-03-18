@@ -2,7 +2,7 @@
 title: "Leading a Civic Tech Revolution in Pakistan"
 slug: "glitter-glam-technology"
 summary: "It takes a village and a woman of substance to stir up some magic"
-image: "/media/karachi%2520hackathon.jpeg"
+image: "/media/stories/karachihackathon.jpeg"
 date: "2024-03-17"
 ---
 Celebrating hard work and achievement through awards and recognition is always exciting. But when those accolades involve civic innovation and promoting transparency in government, it signals change from the grassroots to the highest levels. It takes a village and a woman of substance to stir up some magic.
@@ -17,10 +17,6 @@ As I learned more about CfP's work, my exasperation with the state of affairs in
 
 After six and a half years at Yahoo!, Sheba joined a year-long public service Fellowship Program at Code for America in 2012. Taking a significant pay cut, she experienced the impact and role technology could play in bridging gaps between government and citizens. Internalizing her learnings, Sheba realized the need and importance of replicating the same success back home.
 
-![](/media/karachi%2520hackathon.jpeg)
-
-Sabeen, Jehan Ara and Sheba at Pakistan's first civic Hackathon, Karachi 2013. Image by: Sheba Najmi
-
 In 2013, Sheba tested her hypothesis at Karachi's T2F cafe with the mantra, '_Lead with people, not problems_.' A call to applications set the stage for Pakistan's first civic hackathon. Curious government officials and ordinary citizens made their way up the spiral staircase at T2F. That weekend, maybe for the first time, they worked together to hack ideas to explore new solutions to the city's old problems.
 
 > "There were so many people who came to T2F that day. Doctors, developers, designers, and citizens came together to brainstorm about city-related problems and find tech-based solutions. It was a no-brainer... we needed our own 'Code for Pakistan'".
@@ -31,9 +27,9 @@ Today, over 500 government officials have benefited from CfP's work, learning mo
 
 Eleven years later, Sheba is riding the waves with the same passion and vision to build better, stronger systems that will change Pakistan's public service delivery perception. There is infectious energy around every project we take on. Sheba continues to inspire a growing number of citizens to join the civic technology movement in Pakistan. CfP's doors are always open to those who wish to make a difference in their communities and bring about meaningful changes to government culture.
 
-![HUM Awards 2024 - Group Photo](/media/hum_group.jpg)
+![HUM Awards 2024 - Group Photo](/media/stories/hum_group.jpg)
 
-Sheba at the Hum Women Leaders Awards with President Arif Alvi, CEO of HUM News network Sultana Siddiqui, and women changemakers. Photo by: HUM News Network
+*Sheba at the Hum Women Leaders Awards with President Arif Alvi, CEO of HUM News network Sultana Siddiqui, and women changemakers. Photo by: HUM News Network*
 
 For the past five years, HUM TV has championed women's empowerment through the HUM Women Leader Awards. This prestigious initiative recognizes and celebrates the extraordinary contributions and achievements of iconic women from Pakistan and worldwide.
 

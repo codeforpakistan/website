@@ -2,7 +2,7 @@
 title: "What is a Hackathon?"
 slug: "what-is-hackathon"
 summary: "Learn the science behind 'hackathon' and how to become a part of it!"
-image: "/media/1_NvRxOzJ1IshgqQMlva1x3w.jpg"
+image: "/media/stories/1_NvRxOzJ1IshgqQMlva1x3w.jpg"
 date: "2021-10-04"
 ---
 Thank you for the overwhelming response on our GovTech Hackathon call for registration; over 1300 individuals from over 160 cities signed up for the event.
@@ -15,7 +15,7 @@ There is some mystery surrounding Hackathons. What are they? What happens during
 
 Well, let me help clear up some misconceptions around Hackathons.
 
-![](/media/1_NvRxOzJ1IshgqQMlva1x3w.jpg)
+![](/media/stories/1_NvRxOzJ1IshgqQMlva1x3w.jpg)
 
 ## What is a hackathon?
 

@@ -1,7 +1,7 @@
 ---
 title: "Digitisation of Pharmaceutical Licenses in KP"
 slug: "pharmaceutical-licenses"
-image: "/media/project-pharmaceutical-licenses.jpg"
+image: "/media/projects/project-pharmaceutical-licenses.jpg"
 department: "Department of Health and Directorate General Drugs"
 year: ""
 sortOrder: 6

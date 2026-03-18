@@ -2,7 +2,7 @@
 title: "Meet the Fellows | 5th Edition"
 slug: "generation-creators-makers-doers-fifth-edition"
 summary: "Digitizing NGO Registrations"
-image: "/media/stories-generation-creators-makers-doers-fifth-edition.jpg"
+image: "/media/stories/stories-generation-creators-makers-doers-fifth-edition.jpg"
 date: "2025-04-07"
 ---
 Welcome to "**A Generation of Doers**," _5th Edition_, a monthly series highlighting the impactful work of the Khyber Pakhtunkhwa (KP) Government Innovation Fellows. This fellowship, a collaboration between Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) since 2014, unites technologists, designers, and researchers to create digital solutions that improve governance and public services.

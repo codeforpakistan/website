@@ -2,7 +2,7 @@
 title: "Have you interacted with public services recently?"
 slug: "interactions-with-public-services"
 summary: "It’s not just you — confusing systems are everywhere."
-image: "/media/DLS%25202.jpg"
+image: "/media/stories/DLS2.jpg"
 date: "2024-08-03"
 ---
 Meet the Norman door. A Norman door is one where the design tells you to do the opposite of what you're supposed to do or gives the wrong signal and needs a sign to correct it. But this principle isn't limited to doors. I was reminded of [Don Norman](https://www.linkedin.com/in/donnorman/)'s design principles during a recent interaction with my local public services. Norman, a leading human-centered design proponent, introduced the concept of poorly designed doors in his book [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654).
@@ -24,11 +24,11 @@ In Norman's work, **discoverability** is an overarching concept that encompasses
 
 A few weeks ago, I visited the [Sindh Driving License Authority](https://dls.gos.pk/) website to renew my driving license. Reflecting on Don Norman's design principles, I wanted to see how well the overall process applied to my user experience. Logging on to the website, I found a detailed but easy-to-use interface to enter my information and book an appointment at my closest customer center. I was presented with options, which appeared to be straightforward but also a bit confusing; I didn't know what pre-appointment meant. The form did allow me to visualize my progress through the many fields of required data. After some struggle, I managed to get my appointment, and my token number was issued, saving me considerable time.
 
-![step 1](/media/DLS%25202.jpg)
+![step 1](/media/stories/DLS2.jpg)
 
-![Step 2](/media/DLS%25204.jpg)
+![Step 2](/media/stories/DLS4.jpg)
 
-![step 4](/media/DLS%25205.jpg)
+![step 4](/media/stories/DLS5.jpg)
 
 As I arrived on site, the first thing I noticed were the doors. Glass doors with 'push' stickers and handles (**affordances**). I could have sworn I heard Norman chuckle. I had a token for a specific time slot, and as I looked around for a queue trying to figure out when my number would be called, I couldnt find any sign. I thought to myself, I would have installed a clearly marked sign (**visibility**) for those who come through online booking.
 

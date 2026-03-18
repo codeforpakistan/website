@@ -2,7 +2,7 @@
 title: "Launching the Civic Innovator Program"
 slug: "civic-innovator-program-2024"
 summary: "Civic Innovator Program Launches to Address Civic Challenges in Pakistan"
-image: "/media/events-civic-innovator-program-2024.jpg"
+image: "/media/events/events-civic-innovator-program-2024.jpg"
 sortOrder: 12
 location: "Peshawar"
 startDate: "2024-11-18"

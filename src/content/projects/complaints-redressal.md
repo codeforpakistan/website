@@ -1,7 +1,7 @@
 ---
 title: "Complaints Redressal System"
 slug: "complaints-redressal"
-image: "/media/project-complaints-redressal.jpg"
+image: "/media/projects/project-complaints-redressal.jpg"
 department: "Public Safety & Police Complaints Commission"
 year: ""
 sortOrder: 3

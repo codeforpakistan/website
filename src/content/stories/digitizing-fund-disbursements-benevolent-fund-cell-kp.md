@@ -2,7 +2,7 @@
 title: "Supporting the Benevolent Fund Cell KP on Digitizing Fund Disbursements"
 slug: "digitizing-fund-disbursements-benevolent-fund-cell-kp"
 summary: "A throwback to digitizing the Benevolent Fund Cell Khyber Pakhtunkhwa's fund disbursement workflow during the 6th cycle of the KP Fellowship Program."
-image: "/media/0_Fz753wocC5KrqWy_.jpg"
+image: "/media/stories/0_Fz753wocC5KrqWy_.jpg"
 date: "2021-01-21"
 ---
 For the sixth cycle of the KP Government Innovation Fellowship Program, a team of Fellows partnered up with the Benevolent Fund Cell Khyber Pakhtunkhwa to digitize the entire fund disbursements workflow for the department. The department manages the welfare grants of serving and retired government employees and their families and needed a robust system where application processing could be streamlined, and fund disbursements could be expedited. The Fellows developed an online system for the department where applicants can easily apply for welfare schemes and grants, and the department can swiftly verify and assess the applications and ensure timely release of funds. This blog post sheds light on the need for digitization in the department as well as the salient features of the newly developed online system.
@@ -25,7 +25,7 @@ The department offers numerous welfare schemes to both gazetted (BS-16 and above
 -   Merit scholarships
 -   Interest-free loan
 
-![](/media/0_Fz753wocC5KrqWy_.jpg)
+![](/media/stories/0_Fz753wocC5KrqWy_.jpg)
 
 ## Welfare Schemes Offered by the Department
 
@@ -41,11 +41,11 @@ The Fellows incorporated features to facilitate application tracking and quick r
 
 Prior to developing the system, the team conducted user research with potential-end users (serving and retired government employees) and found that there were major delays in the processing of applications. The research revealed that it can take anywhere between 6 months to a year to process an application in some instances. These delays were mainly due to the non-availability of funds, lack of digital tracking and recording keeping, and delays in processing these applications. Serving and retired government officials surveyed also mentioned the delay in processing and lack of communication on the department’s part.
 
-![](/media/0_LmVfoS7MvvBGub-k.jpg)
+![](/media/stories/0_LmVfoS7MvvBGub-k.jpg)
 
-![](/media/0_V2zebehwNHJClNej.jpg)
+![](/media/stories/0_V2zebehwNHJClNej.jpg)
 
-![](/media/0_ymAcgdvk45xYKto6.jpg)
+![](/media/stories/0_ymAcgdvk45xYKto6.jpg)
 
 ## Developing the Solution
 
@@ -53,9 +53,9 @@ Based on the user research findings, an online solution was developed by the Fel
 
 Features have been added to facilitate application tracking and quick reporting for real-time decision making. The newly developed system improves processing for both applicants and BFC staff to ensure swift processing of applications, providing timely disbursement of funds to applicants in need of financial support.
 
-![](/media/0_1c21a-DoT75T_lZy.jpg)
+![](/media/stories/0_1c21a-DoT75T_lZy.jpg)
 
-![](/media/0_oqKzg-DQXGXww9XG.jpg)
+![](/media/stories/0_oqKzg-DQXGXww9XG.jpg)
 
 ## Expected Impact
 

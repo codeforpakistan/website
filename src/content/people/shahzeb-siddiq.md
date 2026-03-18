@@ -1,7 +1,7 @@
 ---
 title: "Shahzeb Siddiq"
 slug: "shahzeb-siddiq"
-image: "/media/shahzeb_0%255B1%255D.jpg"
+image: "/media/people/shahzeb.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 17

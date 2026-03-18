@@ -2,7 +2,7 @@
 title: "When Two Rivals Formed a Supergroup to Win Code for Pakistan’s Civic Hackathon 2020"
 slug: "-rivals-supergroup-hackathon-code-for-pakistan-2020"
 summary: "Ahmed and Jibran, two opponents teaming up to build Faryaad and winning accolades at Code for Pakistan's Civic Hackathon 2020!"
-image: "/media/1_j5LN-okyodfo2bXVy0ZqdA.jpg"
+image: "/media/stories/1_j5LN-okyodfo2bXVy0ZqdA.jpg"
 date: "2021-09-30"
 ---
 Ahmad Rizvi is a hackathon connoisseur. By the time our Civic Hackathon 2020 rolls around, he has already participated in 15 local and international hackathons and business competitions. He even organized one with the support of IEEE at Karachi University, where he was pursuing a bachelor’s degree in computer science.
@@ -19,17 +19,17 @@ Ahmad was more of a techie and Jibran’s focus was on marketing. Ahmad had alwa
 
 The two competing teams formed a supergroup, Team Solution Seekers. It was a perfect mix for a team heading into a hackathon, made up of a Moez Salahuddin, UI/UX designer; Muhammad Hamza, UI/UX developer; Taha Asif, Mobile App Developer (Flutter); Ahmed Rizvi, product manager; and Jibran Yousuf, marketing specialist.
 
-![](/media/1_j5LN-okyodfo2bXVy0ZqdA.jpg)
+![](/media/stories/1_j5LN-okyodfo2bXVy0ZqdA.jpg)
 
 As the Civic Hackathon 2020 guidelines were shared with the participating teams, the first step for Solution Seekers was to brainstorm ideas. They bounced 40 ideas off of one another before one stuck. They settled on [‘Faryad’](https://devpost.com/software/faryad), a mobile application which provided access to financial services — such as transaction of funds or providing loans — for the underprivileged, in cases of medical emergencies.
 
 After fleshing out the basics of their idea, the team was assigned two mentors.
 
-![](/media/0_aamIbIvyxWFT2U_7.jpg)
+![](/media/stories/0_aamIbIvyxWFT2U_7.jpg)
 
 Their first mentor, Habib Saqib, Head of Digital Lending, Insurance and IR at EasyPaisa / Telenor Microfinance Bank, believes that entrepreneurship and innovation are the best tools to address social issues in a sustainable and meaningful manner.
 
-![](/media/0_T78eXdnorfNwnBNj.jpg)
+![](/media/stories/0_T78eXdnorfNwnBNj.jpg)
 
 Their second mentor was Hannia Zia, Product Manager at Google, whose passion for public health led her to take a sabbatical from Google to volunteer with former Special Assistant to the Prime Minister, Tania Aidrus, to facilitate COVID awareness.
 
@@ -37,7 +37,7 @@ Habib Saqib helped the team understand the financial regulations that may hinder
 
 The sessions with mentors helped further shape their solution, and days later, the judges announced that Team Solution Seekers had won third place. The judges had been bowled over by the team’s product _and_ pitching.
 
-![](/media/1_R7tFFz86W_Lc1O2_iOoGbQ.jpg)
+![](/media/stories/1_R7tFFz86W_Lc1O2_iOoGbQ.jpg)
 
 It’s now a year later, and I ask Ahmad what advice he can offer for future participants, given that we have our GovTech Hackathon 2021 around the corner. It came as no surprise that as a veteran of hackathons, Ahmad had clear directions for anyone who is considering taking part in a hackathon.
 

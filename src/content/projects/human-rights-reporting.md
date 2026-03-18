@@ -1,7 +1,7 @@
 ---
 title: "Reporting Cell"
 slug: "human-rights-reporting"
-image: "/media/project-human-rights-reporting.jpg"
+image: "/media/projects/project-human-rights-reporting.jpg"
 department: "Directorate of Human Rights"
 year: ""
 sortOrder: 45

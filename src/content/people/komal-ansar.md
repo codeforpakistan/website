@@ -1,7 +1,7 @@
 ---
 title: "Komal Ansar"
 slug: "komal-ansar"
-image: "/media/Komal%2520Website%2520Image.jpg"
+image: "/media/people/komal.jpg"
 designation: "Program Associate"
 group: "staff"
 sortOrder: 5

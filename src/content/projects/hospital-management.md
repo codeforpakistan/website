@@ -1,7 +1,7 @@
 ---
 title: "Maternity Care System for BHUs"
 slug: "hospital-management"
-image: "/media/project-hospital-management.jpg"
+image: "/media/projects/project-hospital-management.jpg"
 department: "Department of Health"
 year: ""
 sortOrder: 26

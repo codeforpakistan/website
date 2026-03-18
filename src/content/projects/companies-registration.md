@@ -1,7 +1,7 @@
 ---
 title: "ICT Companies Registration Portal"
 slug: "companies-registration"
-image: "/media/project-companies-registration.jpg"
+image: "/media/projects/project-companies-registration.jpg"
 department: "KP IT Board"
 year: ""
 sortOrder: 18

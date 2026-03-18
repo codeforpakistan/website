@@ -2,7 +2,7 @@
 title: "Meet the Fellows | First Edition"
 slug: "generation-creators-makers-doers"
 summary: "Improving public service delivery"
-image: "/media/zaland.jpg"
+image: "/media/stories/zaland.jpg"
 date: "2024-11-06"
 ---
 Welcome to the _**Generation of Creators, Makers, and Doers**_ series, where we introduce our current cohort of passionate change-makers and alumni of the KP Government Innovation Fellowship. Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated on this program, driving meaningful change in public service delivery across KP.
@@ -11,7 +11,7 @@ The Fellowship Program unites individuals who combine their expertise as engaged
 
 This year, our Fellows are working on a unique challenge: developing a Large Language Model to handle government-related queries. This model will streamline answers on topics like Rules of Business, Procurement, Recruitment, Service Matters, and will provide summaries, presentations, notes, and service-related information. The goal is to make government processes more accessible, allowing both citizens and government employees to quickly access crucial information.
 
-![Zaland with Ibraheem](/media/zaland.jpg)
+![Zaland with Ibraheem](/media/stories/zaland.jpg)
 
 Let's hear from our Director of Fellowships, Ibraheem Saleem, and Fellows of Cohort # 8 Tabinda Qudrat and Zaland Afridi.
 

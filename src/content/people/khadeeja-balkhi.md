@@ -1,7 +1,7 @@
 ---
 title: "Khadeeja Balkhi"
 slug: "khadeeja-balkhi"
-image: "/media/khadeeja%255B1%255D.JPG"
+image: "/media/people/khadeeja.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 11

@@ -2,12 +2,12 @@
 title: "An Empowering Journey through the KP Women’s Civic Digital Internship Program"
 slug: "empowering-journey-internship"
 summary: "The story of Osmia and her life changing experience in the internship program"
-image: "/media/1%2520Ia4CRNuGO0VX1Avpjm0SEw.jpg"
+image: "/media/stories/1Ia4CRNuGO0VX1Avpjm0SEw.jpg"
 date: "2024-01-02"
 ---
 Osmia, a Computer Science graduate from Malakand University was in Peshawar to deliver her baby when she came across a social media post that changed her life. Code for Pakistan, in partnership with the [KP IT Board](https://www.kpitb.gov.pk/digital-skills) and the World Bank, was inviting women from the region to apply for the Khyber Pakhtunkhwa (KP) Women's Civic Digital Internship Program 2023.
 
-![](/media/1%2520Ia4CRNuGO0VX1Avpjm0SEw.jpg)
+![](/media/stories/1Ia4CRNuGO0VX1Avpjm0SEw.jpg)
 
 Osmia, a resident of Timergara, a beautiful town located on the footsteps of snow-capped mountains in Lower Dir, was confronted with cultural and geographical barriers that often dissuade women in her village from seeking employment outside their homes. She recalls, "_I didn't even know where to start."_
 
@@ -25,7 +25,7 @@ The program offers women a unique opportunity to work on citizen-facing digital 
 
 The internship program also offers blended learning, tailored mentorship and career counselling from top industry professionals. All **50** interns had an opportunity to improve their technical and leadership skills within the six month internship program.
 
-![](/media/osmia.jpg)
+![](/media/stories/osmia.jpg)
 
 ### _Inside the KP Women's Civic Digital Internship Program_
 
@@ -37,7 +37,7 @@ Osmia spent a large portion of her time mastering Graphic Design and UI/UX Devel
 
 Today, Osmia uses her skills to pursue work-from-home opportunities, improving her living conditions while balancing motherhood. Her son, Azlaan,is now 18 months old and a budding football fan. Osmia extends her impact by educating young girls in her village, imparting valuable skills in Adobe Photoshop and Illustrator, thereby enriching her community.
 
-![](/media/1%2520vJe49z4FbareuE7RC4vWgA.jpg)
+![](/media/stories/1vJe49z4FbareuE7RC4vWgA.jpg)
 
 ### _Osmia's Message of Hope and Empowerment_
 

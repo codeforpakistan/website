@@ -2,7 +2,7 @@
 title: "One Year of Digital Governance"
 slug: "one-year-digital-governance"
 summary: "How the Gilgit-Baltistan Fellowship is Strengthening Public Services"
-image: "/media/stories-one-year-digital-governance.jpg"
+image: "/media/stories/stories-one-year-digital-governance.jpg"
 date: "2025-03-03"
 ---
 In August 2023, the [Gilgit-Baltistan Performance Management & Reforms Unit](https://pmrugb.gov.pk/) (GB PMRU) and Code for Pakistan (CfP) launched the [Gilgit-Baltistan Government Innovation Fellowship Program](https://codeforpakistan.org/web/programs/fellowships/gilgit-baltistan), embedding technologists within government departments to modernize administrative processes, improve service delivery, and enhance transparency. Over the past year, the Fellowship has supported key governance initiatives — introducing digital tools that streamline government operations and strengthen public engagement.

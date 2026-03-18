@@ -2,7 +2,7 @@
 title: "My first CfA summit"
 slug: "my-first-cfa-summit"
 summary: "Learning from and becoming part of a dynamic worldwide movement"
-image: "/media/stories-my-first-cfa-summit.jpg"
+image: "/media/stories/stories-my-first-cfa-summit.jpg"
 date: "2016-12-21"
 ---
 When I was invited to attend the Code for America Summit in Oakland this November, I could not help but feel slightly anxious. It was going to be a huge room full of tech experts and civic innovation leaders; fields I was still trying to get my head around. I had joined Code for Pakistan as Head of Programs barely 2 months ago. My background was in international development and though I was deeply interested in civic innovation and the role technology could play in addressing social and economic issues plaguing Pakistan, I was uncertain of how much I could take away from the Summit. Would the talks involve a lot of high level conversations and jargon that I would be unable to make sense of? Would I be able to contribute in any meaningful way? Would I leave with any valuable takeaways?

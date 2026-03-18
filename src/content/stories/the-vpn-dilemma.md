@@ -2,7 +2,7 @@
 title: "The VPN Dilemma"
 slug: "the-vpn-dilemma"
 summary: "VPNs, Privacy, and the Struggle for Rights in Pakistan"
-image: "/media/stories-the-vpn-dilemma.jpg"
+image: "/media/stories/stories-the-vpn-dilemma.jpg"
 date: "2024-12-16"
 ---
 Code for Pakistan hosted a town hall at [_The Black Hole_](https://theblackhole.pk) to address one of the most pressing digital issues of our time: [**The VPN Debate and What It Means for Privacy and Digital Rights in Pakistan**](https://www.youtube.com/watch?v=FODHlvXvhDM) . Led by Shaji Ahmed, the event brought together engaged citizens to explore the complex dynamics of internet governance, privacy, and freedom in the digital era. The discussion extended beyond the technical and societal implications of VPN restrictions, delving into the broader challenge of balancing national security with the fundamental rights of citizens.

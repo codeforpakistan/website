@@ -2,14 +2,14 @@
 title: "Working from Home — Is it really working out?"
 slug: "working-from-home-is-it-really-working-out"
 summary: "Day 17 in quarantine."
-image: "/media/1_Yy12LFm7tRj5MQjRMkIbGQ.jpg"
+image: "/media/stories/1_Yy12LFm7tRj5MQjRMkIbGQ.jpg"
 date: "2020-04-01"
 ---
 It’s been two weeks since I was last in our cosy office in Islamabad, where four of us work together pretty closely. Two weeks ago when we were instructed to work from home, I thought this was all a preventive measure and soon enough we’ll be back to work. Little did I know, this was just the beginning.
 
 On any given work day, most of us do think about working from home. We could have multiple reasons for that. Either we are unwell or lack the will to get up and dress for work, or we have some domestic chores to take care of while working, or we are just being lazy. Every now and then, it’s ideal to get some work done from home — it’s even productive. However, in the given circumstances or, I’d rather say, extenuating circumstances, we are all forced to work from home. Here the word ‘force’ is critical as that does mark our basis of survival during the Covid-19 outbreak. The irony here is that when life was normal, we all craved for flexible hours or even the option to work from home. Some of us would even go to great lengths to make a case to our supervisors to allow us to work from home. But right now, not many of us are finding that joy in working from home. It is rather burdensome. To some it may also feel like being caged. After all, for how long can we feel like it’s a slumber party in our pjs?
 
-![](/media/1_Yy12LFm7tRj5MQjRMkIbGQ.jpg)
+![](/media/stories/1_Yy12LFm7tRj5MQjRMkIbGQ.jpg)
 
 As a people person, I desperately miss our office meetings, team catch-ups and one-to-one interactions. Two weeks into quarantine and I want my life back to normal. But as of now, it seems too much to ask for. So last week we decided to have a conference call with the team where we can all see each other and exchange our experiences of working from home. It was a much needed session, as it was absolutely encouraging for me to learn that I am not alone struggling with this new routine, which I may have to adapt to given that the current situation of social distancing, self-isolation and quarantine may persist long-term. My colleagues too are facing issues and they are finding their own ways to deal with them. I have also gone through some articles on the web which tell you about how to manage work from home. Most of them emphasize that you must find and follow a routine. However, I partially disagree with that as I know that not everyone can be as productive at home as one is in an office space. Or that some people are at their best when they consistently receive feedback from their colleagues and peers. And some of us just enjoy listening to others no matter what they are talking about. My point is that we all are differently wired and have our own way of working and being productive. As my colleague Anam said this morning, “_It’s okay to struggle during such times, it’s okay to not be perfect because this is going to last for a long time and we must save our energy for the final bit._” Imagine you are running a relay race. You start slow and build up momentum gradually till you reach the finish line.
 

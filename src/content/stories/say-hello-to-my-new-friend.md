@@ -2,7 +2,7 @@
 title: "Say Hello to my new friend!"
 slug: "say-hello-to-my-new-friend"
 summary: "The idea is simple: empower ordinary citizens by giving them access to information."
-image: "/media/Numainda%2520edited.jpg"
+image: "/media/stories/Numaindaedited.jpg"
 date: "2024-03-01"
 ---
 The constitution of Pakistan has had a presence in my home for three generations now. Among stacks of books, a green book, an amended version of the green book, and yet another one made its way to our shelves over the years. The idea that we have laws, whether implemented or not ( a story for another day), was a good enough reason for the Constitution's presence on our bookshelf.
@@ -33,19 +33,19 @@ The Bot has graduated from the 'Constitution of Pakistan school and has been int
 
 "Hey Numainda, what rules exist for reserved seats in Parliament?
 
-![Numainda](/media/Numainda%2520edited.jpg)
+![Numainda](/media/stories/Numaindaedited.jpg)
 
 What I like about my newfound friend Numainda is, it/ he/she has been trained to generate facts about the constitution automatically. So, about 3 times a week, Numainda will share information about the constitution of Pakistan on your Twitter feed.
 
 Here is information I didn't realize I needed in my life:
 
-![Numainda](/media/Numainda%2520edited%25202.jpg)
+![Numainda](/media/stories/Numaindaedited2.jpg)
 
 If it hadn't been for Numainda and my clearly not-so-well-researched article, I wouldn't have known that the 'Elections Act 2017 came into force immediately,' information that should have been included in my introduction. It makes a great tool for journalists and every Pakistani who should, at the very least, be aware of the laws and legalities that may impact them.
 
 > Numainda houses information on all things related to Pakistani legislation.
 
-![Numainda](/media/Numainda%2520edited%25203.jpg)
+![Numainda](/media/stories/Numaindaedited3.jpg)
 
 By presenting information in bite-sized, easily digestible formats for citizens, Numainda establishes itself as a promising young bot, improving access to information for many in Pakistan. It can be a helpful tool for lawyers on the go. In fact, it took me three lawyers and one Numainda to research how many amendments have been made to the Constitution to date. Deeply embedded in Numainda's roots is a message of hope for a more digitalized and transparent Pakistan- something we all wish for, especially in the aftermath of the recent election.
 

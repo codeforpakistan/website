@@ -1,7 +1,7 @@
 ---
 title: "Sheba Najmi"
 slug: "sheba-najmi"
-image: "/media/sheba--ba71c523.jpg"
+image: "/media/people/sheba.jpg"
 designation: "Board Chair"
 group: "board"
 sortOrder: 1

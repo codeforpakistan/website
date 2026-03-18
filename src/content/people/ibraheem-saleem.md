@@ -1,7 +1,7 @@
 ---
 title: "Ibraheem Saleem"
 slug: "ibraheem-saleem"
-image: "/media/ibraheem%255B1%255D.jpg"
+image: "/media/people/ibraheem.jpg"
 designation: "Sr Manager Programs"
 group: "staff"
 sortOrder: 2

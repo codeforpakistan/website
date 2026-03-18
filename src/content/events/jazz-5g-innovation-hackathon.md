@@ -2,7 +2,7 @@
 title: "Jazz 5G Innovation Hackathon"
 slug: "jazz-5g-innovation-hackathon"
 summary: "Leveraging the power of 5G to develop innovative solutions"
-image: "/media/events-jazz-5g-innovation-hackathon.jpg"
+image: "/media/events/events-jazz-5g-innovation-hackathon.jpg"
 sortOrder: 6
 location: "Islamabad"
 startDate: "2024-03-09"

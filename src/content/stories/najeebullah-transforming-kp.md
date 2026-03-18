@@ -2,7 +2,7 @@
 title: "Najeebullah - Transforming KP through technology"
 slug: "najeebullah-transforming-kp"
 summary: "How an IT Whiz from Waziristan Is Using His Skills to Transform KP Through Technology"
-image: "/media/1%2520pU3UiRk6uix2ygyDodP54Q.jpg"
+image: "/media/stories/1pU3UiRk6uix2ygyDodP54Q.jpg"
 date: "2022-05-12"
 ---
 "It can take me 8–10 hours to travel by road from Peshawar to my hometown in Waziristan," answers Najeebullah when I ask him how long it takes him to get to his village. I'm curious, in part because Waziristan sits firmly in Pakistan's tribal belt. It is mountainous, remote and underdeveloped, so I know travel to and from the area is arduous and oftentimes dangerous.
@@ -23,7 +23,7 @@ In 2020, after six years away from home, Najeeb returned to North Waziristan.
 
 So Najeeb was on the move again. This time around, he found a job in Islamabad, where he was exposed to freelancing and networked within the startup ecosystem, which was burgeoning in Pakistan. Through his friends in the Peshawar startup scene, Najeeb learned about the KP Government Innovation Fellowship Program.
 
-![](/media/1%2520pU3UiRk6uix2ygyDodP54Q.jpg)
+![](/media/stories/1pU3UiRk6uix2ygyDodP54Q.jpg)
 
 "What I have learned in 6 months exceeds my 2 years of job experience. Before, I only knew how to code, and now I know every step of project management plus the experience of client servicing. I have sat in over 10 meetings with government departments. I remember being nervous in the first few meetings with serving officers and high-ranking government officials, but now I have the confidence to manage those high-level meetings. That sort of experience is priceless."
 

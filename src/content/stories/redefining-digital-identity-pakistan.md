@@ -2,7 +2,7 @@
 title: "Pehchan"
 slug: "redefining-digital-identity-pakistan"
 summary: "Redefining Digital Identity for Pakistan’s Future"
-image: "/media/stories-redefining-digital-identity-pakistan.JPG"
+image: "/media/stories/stories-redefining-digital-identity-pakistan.JPG"
 date: "2024-12-10"
 ---
 Imagine life without your national identity card—a single document that enables everything from opening a bank account to registering a SIM card. It is more than just an ID; it is a gateway to trust and services, a symbol of official recognition in the physical world.

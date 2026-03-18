@@ -1,7 +1,7 @@
 ---
 title: "M&E Referral System"
 slug: "me-referral"
-image: "/media/project-me-referral.jpg"
+image: "/media/projects/project-me-referral.jpg"
 department: "Planning & Development Department"
 year: ""
 sortOrder: 25

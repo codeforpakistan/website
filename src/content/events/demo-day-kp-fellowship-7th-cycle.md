@@ -2,7 +2,7 @@
 title: "Demo Day KP Fellowship 7th Cycle"
 slug: "demo-day-kp-fellowship-7th-cycle"
 summary: "Demo Day for the 7th cycle of the KP Fellowship Program"
-image: "/media/events-demo-day-kp-fellowship-7th-cycle.jpg"
+image: "/media/events/events-demo-day-kp-fellowship-7th-cycle.jpg"
 sortOrder: 3
 location: "Peshawar"
 startDate: "2022-04-06"

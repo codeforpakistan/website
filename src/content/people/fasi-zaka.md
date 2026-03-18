@@ -1,7 +1,7 @@
 ---
 title: "Fasi Zaka"
 slug: "fasi-zaka"
-image: "/media/fasi.jpeg"
+image: "/media/people/fasi.jpg"
 designation: "Board Member"
 group: "board"
 sortOrder: 3

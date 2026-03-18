@@ -2,7 +2,7 @@
 title: "The KP Women Civic Internship Program 2021"
 slug: "kp-women-civic-internship-2021"
 summary: "Offering Learning Opportunities to the Interns"
-image: "/media/stories-kp-women-civic-internship-2021.jpg"
+image: "/media/stories/stories-kp-women-civic-internship-2021.jpg"
 date: "2021-12-29"
 ---
 The KP Women Civic Internship Program is a 6-month internship designed to up-skill women fresh graduates of KP with technology skills, provide practical hands-on work experience and prepare them for exploring a career in Engineering, IT and Software Development.

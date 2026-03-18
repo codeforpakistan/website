@@ -1,7 +1,7 @@
 ---
 title: "KP BoS Website & Portal"
 slug: "bureau-statistics-portal"
-image: "/media/project-bureau-statistics-portal.jpg"
+image: "/media/projects/project-bureau-statistics-portal.jpg"
 department: "Bureau of Statistics"
 year: ""
 sortOrder: 20

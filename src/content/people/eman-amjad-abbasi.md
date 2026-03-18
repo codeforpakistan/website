@@ -1,7 +1,7 @@
 ---
 title: "Eman Amjad Abbasi"
 slug: "eman-amjad-abbasi"
-image: "/media/2--46d98545.jpg"
+image: "/media/people/eman.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 7

@@ -1,7 +1,7 @@
 ---
 title: "Mercy Petition System for Inspector General Prisons"
 slug: "mercy-petition"
-image: "/media/project-mercy-petition.jpg"
+image: "/media/projects/project-mercy-petition.jpg"
 department: "Inspectorate General Prisons"
 year: ""
 sortOrder: 28

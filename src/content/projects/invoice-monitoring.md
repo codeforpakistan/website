@@ -1,7 +1,7 @@
 ---
 title: "Generic Invoice Monitoring System"
 slug: "invoice-monitoring"
-image: "/media/project-invoice-monitoring.jpg"
+image: "/media/projects/project-invoice-monitoring.jpg"
 department: "Khyber Pakhtunkhwa Revenue Authority"
 year: ""
 sortOrder: 15

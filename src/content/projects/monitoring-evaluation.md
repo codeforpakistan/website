@@ -1,7 +1,7 @@
 ---
 title: "Monitoring and Evaluation System"
 slug: "monitoring-evaluation"
-image: "/media/project-monitoring-evaluation.jpg"
+image: "/media/projects/project-monitoring-evaluation.jpg"
 department: "KPITB Monitoring and Evaluation Cell"
 year: ""
 sortOrder: 30

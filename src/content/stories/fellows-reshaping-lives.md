@@ -2,14 +2,14 @@
 title: "Fellows Reshaping Lives"
 slug: "fellows-reshaping-lives"
 summary: "All about 4th cycle KP Fellows and their amicable way of improving government processes through digital transformation."
-image: "/media/1_tUBf5frSI8Qz_i4yt56OAA.jpg"
+image: "/media/stories/1_tUBf5frSI8Qz_i4yt56OAA.jpg"
 date: "2019-04-03"
 ---
 In this century, innovation is synonymous with technology as that is where the most rapid and effective advancements are happening. In the current circumstances, governments cannot forgo technology for solving citizens’ problems in an innovative way. Over the past few years, Pakistan has jumped the bandwagon for digital innovation in systems of government. For this purpose, government offices across the country are trying to digitize their systems.
 
 Federal and provincial IT Boards are making tremendous contributions to this cause, particularly in the domain of civic innovation. KPK IT Board in collaboration with Code for Pakistan and The World Bank Group launched its fourth cycle of the KP Government Innovation Fellowship Program 2018, bringing together 20 talented Fellows to collaborate with 8 different government departments to innovate in public service delivery.
 
-![](/media/1_tUBf5frSI8Qz_i4yt56OAA.jpg)
+![](/media/stories/1_tUBf5frSI8Qz_i4yt56OAA.jpg)
 
 _Fourth Fellowship Cycle 2018 -2019 — All about the Fellows_
 
@@ -23,7 +23,7 @@ Muneeb and Naqeeb also worked as developers with Auqaf, Hajj, Religious & Minori
 
 > _“I worked on a project which deals with the grant and funds management system of minorities on behalf of Auqaf, Hajj, Religious & Minority Affairs. I was so happy to work on it. As a result of the project and the transparency it brought into the grants management system, the department is able to ensure there is no discrimination against any minority and they get equal opportunities. One aspect of this project is the satisfaction brought by working for humanity without any discrimination.”_
 
-![](/media/1_i0jq42CLRkiP0qUPa7UH1g.jpg)
+![](/media/stories/1_i0jq42CLRkiP0qUPa7UH1g.jpg)
 
 _Muneeb and Naqeeb after deploying the solution at the KP Auqaf, Hajj, Religious &amp; Minority Affairs Department_
 
@@ -39,7 +39,7 @@ _“They are important; they show us the right way to deal with the projects. Th
 
 Shahzaib already had experience working with KPK IT Board as an internee. During the Fellowship, he developed three applications for the [Excise and Taxation Department](https://play.google.com/store/apps/details?id=com.emvsc.excise) which dealt with user facilitation and warehouse management of seized vehicles by the department.
 
-![](/media/1_kvb9y45AVlUmRi2gWwwWWQ_0.jpg)
+![](/media/stories/1_kvb9y45AVlUmRi2gWwwWWQ_0.jpg)
 
 _Fellows along with their focal person training the Excise and Taxation Department officials_
 

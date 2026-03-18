@@ -2,7 +2,7 @@
 title: "Open Source Day for Women"
 slug: "open-source-day-for-women"
 summary: "Workshop aimed at increasing women's participation in the open source community"
-image: "/media/stories-open-source-day-for-women.jpg"
+image: "/media/stories/stories-open-source-day-for-women.jpg"
 date: "2017-02-05"
 ---
 Code for Pakistan recently hosted Open Source day For Women at the Habib University campus in Karachi. It was a day-long workshop aimed at increasing women's participation in the open source community. The open source community is a movement where people all over the world contribute to create and maintain open source software. It denotes software for which the original source code is made freely available and can be redistributed and modified. Through platforms like [github](https://github.com/), anyone and everyone can view open source code and make modifications to it. The more recognizable examples of open source software include Linux, Firefox and WordPress. Most of the plumbing that keeps the internet working is also run on open source software.

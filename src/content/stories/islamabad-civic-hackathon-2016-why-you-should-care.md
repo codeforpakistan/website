@@ -2,7 +2,7 @@
 title: "Islamabad Civic Hackathon 2016 – Why You Should Care!"
 slug: "islamabad-civic-hackathon-2016-why-you-should-care"
 summary: "Why we should all get involved in civic hacking to positively contribute to our communities"
-image: "/media/stories-islamabad-civic-hackathon-2016-why-you-should-care.jpg"
+image: "/media/stories/stories-islamabad-civic-hackathon-2016-why-you-should-care.jpg"
 date: "2014-07-14"
 ---
 #### What is a "Civic Hackathon" and why should I even care?

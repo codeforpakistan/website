@@ -1,7 +1,7 @@
 ---
 title: "Relief Reporting System"
 slug: "relief-tracking"
-image: "/media/project-relief-tracking.jpg"
+image: "/media/projects/project-relief-tracking.jpg"
 department: "Provincial Disaster Management Authority"
 year: 2015
 sortOrder: 44

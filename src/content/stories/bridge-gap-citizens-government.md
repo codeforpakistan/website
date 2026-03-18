@@ -2,7 +2,7 @@
 title: "Bridge the Gap Between Citizens & Government!"
 slug: "bridge-gap-citizens-government"
 summary: "5 Ways Code for Pakistan’s KP Fellows Bridge the Gap Between Citizens & Government!"
-image: "/media/1%2520Rhjnc-l9fscppItT_z2QQg.jpg"
+image: "/media/stories/1Rhjnc-l9fscppItT_z2QQg.jpg"
 date: "2022-04-28"
 ---
 Another 6-months gone in a flash, and just like that the 7th cycle of our KP Government Innovation Fellowship Program has come to an end. Every year is special, but this year was full of exciting new initiatives. Not only did we create digital solutions to benefit the citizens of KP, but we also brought more women into the Fellowship mix. Training women from some of the REMOTEST areas of KP (real villages in some cases!), and giving them the opportunity to work alongside skilled professionals on some incredibly interesting government projects.
@@ -17,7 +17,7 @@ Over 7500 candidate applications from all across KP arrived in our inboxes. This
 
 #### Developing solutions for citizens, with their input
 
-![](/media/1%2520Rhjnc-l9fscppItT_z2QQg.jpg)
+![](/media/stories/1Rhjnc-l9fscppItT_z2QQg.jpg)
 
 The digital solutions were built in accordance with design thinking and human-centered design methodologies, with input from end users and citizens collected at every stage of the development process. The Fellows began by conducting user research in order to gather feedback on wireframes and prototypes that they had developed previously. Following that, Minimum Viable Products (MVPs) were produced, and usability testing involving users was undertaken. By adopting a user-centric approach, these solutions seek to meet the needs of citizens by including features and procedures that make it easier for the citizens to access government services and information.
 
@@ -25,7 +25,7 @@ The solutions created included websites, mobile apps, and online portals, all of
 
 #### Training sessions by accomplished professionals
 
-![](/media/1%2520n5KzCsAsBHSrXSz7bIKnoQ.jpg)
+![](/media/stories/1n5KzCsAsBHSrXSz7bIKnoQ.jpg)
 
 During the 7th cycle, more than 60 training sessions were arranged for our Fellows. This was made possible by the exceptional support of our experienced mentors, trainers, and volunteers who contributed to the success of the program.
 

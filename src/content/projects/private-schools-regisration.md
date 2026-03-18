@@ -1,7 +1,7 @@
 ---
 title: "E-Registration Platform"
 slug: "private-schools-regisration"
-image: "/media/project-private-schools-regisration.jpg"
+image: "/media/projects/project-private-schools-regisration.jpg"
 department: "Private Schools Regulatory Authority"
 year: ""
 sortOrder: 10

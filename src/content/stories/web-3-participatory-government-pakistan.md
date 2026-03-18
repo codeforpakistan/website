@@ -2,12 +2,12 @@
 title: "Web 3.0 and Participatory Government in Pakistan"
 slug: "web-3-participatory-government-pakistan"
 summary: "Discussion centered on positive impact of Web 3.0 on private sector"
-image: "/media/1%2520nqytYMyZj31BdnPIrnplPw.jpg"
+image: "/media/stories/1nqytYMyZj31BdnPIrnplPw.jpg"
 date: "2022-08-01"
 ---
 Fulfilling professional experiences should be shared, whether to offer learnings or to simply strengthen our bond as participants in the Pakistani tech ecosystem. One such, a few days ago, was a group of learned people with the choicest of anecdotes who came together at [NSTP](https://nstp.pk/) for a panel curated by [CxO Global Forum](https://www.facebook.com/GlobalCxOForum/), entitled “[The Digital Creative Economy: Web 3.0](https://www.entrepreneur.com/article/422122)”. Panel discussions are engaging and valuable when the participants hold solid experience in the subject matter, are not afraid to speak their mind, _and_ have a sense of humour. It helps to not take oneself too seriously, and to listen and learn equally from the audience as they learn from you. This one was amongst the best in a long time, and I was privileged to be a panelist.
 
-![Group photo](/media/1%2520nqytYMyZj31BdnPIrnplPw.jpg)
+![Group photo](/media/stories/1nqytYMyZj31BdnPIrnplPw.jpg)
 
 _From left to right: Kanwal Masroor -Country Director at CxO Global Forum, Dr. Salman Raza Naqvi - Director at NSTP, Javaid Iqbal -Chief Commercial Officer at STZA, Samina Rizwan - Country Head at Code for Pakistan, Rizwan Akhtar -Chief Technology Officer at Inbox Business Technologies, Imran Jattala -Chief Innovation Officer at Inovators Garage, Noushad Minhas -Country Head at Fasset._
 
@@ -15,11 +15,11 @@ We are in the eye of a perfectly brewing storm of the global digital creative ec
 
 The panel discussion centered on the positive impact of Web 3.0 on the private sector — cryptocurrencies and blockchain, agritech and IoT, gaming and virtual reality, AI powered decision support; “machine to machine” internet communication enabled by the [semantic web](https://en.wikipedia.org/wiki/Semantic_Web) and micro-formatting and coupled with powerful data assets, helping consumers get more targeted information. There wasn’t much reference to the public sector.
 
-![](/media/1_XdwP8xG_LnC6Uv_vPbkMXw--915b49e2.jpeg)
+![](/media/stories/1_XdwP8xG_LnC6Uv_vPbkMXw--915b49e2.jpeg)
 
 _From left to right: Javaid Iqbal, Samina Rizwan, Rizwan Akhtar._
 
-![](/media/1_XGP9JeD8EauBUHsHSNSrKQ--44d5dba4.jpeg)
+![](/media/stories/1_XGP9JeD8EauBUHsHSNSrKQ--44d5dba4.jpeg)
 
 _Samina Rizwan discussing Web 3.0 at CxO Global Forum's Conference._
 
@@ -33,7 +33,7 @@ Enter Web 3.0! Naysayer's opinion is that while [Web 2.0 was for people, Web 3.0
 
 It provides a mechanism for the government to enter and exit citizens’ lives more fluidly. Government services and data being available on the web in machine-readable format enables developers to search for useful data points and deliver these, or insights from them to citizens. Compare this to Govtech of the earlier wave where one suffered a stressful process of data-hunting on government portals. The multidimensional representation that Web 3.0 facilitates, empowers constituents with real-time information with photo-imagery and videos, or 3D virtual reality.
 
-![](/media/1_Lwg6-WPmLtJFhJq9JpiLIg--25a2add0.jpeg)
+![](/media/stories/1_Lwg6-WPmLtJFhJq9JpiLIg--25a2add0.jpeg)
 
 _Noshad Minhas, Country Head of Fasset._
 

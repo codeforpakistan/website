@@ -2,7 +2,7 @@
 title: "KP Pharmacy Licensing"
 slug: "KP-pharmacy-licensing"
 summary: "How a Digital Licensing System in KP is Restoring Trust in Public Health"
-image: "/media/stories-KP-pharmacy-licensing.jpg"
+image: "/media/stories/stories-KP-pharmacy-licensing.jpg"
 date: "2025-02-04"
 ---
 For years, Pakistan’s pharmaceutical sector operated with limited oversight, creating dangerous gaps in public health. In Khyber Pakhtunkhwa (KP), counterfeit and expired medicines flooded the market. Without a reliable licensing system, it was nearly impossible to verify which pharmacies were operating legally and which were selling unregulated drugs. The [World Health Organization](https://www.who.int/countries/pak) estimates that up to one million people die each year due to counterfeit medicines. In Pakistan, this issue became painfully clear when fake heart medication led to hundreds of deaths. But counterfeit drugs were only part of the problem — the system that allowed them to spread was broken.

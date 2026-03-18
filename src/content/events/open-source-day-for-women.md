@@ -2,7 +2,7 @@
 title: "Open Source Day for Women"
 slug: "open-source-day-for-women"
 summary: "The Open Source day For Women was held at the Habib University campus in Karachi"
-image: "/media/events-open-source-day-for-women.jpg"
+image: "/media/events/events-open-source-day-for-women.jpg"
 sortOrder: 14
 location: "Karachi"
 startDate: "2017-02-05"

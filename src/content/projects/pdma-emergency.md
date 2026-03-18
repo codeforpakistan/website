@@ -1,7 +1,7 @@
 ---
 title: "PDMA Official Web App"
 slug: "pdma-emergency"
-image: "/media/project-pdma-emergency.jpg"
+image: "/media/projects/project-pdma-emergency.jpg"
 department: "PDMA (Emergency Wing)"
 year: ""
 sortOrder: 37

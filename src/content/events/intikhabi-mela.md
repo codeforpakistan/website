@@ -2,7 +2,7 @@
 title: "Intikhabi Mela"
 slug: "intikhabi-mela"
 summary: "Expressing democracy through art, technology, and civic engagement"
-image: "/media/events-intikhabi-mela.jpg"
+image: "/media/events/events-intikhabi-mela.jpg"
 sortOrder: 4
 location: "Peshawar, Islamabad"
 startDate: "2024-01-26"

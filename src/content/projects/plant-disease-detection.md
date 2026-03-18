@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Plant Disease Detection App"
 slug: "plant-disease-detection"
-image: "/media/project-plant-disease-detection.jpg"
+image: "/media/projects/project-plant-disease-detection.jpg"
 department: "Agriculture Department"
 year: 2025
 sortOrder: 1

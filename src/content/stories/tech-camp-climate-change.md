@@ -2,7 +2,7 @@
 title: "Tech Camp 2023: Pakistani Youth Innovate for Climate Change"
 slug: "tech-camp-climate-change"
 summary: "Pakistani youth came together to build creative solutions that contribute to Climate Action"
-image: "/media/TC2_engaged_audience_cool_speaker.jpeg"
+image: "/media/stories/TC2_engaged_audience_cool_speaker.jpeg"
 date: "2023-03-24"
 ---
 You could feel the energy of the room as soon as you walked in. It was the second round of a 3-day Tech Camp event arranged by [National Incubation Center Peshawar (NIC)](https://nicpeshawar.pk/) and curated by [Code for Pakistan](https://codeforpakistan.org/about). The purpose of the events was to engage Pakistani youth in the climate action discussion through active problem-solving.
@@ -11,25 +11,25 @@ Four teams of students from seven different universities in Khyber Pakhtunkhwa (
 
 However, that wasn't the only noteworthy aspect of this enthralling event. The teams exhibited a surprisingly diverse portfolio, which was reflected in the innovative ideas they later proposed. Psychology majors, chemical engineers, computer scientists, and many other academic backgrounds contributed to a strong set of ideas that would eventually receive funding from The Asia Foundation to further scale.
 
-![](/media/TC2_engaged_audience_cool_speaker.jpeg)
+![](/media/stories/TC2_engaged_audience_cool_speaker.jpeg)
 
 Doing the rounds of the tables, I was taken by one of the teams' ideas to design an Awareness Campaign because, as they said, "nothing can change unless people know that there is a problem, and what that problem is." This all-girls team was thinking at the grassroots level, aiming to bring the climate change discussion home and make it local. There were a few other creative ideations in the works, like the team developing a project on up-cycling of products.
 
-![](/media/tc_1.jpeg)
+![](/media/stories/tc_1.jpeg)
 
-![](/media/tc_2.jpeg)
+![](/media/stories/tc_2.jpeg)
 
-![](/media/tc_8.jpeg)
+![](/media/stories/tc_8.jpeg)
 
 _Team Upcycling taking tips from CfP Director Fellowships, Ibraheem Saleem_
 
-![](/media/TC2_Biz_canvas_session.jpeg)
+![](/media/stories/TC2_Biz_canvas_session.jpeg)
 
-![](/media/TC2_Khadeeja_session.jpeg)
+![](/media/stories/TC2_Khadeeja_session.jpeg)
 
-![](/media/TC2_mentor_session.jpeg)
+![](/media/stories/TC2_mentor_session.jpeg)
 
-![](/media/mentor_speaking_passionate.jpeg)
+![](/media/stories/mentor_speaking_passionate.jpeg)
 
 Amongst the myriad proposals, there was one team whose passion for the challenge was palpable. Anfal, Tameem, Sami, Waliya, and Saif are students at UET Peshawar, and they wanted to make a positive impact on the environment. They had each applied to the Net Zero Tech Camp with their own concept of how they would make this impact. During the early stages, when teams were being selected based on their proposed ideas, they had all joined the challenge in different groups but ended up uniting after a mutual interest was discovered in a particular proposal.
 
@@ -37,7 +37,7 @@ When the challenge kicked finally off, they ideated, going back and forth with d
 
 The team's innovative project demonstrated the potential to reduce pollution by a significant degree and profound standards thereby making an impact on the environment. The well-thought-out and thoroughly researched product idea is what led the five of them to join hands with Saif and became known as one team- "Team Green Block."
 
-![](/media/Green_Block_presenting.jpeg)
+![](/media/stories/Green_Block_presenting.jpeg)
 
 _Team Green Block presenting their idea_
 

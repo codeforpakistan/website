@@ -2,7 +2,7 @@
 title: "3 Open Source Apps You Wish You Knew About!"
 slug: "3-open-source-apps-you-wish-you-knew"
 summary: "Highlighting open source applications developed by our 6th Cycle Fellows"
-image: "/media/1_msORyoH52ulNz3ewLwvJXA--9524d5ea.jpg"
+image: "/media/stories/1_msORyoH52ulNz3ewLwvJXA--9524d5ea.jpg"
 date: "2022-07-27"
 ---
 You are probably familiar with software like WordPress, VLC Media Player, and Mozilla Firefox- just a few of the many that the open source community has blessed us with globally. But did you know that Pakistan is among the [fastest growing](https://www.techjuice.pk/pakistan-ranks-among-the-fastest-growing-countries-in-open-source-projects-github-report/) countries in open source software contribution as well, with a vibrant and growing community of techies developing open-source software for various needs?
@@ -13,17 +13,17 @@ Here are 3 open source app's developed by our 6th Cycle Fellows that you can sta
 
 #### [Mustahiq App](https://play.google.com/store/apps/details?id=com.kpitb.mustahiq&hl=en&gl=US)
 
-![](/media/1_msORyoH52ulNz3ewLwvJXA--9524d5ea.jpg)
+![](/media/stories/1_msORyoH52ulNz3ewLwvJXA--9524d5ea.jpg)
 
 _The Mustahiq mobile Application_
 
 The Mustahiq app is a mobile application with information about various Zakat schemes for those looking to donate as well as those in need of financial assistance. The possibility to view information in local languages like Urdu & Pashto or English- as per user preference, makes it easier to access for all users in the Khyber Pakhtunkhwa region. Along with Zakat Fund Tracking, there is insight about financial support schemes run by the Department of Zakat and Social Welfare Khyber Pakhtunkhwa, in association with whom our talented Fellows developed the app.
 
-![](/media/1_eiX32srgiXDwmUDLu5Ndxg--05be8f29.jpg)
+![](/media/stories/1_eiX32srgiXDwmUDLu5Ndxg--05be8f29.jpg)
 
 _6th Cycle Fellow Touseef Ahmad developed the Mustahiq app in partnership with the Department of Zakat, Ushr, Social Welfare, Special Education & Women Empowerment, Khyber Pakhtunkhwa._
 
-![](/media/1_Qheegt3Wo8c2W06_9D8igw--749611c9.jpg)
+![](/media/stories/1_Qheegt3Wo8c2W06_9D8igw--749611c9.jpg)
 
 _Mustahiq App Features_
 
@@ -33,19 +33,19 @@ Well, users of the Mustahiq app can find the contact details of district zakat o
 
 #### [2\. Lab Information Management System for DG Livestock & Dairy Research](https://github.com/codeforpakistan/Livestock-lab-management-system)
 
-![](/media/1_QyYnw6oAdHIHC0g489ju3A--41480c47.jpg)
+![](/media/stories/1_QyYnw6oAdHIHC0g489ju3A--41480c47.jpg)
 
 The Livestock & Dairy Development Department, Khyber Pakhtunkhwa works on keeping KP livestock and cattle healthy to ensure the good health of the rest of the province.
 
 It consists of an information management system that records and stores data on cattles' lab test results. The dashboard gives insightful analytics that help the department to timely detect any epidemics within the cattle so that safety measures can be taken when needed. This way, both the health of the cattle and the quality of dairy products circulated across the province is monitored, ensuring healthier produce. All livestock farmers have to do is enter relevant information about their cattle and the department takes care of the rest! This system could also prove useful to anyone in a similar field trying to record a series of data and study its patterns over time.
 
-![](/media/1_m5kQBPHswVbhGNPL0pSgoQ--d11f0fa4.jpg)
+![](/media/stories/1_m5kQBPHswVbhGNPL0pSgoQ--d11f0fa4.jpg)
 
 _Lab Information Management System technical team_
 
 #### [3\. Digitization of Pharmaceutical Licenses](https://github.com/codeforpakistan/Pharma-License)
 
-![](/media/1_-HCdSiTCaJEU1_tLyuMHaw--1a55b0c4.jpg)![](/media/1_LSpzuOwV6giUX81527c6lA--47e69c1b.jpg)
+![](/media/stories/1_-HCdSiTCaJEU1_tLyuMHaw--1a55b0c4.jpg)![](/media/stories/1_LSpzuOwV6giUX81527c6lA--47e69c1b.jpg)
 
 _Technical team for the Digitization of Pharmaceutical Licenses_
 

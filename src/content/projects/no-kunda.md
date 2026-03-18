@@ -1,7 +1,7 @@
 ---
 title: "No Kunda"
 slug: "no-kunda"
-image: "/media/project-no-kunda.jpg"
+image: "/media/projects/project-no-kunda.jpg"
 department: ""
 year: ""
 sortOrder: 34

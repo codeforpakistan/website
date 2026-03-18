@@ -1,7 +1,7 @@
 ---
 title: "Covid Tests Tracking"
 slug: "covid-test-tracking"
-image: "/media/project-covid-test-tracking.jpg"
+image: "/media/projects/project-covid-test-tracking.jpg"
 department: "Department of Health"
 year: 2020
 sortOrder: 4

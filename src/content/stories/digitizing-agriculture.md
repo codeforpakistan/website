@@ -2,7 +2,7 @@
 title: "Digitizing Agriculture"
 slug: "digitizing-agriculture"
 summary: "The Future of Pakistan’s Farming Sector"
-image: "/media/Challenges%2520in%2520the%2520Digitization%2520of%2520Agriculture%2520-%2520visual%2520selection%2520%25282%2529.jpg"
+image: "/media/stories/ChallengesintheDigitizationofAgriculture-visualselection28229.jpg"
 date: "2025-02-03"
 ---
 Agriculture remains the backbone of Pakistan’s economy, contributing 19% to GDP and employing nearly 40% of the workforce. Yet, for millions of smallholder farmers, the challenges are mounting—erratic weather patterns, declining arable land, and rising input costs threaten their livelihoods. For years, the sector has struggled with inefficiencies in irrigation management, outdated farming techniques, and poor access to market data. ([AgriEconomist](https://agrieconomist.com/pakistans-rural-economy-a-journey-of-transformation-challenges-and-opportunities/))
@@ -81,7 +81,7 @@ To address these gaps, the next phase (2023–2024) will focus on:
 
 By aligning policy, technology, and market forces, TAP-AIS could unlock the full potential of digital agriculture, but only if the government prioritizes investment and execution.
 
-![](/media/Challenges%2520in%2520the%2520Digitization%2520of%2520Agriculture%2520-%2520visual%2520selection%2520%25282%2529.jpg)
+![](/media/stories/ChallengesintheDigitizationofAgriculture-visualselection28229.jpg)
 
 **Challenges in Scaling Digital Agriculture**
 
@@ -130,7 +130,7 @@ To maximize the potential of digital agriculture and civic technology in Pakista
 
 By implementing these digital interventions, we can enhance agricultural efficiency, strengthen food security, and improve climate resilience, ensuring long-term sustainability for farming communities.
 
-![](/media/Challenges%2520in%2520the%2520Digitization%2520of%2520Agriculture%2520-%2520visual%2520selection%2520%25283%2529.jpg)
+![](/media/stories/ChallengesintheDigitizationofAgriculture-visualselection28329.jpg)
 
 **Conclusion: A Digital Future for Pakistan’s Farmers**
 

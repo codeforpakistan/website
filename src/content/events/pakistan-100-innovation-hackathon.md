@@ -2,7 +2,7 @@
 title: "Pakistan @100 Innovation Hackathon"
 slug: "pakistan-100-innovation-hackathon"
 summary: "Imagining innovative and forward-thinking solutions to PakistanΓÇÖs social development challenges"
-image: "/media/events-pakistan-100-innovation-hackathon.jpg"
+image: "/media/events/events-pakistan-100-innovation-hackathon.jpg"
 sortOrder: 15
 location: "Islamabad"
 startDate: "2019-02-11"

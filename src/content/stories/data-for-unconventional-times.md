@@ -2,7 +2,7 @@
 title: "Data for Unconventional Times"
 slug: "data-for-unconventional-times"
 summary: "Find out how Code for Pakistan team members and volunteers developed Coronavirus (COVD-19) dashboard, mapping out data points against the ones collected by the government!"
-image: "/media/0_Q_xXiuBsMfmiUm97ooo_0.jpg"
+image: "/media/stories/0_Q_xXiuBsMfmiUm97ooo_0.jpg"
 date: "2020-07-17"
 ---
 COVID-19 has been spreading viciously over the past seven months and has affected people from over 187 countries across the globe. With the number of cases growing by the day, with no end in sight, governments, medical practitioners, researchers, analysts, and all the stakeholders are looking for ways to minimize the human and economic loss, including a race to find a ‘cure’ for COVID-19, developing a vaccine, and ensuring the availability of PPEs and medical instruments. That being said, the need of the hour seems to be to have accurate and timely data, without which there is no possibility to understand how the pandemic is progressing and how to stop it.
@@ -15,7 +15,7 @@ In the case of Pakistan, as soon as the first case surfaced, the [National Insti
 
 Based on this data, [Code for Pakistan](http://codeforpakistan.org/), which was one of the first organizations that volunteered to support the government in the early days of the pandemic, developed a [dashboard](https://covid.codeforpakistan.org/). Since then, the Government has gone on to develop another [dashboard](http://covid.gov.pk/) which was more comprehensive and provided a province-wise breakdown as well. This data is now also being used to power other public dashboards developed by individuals and private organizations.
 
-![](/media/0_Q_xXiuBsMfmiUm97ooo_0.jpg)
+![](/media/stories/0_Q_xXiuBsMfmiUm97ooo_0.jpg)
 
 Now with all the dashboards in place providing aggregated data and most of the countries flattening their curves, **how can this data or any additional technologies be further used?** How can the data assist any government institution, private entity, or an NGO that needs to create a roadmap in the current crisis or even beyond? Furthermore, how can data be used to facilitate patients, the healthcare system, or even to minimize the spread of this virus and its long-term effects? This list is by no means complete or exhaustive and I would love to hear your thoughts, but here is my take:
 

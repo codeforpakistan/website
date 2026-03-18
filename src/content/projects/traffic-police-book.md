@@ -1,7 +1,7 @@
 ---
 title: "Traffic Police Book"
 slug: "traffic-police-book"
-image: "/media/project-traffic-police-book.jpg"
+image: "/media/projects/project-traffic-police-book.jpg"
 department: "Traffic Police department"
 year: 2015
 sortOrder: 50

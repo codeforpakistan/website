@@ -1,7 +1,7 @@
 ---
 title: "Digitization of Firms, Industries, NGOs and Madrassa"
 slug: "digitization-firms"
-image: "/media/project-digitization-firms.jpg"
+image: "/media/projects/project-digitization-firms.jpg"
 department: "Directorate of Industries and Commerce"
 year: ""
 sortOrder: 7

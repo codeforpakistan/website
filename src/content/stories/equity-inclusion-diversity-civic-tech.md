@@ -2,7 +2,7 @@
 title: "Equity, Inclusion, and Diversity in Civic Tech"
 slug: "equity-inclusion-diversity-civic-tech"
 summary: "The role of equity, inclusion, and diversity in Civic Tech through the lense of Code for All's report and Samina Rizwan's keynote session!"
-image: "/media/stories-equity-inclusion-diversity-civic-tech.jpg"
+image: "/media/stories/stories-equity-inclusion-diversity-civic-tech.jpg"
 date: "2021-11-19"
 ---
 [Code for All](https://codeforall.org/) recently published [‘State of Equity, Inclusion, and Diversity in Civic Tech Organizations’](https://codeforall.org/wp-content/uploads/2021/10/State-of-Equity-Inclusion-and-Diversity-in-Civic-Tech-Organizations-vF.pdf.pdf) report, which coincided with [Samina Rizwan](https://www.linkedin.com/in/samina-rizwan-4087b58/)’s (Country Head — Code for Pakistan) keynote session on [‘Innovation, Diversity, Equity, and Inclusion’](https://youtu.be/-bL1TiRCS60) at GetHired2021, an online job fair of sorts organized by [Pakistani Women In Computing](https://pwic.org/?fbclid=IwAR2ufm-aVkpRxWexZPRhifZB87wQibQO4eRrqxcCvHjoG4yILvQ9EIbkpzI) (PWiC) to help women in tech find jobs in Pakistan’s growing tech industry.

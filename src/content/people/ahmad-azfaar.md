@@ -1,7 +1,7 @@
 ---
 title: "Ahmad Azfaar"
 slug: "ahmad-azfaar"
-image: "/media/azfaar%255B1%255D.jpg"
+image: "/media/people/azfaar.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 1

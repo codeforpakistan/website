@@ -1,7 +1,7 @@
 ---
 title: "Hassan Mehmood"
 slug: "hassan-mehmood"
-image: "/media/hassan%255B1%255D.jpeg"
+image: "/media/people/hassan.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 10

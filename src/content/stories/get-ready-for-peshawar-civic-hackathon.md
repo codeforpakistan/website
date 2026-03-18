@@ -2,7 +2,7 @@
 title: "Get Ready for Peshawar Civic Hackathon"
 slug: "get-ready-for-peshawar-civic-hackathon"
 summary: "The Peshawar Civic Hackathon starts Friday, January 31st"
-image: "/media/stories-get-ready-for-peshawar-civic-hackathon.jpg"
+image: "/media/stories/stories-get-ready-for-peshawar-civic-hackathon.jpg"
 date: "2014-01-30"
 ---
 The Peshawar Civic Hackathon starts Friday, January 31.

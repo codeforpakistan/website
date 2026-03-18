@@ -2,14 +2,14 @@
 title: "Open Data Day at Code for Pakistan"
 slug: "open-data-day-at-code-for-pakistan"
 summary: "Discover how Code for Pakistan's OpenAsterick initiative aims to implement open data policy within the government sector - a highlight from Open Data Day 2019."
-image: "/media/1_ytgRGqHyxgaVsP1nqc2MUg.jpg"
+image: "/media/stories/1_ytgRGqHyxgaVsP1nqc2MUg.jpg"
 date: "2019-03-03"
 ---
 Today is Open Data Day 2019 and our OpenAsterisk team is meeting to discuss the next steps and development roadmap for our opendata portal.
 
 In the next couple of years, how smartly a community utilises data will play a key role in its prosperity and wellbeing. Data enables us to continuously improve via a never ending understand, measure and optimise cycle. The first step towards making that happen is to open data, code and citizen facing service procedures. It's bound to improve governance and service delivery for citizens.
 
-![](/media/1_ytgRGqHyxgaVsP1nqc2MUg.jpg)
+![](/media/stories/1_ytgRGqHyxgaVsP1nqc2MUg.jpg)
 
 _Volunteers of Islamabad Civic Innovation Lab(ICIL) working on OpenAsterisk_
 

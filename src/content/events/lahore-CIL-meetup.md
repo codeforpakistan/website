@@ -2,7 +2,7 @@
 title: "Lahore CIL Meetup"
 slug: "lahore-CIL-meetup"
 summary: "Continuing civic hacking as a group, beyond the hackathon"
-image: "/media/events-lahore-CIL-meetup.jpg"
+image: "/media/events/events-lahore-CIL-meetup.jpg"
 sortOrder: 9
 location: "Lahore"
 startDate: "2014-02-14"

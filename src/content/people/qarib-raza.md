@@ -1,7 +1,7 @@
 ---
 title: "Qarib Raza"
 slug: "qarib-raza"
-image: "/media/qarib%255B1%255D.jpg"
+image: "/media/people/qarib.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 16

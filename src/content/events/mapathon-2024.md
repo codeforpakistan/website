@@ -2,7 +2,7 @@
 title: "Mapathon 2024"
 slug: "mapathon-2024"
 summary: "Explore, Create, and Map Your Neighborhoods"
-image: "/media/events-mapathon-2024.jpg"
+image: "/media/events/events-mapathon-2024.jpg"
 sortOrder: 13
 location: "Islamabad, Karachi"
 startDate: "2024-09-14"

@@ -1,7 +1,7 @@
 ---
 title: "Public Toilet Finder"
 slug: "public-toilet-finder"
-image: "/media/project-public-toilet-finder.jpg"
+image: "/media/projects/project-public-toilet-finder.jpg"
 department: "WatSan Cell"
 year: 2019
 sortOrder: 39

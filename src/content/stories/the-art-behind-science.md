@@ -2,7 +2,7 @@
 title: "The Art Behind Science"
 slug: "the-art-behind-science"
 summary: "For good science, what you really need is infinitely curious minds"
-image: "/media/audacity.jpg"
+image: "/media/stories/audacity.jpg"
 date: "2024-05-23"
 ---
 Dr Faisal Khan has wavy black hair tied back in a ponytail. He has a black beard, black glasses, and a matching black waistcoat. In another life, he could have been an artist, maybe even a philosopher or poet. Not too far from the whimsical, he runs a research laboratory using cutting-edge technology. A healthcare cluster of data, biology, and medicine to improve individual patient outcomes in the clinic, applying art to it all.
@@ -31,9 +31,9 @@ Sometime in 2013, after their day jobs, Khan and his friends—Bilal, Salman, an
 
 "Peshawar had this dense cluster of universities within a couple of miles radius, with almost 100,000 kids coming from the entire region, including Afghanistan. Why can't all of this talent do something?" These daily meetings and the quest to do better for their city ultimately led to action on the ground: the creation of Peshawar 2.0.
 
-![A poster from Peshawar 2.0 Photo: Peshawar 2.0 Facebook Page](/media/audacity.jpg)
+![A poster from Peshawar 2.0 Photo: Peshawar 2.0 Facebook Page](/media/stories/audacity.jpg)
 
-![ disrupt 2.0 The above image, from 2018, shows a thriving startup culture that led to conferences like Disrupt becoming regular features in the Pakistani tech space.  ](/media/disrupt.jpg)
+![ disrupt 2.0 The above image, from 2018, shows a thriving startup culture that led to conferences like Disrupt becoming regular features in the Pakistani tech space.  ](/media/stories/disrupt.jpg)
 
 Peshawar 2.0 became a space for disruption, for 'audacity', for all the 'crazies' as he calls them, those hungry for change and excited to make magic happen.
 
@@ -41,7 +41,7 @@ Peshawar 2.0 became a space for disruption, for 'audacity', for all the 'crazies
 
 Sometime in 2013, our paths intersected in Peshawar. As Dr Faisal says, that's where magic happens. And magic did happen.
 
-![Sheba and Dr Faisal in San Francisco circa 2017. Photo credits: Sheba Najmi](/media/faisal_with_sheba.jpg)
+![Sheba and Dr Faisal in San Francisco circa 2017. Photo credits: Sheba Najmi](/media/stories/faisal_with_sheba.jpg)
 
 _Sheba and Dr Faisal in San Francisco circa 2017. Photo credits: Sheba Najmi_
 
@@ -53,7 +53,7 @@ Everyone pointed the young CfP team to Khan and his Peshawar 2.0 team. The stars
 
 The meeting set the stage for CfP's [second hackathon in Peshawar](/events/peshawar-civic-hackathon-2014) on January 31, 2014. With the help of Dr Faisal, Uzair, and the Peshawar 2.0 network, the event successfully mobilized many people on the ground, marking the beginning of a transformative journey for civic tech in the region.
 
-![Sheba, Anna, and Dr Faisal at the Peshawar Hackathon, Photo: Sheba Najmi](/media/hackathon.jpg)
+![Sheba, Anna, and Dr Faisal at the Peshawar Hackathon, Photo: Sheba Najmi](/media/stories/hackathon.jpg)
 
 _Sheba, Anna, and Dr Faisal at the Peshawar Hackathon, Photo: Sheba Najmi_
 
@@ -71,7 +71,7 @@ The poster features Dr Rosalind Franklin, the woman who led the discovery of the
 
 A 3D printer, made locally, sits on a table. Placed on another is a temperature-controlled chamber to cook up all sorts of experiments. We get a sneak peek into bacteria expressing fluorescent proteins from jellyfish.
 
-![A hand-drawn poster by a 19-year-old at the PML. Photo Credits: Shaji Ahmed](/media/poster.jpg)
+![A hand-drawn poster by a 19-year-old at the PML. Photo Credits: Shaji Ahmed](/media/stories/poster.jpg)
 
 _A hand-drawn poster by a 19-year-old at the PML. Photo Credits: Shaji Ahmed_
 
@@ -85,7 +85,7 @@ Dr Faisal and his team are working on drawing local cell lines of patients, focu
 
 There is a disproportionately high number of cases in Pakistan compared to India. Oral cancer is often referred to as the "poor man's cancer," linked to factors like poor hygiene and dental issues, likely due to prevalent risk factors in cities like Peshawar and Karachi, such as the use of smokeless tobacco. The most extensive existing study by MD Anderson consisted of 40 participants. With over 100 participants onboard, PML has created the world's largest cohort of oral cancer genomes.
 
-![Shaji, Sheba and Dr Faisal at PML, 2022 Photo: Shaji Ahmed](/media/visit.jpg)
+![Shaji, Sheba and Dr Faisal at PML, 2022 Photo: Shaji Ahmed](/media/stories/visit.jpg)
 
 _Shaji, Sheba and Dr Faisal at PML, 2023 Photo: Shaji Ahmed_
 
@@ -109,7 +109,7 @@ Dr Faisal walks the talk. A young student from Kohat, referred by a scientist fr
 
 In 2022 alone, PML presented nine pieces of work at the [American Association for Cancer Research](https://www.aacr.org/), the largest cancer conference in the world. Researchers from around the globe gather under one roof to find cutting-edge solutions in cancer research.
 
-![Shaji and Dr Faisal sign an MoU at the CfP Islamabad office in 2023. Photo credit: Shaji Ahmed](/media/MoU_0.jpg)
+![Shaji and Dr Faisal sign an MoU at the CfP Islamabad office in 2023. Photo credit: Shaji Ahmed](/media/stories/MoU_0.jpg)
 
 _Shaji and Dr Faisal sign an MoU at the CfP Islamabad office in 2023. Photo credit: Shaji Ahmed_
 

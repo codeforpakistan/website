@@ -2,7 +2,7 @@
 title: "LHRHacks | Thank You, Partners & Sponsors!"
 slug: "lhrhacks-thank-you-partners-and-sponsors"
 summary: "We couldn’t have done it without our amazing partners!"
-image: "/media/stories-lhrhacks-thank-you-partners-and-sponsors.jpg"
+image: "/media/stories/stories-lhrhacks-thank-you-partners-and-sponsors.jpg"
 date: "2014-01-28"
 ---
 It takes a village to implement a civic hackathon, and we couldn’t have done it without our amazing partners, sponsors, mentors, judges, and volunteers! We’d like to express our deepest gratitude to all our partners and sponsors who supported us in making the Lahore Civic Hackathon 2014 a successful event:

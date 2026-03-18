@@ -2,7 +2,7 @@
 title: "Meet the Fellows | Third Edition"
 slug: "generation-creators-makers-doers-third-edition"
 summary: "Digitizing agriculture billing"
-image: "/media/stories-generation-creators-makers-doers-third-edition.jpg"
+image: "/media/stories/stories-generation-creators-makers-doers-third-edition.jpg"
 date: "2025-01-27"
 ---
 **Welcome to the third edition of** _**A Generation of Doers**_**,** where we spotlight the changemakers shaping Khyber Pakhtunkhwa (KP) through the [**KP Government Innovation Fellowship Program**](https://codeforpakistan.org/programs/fellowships/khyber-pakhtunkhwa). Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated to drive meaningful change in public service delivery across the province.

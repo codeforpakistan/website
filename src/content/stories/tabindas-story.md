@@ -2,7 +2,7 @@
 title: "Breaking Barriers"
 slug: "tabindas-story"
 summary: "Tabinda Qudrat’s Journey from Bannu to the Frontlines of Civic Tech"
-image: "/media/stories-tabindas-story.jpg"
+image: "/media/stories/stories-tabindas-story.jpg"
 date: "2025-04-22"
 ---
 In Bannu, a small city in southern Khyber Pakhtunkhwa (KP), internet access didn’t always work. Opportunities for women, especially in technology, were even less reliable.

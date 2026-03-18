@@ -1,7 +1,7 @@
 ---
 title: "Case Management System for Advocate General Office"
 slug: "case-management"
-image: "/media/project-case-management.jpg"
+image: "/media/projects/project-case-management.jpg"
 department: "Advocate General Office"
 year: ""
 sortOrder: 2

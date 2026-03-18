@@ -2,7 +2,7 @@
 title: "Lahore Civic Hackathon 2014"
 slug: "lahore-civic-hackathon-2014"
 summary: "Techies pitched ideas, formed teams, and created 15 civic solutions"
-image: "/media/events-lahore-civic-hackathon-2014.jpg"
+image: "/media/events/events-lahore-civic-hackathon-2014.jpg"
 sortOrder: 10
 location: "Lahore"
 startDate: "2014-01-27"

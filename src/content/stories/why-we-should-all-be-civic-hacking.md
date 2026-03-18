@@ -2,7 +2,7 @@
 title: "Why should we all be civic hacking?"
 slug: "why-we-should-all-be-civic-hacking"
 summary: "What if interacting with public services wasn’t so painful?"
-image: "/media/stories-why-we-should-all-be-civic-hacking.jpg"
+image: "/media/stories/stories-why-we-should-all-be-civic-hacking.jpg"
 date: "2016-03-05"
 ---
 Think about your last time stuck in traffic — or at NADRA getting your National ID Card renewed… Ever had to go to the police station? Visited a ghost government school? What about spending untold hours with no electricity thanks to load-shedding? No one wants to spend countless hours in traffic or wait in that interminable CNG line. Or pretty much have anything to do with public services, if they can help it. What if interacting with public services wasn’t so painful? What if every trip was a positive, easy experience?

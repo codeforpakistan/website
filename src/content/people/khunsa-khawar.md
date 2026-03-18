@@ -1,7 +1,7 @@
 ---
 title: "Khunsa Khawar"
 slug: "khunsa-khawar"
-image: "/media/khunsa.jpg"
+image: "/media/people/khunsa.jpg"
 designation: "Community Manager"
 group: "staff"
 sortOrder: 4

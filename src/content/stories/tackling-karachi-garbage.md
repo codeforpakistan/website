@@ -2,7 +2,7 @@
 title: "Tackling Karachi's Garbage"
 slug: "tackling-karachi-garbage"
 summary: "Tracing the Trail: The Surprising Pathways of Our Everyday Trash"
-image: "/media/Aima%2520Moiz_0.jpeg"
+image: "/media/stories/AimaMoiz_0.jpeg"
 date: "2024-02-14"
 ---
 > "What happens to our garbage when we throw it away? "I asked my nine-year-old. "Maybe it goes in the ocean. Is that why our beaches are so littered?"
@@ -37,19 +37,19 @@ Aimah's mother, Uzma, had worked as a volunteer at Al-Furqan School's Shireen Ji
 
 While segregating waste at the school, Aimah and Uzma realized no measures were being taken to combat the excessive wrapper waste on the streets. It could not be recycled. Maybe it could be UPcycled—to make something of higher value. Uzma got to work, creating a product, a _prototype_, to demonstrate possibilities to the children at a special Independence Day assembly being held at the school, using the wrappers she had been saving for over two months.
 
-![Creating bags out of plastic wrapper waste](/media/Aima%2520Moiz_0.jpeg)
+![Creating bags out of plastic wrapper waste](/media/stories/AimaMoiz_0.jpeg)
 
 _Aimah's mother, Uzma, working on a bag the night before an event._
 
 With the help of students and teachers at Al-Furqan, Aimah and Uzma started experimenting and creating different prototypes, engaging students and teachers to turn discarded chip packets and wrappers into fashionable bags and baskets. The bags, ranging from silver wrappers to Oreo cookie and rusk packages, are more than just stylish accessories; they speak of excessive consumption- left on the streets of the metropolis to be dealt with. Creating each bag is a meticulous and time-consuming process, from collection to cleaning, drying, and hand-weaving of wrappers.
 
-![](/media/Aimah%25208_0.jpeg)
+![](/media/stories/Aimah8_0.jpeg)
 
 _WrapUp: Types of wrappers used to create upcycled products_
 
 After a successful display at the Al Furqan School events, the mother-daughter duo started showcasing these products at local events. I met Aimah in person at the Crafters Expo in Karachi, an event that promotes locally sourced handmade products. Aimah was busy that day! I spotted a gorgeous silver wrapper weaved bag but, on inquiry, found out that the products were only meant for display purposes and that to own one, I would have to place an order, which would take up to three months. Given that the bag was not just aesthetically gorgeous, it was functional and meaningful, too; I was happy to wait. By then, they had received such a tremendous response to their products that WrapUp was already in motion.
 
-![](/media/Aimah%25203_0.jpeg)
+![](/media/stories/Aimah3_0.jpeg)
 
 _Children work with candy wrappers to create bags._
 
@@ -58,7 +58,7 @@ The possibilities were endless!
 
 Aimah began looking for more answers. In July of 2023, Aima attended a Code for Pakistan community event, 'Guftugu, ' a civic conversation initiative encouraging communities to discuss pressing issues in their civic space and combine efforts to overcome challenges.
 
-![](/media/Guft_khi%25208_0.jpg)
+![](/media/stories/Guft_khi8_0.jpg)
 
 _Aimah and her mother Uzma at Code for Pakistan community event, Guftugu in Karachi_
 
@@ -66,7 +66,7 @@ Through the Code for Pakistan (CfP) community, Aimah connected with like-minded 
 
 Her research took her to the [SSWMB](https://sswmb.gos.pk/cms/) ( Sind Solid Waste Management Board), where she learned about an initiative at [Haryali Hubs](https://haryalihub.tearfund.org/), a joint venture between SSWMB and Tearfund (a UK-based charity) aimed to raise community awareness through their programs and conduct waste separation of Karachi's garbage onsite to salvage recyclable goods. This initiative focused on community awareness, onsite waste segregation for recycling, and transforming organic waste into compost. Unique to their approach was recycling unconventional items; for example, they converted plastic bags into pellets, which were then used to manufacture dustbins.
 
-![](/media/Karachi%2520Garbage%25204.jpg)
+![](/media/stories/KarachiGarbage4.jpg)
 
 _Aimah Moiz at the Haryali Hubs_
 

@@ -2,7 +2,7 @@
 title: "Alumni Meet & Greet!"
 slug: "alumni-meet-and-greet"
 summary: "Building a network that allows old and new fellows to meet and get to know each other"
-image: "/media/events-alumni-meet-and-greet.jpg"
+image: "/media/events/events-alumni-meet-and-greet.jpg"
 sortOrder: 1
 location: "Peshawar"
 startDate: "2016-12-08"

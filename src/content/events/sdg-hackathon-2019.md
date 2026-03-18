@@ -2,7 +2,7 @@
 title: "SDG Hackathon 2019"
 slug: "sdg-hackathon-2019"
 summary: "The event brought together over 150 participants - a mix of technologists, designers, urban planners, social scientists, NGOs and CSOs, and government representatives."
-image: "/media/events-sdg-hackathon-2019.jpg"
+image: "/media/events/events-sdg-hackathon-2019.jpg"
 sortOrder: 19
 location: "Islamabad"
 startDate: "2019-12-08"

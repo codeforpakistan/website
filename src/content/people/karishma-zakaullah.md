@@ -1,7 +1,7 @@
 ---
 title: "Karishma Zakaullah"
 slug: "karishma-zakaullah"
-image: "/media/karishma%255B1%255D.jpg"
+image: "/media/people/karishma.jpg"
 designation: "Program Manager"
 group: "staff"
 sortOrder: 3

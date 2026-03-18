@@ -1,7 +1,7 @@
 ---
 title: "Open Data Portal"
 slug: "open-data-portal"
-image: "/media/project-open-data-portal.jpg"
+image: "/media/projects/project-open-data-portal.jpg"
 department: "Performance Management & Reforms Unit"
 year: ""
 sortOrder: 35

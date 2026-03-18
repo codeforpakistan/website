@@ -1,7 +1,7 @@
 ---
 title: "License Registration System and Citizen Feedback app"
 slug: "license-registration"
-image: "/media/project-license-registration.jpg"
+image: "/media/projects/project-license-registration.jpg"
 department: "Halal Food Authority"
 year: ""
 sortOrder: 23

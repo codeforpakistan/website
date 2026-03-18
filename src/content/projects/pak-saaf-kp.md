@@ -1,7 +1,7 @@
 ---
 title: "Pak Saaf KP"
 slug: "pak-saaf-kp"
-image: "/media/project-pak-saaf-kp.jpg"
+image: "/media/projects/project-pak-saaf-kp.jpg"
 department: ""
 year: ""
 sortOrder: 36

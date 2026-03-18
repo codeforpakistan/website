@@ -1,7 +1,7 @@
 ---
 title: "Ammaz Khan"
 slug: "ammaz-khan"
-image: "/media/Ammaz%2520Website%2520Image%2520.jpg"
+image: "/media/people/ammaz.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 3

@@ -2,7 +2,7 @@
 title: "Shaping the future"
 slug: "shaping-the-future"
 summary: "A lifeline for the startup ecosystem in KP"
-image: "/media/1%2520tvnG60AhF_1IymGytm6vYA.jpg"
+image: "/media/stories/1tvnG60AhF_1IymGytm6vYA.jpg"
 date: "2017-07-27"
 ---
 Scott Belsky once said, "It's not about ideas. It's about making ideas happen." No doubt, possessing an idea is a big asset but making it a reality is what counts. And Pakistan's current entrepreneurial ecosystem is the true manifestation of _why executing ideas is the most crucial part_.
@@ -11,7 +11,7 @@ Last year Pakistan was globally classified as an [Emerging Market](https://www.t
 
 In the last five years, startup ecosystem in Pakistan witnessed a boost when Federal as well as Provincial Level Information Technology Boards established incubation centers across major cities of Pakistan. Owing to their success, many private sector incubation centers soon entered the IT market and in no time, well reputed Corporate Sector Organizations & Companies vowed to be a part of the emerging IT economic market of Pakistan.
 
-![](/media/1%2520tvnG60AhF_1IymGytm6vYA.jpg)
+![](/media/stories/1tvnG60AhF_1IymGytm6vYA.jpg)
 
 However, these incubation/acceleration programs, either local or global, can provide mentorship and funding to a limited number of startups for a limited period of time. Unfortunately, due to the limited numbers of incubation centers & acceleration programs, many ideas are left to survive on their own.
 

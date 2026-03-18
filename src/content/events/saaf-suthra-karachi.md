@@ -2,7 +2,7 @@
 title: "Saaf Suthra Karachi"
 slug: "saaf-suthra-karachi"
 summary: "A Collaborative Effort for a Waste-Free Future"
-image: "/media/events-saaf-suthra-karachi.jpg"
+image: "/media/events/events-saaf-suthra-karachi.jpg"
 sortOrder: 17
 location: "Karachi"
 startDate: "2024-09-01"

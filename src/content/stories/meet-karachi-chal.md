@@ -2,7 +2,7 @@
 title: "Meet Karachi Chal"
 slug: "meet-karachi-chal"
 summary: "AI itinerary planner that understands Karachi’s vibrant pulse"
-image: "/media/karachi.jpg"
+image: "/media/stories/karachi.jpg"
 date: "2024-05-07"
 ---
 Sometimes, the best ideas emerge when you need an escape.  After a rough month, I flew to Karachi as a mentor for the Build with AI Hackathon hosted by GDG Kolachi at Geeks of Kolachi. To be honest, more than mentoring, I needed a breather at that point.
@@ -11,7 +11,7 @@ Just as we were descending, I peeked out from the window. A sprawling city stret
 
 At that moment, the Young Stunners track "Karachi Chal" blasted through my headphones. I had a lightbulb moment! Why not build an **AI-powered itinerary planner**? One that mirrors Karachi’s vibrancy and culture?
 
-![Karachi](/media/karachi.jpg)
+![Karachi](/media/stories/karachi.jpg)
 
 _Image: [Ali Raza](https://codeforpakistan.org/about/people/ali-raza)_
 
@@ -21,7 +21,7 @@ I didn't waste any time. The moment I checked into my hotel—a beautiful old Ka
 
 Then began the real fun. As I stepped into Geeks of Kolachi, it felt like home. Students, young professionals, hackers, coders, and mentors all under one roof-  the energy was palpable.
 
-![GDG Hackathon](/media/gdg-hackathon.jpg)
+![GDG Hackathon](/media/stories/gdg-hackathon.jpg)
 
 _Image: [Huzaifa Habib](https://www.linkedin.com/in/huzaifa-habib/)_
 

@@ -1,7 +1,7 @@
 ---
 title: "Monitoring and Reporting System"
 slug: "monitoring-reporting"
-image: "/media/project-monitoring-reporting.jpg"
+image: "/media/projects/project-monitoring-reporting.jpg"
 department: "Chief Secretary Delivery Unit"
 year: ""
 sortOrder: 31

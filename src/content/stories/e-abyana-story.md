@@ -2,7 +2,7 @@
 title: "The E-Abyana story"
 slug: "e-abyana-story"
 summary: "Designed in the field, built with the Government"
-image: "/media/Saqib.jpg"
+image: "/media/stories/Saqib.jpg"
 date: "2026-01-10"
 ---
 By Muhammad Saqib, KP Government Innovation Fellow
@@ -15,11 +15,11 @@ The idea started during the early days of the KP Government Innovation Fellowshi
 
 During field visits, I saw how time-consuming and error-prone the existing workflow was for both department staff and farmers. What struck me most was hearing the same frustration from different people, patwaris, zilladars, irrigation officials, all describing delays and confusion that should have been solvable long ago. That's when the need for a centralized digital solution became undeniable.
 
-![Fellowship Team](/media/Saqib.jpg)
+![Fellowship Team](/media/stories/Saqib.jpg)
 
 _Fellowship team working on E-Abyana_
 
-![Field Visit](/media/image_6_0.jpeg)
+![Field Visit](/media/stories/image_6_0.jpeg)
 
 _E-Abyana Field Visit with the Irrigation Department_
 

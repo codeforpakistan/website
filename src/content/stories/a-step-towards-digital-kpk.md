@@ -2,7 +2,7 @@
 title: "A Step Towards Digital KPK"
 slug: "a-step-towards-digital-kpk"
 summary: "Revolutionizing the traffic system in Peshawar"
-image: "/media/1%2520iajvTlC16dJWADeQCS2cdQ.jpg"
+image: "/media/stories/1iajvTlC16dJWADeQCS2cdQ.jpg"
 date: "2017-06-22"
 ---
 Ever been in a gridlock situation? Pressed for time and stuck in traffic, wishing that you knew an alternate route for your destination? Or ever wanted to register a complaint about illegal activities right on the spot? Ever been in need of nearby rescue personnel to overcome any problems that you might be having while travelling? These are just a few of the issues that citizens have been facing on a daily basis in Peshawar.
@@ -17,7 +17,7 @@ _Muhammad Aftab, Deputy Director IT, KP Traffic Police_
 
 The android based mobile application “[KP Traffic](https://github.com/codeforpakistan/teamKPTraffic17)” is a platform that will facilitate the public as well as the traffic police officials in realtime, improving their existing traditional and inefficient way of registering complaints.
 
-![](/media/1%2520iajvTlC16dJWADeQCS2cdQ.jpg)
+![](/media/stories/1iajvTlC16dJWADeQCS2cdQ.jpg)
 
 This application will solve and simplify **6** traffic related issues including:
 

@@ -1,7 +1,7 @@
 ---
 title: "Fund Disbursements"
 slug: "fund-disbursements"
-image: "/media/project-fund-disbursements.jpg"
+image: "/media/projects/project-fund-disbursements.jpg"
 department: "Benevolent Fund Cell"
 year: ""
 sortOrder: 13

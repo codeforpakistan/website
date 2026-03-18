@@ -2,7 +2,7 @@
 title: "Amna Majid"
 slug: "heartwarming-account-amna-majid"
 summary: "Heartwarming account on the Islamabad Civic Hackathon from first-time participant Amna Majid"
-image: "/media/mahreen.jpg"
+image: "/media/stories/mahreen.jpg"
 date: "2015-02-28"
 ---
 This weekend was unreal. I have so many overflowing thoughts and feelings about what i have witnessed and learned and i want to share it with everyone. At the islamabad civic hackathon i have seen so much talent and passion and enthusiasm in our youth! So much brilliance from young people, regardless of where they have come from, which has given me new hope that Pakistan is NOT doomed like so many would like to think.
@@ -15,4 +15,4 @@ Ofcourse winning was not the agenda but it doesnt hurt to win ? I couldnt have a
 
 She would've been so proud to see all the bright minds of Pakistan i have had the pleasure of meeting. She truly believed in Pakistan and its future and her legacy will forever live on through the people she has touched.
 
-![Amna Majid with her team](/media/mahreen.jpg)
+![Amna Majid with her team](/media/stories/mahreen.jpg)

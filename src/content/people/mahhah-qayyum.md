@@ -1,7 +1,7 @@
 ---
 title: "Mahhah Qayyum"
 slug: "mahhah-qayyum"
-image: "/media/mahhah.jpg"
+image: "/media/people/mahhah.jpg"
 designation: "Communications Manager"
 group: "staff"
 sortOrder: 6

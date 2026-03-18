@@ -1,7 +1,7 @@
 ---
 title: "Safa Pekhawar App"
 slug: "safa-pekhawar"
-image: "/media/project-safa-pekhawar.jpg"
+image: "/media/projects/project-safa-pekhawar.jpg"
 department: "Water & Sanitation Services Peshawar"
 year: 2017
 sortOrder: 47

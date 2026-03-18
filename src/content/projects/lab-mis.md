@@ -1,7 +1,7 @@
 ---
 title: "Lab Information Management System"
 slug: "lab-mis"
-image: "/media/project-lab-mis.jpg"
+image: "/media/projects/project-lab-mis.jpg"
 department: "DG Livestock & Dairy Research"
 year: ""
 sortOrder: 22

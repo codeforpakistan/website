@@ -2,7 +2,7 @@
 title: "Jazz SDG Hackathon 2018"
 slug: "civic-hackathon-2018"
 summary: "Jazz SDG Hackathon 2018, presented by Jazz and Code for Pakistan at NIC Islamabad"
-image: "/media/events-civic-hackathon-2018.jpg"
+image: "/media/events/events-civic-hackathon-2018.jpg"
 sortOrder: 7
 location: "Islamabad"
 startDate: "2018-12-08"

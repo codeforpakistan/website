@@ -2,7 +2,7 @@
 title: "Islamabad Civic Hackathon 2016"
 slug: "islamabad-civic-hackathon-2016"
 summary: "Congratulations to everyone who participated in the 2nd Islamabad Civic Hackathon"
-image: "/media/events-islamabad-civic-hackathon-2016.jpg"
+image: "/media/events/events-islamabad-civic-hackathon-2016.jpg"
 sortOrder: 5
 location: "Islamabad"
 startDate: "2016-08-08"

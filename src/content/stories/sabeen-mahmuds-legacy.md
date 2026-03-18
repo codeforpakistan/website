@@ -2,7 +2,7 @@
 title: "Sabeen Mehmud's Legacy"
 slug: "sabeen-mahmuds-legacy"
 summary: "Sabeen was the first person to believe in and throw her support behind Code for Pakistan, without whom we likely would not exist. She inspired us every day and made the world a much better place!"
-image: "/media/sabeen-morrison.jpg"
+image: "/media/stories/sabeen-morrison.jpg"
 date: "2015-04-28"
 ---
 Some of you might remember that before there was a Code for Pakistan, there was the Karachi Civic Hackathon at T2F in April 2013. Sabeen was the first person to believe in and throw her support behind Code for Pakistan, without whom we likely would not exist. She inspired us every day and made the world a much better place. Here Sheba Najmi recounts Sabeen's legacy and what it means for all of us to keep that legacy of good alive.

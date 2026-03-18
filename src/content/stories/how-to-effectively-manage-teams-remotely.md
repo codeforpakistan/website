@@ -2,7 +2,7 @@
 title: "How to effectively manage teams remotely"
 slug: "how-to-effectively-manage-teams-remotely"
 summary: "Anam Zakaria's take on how to effectively manage remote teams during the global pandemic and social distancing!"
-image: "/media/1_dax6jO4qyCoQvs-bDISFRg_2.jpg"
+image: "/media/stories/1_dax6jO4qyCoQvs-bDISFRg_2.jpg"
 date: "2020-04-13"
 ---
 As Covid-19 presents the world with unprecedented challenges, many of us are scrambling to maintain some sense of normalcy and continuity in our lives. Big global giants like Apple, Google and Amazon as well as smaller local companies, NGOs, banks and institutions are encouraging employees and staff to work from home (WFH) where possible. Remote work is a new reality for many of us. However, several other organizations and people have already been promoting WFH for several years now. Remote work has been an increasing feature in certain fields and industries. Though the current pandemic, which is forcing people into their homes, has stark differences from remote work in ordinary circumstances — where WFH can offer flexibility and choice rather than mandatory isolation — there are learnings which can be helpful in these times.
@@ -13,7 +13,7 @@ As someone who has been working remotely since 2013, managing volunteers and tea
 
 We all know that communication is a key ingredient for ensuring coordination, keeping everyone on the same page, and managing challenges before they escalate into major conflicts in any work situation. Communication becomes all the more critical in a WFH situation, especially when work requires us to collaborate and co-create. I don’t believe there is one channel or frequency that works for everyone but it is essential to brainstorm with your co-workers and team to figure out what works best. For some organizations, video calls where multiple people can be online at the same time and respond in real time is essential. For others, e-mail/whatsapp/slack are better than calls, particularly if people have young children at home, are in different time zones, don’t have private rooms or space at home to have a quiet conversation or are confronted with miscellaneous other factors. This is a difficult time for people, and everyone is struggling/coping in unique ways (for more insights, see this [blog post](https://medium.com/@CodeforPakistan/working-from-home-is-it-really-working-out-1291e68613a9) by my colleague on WFH). I have found that in some situations an overemphasis on calls, particularly video calls, can add pressure and lead to burn out, especially for employees who may have challenging home environments but feel they must show up with a pretense of normalcy and uninterrupted availability. The point is, situations vary as do team dynamics and work requirements. Maybe a mix of different mediums works best for you, your co-workers, supervisees and supervisors. You won’t know till you ask.
 
-![](/media/1_dax6jO4qyCoQvs-bDISFRg_2.jpg)
+![](/media/stories/1_dax6jO4qyCoQvs-bDISFRg_2.jpg)
 
 _Having a sync up call with KP Government Innovation Fellowship team_
 

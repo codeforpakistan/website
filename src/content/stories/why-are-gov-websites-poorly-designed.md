@@ -2,7 +2,7 @@
 title: "Why are government websites and apps poorly designed?"
 slug: "why-are-gov-websites-poorly-designed"
 summary: "Government websites are often a frustrating experience"
-image: "/media/image4.jpg"
+image: "/media/stories/image4.jpg"
 date: "2024-12-10"
 ---
 When visiting a government website, we often expect a frustrating experience. Surprisingly, a decent one feels like an exception. Unfortunately, subpar digital tools (apps, websites, platforms, software) from the government have become the norm. Why is this the case?
@@ -15,7 +15,7 @@ When visiting a government website, we often expect a frustrating experience. Su
 4.  **Infrequent Updates**: Websites are treated as large projects that are overhauled only once every decade, leaving them outdated in the interim.
 5.  **Overwhelming Volume**: With over 600 websites and countless apps, oversight on quality and performance is minimal, and no central authority enforces design standards.
 
-![FBR](/media/image4.jpg)
+![FBR](/media/stories/image4.jpg)
 
 #### Why design matters
 
@@ -29,7 +29,7 @@ Good design goes beyond aesthetics. It ensures usability, addresses user needs, 
 
 In short, better design leads to better service delivery and cost savings.
 
-![cost of bad design](/media/cost%2520of%2520bad%2520design.jpg)
+![cost of bad design](/media/stories/costofbaddesign.jpg)
 
 ### How design systems help
 
@@ -40,7 +40,7 @@ A **Design System** is a set of standards and guidelines for creating digital to
 1.  **Consistency Across Platforms**: Design Systems make websites and apps predictable and user-friendly by defining reusable components. These components incorporate standards for accessibility, performance, and user experience, ensuring that all tools meet these benchmarks.
 2.  **Increased Efficiency**: Predefined templates save time by eliminating the need to start from scratch. Teams can focus on solving bigger challenges instead of reinventing basic elements. New members can onboard quickly, and updates or changes are easier to implement.
 
-![UX](/media/image7.jpg)
+![UX](/media/stories/image7.jpg)
 
 > Governments worldwide are adopting Design Systems to improve their digital tools. Let’s explore some examples.
 
@@ -50,7 +50,7 @@ A **Design System** is a set of standards and guidelines for creating digital to
 
 The UK Government’s Design System is often considered the gold standard. From ministry websites to tax platforms, their tools are known for simplicity, usability, and accessibility.
 
-![UK](/media/image8.jpg)
+![UK](/media/stories/image8.jpg)
 
 [_**Visit Website**_](https://design-system.service.gov.uk/)
 
@@ -58,7 +58,7 @@ The UK Government’s Design System is often considered the gold standard. From 
 
 The UAE Design System adopts a modern approach, extending beyond digital tools to define the government’s branding and identity. It also prioritizes Arabic language support across platforms.
 
-![UAE](/media/image6.jpg)
+![UAE](/media/stories/image6.jpg)
 
 [_**Visit Website**_](https://designsystem.gov.ae/)
 
@@ -66,7 +66,7 @@ The UAE Design System adopts a modern approach, extending beyond digital tools t
 
 Known as a digital-first nation, Singapore’s Design System supports a wide array of apps and websites. It’s comprehensive enough to handle the country’s extensive digital services, from banking to national ID cards.
 
-![Singapore](/media/image5.jpg)
+![Singapore](/media/stories/image5.jpg)
 
 [_**Visit Website**_](https://www.designsystem.gov.sg/)
 
@@ -74,7 +74,7 @@ Known as a digital-first nation, Singapore’s Design System supports a wide arr
 
 Code for America’s Honeycrisp Design System helps create digital tools for various U.S. government departments. It exemplifies how civic tech organizations can lead the way in innovation.
 
-![CFA](/media/image9.jpg)
+![CFA](/media/stories/image9.jpg)
 
 [_**Visit Website**_](https://honeycrisp.herokuapp.com/cfa/styleguide)
 

@@ -2,7 +2,7 @@
 title: "Civic Hackathon 2020"
 slug: "civic-hackathon-2020-concludes"
 summary: "Online Civic Hackathon, presented by OPEN Islamabad, and Telenor Velocity"
-image: "/media/events-civic-hackathon-2020-concludes.jpg"
+image: "/media/events/events-civic-hackathon-2020-concludes.jpg"
 sortOrder: 2
 location: "Pakista, Online"
 startDate: "2020-12-11"

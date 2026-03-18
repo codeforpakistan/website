@@ -2,7 +2,7 @@
 title: "We Shape Our Tools and Then Our Tools Shape Us! ~ Marshall Mcluhan"
 slug: "we-shape-our-tools-and-then-our-tools-shape-us"
 summary: "A roadmap of how the KP Fellowship Program has witnessed year-on-year growth in receiving applicants since its inception in 2014!"
-image: "/media/stories-we-shape-our-tools-and-then-our-tools-shape-us.jpg"
+image: "/media/stories/stories-we-shape-our-tools-and-then-our-tools-shape-us.jpg"
 date: "2018-03-27"
 ---
 The KP Civic Innovation Fellowship Program, which started with 46 candidate applications,12 Fellows and a handful of mentors in 2014 has far exceeded our expectations! The Program initiated by Code for Pakistan in partnership with Khyber Pakhtunkhwa Information Technology Board (KPITB) and The World Bank has scaled exponentially in capacity and reach over the last 4 years.

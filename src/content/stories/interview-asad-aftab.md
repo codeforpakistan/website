@@ -2,7 +2,7 @@
 title: "Interview with Asad Aftab"
 slug: "interview-asad-aftab"
 summary: "Asad Aftab belongs to the best guava producing city of Pakistan - Kohat"
-image: "/media/stories-interview-asad-aftab.jpg"
+image: "/media/stories/stories-interview-asad-aftab.jpg"
 date: "2022-04-22"
 ---
 #### Tell us a bit about yourself.

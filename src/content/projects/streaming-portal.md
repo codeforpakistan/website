@@ -1,7 +1,7 @@
 ---
 title: "Live Streaming Portal"
 slug: "streaming-portal"
-image: "/media/project-streaming-portal.jpg"
+image: "/media/projects/project-streaming-portal.jpg"
 department: "Provincial Assembly Secretariat"
 year: ""
 sortOrder: 24

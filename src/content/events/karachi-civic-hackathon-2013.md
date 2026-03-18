@@ -2,7 +2,7 @@
 title: "Karachi Civic Hackathon 2013"
 slug: "karachi-civic-hackathon-2013"
 summary: "Civic hackers join to reboot local services using web and mobile technology"
-image: "/media/events-karachi-civic-hackathon-2013.jpeg"
+image: "/media/events/events-karachi-civic-hackathon-2013.jpeg"
 sortOrder: 8
 location: "Karachi"
 startDate: "2013-04-08"

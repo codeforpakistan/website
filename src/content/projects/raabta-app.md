@@ -1,7 +1,7 @@
 ---
 title: "RAABTA App"
 slug: "raabta-app"
-image: "/media/project-raabta-app.jpg"
+image: "/media/projects/project-raabta-app.jpg"
 department: "Traffic Police Department"
 year: 2018
 sortOrder: 41

@@ -2,14 +2,14 @@
 title: "Mapping Billion Tree Tsunami Plantation"
 slug: "mapping-billion-tree-tsunami-plantation"
 summary: "Code for Pakistan celebrated Open Data Day by organizing a mini-hack to map the Billion Tree Afforestation Project (BTAP) in partnership with Open Knowledge Foundation!"
-image: "/media/0_uHzSYP01hORq278H_0.jpg"
+image: "/media/stories/0_uHzSYP01hORq278H_0.jpg"
 date: "2021-04-06"
 ---
 Many government agencies across the globe have realized the importance of open data and have started to publish their data in the open by default. By doing so, they have not only made themselves transparent and accountable to the public but at the same time have paved the path for innovation and informed decision-making resulting in revolutionizing governance. Some of these case studies have been published by [Open Knowledge Foundation](http://opendatahandbook.org/value-stories/en/), [Open Data Institute (ODI)](https://theodi.org/knowledge-opinion/case-studies/), [Cambridge Insights](http://opendata.cambridgeshireinsight.org.uk/stories), and many others.
 
 In Pakistan, while the government is taking baby steps towards reducing corruption and increasing transparency, there is much more that can be done. Unfortunately, Pakistan ranks #72 against other places as per the [Global Open Data Index](https://index.okfn.org/place/pk/). There is very little or nearly no open data available around elections, legislation, national budget, spending records, national statistics, and climate/environment amongst others.
 
-![](/media/0_uHzSYP01hORq278H_0.jpg)
+![](/media/stories/0_uHzSYP01hORq278H_0.jpg)
 
 Various private and non-profit organizations have started supporting government agencies to move towards an open and inclusive government. We at Code for Pakistan have also published an [Open Data Playbook](https://codeforpakistan.github.io/Pakistan-Open-Data-Playbook/#case-studies-use-cases) that covers the whole journey from how to get started with open data, and to how to tell the community about the work that you have done. We have also been advocating for Open Data and have conducted various workshops and delivered talks to educate the public as well as government employees about the importance of open data.
 
@@ -21,7 +21,7 @@ As soon as the team decided to work on environment data, there could not have be
 
 The second step after choosing the project was to answer the question of what could’ve been done to improve the visibility and transparency of the project. Given that not much data was published by the government, which is also why many questions were raised and [investigations](https://www.thenews.com.pk/print/591740-nab-detects-over-rs462m-loss-in-initial-inquiry-into-billion-tree-tsunami) were launched. So after some research, we found out that there was a third-party monitoring report published by WWF which contained the details of all the plantations which were carried out.
 
-![](/media/0_2SHVSA9PHzhXk26I_0.jpg)
+![](/media/stories/0_2SHVSA9PHzhXk26I_0.jpg)
 
 That was the required breakthrough and it was all Sparta after that. Within no time, the volunteers chalked a plan, identified correlations between the datasets, and started compiling the data. After compilation, [2 different datasets](https://www.kaggle.com/aliirz/billion-tree-tsunami) were created:
 
@@ -45,9 +45,9 @@ The volunteers conducted this activity in just a couple of hours but at the same
 
 We would like to thank all our volunteers who participated in this activity and helped us open this data. We would also love to hear from you on how we can improve the current data.
 
-![](/media/1_C9BhkxBnCO5WeaoPYjjObQ.jpg)
+![](/media/stories/1_C9BhkxBnCO5WeaoPYjjObQ.jpg)
 
-![](/media/1_Yy9jty81W56pKdt2f8bANg.jpg)
+![](/media/stories/1_Yy9jty81W56pKdt2f8bANg.jpg)
 
 If you have any queries, please feel free to contact us at [info@codeforpakistan.org](mailto:%20info@codeforpakistan.org) with the subject line “Open Data Day (BTAP)”.
 

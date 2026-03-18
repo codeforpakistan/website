@@ -2,7 +2,7 @@
 title: "Making Strides in the World of Civic Tech"
 slug: "making-strides-world-civic-tech"
 summary: "It’s been a week of big strides for us at CfP with graduation celebrations & MoU signings!"
-image: "/media/1%2520HxMYH9w8b4EcVpQxSLb_8g.jpg"
+image: "/media/stories/1HxMYH9w8b4EcVpQxSLb_8g.jpg"
 date: "2023-10-09"
 ---
 May 2022 Recap: It’s been a big week for us at Code for Pakistan. The first-ever batch of our Khyber Pakhtunkhwa Women Civic Internship Program graduated alongside Fellows from the 7th Cycle Khyber Pakhtunkhwa Government Innovation Fellowship Program on Tuesday, 31st of May. A special celebratory ceremony was held for them at Durshal in Peshawar. We also made some strides towards our goals of sustainable open data and expansion of digital services within civic technology. To bring these visions into practice, Code for Pakistan signed two separate memorandum of understanding (MoU’s) just this week; one in collaboration with Performance Management Reforms Unit (PMRU) and another with WQSoftwares — a tech company based out of Peshawar.
@@ -21,10 +21,10 @@ Many of our partners came out to show us their support as well, for which we are
 
 Moving towards our goals of advancing within the civic tech sphere, Code for Pakistan’s Country Head Samina Rizwan signed an MoU with the Performance Management and Reforms Unit (PMRU) regarding sustainable open data strategy and several projects related, but not limited to its scope, as well as initiatives for transparency. Director PMRU Capt (Rtd) Abdur Rehman signed on behalf of PMRU.
 
-![MoU Signing 1](/media/1%2520HxMYH9w8b4EcVpQxSLb_8g.jpg)
+![MoU Signing 1](/media/stories/1HxMYH9w8b4EcVpQxSLb_8g.jpg)
 
-![MoU Signing 2](/media/1%2520wJhg5RRYYEZqLPGabIjj1g.jpg)
+![MoU Signing 2](/media/stories/1wJhg5RRYYEZqLPGabIjj1g.jpg)
 
 On the same wavelength, but with a different focus, we partnered with WQSoftwares which is a premier IT company based out of KP. After realizing a shared interest within a broad range of areas including promotion of digital services and civic tech intiatives, Mr. Waqar Yunas, Chief Executive Officer at WQsoftwares and CfP’s Samina Rizwan signed an MoU mapping out these expectations.
 
-![MoU Signing 3](/media/1%2520v-ccdOgMMstp3qtyuhRVIQ.jpg)
+![MoU Signing 3](/media/stories/1v-ccdOgMMstp3qtyuhRVIQ.jpg)

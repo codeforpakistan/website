@@ -1,7 +1,7 @@
 ---
 title: "Rah-e-Sakoon"
 slug: "rah-e-sakoon"
-image: "/media/project-rah-e-sakoon.jpg"
+image: "/media/projects/project-rah-e-sakoon.jpg"
 department: ""
 year: ""
 sortOrder: 42

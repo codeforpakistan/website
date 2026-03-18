@@ -2,7 +2,7 @@
 title: "CfP's 4th Anniversary: Spotlight on Nabeha Khan"
 slug: "spotlight-nabeha-khan"
 summary: "My work has challenged me to find new and creative solutions to everyday problems using civic tech"
-image: "/media/stories-spotlight-nabeha-khan.jpg"
+image: "/media/stories/stories-spotlight-nabeha-khan.jpg"
 date: "2017-04-06"
 ---
 My journey with CfP started in November 2013 with this first email from Sheba:

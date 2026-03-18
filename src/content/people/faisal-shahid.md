@@ -1,7 +1,7 @@
 ---
 title: "Faisal Shahid"
 slug: "faisal-shahid"
-image: "/media/faisal%255B1%255D.jpg"
+image: "/media/people/faisal.jpg"
 designation: "Sr Manager Operations"
 group: "staff"
 sortOrder: 1

@@ -1,7 +1,7 @@
 ---
 title: "Firms Registration System"
 slug: "firms-registration"
-image: "/media/project-firms-registration.jpg"
+image: "/media/projects/project-firms-registration.jpg"
 department: "Directorate of Industries and Commerce"
 year: ""
 sortOrder: 12

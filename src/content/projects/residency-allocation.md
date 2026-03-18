@@ -1,7 +1,7 @@
 ---
 title: "Residency Allocation System"
 slug: "residency-allocation"
-image: "/media/project-residency-allocation.jpg"
+image: "/media/projects/project-residency-allocation.jpg"
 department: "Establishment/Administration Department"
 year: 2015
 sortOrder: 46

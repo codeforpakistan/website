@@ -2,7 +2,7 @@
 title: "7 Reasons to Join the KP Government Innovation Fellowship"
 slug: "7-reasons-to-join-government-fellowship"
 summary: "Bushra Mustafa recalls her time in the fellowship and provides compelling arguments to join"
-image: "/media/post_02.jpg"
+image: "/media/stories/post_02.jpg"
 date: "2024-01-26"
 ---
 They say the most transformative journeys often begin in the most unexpected places. For me, it wasn't a grand epiphany or a meticulously crafted career plan but an email forwarded from a former classmate that pushed me to apply for the fellowship.
@@ -25,7 +25,7 @@ As my civic duty, I want to share my experience and why I think it can do wonder
 
 Have you ever aspired to work for government departments? The Fellowship Program turns this dream for you into a reality. It's all about helping these departments embrace the digital age.
 
-![Pharma License Digitization Project (2020)](/media/post_02.jpg)
+![Pharma License Digitization Project (2020)](/media/stories/post_02.jpg)
 
 _Pharma License Digitization Project (2020)_
 
@@ -35,7 +35,7 @@ During the tenure of the Fellowship program, you'll get to team up with fellow i
 
 A wise colleague once shared, "We choose career paths for three reasons: money, learning, and security." And who wouldn't agree? This Fellowship embodies all three. You'll deepen your skills and explore diverse career paths, equipping yourself for a future shaped by technological advancements.
 
-![Fellows Participating in a Team Building Activity (2021)](/media/post_03.jpg)
+![Fellows Participating in a Team Building Activity (2021)](/media/stories/post_03.jpg)
 
 _Fellows Participating in a Team Building Activity (2021)_
 
@@ -45,7 +45,7 @@ Unlike the old-school pedagogical methods, the KP Government Innovation Fellowsh
 
 Building strong connections and finding your own voice are necessary in today's interconnected world. The Fellowship program is designed to provide you with diverse opportunities to build your network. It helps you connect with local and international Fellows, mentors, and industry experts.
 
-![Fellows at Digital Youth Summit (2017)](/media/post_04.jpg)
+![Fellows at Digital Youth Summit (2017)](/media/stories/post_04.jpg)
 
 _Fellows at Digital Youth Summit (2017)_
 
@@ -55,7 +55,7 @@ This program gives you an opportunity to boost your visibility by participating 
 
 Imagine a place where art and technology converge, creating something truly extraordinary. That's the essence of civic innovation. It's a form of modern art that lets you harness your creativity for the greater good. That’s when you realize the actual power of citizen participation and their role as a change agent to innovate and transform society for the masses.
 
-![Fellows Presenting Their Projects (2021)](/media/post_05.jpg)
+![Fellows Presenting Their Projects (2021)](/media/stories/post_05.jpg)
 
 _Fellows Presenting Their Projects (2021)_
 
@@ -65,7 +65,7 @@ Here, at the Fellowship, your creative passions aren't just nurtured—they're d
 
 Think of this program as a half-year adventure. Every year, the Fellowship team kicks off a new cycle with fresh goals. But don't think of the end as just that — the end. It's actually the start of something bigger.
 
-![External Speaker Sessions for Skill Development (2021)](/media/post_06.jpg)
+![External Speaker Sessions for Skill Development (2021)](/media/stories/post_06.jpg)
 
 _External Speaker Sessions for Skill Development (2021)_
 
@@ -75,7 +75,7 @@ The idea? To equip you with the skills you need to make the world a better place
 
 Let's be real: who likes the same old routine, day in and day out? One of the coolest things about this Fellowship Program is how it encourages you to find your fun side again in all sorts of ways.
 
-![Fellows Enjoying Recreational Activities (2017)](/media/post_07.jpg)
+![Fellows Enjoying Recreational Activities (2017)](/media/stories/post_07.jpg)
 
 _Fellows Enjoying Recreational Activities (2017)_
 
@@ -85,7 +85,7 @@ We're not just talking about indoor activities. Imagine team bowling matches, si
 
 Last but definitely not least, you'll become part of a family. Not just any family, but a group of innovators, designers, and thinkers who've spent the past six months pouring their hearts into reaching their goals.
 
-![Alumni Reunion (2022)](/media/post_08.jpg)
+![Alumni Reunion (2022)](/media/stories/post_08.jpg)
 
 _Alumni Reunion (2022)_
 

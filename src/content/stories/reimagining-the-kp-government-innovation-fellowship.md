@@ -2,7 +2,7 @@
 title: "Reimagining the KP Government Innovation Fellowship Program Amidst the COVID-19 Pandemic"
 slug: "reimagining-the-kp-government-innovation-fellowship"
 summary: "Amid the COVID-19 break, Code for Pakistan's team restructuring the Fellowship Program to meet the gov-tech needs while observing social distancing guidelines."
-image: "/media/0_pxK8tRqyjtL6uOxD.jpg"
+image: "/media/stories/0_pxK8tRqyjtL6uOxD.jpg"
 date: "2020-06-29"
 ---
 As we were getting ready to launch the sixth cycle of the [KP Government Innovation Fellowship Program](http://167.172.68.51/programs/fellowship/) (the launch was planned for April 2020), the COVID-19 outbreak in late February forced us to go back to the drawing board, delay the launch, and rethink how to run the Fellowship amidst a global pandemic and strict social distancing guidelines.
@@ -17,13 +17,13 @@ Within two weeks, the team put together a proposal for a hybrid Fellowship Progr
 
 ## The Virtual Fellowship Program
 
-![](/media/0_pxK8tRqyjtL6uOxD.jpg)
+![](/media/stories/0_pxK8tRqyjtL6uOxD.jpg)
 
 During previous Fellowship cycles, the Fellows worked out of the Durshal co-working space. They attended daily stand up meetings, worked on the development of their projects and sat through the curriculum sessions together. In some cases, they would be placed within the government departments. In-person meetings with government focal persons happened regularly and we invited key players from the government to demo days and other events. Typically, we divide the Fellows into teams and they work closely with the partnering government departments. This includes multiple visits to the various departments to gather requirements and for brainstorming. There are also user research phases where the Fellows conduct surveys to identify the specific needs of users, to create a robust solution and end product that genuinely meets those needs.
 
 This year, we are moving as much of this as possible, online. Teams are relying on telecommuting for interaction with each other, for progress updates, for check-ins with the management team and for meetings with focal persons.
 
-![](/media/0_9dOKMIASdR-bOvbC.jpg)
+![](/media/stories/0_9dOKMIASdR-bOvbC.jpg)
 
 In the remote Fellowship we will be using online collaboration tools and software to work on projects remotely
 
@@ -46,7 +46,7 @@ The recruitment process consists of the following stages:
 
 Just before the outbreak of COVID-19, the team had already received **3,118 applications** and had started screening potential candidates for the test. Typically, once the initial screening process is completed, we invite the shortlisted candidates for a technical test and in-person interview. However, this time given the circumstances, we conducted online tests and interviews. The interviews were conducted by the Fellowship Recruitment Committee comprising members from the KPITB, Code for Pakistan and the World Bank. The interview format was similar to a traditional in-person interview. The candidates were asked to turn on their webcams to ensure the right candidate is appearing for the interview. In case the candidates faced any technical issue, such as interrupted internet connection, during the interview, we allowed them adequate time, or rescheduled the interview.
 
-![](/media/0_-VrV97AxlBt9Rx2z.jpg)
+![](/media/stories/0_-VrV97AxlBt9Rx2z.jpg)
 
 Using Google CoLaboratory and Github for Online Technical Assessments
 
@@ -64,7 +64,7 @@ A total of six teams are currently associated with five different government dep
 
 Running the Fellowship Program in this way is a new experience for the Code for Pakistan team. However, we see it as both a challenge and an opportunity, and we will continue to share our experiences as we move forward with this cycle of the Fellowship Program.
 
-![](/media/0_WCAzIYaASL_7fpQo_0.jpg)
+![](/media/stories/0_WCAzIYaASL_7fpQo_0.jpg)
 
 Team Group Photo: Orientation of 20 Fellows into the Remote Fellowship Program
 

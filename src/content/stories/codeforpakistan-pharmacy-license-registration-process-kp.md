@@ -2,7 +2,7 @@
 title: "Streamlining Pharmacy License Registration Processes"
 slug: "codeforpakistan-pharmacy-license-registration-process-kp"
 summary: "Supporting the Health Department KP to streamline pharmacy license registration processes by developing an online registration system."
-image: "/media/0_n7JR-1R9AgPFmMsy.jpg"
+image: "/media/stories/0_n7JR-1R9AgPFmMsy.jpg"
 date: "2021-01-13"
 ---
 For the sixth cycle of the Fellowship Program, a team of Fellows partnered up with the Health Department KP to develop a new online pharmacy license registration system. The system replaces existing manual systems, which had issues ranging from delays in application processing to difficulties in tracking the authenticity of awarded licenses. With this online system, pharmacists, businessmen, and drug store owners across the province can now apply online to acquire a license to operate pharmacies and medicine stores. This blog post covers in detail why this digital solution was developed and shares the salient features of the online system.
@@ -40,7 +40,7 @@ Three Fellows, Muhammad Awais Khan, Asfandiyar and Abbas Khan (get to know more 
 
 Among other things, the respondents also wanted a more efficient and simple process which required fewer in-person visits to the department to fulfil the requirements of obtaining a license.
 
-![](/media/0_n7JR-1R9AgPFmMsy.jpg)
+![](/media/stories/0_n7JR-1R9AgPFmMsy.jpg)
 
 ## Developing the Solution
 
@@ -56,11 +56,11 @@ Based on the user research, the Fellowship team created a fully centralized onli
 
 The online system has been developed using modern development methodologies and has been built with operability and sustainability in mind. The online system is easy to use for both license acquisition and issuance. The system is accessible through any internet-connected desktop, laptop, tablet or smartphone, on all major internet browsers. The system’s UI and UX are optimized for both desktop and mobile screens with vibrant colours, legible menus, and easy navigation. The system’s snapshots in action are shared below, which illustrate the usability of the online system.
 
-![](/media/0_449gydvfO-0IcqL5.jpg)
+![](/media/stories/0_449gydvfO-0IcqL5.jpg)
 
-![](/media/0_KW3wHVX2iI2xJTRD.jpg)
+![](/media/stories/0_KW3wHVX2iI2xJTRD.jpg)
 
-![](/media/0_xX7vu2Xri8HcsMdp.jpg)
+![](/media/stories/0_xX7vu2Xri8HcsMdp.jpg)
 
 ## Expected Impact
 

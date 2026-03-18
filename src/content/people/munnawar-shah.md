@@ -1,7 +1,7 @@
 ---
 title: "Munnawar Shah"
-slug: "mannawar-shah"
-image: "/media/munnawar%255B1%255D.jpg"
+slug: "munnawar-shah"
+image: "/media/people/munnawar.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 15

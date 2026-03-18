@@ -1,7 +1,7 @@
 ---
 title: "Shaji Ahmed"
 slug: "shaji-ahmed"
-image: "/media/linkedin.jpg"
+image: "/media/people/shaji.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 18

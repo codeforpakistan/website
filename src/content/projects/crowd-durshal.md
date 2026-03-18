@@ -1,7 +1,7 @@
 ---
 title: "Crowd Durshal"
 slug: "crowd-durshal"
-image: "/media/project-crowd-durshal.jpg"
+image: "/media/projects/project-crowd-durshal.jpg"
 department: "KP IT Board"
 year: ""
 sortOrder: 5

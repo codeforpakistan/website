@@ -1,7 +1,7 @@
 ---
 title: "Mubassir Hayat"
 slug: "mubassir-hayat"
-image: "/media/mubassir%255B1%255D.jpg"
+image: "/media/people/mubassir.jpg"
 designation: "Volunteer"
 group: "volunteer"
 sortOrder: 13
