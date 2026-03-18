@@ -1,7 +1,7 @@
 ---
 title: "Curriculum Designer"
 slug: "curriculum-designer"
-summary: "About Code for Pakistan  Imagine a Pakistan where technology strengthens communities, improves lives, and brings citizens and government closer together. That's the vision driving Code for Pakistan. Code for Pakistan..."
+summary: "Curriculum Designer will be responsible for the initial design, content creation, and any necessary updates or iterations required during the project lifecycle"
 sortOrder: 1
 location: ""
 dueDate: ""

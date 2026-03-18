@@ -17,7 +17,7 @@ const { story } = Astro.props;
 const { Content } = await story.render();
 ---
 
-<MainLayout title={`${story.data.title}`}>
+<MainLayout title={`${story.data.title}`} description={story.data.summary} image={story.data.image}>
   <div class="py-8">
     <div class="mb-6 space-y-2">
       <h1 class="text-3xl md:text-6xl tracking-tight">{story.data.title}</h1>

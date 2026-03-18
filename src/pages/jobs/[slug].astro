@@ -14,7 +14,7 @@ const { job } = Astro.props;
 const { Content } = await job.render();
 ---
 
-<MainLayout title={`${job.data.title}`}>
+<MainLayout title={`${job.data.title}`} description={job.data.summary}>
     <div class="py-8">
         <div class="mb-6 space-y-2">
             <h1 class="text-3xl md:text-6xl tracking-tight">{job.data.title}</h1>

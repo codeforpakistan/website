@@ -1,7 +1,7 @@
 ---
 title: "Technology Specialist (LMS Development)"
 slug: "tech-specialist"
-summary: "About Code for Pakistan  Imagine a Pakistan where technology strengthens communities, improves lives, and brings citizens and government closer together. That’s the vision driving Code for Pakistan. Code for Pakistan..."
+summary: "Technology Specialist will focus on deploying and managing the LMS, ensuring it is scalable, user-friendly, secure, and aligned with program learning objectives."
 sortOrder: 3
 location: ""
 dueDate: ""

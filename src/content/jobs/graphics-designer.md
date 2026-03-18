@@ -1,7 +1,7 @@
 ---
 title: "Graphics Designer"
 slug: "graphics-designer"
-summary: "About Code for Pakistan  Imagine a Pakistan where technology strengthens communities, improves lives, and brings citizens and government closer together. That's the vision driving Code for Pakistan. Code for Pakistan..."
+summary: "Graphic Designer will develop engaging visual materials including infographics, digital assets, and visual aids for curriculum modules and communication materials"
 sortOrder: 2
 location: ""
 dueDate: ""

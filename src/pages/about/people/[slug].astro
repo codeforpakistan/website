@@ -24,7 +24,7 @@ const githubUrl = normalizeUrl(person.data.github, 'https://github.com/');
 const twitterUrl = normalizeUrl(person.data.twitter, 'https://x.com/');
 ---
 
-<MainLayout title={`${person.data.title}`}>
+<MainLayout title={`${person.data.title}`} image={person.data.image}>
   <div class="py-8">
     <div class="mb-6 space-y-2">
       <h1 class="text-3xl md:text-6xl tracking-tight">{person.data.title}</h1>

@@ -31,7 +31,7 @@ const taglineParts = [event.data.location?.trim(), eventDate].filter(Boolean);
 const eventTagline = taglineParts.join(' · ');
 ---
 
-<MainLayout title={`${event.data.title}`}>
+<MainLayout title={`${event.data.title}`} description={event.data.summary} image={event.data.image}>
     <div class="py-8">
         <div class="mb-6 space-y-2">
             <h1 class="text-3xl md:text-6xl tracking-tight">{event.data.title}</h1>
