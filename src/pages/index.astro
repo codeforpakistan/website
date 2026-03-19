@@ -1,115 +1,130 @@
 ---
-import MainLayout from '../layouts/MainLayout.astro';
-import { getCollection } from 'astro:content';
-import FeaturedStoryCard from '../components/cards/FeaturedStoryCard.astro';
-import EventCard from '../components/cards/EventCard.astro';
-import { sortByDateDesc } from '../utils/sortByDateDesc';
+import MainLayout from "../layouts/MainLayout.astro"
+import { getCollection } from "astro:content"
+import FeaturedStoryCard from "../components/cards/FeaturedStoryCard.astro"
+import EventCard from "../components/cards/EventCard.astro"
+import GetInvolved from "../components/GetInvolved.astro"
+import { sortByDateDesc } from "../utils/sortByDateDesc"
 
-const stories = await getCollection('stories');
-const sortedStories = sortByDateDesc(stories);
-const featuredStory = sortedStories[0];
+const stories = await getCollection("stories")
+const sortedStories = sortByDateDesc(stories)
+const featuredStory = sortedStories[0]
 
-const events = await getCollection('events');
+const events = await getCollection("events")
 
 function toTime(value?: string) {
-  if (!value) return 0;
-  const parsed = new Date(value);
-  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+  if (!value) return 0
+  const parsed = new Date(value)
+  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime()
 }
 
 const sortedEvents = [...events].sort((a, b) => {
-  const startA = toTime(a.data.startDate);
-  const startB = toTime(b.data.startDate);
-  if (startA !== startB) return startB - startA;
-  return a.data.title.localeCompare(b.data.title);
-});
+  const startA = toTime(a.data.startDate)
+  const startB = toTime(b.data.startDate)
+  if (startA !== startB) return startB - startA
+  return a.data.title.localeCompare(b.data.title)
+})
 
-const recentEvents = sortedEvents.slice(0, 3);
+const recentEvents = sortedEvents.slice(0, 3)
 ---
 
 <MainLayout title="Building technology solutions for social good">
   <div class="py-8">
-
     <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
       <div class="flex-grow max-w-5xl">
         <div class="w-full mb-8">
-  <img src="/img/home_banner.jpg" alt="Code for Pakistan" class="w-full h-auto rounded-lg">
-</div>
-
-<!-- Hero Section -->
-<section>
-    <h1 class="heading mb-6">Bridging the Gap Between <span class="text-cfp-green-500">Government</span> and <span class="text-cfp-blue-500">Citizens</span></h1>
-    <p class="text-lg md:text-xl text-gray-700 mb-8">Unlocking the power of civic tech, where citizens and government co-create solutions for real-world problems.</p>
-    <a href="/about" class="inline-block btn btn-primary">Get Started</a>
-</section>
-
-<!-- Who We Are Section -->
-<section class="section border-s-8 border-sky-500 px-8 bg-sky-100">
-    <h2 class="heading mb-4">Who We Are</h2>
-    <p class="text-lg text-gray-700 mb-12">We are a civic-tech non-profit who have spent the last decade partnering with the government and advising both the public and private sectors on designing technology around our communities in order to improve the quality of life and increase access to government services across Pakistan.</p>
-    
-    <!-- Stats Grid -->
-    <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
-        <div>
-            <div class="heading text-7xl text-sky-500">80</div>
-            <div class="font-semibold text-gray-500">Solutions Developed</div>
+          <img src="/img/home_banner.jpg" alt="Code for Pakistan" class="w-full h-auto rounded-lg" />
         </div>
-        <div>
-            <div class="heading text-7xl text-sky-500">45</div>
-            <div class="font-semibold text-gray-500">Departments Facilitated</div>
-        </div>
-        <div>
-            <div class="heading text-7xl text-sky-500">600</div>
-            <div class="font-semibold text-gray-500">Officials Trained</div>
-        </div>
-        <div>
-            <div class="heading text-7xl text-sky-500">136</div>
-            <div class="font-semibold text-gray-500">Fellows Graduated</div>
-        </div>
-    </div>
-</section>
 
-<!-- Featured Story Section -->
-<section class="section">
-    <h2 class="heading mb-4">Featured Story</h2>
-    {featuredStory && (
-        <FeaturedStoryCard
-            href={`/stories/${featuredStory.slug}`}
-            image={featuredStory.data.image}
-            title={featuredStory.data.title}
-            content={featuredStory.body}
-            date={featuredStory.data.date}
-        />
-    )}
-</section>
+        <!-- Hero Section -->
+        <section>
+          <h1 class="heading mb-6">
+            Bridging the Gap Between <span class="text-cfp-green-500">Government</span> and <span
+              class="text-cfp-blue-500">
+              Citizens
+            </span>
+          </h1>
+          <p class="text-lg md:text-xl text-gray-700 mb-8">
+            Unlocking the power of civic tech, where citizens and government co-create solutions for real-world
+            problems.
+          </p>
+          <a href="/about" class="inline-block btn btn-primary">Get Started</a>
+        </section>
 
-<!-- Recent Events Section -->
-<section class="section">
-    <h2 class="heading mb-4">Recent Events</h2>
-    <div class="grid md:grid-cols-3 gap-8 mb-8">
-        {recentEvents.length > 0 ? (
-            recentEvents.map((event) => (
-                <EventCard
+        <!-- Who We Are Section -->
+        <section class="section border-s-8 border-sky-500 px-8 bg-sky-100">
+          <h2 class="heading mb-4">Who We Are</h2>
+          <p class="text-lg text-gray-700 mb-12">
+            We are a civic-tech non-profit who have spent the last decade partnering with the government and advising
+            both the public and private sectors on designing technology around our communities in order to improve the
+            quality of life and increase access to government services across Pakistan.
+          </p>
+
+          <!-- Stats Grid -->
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+            <div>
+              <div class="heading text-7xl text-sky-500">80</div>
+              <div class="font-semibold text-gray-500">Solutions Developed</div>
+            </div>
+            <div>
+              <div class="heading text-7xl text-sky-500">45</div>
+              <div class="font-semibold text-gray-500">Departments Facilitated</div>
+            </div>
+            <div>
+              <div class="heading text-7xl text-sky-500">600</div>
+              <div class="font-semibold text-gray-500">Officials Trained</div>
+            </div>
+            <div>
+              <div class="heading text-7xl text-sky-500">136</div>
+              <div class="font-semibold text-gray-500">Fellows Graduated</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Featured Story Section -->
+        <section class="section">
+          <h2 class="heading mb-4">Featured Story</h2>
+          {
+            featuredStory && (
+              <FeaturedStoryCard
+                href={`/stories/${featuredStory.slug}`}
+                image={featuredStory.data.image}
+                title={featuredStory.data.title}
+                content={featuredStory.body}
+                date={featuredStory.data.date}
+              />
+            )
+          }
+        </section>
+
+        <!-- Recent Events Section -->
+        <section class="section">
+          <h2 class="heading mb-4">Recent Events</h2>
+          <div class="grid md:grid-cols-3 gap-8 mb-8">
+            {
+              recentEvents.length > 0 ? (
+                recentEvents.map((event) => (
+                  <EventCard
                     href={`/events/${event.slug}`}
                     image={event.data.image}
                     title={event.data.title}
                     location={event.data.location}
                     date={event.data.startDate || event.data.endDate}
                     summary={event.data.summary}
-                />
-            ))
-        ) : (
-            <p class="col-span-3 text-gray-500">No recent events to display.</p>
-        )}
-    </div>
-</section>
+                  />
+                ))
+              ) : (
+                <p class="col-span-3 text-gray-500">No recent events to display.</p>
+              )
+            }
+          </div>
+        </section>
 
-<!-- Call to Action Section -->
-
-<!-- include components/cta.html removed -->
+        <!-- Get Involved Section -->
+        <GetInvolved />
       </div>
-
     </div>
   </div>
-</MainLayout>
 
+  
+</MainLayout>

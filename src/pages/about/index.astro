@@ -3,6 +3,7 @@ import MainLayout from '../../layouts/MainLayout.astro';
 import { getCollection } from 'astro:content';
 import PeopleCard from '../../components/cards/PeopleCard.astro';
 import CardGrid from '../../components/sections/CardGrid.astro';
+import GetInvolved from '../../components/GetInvolved.astro';
 
 const people = await getCollection('people');
 
@@ -155,6 +156,10 @@ const featuredPeople = randomPeople.slice(0, 4);
 
     <!-- Call to Action -->
     <!-- include components/cta.html removed -->
+    
+    <section class="mt-16">
+      <GetInvolved title="It takes a village to make change happen. Help shape a country that works for everyone, seamlessly" />
+    </section>
 </article>
       </div>
 
