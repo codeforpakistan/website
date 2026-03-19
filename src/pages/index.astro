@@ -1,5 +1,30 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+import FeaturedStoryCard from '../components/cards/FeaturedStoryCard.astro';
+import EventCard from '../components/cards/EventCard.astro';
+import { sortByDateDesc } from '../utils/sortByDateDesc';
+
+const stories = await getCollection('stories');
+const sortedStories = sortByDateDesc(stories);
+const featuredStory = sortedStories[0];
+
+const events = await getCollection('events');
+
+function toTime(value?: string) {
+  if (!value) return 0;
+  const parsed = new Date(value);
+  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+}
+
+const sortedEvents = [...events].sort((a, b) => {
+  const startA = toTime(a.data.startDate);
+  const startB = toTime(b.data.startDate);
+  if (startA !== startB) return startB - startA;
+  return a.data.title.localeCompare(b.data.title);
+});
+
+const recentEvents = sortedEvents.slice(0, 3);
 ---
 
 <MainLayout title="Building technology solutions for social good">
@@ -47,18 +72,35 @@ import MainLayout from '../layouts/MainLayout.astro';
 <!-- Featured Story Section -->
 <section class="section">
     <h2 class="heading mb-4">Featured Story</h2>
-    <!-- include components/featured_story_card.html removed -->
+    {featuredStory && (
+        <FeaturedStoryCard
+            href={`/stories/${featuredStory.slug}`}
+            image={featuredStory.data.image}
+            title={featuredStory.data.title}
+            content={featuredStory.body}
+            date={featuredStory.data.date}
+        />
+    )}
 </section>
 
 <!-- Recent Events Section -->
 <section class="section">
     <h2 class="heading mb-4">Recent Events</h2>
     <div class="grid md:grid-cols-3 gap-8 mb-8">
-        
-            <!-- include components/event_card.html removed -->
-        
+        {recentEvents.length > 0 ? (
+            recentEvents.map((event) => (
+                <EventCard
+                    href={`/events/${event.slug}`}
+                    image={event.data.image}
+                    title={event.data.title}
+                    location={event.data.location}
+                    date={event.data.startDate || event.data.endDate}
+                    summary={event.data.summary}
+                />
+            ))
+        ) : (
             <p class="col-span-3 text-gray-500">No recent events to display.</p>
-        
+        )}
     </div>
 </section>
 

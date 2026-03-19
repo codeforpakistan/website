@@ -2,10 +2,9 @@
 title: "The E-Abyana story"
 slug: "e-abyana-story"
 summary: "Designed in the field, built with the Government"
-image: "/media/stories/Saqib.jpg"
+image: "/media/stories/eabyana.jpg"
 date: "2026-01-10"
 ---
-By Muhammad Saqib, KP Government Innovation Fellow
 
 When I first stepped into KP Irrigation Department's office in Khyber Pakhtunkhwa, I didn't expect to see ledgers stacked higher than a person. But there it was, piles of paper, chalkboards scribbled with land details, calculators passed around like rare treasures, and workflows that seemed frozen in time.
 
