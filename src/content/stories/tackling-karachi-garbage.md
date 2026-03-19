@@ -9,7 +9,7 @@ date: "2024-02-14"
 
 She doesn't know how real and depressing her reply was. The world generates **300 million** tons of plastic annually, half of which is single-use. More than 8 million tons end up in our oceans. At this rate, by 2050, our oceans might contain more plastic than fish. Karachi's contribution to this global issue is not insignificant, **producing around 12,000 tons of waste daily, 40% of which is left uncollected.**
 
-I first met Aimah, a physicist and an avid environmentalist in [Code for Pakistan'](http://www.codeforpakistan.org)s Karachi Volunteers WhatsApp Group. During one of our weekly online meetings, she introduced me to the concept of upcycling, an intriguing alternative to recycling. Upcycling is particularly concerned with items like snack wrappers and other non-recyclable materials. Aimah has been practicing composting at home and living a low-waste life with her mother for nearly four years. Together, they explore innovative ways to repurpose Karachi's waste.
+I first met Aimah, a physicist and an avid environmentalist in Code for Pakistan's Karachi Volunteers WhatsApp Group. During one of our weekly online meetings, she introduced me to the concept of upcycling, an intriguing alternative to recycling. Upcycling is particularly concerned with items like snack wrappers and other non-recyclable materials. Aimah has been practicing composting at home and living a low-waste life with her mother for nearly four years. Together, they explore innovative ways to repurpose Karachi's waste.
 
 > "Fascinated by the Netherlands, where I pursued my education, I admired how this small country, smaller than Sindh, thrived entrepreneurially, with agriculture as its biggest export."
 

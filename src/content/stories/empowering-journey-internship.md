@@ -43,6 +43,6 @@ Today, Osmia uses her skills to pursue work-from-home opportunities, improving h
 
 Her story stands as a powerful testament to the idea that, given the right opportunities, women in even the most remote regions of Pakistan can surmount obstacles and realize their aspirations.
 
-This November, consider [supporting more programs like the KP Women's Civic Digital Internship Program](http://www.codeforpakistan.org/donate) to help women like Osmia on their journey towards empowerment.
+This November, consider [supporting more programs like the KP Women's Civic Digital Internship Program](/donate) to help women like Osmia on their journey towards empowerment.
 
 Written by [Amna Zafar](https://www.linkedin.com/in/amna-zafar-7558b8298/)

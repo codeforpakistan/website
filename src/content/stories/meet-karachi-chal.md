@@ -37,6 +37,6 @@ Check out [**Karachi Cha**l](https://karachichal.com) yourself, and let me know 
 
 P.S. At the hackathon, a team already redeployed Karachi Chal as an itinerary planner with integrations with local businesses. Seeing the project outgrow my initial vision was a truly proud and gratifying experience.
 
-To contribute to Karachi Chal and other fun ongoing projects at Code for Pakistan, head over to the [Get Involved tab](https://www.codeforpakistan.org/volunteer/register) on our website and sign up now!
+To contribute to Karachi Chal and other fun ongoing projects at Code for Pakistan, head over to the [Volunteer](/volunteer) page on our website and sign up now!
 
-Written by [Ali Raza](https://www.codeforpakistan.org/about/people/ali-raza)
+Written by [Ali Raza](/about/people/ali-raza)
