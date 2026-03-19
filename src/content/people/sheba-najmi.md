@@ -11,7 +11,7 @@ twitter: "https://twitter.com/snajmi"
 ---
 Sheba Najmi is the Founder & Executive Director of Code for Pakistan, a civic tech nonprofit organization that brings together government, communities, and technology to drive citizen-focused innovation in government, create human-centered public solutions, and foster civic engagement across Pakistan.
 
-Driven by a lifelong north star of social impact, Sheba was one of the first champions of civic tech in Pakistan. Sheba launched Pakistan's [first civic hackathon in 2013](http://e.com.pk/story/532871/karachis-geek-squad-civic-hackathon-comes-with-an-app-to-keep-tab-on-rishwat), followed by Pakistan's first [Government Innovation Fellowship Program](https://codeforpakistan.org/programs/fellowships) in partnership with the Khyber Pakhtunkhwa government and the World Bank. As the first civic tech organization in the country, Code for Pakistan's accomplishments are a testament to Sheba's vision, leadership, dedication, and her ability to inspire, bring together, and enable both citizens who wish to make a difference in their communities and change agents in governments who wish to innovate.
+Driven by a lifelong north star of social impact, Sheba was one of the first champions of civic tech in Pakistan. Sheba launched Pakistan's [first civic hackathon in 2013](http://e.com.pk/story/532871/karachis-geek-squad-civic-hackathon-comes-with-an-app-to-keep-tab-on-rishwat), followed by Pakistan's first [Government Innovation Fellowship](/programs/fellowships) in partnership with the Khyber Pakhtunkhwa government and the World Bank. As the first civic tech organization in the country, Code for Pakistan's accomplishments are a testament to Sheba's vision, leadership, dedication, and her ability to inspire, bring together, and enable both citizens who wish to make a difference in their communities and change agents in governments who wish to innovate.
 
 Over the last decade, more than 210 technology professionals have worked [alongside 45 government departments](https://icscentre.org/wp-content/uploads/2022/10/ICSCentre_IR_2022_Code-for-Pakistan_Fellowship-Progam.pdf) at both provincial and federal levels, deployed 70 open source digital projects and opened 6,000 government datasets, served 2.1 M citizens, saved over 122,000 government hours, and trained 600 government officials. In addition, the KP Women's Civic Digital Internship Program has upskilled 56 women technologists from remote areas of the KP province, who worked on government projects and received trainings and mentorship, leading to their employment.
 
@@ -19,7 +19,7 @@ Sheba is well-versed in the global paradigms of civic engagement and using techn
 
 Despite her many accomplishments, what drives Sheba is her passion to design solutions that place people at the center. Sheba has been leading User Experience and Product Design for 20 years at Silicon Valley companies, including LinkedIn and Yahoo!, and she also teaches the next generation of designers as a faculty member at San Diego City College.
 
-Sheba was awarded the prestigious [2024 HUM Women Leaders Award](https://codeforpakistan.org/stories/glitter-glam-technology) for her leadership as a pioneer in technology for public service in Pakistan.
+Sheba was awarded the prestigious [2024 HUM Women Leaders Award](/stories/glitter-glam-technology) for her leadership as a pioneer in technology for public service in Pakistan.
 
 Sheba is also Adjunct Professor of Product Design at San Diego City College.
 

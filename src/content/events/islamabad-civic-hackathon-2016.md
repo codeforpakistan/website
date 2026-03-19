@@ -9,7 +9,7 @@ startDate: "2016-08-08"
 endDate: ""
 ---
 
-Our [Second Annual Islamabad Civic Hackathon](https://codeforpakistan.org/events/islamabad-civic-hackathon-2016) brought together 150 civic-minded developers, designers, data analysts, professionals, students, mentors, and innovators at The Hive in Islamabad on the 16th and 17th of July, 2016.
+Our [Second Annual Islamabad Civic Hackathon](/events/islamabad-civic-hackathon-2016) brought together 150 civic-minded developers, designers, data analysts, professionals, students, mentors, and innovators at The Hive in Islamabad on the 16th and 17th of July, 2016.
 
 As with our previous four civic hackathons, it is always amazing to see people use their skills and energy to improve their society and the lives of citizens! They formed teams and prototyped web and mobile applications around themes that improve the lives of citizens in Islamabad — education, health, poverty and development, social change, and sustainable city.
 

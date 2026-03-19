@@ -7,7 +7,7 @@ year: ""
 sortOrder: 17
 ---
 
-GovGPT is KP’s first AI-powered system designed to provide instant, verified access to government rules, policies, and official procedures for both public officials and the general public. Built under the KP Government Innovation Fellowship Program, GovGPT centralizes Acts, notifications, and departmental guidelines into a single, intelligent, searchable chatbot powered by OpenAI’s 4.0 model.
+GovGPT is KP’s first AI-powered system designed to provide instant, verified access to government rules, policies, and official procedures for both public officials and the general public. Built under the KP Government Innovation Fellowship, GovGPT centralizes Acts, notifications, and departmental guidelines into a single, intelligent, searchable chatbot powered by OpenAI’s 4.0 model.
 
 Currently in its beta phase, GovGPT is already being used by KPITB teams and early community testers to quickly verify policies, reduce confusion, and cut down the time spent navigating scattered or outdated documents.
 

@@ -21,7 +21,7 @@ In 2020, after six years away from home, Najeeb returned to North Waziristan.
 
 "When we returned to North Waziristan, life was tough. Getting basic necessities was difficult as much of our village was still rebuilding. And also, none of us had internet access in our homes. If someone wanted to use the internet, they had to go to the main bazaar."
 
-So Najeeb was on the move again. This time around, he found a job in Islamabad, where he was exposed to freelancing and networked within the startup ecosystem, which was burgeoning in Pakistan. Through his friends in the Peshawar startup scene, Najeeb learned about the KP Government Innovation Fellowship Program.
+So Najeeb was on the move again. This time around, he found a job in Islamabad, where he was exposed to freelancing and networked within the startup ecosystem, which was burgeoning in Pakistan. Through his friends in the Peshawar startup scene, Najeeb learned about the KP Government Innovation Fellowship.
 
 ![](/media/stories/1pU3UiRk6uix2ygyDodP54Q.jpg)
 

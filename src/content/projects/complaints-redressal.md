@@ -15,4 +15,4 @@ The Provincial Public Safety &amp; Police Complaints Commission was established 
 
 The department needed an online complaint redressal mechanism to facilitate the citizens of KP. The department wanted to incorporate online mechanisms in order to reduce in person visits and expedite the process of complaint redressals.
 
-An online complaint redressal mobile app was developed by a team of Fellows under the 7th cycle of the KP Fellowship Program.
+An online complaint redressal mobile app was developed by a team of Fellows under the 7th cycle of the KP Fellowship.

@@ -17,7 +17,7 @@ In Peshawar, Khyber Pakhtunkhwa, where Shahirah lives, cultural norms often disc
 
 That's the gap Code for Pakistan is helping close.
 
-When Shahirah joined Code for Pakistan's [KP Women's Civic Tech Internship](https://codeforpakistan.org/programs/internships/kp-women) — a program offering remote digital upskilling for recent IT graduates in partnership with the [Khyber Pakhtunkhwa Information Technology Board](https://www.kpitb.gov.pk/) (KPITB), the thought of a bank account may not have occurred to her. Between the excitement of working on civic projects and building her skillset, the question of how her stipend would be paid felt like a minor detail. But like her fellow interns, Shahirah didn't have the basic infrastructure many systems assume people already have.
+When Shahirah joined Code for Pakistan's [KP Women's Civic Tech Internship](/programs/internships/kp-women) — a program offering remote digital upskilling for recent IT graduates in partnership with the [Khyber Pakhtunkhwa Information Technology Board](https://www.kpitb.gov.pk/) (KPITB), the thought of a bank account may not have occurred to her. Between the excitement of working on civic projects and building her skillset, the question of how her stipend would be paid felt like a minor detail. But like her fellow interns, Shahirah didn't have the basic infrastructure many systems assume people already have.
 
 That's where we started.
 With registering SIM cards. With opening bank accounts. With providing internet devices.
@@ -52,4 +52,4 @@ Shahirah shares what that first stipend meant to her, and how it changed her rol
 **Help us keep it going.**
 Your support can put tools, training, and direct income in the hands of women who've been excluded for too long. Let's build with her.
 
-[**Support the Program**](https://codeforpakistan.org/donate)
+[**Support the Program**](/donate)

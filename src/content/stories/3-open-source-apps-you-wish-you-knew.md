@@ -7,7 +7,7 @@ date: "2022-07-27"
 ---
 You are probably familiar with software like WordPress, VLC Media Player, and Mozilla Firefox- just a few of the many that the open source community has blessed us with globally. But did you know that Pakistan is among the [fastest growing](https://www.techjuice.pk/pakistan-ranks-among-the-fastest-growing-countries-in-open-source-projects-github-report/) countries in open source software contribution as well, with a vibrant and growing community of techies developing open-source software for various needs?
 
-At Code for Pakistan we have over 40 open-source digital solutions that have been developed for various departments of Khyber Pakhtunkhwa's government by the KP Government Innovation Fellowship Programs Fellows in the past 8 years. These solutions aim to make the lives of citizens more convenient and the work of the government more efficient.
+At Code for Pakistan we have over 40 open-source digital solutions that have been developed for various departments of Khyber Pakhtunkhwa's government by the KP Government Innovation Fellowships Fellows in the past 8 years. These solutions aim to make the lives of citizens more convenient and the work of the government more efficient.
 
 Here are 3 open source app's developed by our 6th Cycle Fellows that you can start using right now!
 

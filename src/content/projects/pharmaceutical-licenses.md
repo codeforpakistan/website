@@ -7,7 +7,7 @@ year: ""
 sortOrder: 6
 ---
 
-The Department of Health and Directorate General Drugs contacted the KP Government Innovation Fellowship Program team with a request to digitise and automate the process of issuing licenses to drug stores and pharmacies in KP. Previously, there was no centralised online system for drug store owners to apply online, which could save their time and money and expedite the process on the department's end. Similarly, the Health Department also encountered issues in tracking duplicate and fake licenses, resulting in illegal pharmacies operating throughout the province.
+The Department of Health and Directorate General Drugs contacted the KP Government Innovation Fellowship team with a request to digitise and automate the process of issuing licenses to drug stores and pharmacies in KP. Previously, there was no centralised online system for drug store owners to apply online, which could save their time and money and expedite the process on the department's end. Similarly, the Health Department also encountered issues in tracking duplicate and fake licenses, resulting in illegal pharmacies operating throughout the province.
 
 After analysing and understanding the requirements and needs of the Health Department, the Fellowship team created a fully centralised online platform to digitise the process for license application, renewal, and verification for pharmacies in KP Province.
 

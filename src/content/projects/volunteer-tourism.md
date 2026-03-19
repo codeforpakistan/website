@@ -7,7 +7,7 @@ year: 2023
 sortOrder: 14
 ---
 
-[The Volunteer Tourism initiative](https://volunteertourism.pmrugb.gov.pk/) for the Gilgit-Baltistan (GB) province of Pakistan is a project developed under the GB Government Innovation Fellowship Program, aimed at promoting volunteer tourism both within Pakistan and on an international scale. The initiative facilitates the engagement of volunteer tourists who want to visit GB to contribute their time and expertise to various volunteer activities.
+[The Volunteer Tourism initiative](https://volunteertourism.pmrugb.gov.pk/) for the Gilgit-Baltistan (GB) province of Pakistan is a project developed under the GB Government Innovation Fellowship, aimed at promoting volunteer tourism both within Pakistan and on an international scale. The initiative facilitates the engagement of volunteer tourists who want to visit GB to contribute their time and expertise to various volunteer activities.
 
 The project aims to advance tourism in GB while simultaneously creating a social impact. It harnesses the power of volunteerism to address critical needs in areas such as education, health, social welfare, and research. By doing so, the initiative seeks to enhance the overall well-being of the communities nestled within the breathtaking landscapes of Gilgit-Baltistan.
 

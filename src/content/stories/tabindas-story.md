@@ -9,7 +9,7 @@ In Bannu, a small city in southern Khyber Pakhtunkhwa (KP), internet access didn
 
 Growing up, Tabinda Qudrat seldom saw women working outside the home, if at all. Fewer still talked about coding, design, or innovation. By the time she finished her undergraduate degree in Computer Science, pursuing her dream of a career in tech felt impossible. Until a window of opportunity opened up.
 
-Tabinda heard about the [**KP Women’s Civic Digital Internship**](https://codeforpakistan.org/programs/internships/kp-women), a remote program launched by **Code for Pakistan** and the [**Khyber Pakhtunkhwa Information Technology Board**](https://www.kpitb.gov.pk/digital-skills) **(KPITB),** and she applied without a second thought.
+Tabinda heard about the [**KP Women’s Civic Digital Internship**](/programs/internships/kp-women), a remote program launched by **Code for Pakistan** and the [**Khyber Pakhtunkhwa Information Technology Board**](https://www.kpitb.gov.pk/digital-skills) **(KPITB),** and she applied without a second thought.
 
 What Tabinda didn’t know at the time was that the program was designed especially for young women like her — women who had completed their bachelor's degrees but, due to the quality of courses taught in remote areas, were often not up to date with the latest industry skills. It was built for girls who couldn’t physically attend the many tech-related internships or skill trainings offered in major cities of Pakistan — many held back by family constraints, the costs and logistics of traveling without a male family member, and the demands of managing homes, marriages, and, in some cases, children.
 
@@ -21,7 +21,7 @@ Weekly calls with a dedicated mentor exposed Tabinda to ideas she had never enco
 
 She also received basic training on how to use LinkedIn — a platform she now frequently uses to express herself and share her accomplishments. ( You can view her profile [here](https://www.linkedin.com/in/tabindaqudrat/))
 
-During her internship, Tabinda collaborated with Fellows from the [**KP Government Innovation Fellowship Program**](https://codeforpakistan.org/programs/fellowships) — a prestigious, full-time, in-person, six-month program that pairs technologists with government departments to solve civic challenges. The Fellowship, a decade-long collaboration between Code for Pakistan and the [Khyber Pakhtunkhwa Information Technology Board](https://www.kpitb.gov.pk/node/658) (KPITB), builds pathways for young innovators like her to drive change.
+During her internship, Tabinda collaborated with Fellows from the [**KP Government Innovation Fellowship**](/programs/fellowships) — a prestigious, full-time, in-person, six-month program that pairs technologists with government departments to solve civic challenges. The Fellowship, a decade-long collaboration between Code for Pakistan and the [Khyber Pakhtunkhwa Information Technology Board](https://www.kpitb.gov.pk/node/658) (KPITB), builds pathways for young innovators like her to drive change.
 
 As part of the Internship, Tabinda opened her first bank account with support from the [**Bank of Khyber**](http://bok.com.pk/). Financial independence meant she could invest in herself: she used her stipend to fund her Master’s degree in Computer Science.
 
@@ -29,7 +29,7 @@ As part of the Internship, Tabinda opened her first bank account with support fr
 
 ### Turning knowledge into action...
 
-When the internship ended, Tabinda began freelancing, taking on online tech projects. After completing her Master’s degree, inspired by her interaction with the Fellows during the internship, she applied for the [**KP Government Innovation Fellowship**](https://codeforpakistan.org/programs/fellowships). She was ready to be a Fellow.
+When the internship ended, Tabinda began freelancing, taking on online tech projects. After completing her Master’s degree, inspired by her interaction with the Fellows during the internship, she applied for the [**KP Government Innovation Fellowship**](/programs/fellowships). She was ready to be a Fellow.
 
 She got in.
 
@@ -57,12 +57,12 @@ The future looks promising for this bright-eyed young woman — not because some
 
 Today, Tabinda continues to work at the intersection of technology and social impact, carving out space for others to follow.
 
-The **K**[**P Women’s Civic Digital Internship**](https://codeforpakistan.org/programs/internships/kp-women) is not only about addressing skill gaps. It is a program where every barrier faced by young women in remote parts of Pakistan is identified — and intentionally cleared — to create real opportunities for leadership and change.
+The **K**[**P Women’s Civic Digital Internship**](/programs/internships/kp-women) is not only about addressing skill gaps. It is a program where every barrier faced by young women in remote parts of Pakistan is identified — and intentionally cleared — to create real opportunities for leadership and change.
 
 ### Help Spark More Journeys Like Tabinda’s
 
 **Support women in civic tech today.**
 
-[? Donate Here](https://codeforpakistan.org/donate)
+[? Donate Here](/donate)
 
 [? Email Us](mailto:info@codeforpakistan.org)

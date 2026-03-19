@@ -9,7 +9,7 @@ It started with the freezing breeze of December, back in 2021, when folks from l
 
 With COVID-19 at its peak, the HCAIs occurrence rate had increased manifold, an alarming situation for healthcare professionals and the affected patients. According to official reports, every year, [out of every 17 patients infected with HCAIs, one is fatal to patient health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6245375/#b30-idr-11-2321).
 
-After careful planning and numerous discussions, all the stakeholders agreed to record the instances of Surgical Site Infections (SSIs), a type of HCAI, in the pilot phase. The Engineering and Technology team of [Code for Pakistan](https://codeforpakistan.org/) (CfP), led by our Director of Technology [Ali Raza](https://www.linkedin.com/in/aliirz/), initiated the development of a mobile application from scratch that would record data and have a comprehensive dashboard that can analyze trends and patterns within the healthcare-associated infection rate.
+After careful planning and numerous discussions, all the stakeholders agreed to record the instances of Surgical Site Infections (SSIs), a type of HCAI, in the pilot phase. The Engineering and Technology team of Code for Pakistan (CfP), led by our Director of Technology [Ali Raza](https://www.linkedin.com/in/aliirz/), initiated the development of a mobile application from scratch that would record data and have a comprehensive dashboard that can analyze trends and patterns within the healthcare-associated infection rate.
 
 This is where I stepped in, a fresh start to my year!
 

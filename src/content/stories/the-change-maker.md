@@ -39,7 +39,7 @@ It wasn't too long after that when Arshad Ali received an email from KP IT Board
 
 Arshad was pleasantly surprised and, in an adrenaline rush, he wrote back with a long list of problems that his department desperately needed to tackle. Code for Pakistan, which partners with the World Bank and KP IT Board, manages the **KP Government Innovation Fellowship**, which inducts around 20 Fellows every year to work with government departments to create digital solutions. Due to the highly selective nature of program — both in terms of Fellows and projects — only a handful of departments are selected each year, and unfortunately for Arshad, his problem statement didn't make it through.
 
-> Conceived in 2014, the KP Fellowship Program is a 6-month program designed by Code for Pakistan, and supported by the KP IT Board, and the World Bank, where a team of talented young professionals collaborate to build digital solutions, inspire citizen engagement, improve government, and show how to innovate in public services.
+> Conceived in 2014, the KP Fellowship is a 6-month program designed by Code for Pakistan, and supported by the KP IT Board, and the World Bank, where a team of talented young professionals collaborate to build digital solutions, inspire citizen engagement, improve government, and show how to innovate in public services.
 
 It was a setback, for sure. But In 2020, when Code for Pakistan and KPITB reached out to provincial departments again, Arshad was prepared. He distilled his problem and solution into a single sentence.
 
@@ -49,7 +49,7 @@ _"What my department really needs,"_ he wrote_, "is a Lab Information Management
 
 Arshad Ali was excited to to hear that his problem statement was among the 8 selected for the 6th Fellowship cycle. Meanwhile, Code for Pakistan was shortlisting 20 Fellows from a list of over 6000 applicants. These Fellows would be trained, divided into smaller teams and assigned projects to work on.
 
-The KP Fellowship Program was on schedule until COVID-19 threatened to derail it all. Cities, countries and even continents closed down. Hospitals were overcrowded, offices were empty, and uncertainty took over our lives. The KP Fellowship office at Durshal — a co-working space in Peshawar — and most of the government offices shut down indefinitely. Even as the world tried to respond, there were few answers and no end to it in sight.
+The KP Fellowship was on schedule until COVID-19 threatened to derail it all. Cities, countries and even continents closed down. Hospitals were overcrowded, offices were empty, and uncertainty took over our lives. The KP Fellowship office at Durshal — a co-working space in Peshawar — and most of the government offices shut down indefinitely. Even as the world tried to respond, there were few answers and no end to it in sight.
 
 Reflecting the agile mindset of the Fellowship, in only a month's time, Code for Pakistan's team restructured the program so that it could be executed remotely. The curriculum was redesigned to facilitate remote work.
 
@@ -63,7 +63,7 @@ With clearer understanding of the problem, Nazim reported back to the team and t
 
 The Fellow assigned to lead the project was Usman Khan, a software engineer with expertise in web programming and code debugging.
 
-Originally from Swabi, a village that sits on the banks for the Indus River, Usman had rushed to submit his application when he first read about the KP Fellowship Program online. He was desperate to get in and terribly upset when he didn't, but Usman's determination — like Arshad's — never wavered. As Usman tells this story, his plan would be to spend the next twelve months building up his skillset so he'd be in a stronger position the next time he applied. He secured an internship at KPITB, where he developed two Management Information Systems and got a preview of how government operates. Post-internship, he found a job in a private software house, and developed an Enterprise Resource Planning System for an international client. After office and into the wee hours of the morning, Usman would sit for hours in front of his laptop, tirelessly learning new technical skills by watching YouTube tutorials and putting those newly-learned skills into practice. In 2020, after a yearlong wait, he took another shot when Code for Pakistan announced a call for Fellowship applications. This time, he got in.
+Originally from Swabi, a village that sits on the banks for the Indus River, Usman had rushed to submit his application when he first read about the KP Fellowship online. He was desperate to get in and terribly upset when he didn't, but Usman's determination — like Arshad's — never wavered. As Usman tells this story, his plan would be to spend the next twelve months building up his skillset so he'd be in a stronger position the next time he applied. He secured an internship at KPITB, where he developed two Management Information Systems and got a preview of how government operates. Post-internship, he found a job in a private software house, and developed an Enterprise Resource Planning System for an international client. After office and into the wee hours of the morning, Usman would sit for hours in front of his laptop, tirelessly learning new technical skills by watching YouTube tutorials and putting those newly-learned skills into practice. In 2020, after a yearlong wait, he took another shot when Code for Pakistan announced a call for Fellowship applications. This time, he got in.
 
 He was overjoyed, Usman's interest in civic tech by now had flourished into passion. As fate would have it, Usman would work with Arshad Ali as he was assigned to work on MIS for Directorate of Livestock & Dairy.
 
@@ -97,6 +97,6 @@ Whenever his resolve wavers, he takes a moment to look at the wooden sign outsid
 
 In recognition of his efforts to improve the department, Arshad Ali was **promoted** and he is now proudly serving the same department as a **Grade 18** government officer.
 
-Code for Pakistan has helped government officers create change in over 30 departments through our Fellowship Programs. To learn more about the Fellowship Program, visit:
+Code for Pakistan has helped government officers create change in over 30 departments through our Fellowships. To learn more about the Fellowship, visit:
 
-[https://codeforpakistan.org/programs/fellowship/](https://codeforpakistan.org/programs/fellowship/)
+[/programs/fellowship/](/programs/fellowship/)

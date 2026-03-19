@@ -1,11 +1,11 @@
 ---
 title: "Supporting the Benevolent Fund Cell KP on Digitizing Fund Disbursements"
 slug: "digitizing-fund-disbursements-benevolent-fund-cell-kp"
-summary: "A throwback to digitizing the Benevolent Fund Cell Khyber Pakhtunkhwa's fund disbursement workflow during the 6th cycle of the KP Fellowship Program."
+summary: "A throwback to digitizing the Benevolent Fund Cell Khyber Pakhtunkhwa's fund disbursement workflow during the 6th cycle of the KP Fellowship."
 image: "/media/stories/0_Fz753wocC5KrqWy_.jpg"
 date: "2021-01-21"
 ---
-For the sixth cycle of the KP Government Innovation Fellowship Program, a team of Fellows partnered up with the Benevolent Fund Cell Khyber Pakhtunkhwa to digitize the entire fund disbursements workflow for the department. The department manages the welfare grants of serving and retired government employees and their families and needed a robust system where application processing could be streamlined, and fund disbursements could be expedited. The Fellows developed an online system for the department where applicants can easily apply for welfare schemes and grants, and the department can swiftly verify and assess the applications and ensure timely release of funds. This blog post sheds light on the need for digitization in the department as well as the salient features of the newly developed online system.
+For the sixth cycle of the KP Government Innovation Fellowship, a team of Fellows partnered up with the Benevolent Fund Cell Khyber Pakhtunkhwa to digitize the entire fund disbursements workflow for the department. The department manages the welfare grants of serving and retired government employees and their families and needed a robust system where application processing could be streamlined, and fund disbursements could be expedited. The Fellows developed an online system for the department where applicants can easily apply for welfare schemes and grants, and the department can swiftly verify and assess the applications and ensure timely release of funds. This blog post sheds light on the need for digitization in the department as well as the salient features of the newly developed online system.
 
 ## **Overview**
 
@@ -63,4 +63,4 @@ Aside from the processing and lead time improvement due to digitization, the onl
 
 **Written by** [**Ibraheem Saleem**](http://linkedin.com/in/muhammad-ahmad-ibraheem)
 
-Ibraheem is the Program Manager at the KP Government Innovation Fellowship Program. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.
+Ibraheem is the Program Manager at the KP Government Innovation Fellowship. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.

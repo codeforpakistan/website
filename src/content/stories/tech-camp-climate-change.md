@@ -5,7 +5,7 @@ summary: "Pakistani youth came together to build creative solutions that contrib
 image: "/media/stories/TC2_engaged_audience_cool_speaker.jpeg"
 date: "2023-03-24"
 ---
-You could feel the energy of the room as soon as you walked in. It was the second round of a 3-day Tech Camp event arranged by [National Incubation Center Peshawar (NIC)](https://nicpeshawar.pk/) and curated by [Code for Pakistan](https://codeforpakistan.org/about). The purpose of the events was to engage Pakistani youth in the climate action discussion through active problem-solving.
+You could feel the energy of the room as soon as you walked in. It was the second round of a 3-day Tech Camp event arranged by [National Incubation Center Peshawar (NIC)](https://nicpeshawar.pk/) and curated by [Code for Pakistan](/about). The purpose of the events was to engage Pakistani youth in the climate action discussion through active problem-solving.
 
 Four teams of students from seven different universities in Khyber Pakhtunkhwa (KP) gathered at NIC Peshawar to work on projects aiming to achieve net zero emissions. An interesting observation regarding gender disparity was that out of the twenty participants, twelve were women, representing a clear majority—a surprising occurrence for an event in KP, one of Pakistan's more conservative provinces.
 
@@ -49,4 +49,4 @@ For me, the outstanding part of team Green Blocks' progress over the course of t
 
 It is this willingness to take initiative that underpins the concept of civic technology – a mindset that we at Code for Pakistan are working to propel across the country. We can all make a meaningful difference in our own way. It all starts with one step forward and thinking outside the box.
 
-If you would like to learn more about how Code for Pakistan has been working with the community to improve the lives of citizens through technology, check out our blog [here](https://codeforpakistan.org/stories). Follow us on social media to stay updated with our newest projects.
+If you would like to learn more about how Code for Pakistan has been working with the community to improve the lives of citizens through technology, check out our blog [here](/stories). Follow us on social media to stay updated with our newest projects.

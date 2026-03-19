@@ -9,7 +9,7 @@ startDate: "2024-03-09"
 endDate: ""
 ---
 
-The 5G Innovation Hackathon is a collaborative initiative between [Jazz](https://jazz.com.pk) and [National University of Sciences and Technology (NUST)](https://sines.nust.edu.pk), in partnership with the [National IT Board](https://nitb.gov.pk) and [Code for Pakistan (CfP)](https://codeforpakistan.org). This hackathon aims to leverage the power of 5G and other cutting-edge technologies to develop innovative solutions addressing critical challenges in Pakistan's healthcare, education, disaster management and climate change, agriculture, and industrial sectors.
+The 5G Innovation Hackathon is a collaborative initiative between [Jazz](https://jazz.com.pk) and [National University of Sciences and Technology (NUST)](https://sines.nust.edu.pk), in partnership with the [National IT Board](https://nitb.gov.pk) and Code for Pakistan. This hackathon aims to leverage the power of 5G and other cutting-edge technologies to develop innovative solutions addressing critical challenges in Pakistan's healthcare, education, disaster management and climate change, agriculture, and industrial sectors.
 
 The 5G test bed available at the 5G Innovation Lab at SINES, NUST, provides an unprecedented opportunity to revolutionize research and development across numerous domains in Pakistan.
 

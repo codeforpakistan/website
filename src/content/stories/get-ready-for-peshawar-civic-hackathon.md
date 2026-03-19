@@ -7,7 +7,7 @@ date: "2014-01-30"
 ---
 The Peshawar Civic Hackathon starts Friday, January 31.
 
-After the wonderful success of the [Lahore Civic Hackathon](https://codeforpakistan.org/events/lahore-civic-hackathon-2014), we’re ready for an exciting weekend in Peshawar. In a matter of 3 days, we’ll discover what the tech-oriented citizens of KP come up with. But for now, let’s see how this event has gained popularity all over the internet and social media!
+After the wonderful success of the [Lahore Civic Hackathon](/events/lahore-civic-hackathon-2014), we’re ready for an exciting weekend in Peshawar. In a matter of 3 days, we’ll discover what the tech-oriented citizens of KP come up with. But for now, let’s see how this event has gained popularity all over the internet and social media!
 
 -   Pre-event coverage by [The Express Tribune](http://tribune.com.pk/story/650070/local-solutions-to-local-problems-peshawar-to-host-its-first-civic-hackathon/\))
 -   Story by [The News](http://www.thenews.com.pk/Todays-News-7-222366-KP-to-hold-civic-hackathon-to-improve-service-delivery\))

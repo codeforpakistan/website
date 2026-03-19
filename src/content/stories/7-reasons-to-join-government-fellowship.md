@@ -17,19 +17,19 @@ The KP Government Innovation Fellowship is a collaborative partnership between t
 
 For those looking to grow their core knowledge base and eager to make a difference, the KP Government Innovation Fellowship is the perfect launching pad.
 
-Since the call for applications for the 8th cycle of the KP Government Fellowship Program is out, now seems to be the perfect time to revisit how the Fellowship Program helped shape my career.
+Since the call for applications for the 8th cycle of the KP Government Fellowship is out, now seems to be the perfect time to revisit how the Fellowship helped shape my career.
 
 As my civic duty, I want to share my experience and why I think it can do wonders for you, too.
 
 ### 1\. Collaborating with Government Departments
 
-Have you ever aspired to work for government departments? The Fellowship Program turns this dream for you into a reality. It's all about helping these departments embrace the digital age.
+Have you ever aspired to work for government departments? The Fellowship turns this dream for you into a reality. It's all about helping these departments embrace the digital age.
 
 ![Pharma License Digitization Project (2020)](/media/stories/post_02.jpg)
 
 _Pharma License Digitization Project (2020)_
 
-During the tenure of the Fellowship program, you'll get to team up with fellow innovators, each assigned to a government department, to devise solutions to real problems. This isn't just an opportunity to stretch your creative muscles — it's a chance to gain firsthand experience in how the government functions and to play a pivotal role in improving its processes.
+During the tenure of the Fellowship, you'll get to team up with fellow innovators, each assigned to a government department, to devise solutions to real problems. This isn't just an opportunity to stretch your creative muscles — it's a chance to gain firsthand experience in how the government functions and to play a pivotal role in improving its processes.
 
 ### 2\. Learning on a New Level
 
@@ -43,7 +43,7 @@ Unlike the old-school pedagogical methods, the KP Government Innovation Fellowsh
 
 ### 3\. Networking and Mentorship
 
-Building strong connections and finding your own voice are necessary in today's interconnected world. The Fellowship program is designed to provide you with diverse opportunities to build your network. It helps you connect with local and international Fellows, mentors, and industry experts.
+Building strong connections and finding your own voice are necessary in today's interconnected world. The Fellowship is designed to provide you with diverse opportunities to build your network. It helps you connect with local and international Fellows, mentors, and industry experts.
 
 ![Fellows at Digital Youth Summit (2017)](/media/stories/post_04.jpg)
 
@@ -73,7 +73,7 @@ The idea? To equip you with the skills you need to make the world a better place
 
 ### 6\. Rediscovering Fun
 
-Let's be real: who likes the same old routine, day in and day out? One of the coolest things about this Fellowship Program is how it encourages you to find your fun side again in all sorts of ways.
+Let's be real: who likes the same old routine, day in and day out? One of the coolest things about this Fellowship is how it encourages you to find your fun side again in all sorts of ways.
 
 ![Fellows Enjoying Recreational Activities (2017)](/media/stories/post_07.jpg)
 

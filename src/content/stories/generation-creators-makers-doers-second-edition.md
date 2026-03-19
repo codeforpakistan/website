@@ -5,9 +5,9 @@ summary: "Enabling citizens to voice concerns"
 image: "/media/stories/stories-generation-creators-makers-doers-second-edition.jpg"
 date: "2024-12-05"
 ---
-Welcome to the **second edition** of "**A Generation of Doers**," where we spotlight the change-makers shaping Khyber Pakhtunkhwa (KP) through the [KP Government Innovation Fellowship](https://codeforpakistan.org/programs/fellowships/khyber-pakhtunkhwa). Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated on this program, driving meaningful change in public service delivery across the province.
+Welcome to the **second edition** of "**A Generation of Doers**," where we spotlight the change-makers shaping Khyber Pakhtunkhwa (KP) through the [KP Government Innovation Fellowship](/programs/fellowships/khyber-pakhtunkhwa). Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated on this program, driving meaningful change in public service delivery across the province.
 
-The Fellowship Program brings together a diverse group of individuals who combine civic engagement with technological expertise. Our Fellows tackle KP's most pressing challenges, from improving healthcare systems to digitizing public services, creating transformative solutions that impact thousands of communities.
+The Fellowship brings together a diverse group of individuals who combine civic engagement with technological expertise. Our Fellows tackle KP's most pressing challenges, from improving healthcare systems to digitizing public services, creating transformative solutions that impact thousands of communities.
 
 This program represents our commitment to using technology to drive social change. By uniting dedicated public servants and innovative technologists, we are building a brighter, more connected future for KP's communities.
 

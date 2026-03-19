@@ -5,7 +5,7 @@ summary: "Welcome to \"A Generation of Doers,\" 4th Edition , a series highlight
 image: "/media/stories/stories-meetthefellows-4.jpg"
 date: ""
 ---
-Welcome to "A Generation of Doers," _4th Edition_, a series highlighting the work of [Khyber Pakhtunkhwa (KP) Government Innovation](https://codeforpakistan.org/programs/fellowships/khyber-pakhtunkhwa) Fellows who are developing technology-driven solutions for public service challenges. Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated on this program to bring together technologists, designers, and researchers to create digital tools that improve governance and service delivery.
+Welcome to "A Generation of Doers," _4th Edition_, a series highlighting the work of [Khyber Pakhtunkhwa (KP) Government Innovation](/programs/fellowships/khyber-pakhtunkhwa) Fellows who are developing technology-driven solutions for public service challenges. Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated on this program to bring together technologists, designers, and researchers to create digital tools that improve governance and service delivery.
 
 This year, our KP Government Innovation Fellows are working on a **Pest Disease Control Mobile App and Web Admin Panel** to **support farmers** in managing **crop health**. Pest outbreaks and plant diseases can significantly impact yields, and early detection is key to minimizing losses. The Fellows are developing a system that provides real-time pest monitoring, early warnings, and data-driven insights to help both farmers and agricultural officials respond more effectively.
 
@@ -25,7 +25,7 @@ We spoke with some of the Fellows working on this project to learn more about th
 
 ###### **1️⃣ What led you to join the KP Government Innovation Fellowship, and how does this program align with your goals?**
 
-**Munnawar Shah:** I joined the _KP Government Innovation Fellowship Program_ because I am passionate about using technology to improve government services and civic engagement. As a product manager at _Code for Pakistan_, I oversee projects that make public services more efficient and accessible. This program allows me to work closely with government teams, ensuring that innovative digital solutions address real challenges. It aligns with my goal of building impactful, user-friendly technology that benefits citizens and enhances governance.
+**Munnawar Shah:** I joined the _KP Government Innovation Fellowship_ because I am passionate about using technology to improve government services and civic engagement. As a product manager at _Code for Pakistan_, I oversee projects that make public services more efficient and accessible. This program allows me to work closely with government teams, ensuring that innovative digital solutions address real challenges. It aligns with my goal of building impactful, user-friendly technology that benefits citizens and enhances governance.
 
 **Muhammad Touseef:**This opportunity matches my skills. I joined it to improve these skills, data collection, data preparation and data Analysis  and I feel that my skills have improved. It is a great program that solves real-world problems.
 

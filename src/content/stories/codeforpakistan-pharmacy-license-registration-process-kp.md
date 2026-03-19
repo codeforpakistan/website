@@ -5,7 +5,7 @@ summary: "Supporting the Health Department KP to streamline pharmacy license reg
 image: "/media/stories/0_n7JR-1R9AgPFmMsy.jpg"
 date: "2021-01-13"
 ---
-For the sixth cycle of the Fellowship Program, a team of Fellows partnered up with the Health Department KP to develop a new online pharmacy license registration system. The system replaces existing manual systems, which had issues ranging from delays in application processing to difficulties in tracking the authenticity of awarded licenses. With this online system, pharmacists, businessmen, and drug store owners across the province can now apply online to acquire a license to operate pharmacies and medicine stores. This blog post covers in detail why this digital solution was developed and shares the salient features of the online system.
+For the sixth cycle of the Fellowship, a team of Fellows partnered up with the Health Department KP to develop a new online pharmacy license registration system. The system replaces existing manual systems, which had issues ranging from delays in application processing to difficulties in tracking the authenticity of awarded licenses. With this online system, pharmacists, businessmen, and drug store owners across the province can now apply online to acquire a license to operate pharmacies and medicine stores. This blog post covers in detail why this digital solution was developed and shares the salient features of the online system.
 
 ## Overview
 
@@ -23,7 +23,7 @@ Following the passing of the Pakistan Pharmacy Act 1967, the Pharmacy Council of
 
 In the health sector of KP, numerous changes have taken place in the past decade. In 2010, Pakistan’s 18th Constitutional Amendment shifted health administration to the provinces, granting the provinces both legislative and executive authorities in the health sector. In Khyber Pakhtunkhwa, the health policy is mainly guided by the 2010–2017 Khyber Pakhtunkhwa Health Sector Survey and the 2016–2025 National Health Vision. Regulations in the health sector are pervasive in Khyber Pakhtunkhwa, with more than 23 health care ordinances/acts and amendments being passed since 2011.
 
-As part of the efforts to reform the health sector of KP, the Health Department and Directorate General Drugs reached out to the KP Government Innovation Fellowship Program team with the request for digitizing and automating the process of issuing licenses to drug stores and pharmacies in the province. Previously there was no centralized online system where drug store owners could apply online, saving their time and money and expediting the process on the department’s end. Similarly, the Health Department also faced issues in tracking duplicate and fake licenses resulting in illegal pharmacies operating throughout the province.
+As part of the efforts to reform the health sector of KP, the Health Department and Directorate General Drugs reached out to the KP Government Innovation Fellowship team with the request for digitizing and automating the process of issuing licenses to drug stores and pharmacies in the province. Previously there was no centralized online system where drug store owners could apply online, saving their time and money and expediting the process on the department’s end. Similarly, the Health Department also faced issues in tracking duplicate and fake licenses resulting in illegal pharmacies operating throughout the province.
 
 Therefore, the department needed an online platform where:
 
@@ -70,4 +70,4 @@ Deployed in December 2020, the system will transform and streamline the departme
 
 **Written by** [**Ibraheem Saleem**](http://linkedin.com/in/muhammad-ahmad-ibraheem)
 
-Ibraheem is the Program Manager at the KP Government Innovation Fellowship Program. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.
+Ibraheem is the Program Manager at the KP Government Innovation Fellowship. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.

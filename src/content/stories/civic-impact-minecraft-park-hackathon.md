@@ -21,7 +21,7 @@ They weren't too upset though- when I asked them if they tried to take revenge. 
 
 It was just another day with the kids immersed in their gaming routine, when their Uncle Ali came to them, excited about a GovTech Hackathon by Code for Pakistan he'd found out about, taking place in their very own city- Peshawar. Uncle Ali is not only a seasoned gamer, but also a very accomplished developer who loves making his own side projects with software. After realizing the broad and inclusive age range for the Hackathon participants, he immediately thought of the kids.
 
-Code for Pakistan's [Hackathon](https://codeforpakistan.org/stories/what-is-a-hackathon) is an annual event where creative individuals have the chance to showcase innovative solutions to a set of problem statements. Often, they focus on the UN Sustainable Development Goals. Always, with an aim to serve the community at large.
+Code for Pakistan's [Hackathon](/stories/what-is-a-hackathon) is an annual event where creative individuals have the chance to showcase innovative solutions to a set of problem statements. Often, they focus on the UN Sustainable Development Goals. Always, with an aim to serve the community at large.
 
 ![](/media/stories/Govtech_hckthn_img_miecraft_kids.jpg)
 

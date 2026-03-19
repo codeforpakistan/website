@@ -7,13 +7,13 @@ date: "2019-04-03"
 ---
 In this century, innovation is synonymous with technology as that is where the most rapid and effective advancements are happening. In the current circumstances, governments cannot forgo technology for solving citizens’ problems in an innovative way. Over the past few years, Pakistan has jumped the bandwagon for digital innovation in systems of government. For this purpose, government offices across the country are trying to digitize their systems.
 
-Federal and provincial IT Boards are making tremendous contributions to this cause, particularly in the domain of civic innovation. KPK IT Board in collaboration with Code for Pakistan and The World Bank Group launched its fourth cycle of the KP Government Innovation Fellowship Program 2018, bringing together 20 talented Fellows to collaborate with 8 different government departments to innovate in public service delivery.
+Federal and provincial IT Boards are making tremendous contributions to this cause, particularly in the domain of civic innovation. KPK IT Board in collaboration with Code for Pakistan and The World Bank Group launched its fourth cycle of the KP Government Innovation Fellowship 2018, bringing together 20 talented Fellows to collaborate with 8 different government departments to innovate in public service delivery.
 
 ![](/media/stories/1_tUBf5frSI8Qz_i4yt56OAA.jpg)
 
 _Fourth Fellowship Cycle 2018 -2019 — All about the Fellows_
 
-In the six-months cycle, twenty Fellows worked on several amazing projects in collaboration with the government departments to solve their problems and to make citizens interaction with the government simpler and painless. Previous cycles of the [KP Government Innovation Fellowship Program](https://tinyurl.com/y2hunr86) have helped polish the skills of the fresh graduates, allowing them to glean the knowledge of experts, especially the mentors who are generally industry experts brought on board by KPK IT Board and Code for Pakistan.
+In the six-months cycle, twenty Fellows worked on several amazing projects in collaboration with the government departments to solve their problems and to make citizens interaction with the government simpler and painless. Previous cycles of the [KP Government Innovation Fellowship](https://tinyurl.com/y2hunr86) have helped polish the skills of the fresh graduates, allowing them to glean the knowledge of experts, especially the mentors who are generally industry experts brought on board by KPK IT Board and Code for Pakistan.
 
 The Fellows are all praise about the mentors.
 
@@ -29,7 +29,7 @@ _Muneeb and Naqeeb after deploying the solution at the KP Auqaf, Hajj, Religious
 
 This statement of Naqeeb sums up the mission of Code for Pakistan. To be able to bring the emerging talent of Pakistan and help them solve common problems in an unusual way without any discrimination on the basis of creed, cast or gender.
 
-There has also been significant representation of female Fellows in all Fellowship cycles. Although women representation in STEM education worldwide is on the lower side as compared to men, the KP Government Innovation Fellowship Program brings in talented females in each cycle.
+There has also been significant representation of female Fellows in all Fellowship cycles. Although women representation in STEM education worldwide is on the lower side as compared to men, the KP Government Innovation Fellowship brings in talented females in each cycle.
 
 Ulfat Ayaz while working elsewhere in the private sector in Pakistan found it to be a difficult environment for women but she found this Fellowship to be devoid of any sort of discrimination against female Fellows. She is of the view that it is the most conducive environment to work in.
 
@@ -57,4 +57,4 @@ Each Fellowship cycle is a new learning experience, not only for the Fellows but
 
 Working for the government has created a relationship of trust and helped the government departments realize that there can be simple solutions to complex problems of everyday life. Waqar, another current Fellow seals the above statement with the following words,
 
-> _“I was working as a full-time freelancer before joining the KP Fellowship Program. Though I was earning well I was missing a professional environment. Working here has been awesome. Every single day, I learnt new things from my mentors and Fellows. Working hand in hand with Government has been a great experience. In general, through this Program, I am now a part of a team who is committed to bringing positive change in civic life using technology.”_
+> _“I was working as a full-time freelancer before joining the KP Fellowship. Though I was earning well I was missing a professional environment. Working here has been awesome. Every single day, I learnt new things from my mentors and Fellows. Working hand in hand with Government has been a great experience. In general, through this Program, I am now a part of a team who is committed to bringing positive change in civic life using technology.”_

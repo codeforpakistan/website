@@ -11,7 +11,7 @@ For decades, Pakistan’s government and international partners, including the [
 
 Right now, there is no real-time, field-level data to measure water use and losses. Farmers rely on estimates, but without accurate tracking, it's impossible to optimize irrigation, reduce waste, and improve crop yields.
 
-Khyber Pakhtunwha’s [**On-Farm Water Management Department**](https://ofwm.kp.gov.pk/) is piloting a low-cost, IoT-based water monitoring system to fill this gap. Developed in collaboration with final-year university students through Code for Pakistan's [**Civic Innovator Program**](https://codeforpakistan.org/events/civic-innovator-program-2024) (CIP), this system is designed to study water consumption at the farm level — helping policymakers and farmers understand how much water is actually required.
+Khyber Pakhtunwha’s [**On-Farm Water Management Department**](https://ofwm.kp.gov.pk/) is piloting a low-cost, IoT-based water monitoring system to fill this gap. Developed in collaboration with final-year university students through Code for Pakistan's [**Civic Innovator Program**](/events/civic-innovator-program-2024) (CIP), this system is designed to study water consumption at the farm level — helping policymakers and farmers understand how much water is actually required.
 
 #### A New Approach: Measuring Water Use in Real-Time
 

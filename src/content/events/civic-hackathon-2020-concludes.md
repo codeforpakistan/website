@@ -9,7 +9,7 @@ startDate: "2020-12-11"
 endDate: ""
 ---
 
-The [Civic Hackathon 2020](https://codeforpakistan.org/events/civic-hackathon-2020), Code for Pakistan’s first ever virtual hackathon co-organised with Telenor Velocity, brought together a mix of technologists, designers, social scientists, NGOs, private sector and government, among others, to solve social and civic problems in a new way using technology, innovative ideas, data and digital tools. The themes of this year’s hackathon included edtech, fintech, health, environment, food security and public safety.
+The [Civic Hackathon 2020](/events/civic-hackathon-2020), Code for Pakistan’s first ever virtual hackathon co-organised with Telenor Velocity, brought together a mix of technologists, designers, social scientists, NGOs, private sector and government, among others, to solve social and civic problems in a new way using technology, innovative ideas, data and digital tools. The themes of this year’s hackathon included edtech, fintech, health, environment, food security and public safety.
 
 This year, largely due to logistical constraints posed by COVID-19, a virtual hackathon format presented the opportunity to enable greater participation from all over the country. Over 680 applications were received in all, from more than 90 cities across Pakistan, as well as from Canada, Finland, Saudi Arabia, the UK and the US.
 

@@ -39,6 +39,6 @@ Effective governance depends on solutions that work for both institutions and th
 
 We are always looking for **technologists, policymakers, and civic innovators** to help design and implement solutions that improve public service delivery. If you are interested in partnering, learning from this work, or applying for our next Fellowship cycle, **get in touch** at **info@codeforpakistan.org**
 
-? [Explore Fellowship Opportunities](https://codeforpakistan.org/programs/fellowships)
+? [Explore Fellowship Opportunities](/programs/fellowships)
 
-? [Learn More About Our Work](https://codeforpakistan.org/about)
+? [Learn More About Our Work](/about)

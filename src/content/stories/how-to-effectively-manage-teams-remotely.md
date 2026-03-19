@@ -33,4 +33,4 @@ This is far from an exhaustive list and many of these points may seem obvious bu
 
 **Written by: Anam Zakaria**
 
-Anam Zakaria is a development professional, oral historian and the author of three books. Since 2016, she has been leading Code for Pakistan’s Government Innovation Fellowship Program.
+Anam Zakaria is a development professional, oral historian and the author of three books. Since 2016, she has been leading Code for Pakistan’s Government Innovation Fellowship.

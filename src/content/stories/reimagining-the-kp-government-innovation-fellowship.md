@@ -1,21 +1,21 @@
 ---
-title: "Reimagining the KP Government Innovation Fellowship Program Amidst the COVID-19 Pandemic"
+title: "Reimagining the KP Government Innovation Fellowship Amidst the COVID-19 Pandemic"
 slug: "reimagining-the-kp-government-innovation-fellowship"
-summary: "Amid the COVID-19 break, Code for Pakistan's team restructuring the Fellowship Program to meet the gov-tech needs while observing social distancing guidelines."
+summary: "Amid the COVID-19 break, Code for Pakistan's team restructuring the Fellowship to meet the gov-tech needs while observing social distancing guidelines."
 image: "/media/stories/0_pxK8tRqyjtL6uOxD.jpg"
 date: "2020-06-29"
 ---
-As we were getting ready to launch the sixth cycle of the [KP Government Innovation Fellowship Program](http://167.172.68.51/programs/fellowship/) (the launch was planned for April 2020), the COVID-19 outbreak in late February forced us to go back to the drawing board, delay the launch, and rethink how to run the Fellowship amidst a global pandemic and strict social distancing guidelines.
+As we were getting ready to launch the sixth cycle of the [KP Government Innovation Fellowship](http://167.172.68.51/programs/fellowship/) (the launch was planned for April 2020), the COVID-19 outbreak in late February forced us to go back to the drawing board, delay the launch, and rethink how to run the Fellowship amidst a global pandemic and strict social distancing guidelines.
 
 When the government decided to impose a strict lockdown to contain the virus, our launch calendar was disrupted. It quickly became clear that the lockdown would not end anytime soon, and in the wake of these developments, we realized it would be impossible to execute the Fellowship as we have done in the past.
 
-The [KP Government Innovation Fellowship Program](http://167.172.68.51/programs/fellowship/), run by Code for Pakistan in partnership with KPITB and the World Bank, brings together a cohort of 20 Fellows, who work in a coworking environment at [Durshal](https://www.durshal.com/) (a co-working space by [KPITB](https://www.kpitb.gov.pk/)). It no longer seemed to be a possibility that they could continue to work in this way, while we also ensured the health and safety of the Fellows and our team.
+The [KP Government Innovation Fellowship](http://167.172.68.51/programs/fellowship/), run by Code for Pakistan in partnership with KPITB and the World Bank, brings together a cohort of 20 Fellows, who work in a coworking environment at [Durshal](https://www.durshal.com/) (a co-working space by [KPITB](https://www.kpitb.gov.pk/)). It no longer seemed to be a possibility that they could continue to work in this way, while we also ensured the health and safety of the Fellows and our team.
 
 Therefore, the team started working on designing an alternative methodology for the sixth Fellowship cycle. The only alternative in the given situation was to run the programme remotely. A few aspects of the fellowship cycle were taken into consideration such as the **kinds of online tools to be used, ways in which user research would be conducted remotely, approvals for online recruitment (technical tests and interviews) from our partners, and design of the online process**. This was a crucial as well as a critical task for the team. During the brainstorming phase, we also identified the various challenges we would face during our new approach along with mitigation strategies. We moved swiftly as we knew we would need to work efficiently and be ready to support the government at this critical juncture. In order to facilitate various government departments during the pandemic, we re-evaluated the problem statements received earlier to identify high-priority departments and areas to work on under this state of emergency.
 
-Within two weeks, the team put together a proposal for a hybrid Fellowship Program. The proposal was then submitted to KPITB and the World Bank. This new approach meant that all the activities which normally took place at Durshal, would have to move online. Once the proposal was approved, the Fellowship team continued shortlisting and then screening applicants for the sixth cycle.
+Within two weeks, the team put together a proposal for a hybrid Fellowship. The proposal was then submitted to KPITB and the World Bank. This new approach meant that all the activities which normally took place at Durshal, would have to move online. Once the proposal was approved, the Fellowship team continued shortlisting and then screening applicants for the sixth cycle.
 
-## The Virtual Fellowship Program
+## The Virtual Fellowship
 
 ![](/media/stories/0_pxK8tRqyjtL6uOxD.jpg)
 
@@ -31,7 +31,7 @@ There are different components to this hybrid model. Now that **meetings and int
 
 For the **user research** phase, we are relying on online forms and survey tools to gather data surveys from the general public. We are using popular social media platforms such as Facebook and Twitter to create polls for citizens’ feedback on specific topics relating to the products under development for different government departments.
 
-Another key component of the Fellowship Program is **mentoring and training sessions**. The Fellowship management team redesigned the Fellowship curriculum, and most session formats. As we are moving on in this cycle, we are facilitating these sessions and workshops on online platforms as well, and have ensured that some of these sessions are recorded so the fellows can review and revisit key points later.
+Another key component of the Fellowship is **mentoring and training sessions**. The Fellowship management team redesigned the Fellowship curriculum, and most session formats. As we are moving on in this cycle, we are facilitating these sessions and workshops on online platforms as well, and have ensured that some of these sessions are recorded so the fellows can review and revisit key points later.
 
 ## The Recruitment Process
 
@@ -62,12 +62,12 @@ A total of six teams are currently associated with five different government dep
 
 [Visit our website](http://167.172.68.51/blog/2020/06/05/kp-government-innovation-fellowship-program-2020/) to learn more about the government departments we are partnering with this year and the exciting solutions our Fellows are working on.
 
-Running the Fellowship Program in this way is a new experience for the Code for Pakistan team. However, we see it as both a challenge and an opportunity, and we will continue to share our experiences as we move forward with this cycle of the Fellowship Program.
+Running the Fellowship in this way is a new experience for the Code for Pakistan team. However, we see it as both a challenge and an opportunity, and we will continue to share our experiences as we move forward with this cycle of the Fellowship.
 
 ![](/media/stories/0_WCAzIYaASL_7fpQo_0.jpg)
 
-Team Group Photo: Orientation of 20 Fellows into the Remote Fellowship Program
+Team Group Photo: Orientation of 20 Fellows into the Remote Fellowship
 
 **Written by** [**Farah Samuel**](https://www.linkedin.com/in/farah-n-samuel/) **and** [**Ibraheem Saleem**](http://linkedin.com/in/muhammad-ahmad-ibraheem)
 
-Farah is a development practitioner with keen interest in research, writing and climate action. She looks after programs and partnerships at Code for Pakistan. Ibraheem is the Program Manager at the KP Government Innovation Fellowship Program. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.
+Farah is a development practitioner with keen interest in research, writing and climate action. She looks after programs and partnerships at Code for Pakistan. Ibraheem is the Program Manager at the KP Government Innovation Fellowship. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.

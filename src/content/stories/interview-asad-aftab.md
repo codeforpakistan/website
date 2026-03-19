@@ -25,7 +25,7 @@ I have worked in different industries, including Telecom, Automation, and Resear
 
 Due to Covid-19 my access to the laboratory was restricted and so I decided to come back to Peshawar.
 
-#### How did you come to know about the Government Innovation Fellowship program?
+#### How did you come to know about the Government Innovation Fellowship?
 
 I came to know about this program when I was coming back to Pakistan. I saw this advertisement, so I decided to apply and try my luck. Since 2017, I have been following Code for Pakistan because I have heard a lot about this organization from my seniors. Therefore, an image always existed in my mind that it would be a great experience to become a part of Code for Pakistan as a Fellow.
 
@@ -37,9 +37,9 @@ I know how different organizations work and how to put in my efforts to make any
 
 I was working as a data analyst on the Integrated Performance Management System (IPMS), where COVID-19 patients testing and reports were updated. At the start, we were assisting the KP Health Department in reporting and identifying issues that different district teams were facing while interacting with the IPMS dashboard. We also made a mockup for data entry on a single page as per the higher-level authorities' instructions. Moreover, we assisted them in preparing a detailed survey on tourism in Abbottabad that has been affected by this pandemic. It also pointed out which tourism spots are high-risk areas where SOPs should be made tougher than the others while reviving the tourism industry. We also created a detailed report on devising a new mechanism for COVID-19 test tracking by QR code. We helped gather all the technical and non-technical requirements and their solution to make it easier to implement a new system and help resolve the backlog.
 
-#### How did the Fellowship Program help you to grow both personally and professionally?
+#### How did the Fellowship help you to grow both personally and professionally?
 
-The Fellowship Program helped me improve various skills including effectively working with government, presentation skills, and soft skills such as patience.
+The Fellowship helped me improve various skills including effectively working with government, presentation skills, and soft skills such as patience.
 
 #### How do you define success and how do you measure up to your own definition?
 
@@ -67,4 +67,4 @@ I love to cook and wander around, sometimes aimlessly. Moreover, sometimes I try
 
 #### Would you like to say something to our readers?
 
-Well, I would like to recommend that those who want to polish their skills in a challenging environment and want to work for the development of the government sector to facilitate citizens, should join this Fellowship Program. This is a family where you will learn and will teach, as, "Knowledge is the only treasure that increases on sharing."
+Well, I would like to recommend that those who want to polish their skills in a challenging environment and want to work for the development of the government sector to facilitate citizens, should join this Fellowship. This is a family where you will learn and will teach, as, "Knowledge is the only treasure that increases on sharing."

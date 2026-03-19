@@ -31,4 +31,4 @@ The future of Pakistan’s digital economy begins here.
 
 With Pehchan, the nation is taking a critical step toward a more connected, equitable, and empowered society. This is just the beginning, and together, we can shape a digital identity framework that truly serves every Pakistani.
 
-_Explore_ [_Pehchan_](https://pehchan.codeforpakistan.org/) _and build it with us! Join our community of changemakers_ [_here_](https://codeforpakistan.org/volunteer)_._
+_Explore_ [_Pehchan_](https://pehchan.codeforpakistan.org/) _and build it with us! Join our community of changemakers_ [_here_](/volunteer)_._

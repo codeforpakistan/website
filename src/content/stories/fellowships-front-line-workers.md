@@ -71,4 +71,4 @@ We are incredibly proud of the work the Fellows have done to support the governm
 
 **Written by** [**Ibraheem Saleem**](http://linkedin.com/in/muhammad-ahmad-ibraheem)
 
-Ibraheem is the Program Manager at the KP Government Innovation Fellowship Program. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.
+Ibraheem is the Program Manager at the KP Government Innovation Fellowship. He comes with an entrepreneurial background, with a keen interest in Social Impact Ventures, Civic Innovation, and Community Mobilization through technology.

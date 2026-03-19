@@ -13,7 +13,7 @@ At that moment, the Young Stunners track "Karachi Chal" blasted through my headp
 
 ![Karachi](/media/stories/karachi.jpg)
 
-_Image: [Ali Raza](https://codeforpakistan.org/about/people/ali-raza)_
+_Image: [Ali Raza](/about/people/ali-raza)_
 
 Enter Karachi Chal (meaning "Let's go to Karachi")
 

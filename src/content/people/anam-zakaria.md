@@ -10,7 +10,7 @@ github: ""
 twitter: ""
 ---
 
-Anam Zakaria serves as Vice President - Fellowships at Code for Pakistan (CfP). Prior to this role, she led CfP's Fellowship and Internship Programs as Head of Fellowships where she worked in collaboration with the provincial government and the World Bank Group to lead the Khyber Pakhtunkhwa Government Innovation Fellowship Program.
+Anam Zakaria serves as Vice President - Fellowships at Code for Pakistan (CfP). Prior to this role, she led CfP's Fellowship and Internship Programs as Head of Fellowships where she worked in collaboration with the provincial government and the World Bank Group to lead the Khyber Pakhtunkhwa Government Innovation Fellowship.
 
 Anam is the author of *1971: A People's History from Bangladesh, Pakistan and India* (Penguin Random House, 2019), *Between the Great Divide: A Journey into Pakistan-administered Kashmir* (HarperCollins Publishers, 2018) and *The Footprints of Partition: Narratives of Four Generations of Pakistanis and Indians* (HarperCollins Publishers, 2015), which won the 2017 KLF-German Peace Prize. Anam also writes frequently on issues of conflict and peace. Her work has appeared in *The New York Times, Al Jazeera, The Hill Times, Scroll.in, TheWire.in* and *Dawn*.
 

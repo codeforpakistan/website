@@ -54,7 +54,7 @@ E-Abyana's journey has reaffirmed something I already believed: technology can b
 
 **Footnote:**
 
-_E-Abyana was developed in collaboration with the Khyber Pakhtunkhwa Irrigation Department, under the 8th Cycle (2024–2025) of the KP Government Innovation Fellowship Program. The project was implemented in close coordination with Mr. Maaz Ghaznavi (AD IT), the department's focal person._
+_E-Abyana was developed in collaboration with the Khyber Pakhtunkhwa Irrigation Department, under the 8th Cycle (2024–2025) of the KP Government Innovation Fellowship. The project was implemented in close coordination with Mr. Maaz Ghaznavi (AD IT), the department's focal person._
 
 _Fellows who contributed include Muhammad Saqib, Abbas Ali Shah, Muhammad Zahid, Muhammad Fahad, Mahnoor Khan, and Asif Ali Khan. The KP Fellowship team from Code for Pakistan included Ibraheem Saleem, Shahzeb Siddiq, Munnawar Shah, and Karishma Zaka Ullah, with technical supervision from Ali Raza and Shaji Ahmed. The KPITB team included Shakir Ullah Khan, Sohail Khan, and Zahid Nawaz._
 

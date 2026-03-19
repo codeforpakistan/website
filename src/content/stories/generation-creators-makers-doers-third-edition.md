@@ -5,9 +5,9 @@ summary: "Digitizing agriculture billing"
 image: "/media/stories/stories-generation-creators-makers-doers-third-edition.jpg"
 date: "2025-01-27"
 ---
-**Welcome to the third edition of** _**A Generation of Doers**_**,** where we spotlight the changemakers shaping Khyber Pakhtunkhwa (KP) through the [**KP Government Innovation Fellowship Program**](https://codeforpakistan.org/programs/fellowships/khyber-pakhtunkhwa). Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated to drive meaningful change in public service delivery across the province.
+**Welcome to the third edition of** _**A Generation of Doers**_**,** where we spotlight the changemakers shaping Khyber Pakhtunkhwa (KP) through the [**KP Government Innovation Fellowship**](/programs/fellowships/khyber-pakhtunkhwa). Since 2014, Code for Pakistan and the [KP IT Board](https://www.kpitb.gov.pk/node/658) have collaborated to drive meaningful change in public service delivery across the province.
 
-The Fellowship Program unites a diverse group of individuals who combine civic engagement with technological expertise. Together, these Fellows tackle KP’s most pressing challenges—improving healthcare systems, digitizing public services, and creating transformative solutions that benefit thousands of communities.
+The Fellowship unites a diverse group of individuals who combine civic engagement with technological expertise. Together, these Fellows tackle KP’s most pressing challenges—improving healthcare systems, digitizing public services, and creating transformative solutions that benefit thousands of communities.
 
 This program exemplifies our commitment to harnessing technology for social impact. By bringing together dedicated public servants and innovative technologists, we are building a brighter, more connected future for KP's communities.
 

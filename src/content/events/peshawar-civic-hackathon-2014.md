@@ -9,7 +9,7 @@ startDate: "2014-02-02"
 endDate: ""
 ---
 
-The [Peshawar Civic Hackathon](https://codeforpakistan.org/events/peshawar-civic-hackathon-2014) concluded on Sunday Feb 2nd with some very impressive solutions to civic problems. All the projects were truly innovative and the effort put into them over the weekend was outstanding. There were some submissions that stood out from the rest, but we really appreciate all the ideas and the people who worked tirelessly on them!
+The [Peshawar Civic Hackathon](/events/peshawar-civic-hackathon-2014) concluded on Sunday Feb 2nd with some very impressive solutions to civic problems. All the projects were truly innovative and the effort put into them over the weekend was outstanding. There were some submissions that stood out from the rest, but we really appreciate all the ideas and the people who worked tirelessly on them!
 
 Click a project name to learn more about the entry:
 
@@ -24,7 +24,7 @@ Click a project name to learn more about the entry:
 
 Check out all the entries in the [submissions gallery](http://kphacks.devpost.com/project-gallery).
 
-Congratulations to the winners, and to everyone who participated. You were a part of creating something for the betterment of your city, so keep up the good work! We’re looking forward to many of these projects being scaled and deployed during the [Peshawar Fellowship Program](https://codeforpakistan.org/fellowships/kp-government-innovation-fellowship-program).
+Congratulations to the winners, and to everyone who participated. You were a part of creating something for the betterment of your city, so keep up the good work! We’re looking forward to many of these projects being scaled and deployed during the [Peshawar Fellowship](/programs/fellowships).
 
 #### Photos
 

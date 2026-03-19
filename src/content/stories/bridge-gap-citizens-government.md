@@ -5,11 +5,11 @@ summary: "5 Ways Code for Pakistan’s KP Fellows Bridge the Gap Between Citizen
 image: "/media/stories/1Rhjnc-l9fscppItT_z2QQg.jpg"
 date: "2022-04-28"
 ---
-Another 6-months gone in a flash, and just like that the 7th cycle of our KP Government Innovation Fellowship Program has come to an end. Every year is special, but this year was full of exciting new initiatives. Not only did we create digital solutions to benefit the citizens of KP, but we also brought more women into the Fellowship mix. Training women from some of the REMOTEST areas of KP (real villages in some cases!), and giving them the opportunity to work alongside skilled professionals on some incredibly interesting government projects.
+Another 6-months gone in a flash, and just like that the 7th cycle of our KP Government Innovation Fellowship has come to an end. Every year is special, but this year was full of exciting new initiatives. Not only did we create digital solutions to benefit the citizens of KP, but we also brought more women into the Fellowship mix. Training women from some of the REMOTEST areas of KP (real villages in some cases!), and giving them the opportunity to work alongside skilled professionals on some incredibly interesting government projects.
 
 Since the program began back in October, 19 of our Fellows have partnered with 6 government departments to tackle some of the province’s most pressing problems which were identified by our government partners. And so began the Fellows efforts to come up with the most optimal solutions. The road to success is long, but as a former Fellow myself, I know better than anyone that when you see the results of your work- the impact it has on the communities around you, it is truly rewarding.
 
-This year the Fellowship Program returned to Durshal — our co-working space in Peshawar — following a one-year hiatus due to the pandemic (the 6th cycle was conducted entirely online). As of now, we’re gearing up for the big graduation in May — but more on that later. For now, let’s talk about some of the ways the Fellowship Program is creating impact by building bridges between citizens and the government in the form of its civic tech solutions.
+This year the Fellowship returned to Durshal — our co-working space in Peshawar — following a one-year hiatus due to the pandemic (the 6th cycle was conducted entirely online). As of now, we’re gearing up for the big graduation in May — but more on that later. For now, let’s talk about some of the ways the Fellowship is creating impact by building bridges between citizens and the government in the form of its civic tech solutions.
 
 #### Diversity and Inclusion: Keys to a Great Fellowship Cycle
 
@@ -45,4 +45,4 @@ The Fellows paid extra attention to ensuring the sustainability of solutions pos
 
 #### Final Thoughts
 
-A great deal of effort goes into the success of a Fellowship Program. From the Fellows’ collaboration with government departments to soliciting citizens’ input to ensure the most effective solutions are produced, a number of moving pieces work in unison to ensure the solutions are delivered to the departments within the Fellowship Program’s six-month timeline. Here’s to the 7th cycle and to hoping that the solutions developed will have a positive impact on meeting citizens’ demands and changing their lives for the better.
+A great deal of effort goes into the success of a Fellowship. From the Fellows’ collaboration with government departments to soliciting citizens’ input to ensure the most effective solutions are produced, a number of moving pieces work in unison to ensure the solutions are delivered to the departments within the Fellowship’s six-month timeline. Here’s to the 7th cycle and to hoping that the solutions developed will have a positive impact on meeting citizens’ demands and changing their lives for the better.

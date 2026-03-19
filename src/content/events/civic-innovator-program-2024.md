@@ -17,7 +17,7 @@ By equipping students with the tools to develop technology-driven solutions to r
 
 Held at **Durshal Peshawar**, the launch event introduced plans to address over 250 problem statements submitted by government departments. The program enables students to turn these challenges into practical solutions, improving public services and encouraging innovation.
 
-This initiative builds on the success of CfP’s **Government Innovation Fellowship Program**—developed in partnership with the **KP IT Board and World Bank**—further bridging the gap between government and citizens.
+This initiative builds on the success of CfP’s **Government Innovation Fellowship**—developed in partnership with the **KP IT Board and World Bank**—further bridging the gap between government and citizens.
 
 #### How the Program Works
 
