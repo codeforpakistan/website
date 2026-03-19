@@ -52,8 +52,9 @@ const resolvedCanonical = canonicalPath.startsWith('http') ? canonicalPath : new
   </head>
   <body class="min-h-screen flex flex-col overflow-x-hidden bg-gray-50 text-gray-900">
     <div class="header-band" style="--band-bg:url('/img/band.svg')"></div>
+    <div class="vertical-band" style="--vertical-band-bg:url('/img/band-vertical.svg')"></div>
 
-    <header class="fixed top-5 left-0 right-0 h-16 bg-white border-b z-[104] flex items-center">
+    <header class="lg:hidden fixed top-5 left-0 right-0 h-16 bg-white border-b z-[104] flex items-center">
       <div class="flex items-center px-2 lg:px-4 lg:w-64">
         <button id="openMenuBtn" class="lg:hidden text-gray-700 hover:text-sky-500 transition-colors p-2 mr-2" aria-label="Open menu">
           <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
@@ -67,12 +68,8 @@ const resolvedCanonical = canonicalPath.startsWith('http') ? canonicalPath : new
           </svg>
         </button>
 
-        <a href="/" class="flex items-center gap-2 lg:gap-3 font-semibold text-xl lg:text-2xl tracking-tighter">
-          <img src="/img/cfp_logomark.png" alt="Code for Pakistan" class="hidden lg:flex h-8" />
-          <div class="flex items-center gap-1 lg:gap-2 text-nowrap">
-            <span class="text-green-500">Code for</span>
-            <span class="text-sky-500">Pakistan</span>
-          </div>
+        <a href="/" class="flex items-center w-full">
+          <img src="/img/cfp_logotype.svg" alt="Code for Pakistan" class="h-12 w-auto" />
         </a>
       </div>
 
@@ -80,13 +77,13 @@ const resolvedCanonical = canonicalPath.startsWith('http') ? canonicalPath : new
 
     <div id="menuOverlay" class="lg:hidden fixed inset-0 bg-black bg-opacity-50 z-[102] hidden transition-opacity duration-300 mt-with-header"></div>
 
-    <div class="pt-with-header">
+    <div class="pt-with-header lg:pt-0">
       <div class="flex flex-1">
-        <aside id="sidebar" class="w-full lg:w-64 fixed left-0 top-with-header bg-white bottom-0 border-e overflow-y-auto z-[103] transition-transform duration-300 lg:translate-x-0 -translate-x-full">
+        <aside id="sidebar" class="w-full lg:w-64 fixed left-0 lg:left-5 top-with-header lg:top-0 bg-white bottom-0 border-e overflow-y-auto z-[103] transition-transform duration-300 lg:translate-x-0 -translate-x-full">
           <SidebarNav />
         </aside>
 
-        <main class="flex-1 lg:ml-64 w-full px-4 lg:px-8">
+        <main class="flex-1 ml-0 lg:ml-[17.25rem] w-full px-4 lg:px-8">
           <slot />
         </main>
       </div>

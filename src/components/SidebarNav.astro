@@ -37,6 +37,11 @@ const activeHref = navHrefs
 const isActive = (href: string) => normalizePath(href) === activeHref;
 ---
 
+<div class="hidden lg:block sticky top-0 bg-white z-10 p-4 pb-2">
+  <a href="/" class="flex items-center justify-center">
+    <img src="/img/cfp_logotype.svg" alt="Code for Pakistan" style="height: 70px; width: auto;" />
+  </a>
+</div>
 <nav class="flex flex-col p-4">
   <ul class="flex flex-col gap-4 list-none m-0 p-0">
     <li class="relative">

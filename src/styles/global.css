@@ -4,8 +4,13 @@
 
 @layer components {
   .header-band {
-    @apply h-5 bg-contain bg-center bg-repeat-x fixed top-0 left-0 right-0 z-[105];
+    @apply lg:hidden h-5 bg-contain bg-center bg-repeat-x fixed top-0 left-0 right-0 z-[105];
     background-image: var(--band-bg);
+  }
+
+  .vertical-band {
+    @apply hidden lg:block w-5 bg-contain bg-center bg-repeat-y fixed top-0 bottom-0 left-0 z-[105];
+    background-image: var(--vertical-band-bg);
   }
 }
 
