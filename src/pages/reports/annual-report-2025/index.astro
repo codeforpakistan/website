@@ -1,0 +1,890 @@
+---
+import MainLayout from "../../../layouts/MainLayout.astro"
+
+const tabItems = [
+  { id: "message", label: "Message" },
+  { id: "highlights", label: "Highlights" },
+  { id: "governance", label: "Governance" },
+  { id: "civic-participation", label: "Civic Participation" },
+  { id: "civic-innovator", label: "Civic Innovator" },
+  { id: "community", label: "Community" },
+  { id: "looking-ahead", label: "Looking Ahead" },
+]
+---
+
+<MainLayout
+  title="Annual Report 2025"
+  description="Driving democratic strength through digital civic solutions, government partnerships, and citizen participation — highlights and impact from Code for Pakistan in 2025."
+  image="/media/reports/2025/cover.jpg"
+  canonical="/reports/2025">
+  <div class="py-8">
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Annual Report 2025</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">
+        Driving Democratic Strength Through Digital Civic Solutions, Government Partnerships, and Citizen Participation
+      </h2>
+    </div>
+
+    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
+      <div class="flex-grow max-w-5xl space-y-8">
+        <section>
+          <img src="/media/reports/2025/cover.jpg" class="rounded-lg" />
+        </section>
+
+        <!-- MESSAGE -->
+        <section id="message" class="bg-white rounded-lg border p-6 space-y-6 scroll-mt-28">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 items-start">
+            <div>
+              <img src="/media/people/sheba.jpg" alt="Sheba Najmi" class="w-full rounded-lg" />
+            </div>
+            <div class="md:col-span-2 space-y-4">
+              <h3 class="text-xl font-semibold">From Dialogue to Action: Strengthening Civic Participation</h3>
+              <p>
+                As I reflect on 2025, what stands out most is not just what Code for Pakistan delivered, but who made it
+                possible. This year's progress is a testament to the collective effort of our community: the public
+                servants who opened doors to change, the technologists and designers who gave their time and skills, the
+                students and young leaders who showed up with curiosity and courage, and our partners and supporters who
+                believed in the long view of civic transformation.
+              </p>
+              <p>
+                Together, we engaged with over 15 government departments, trained more than 400 public servants, and
+                supported the deployment or adoption of multiple digital systems aimed at enhancing how the government
+                serves its people. The launch of the E-Abyana Digital Water Billing System by the Chief Minister of
+                Khyber Pakhtunkhwa was a powerful milestone — not just as a technology achievement, but as a signal of
+                what's possible when trust, collaboration, and user-centred design come together in the public sector.
+              </p>
+              <p>
+                Equally important were the spaces we created for dialogue and participation. Through community Guftugus
+                (structured civic dialogues), we listened, learned, and worked alongside communities and government to
+                surface local priorities and turn them into actionable paths forward. Our launches of Civic Innovation
+                Labs in universities, along with the mobilisation of over 200 student and youth volunteers, reaffirmed
+                our belief that sustainable civic change depends on nurturing local leadership and investing in the next
+                generation.
+              </p>
+              <p>
+                None of this work happens in isolation. Code for Pakistan exists because of a deeply committed community
+                that cares about dignity, access, and accountability in public services. To everyone who participated,
+                supported, donated, and stood with us in 2025… thank you. Your trust and partnership fuel our mission,
+                and together, we are building a stronger foundation for civic innovation and democratic participation in
+                Pakistan.
+              </p>
+              <p class="text-sm text-gray-600">
+                With gratitude, <strong>Sheba Najmi</strong> — Founder &amp; Board Chair, Code for Pakistan
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- HIGHLIGHTS -->
+        <section id="highlights" class="bg-white rounded-lg border p-6 space-y-6 scroll-mt-28">
+          <h3 class="text-2xl font-semibold">Highlights</h3>
+          <p>
+            In 2025, civic engagement deepened in both intent and impact. Civic dialogues (Guftugus) became central to
+            Code for Pakistan's approach, increasingly leading to co-designed solutions and system-level implementation.
+            Working across provinces with citizens, government departments, and civil society, these structured
+            dialogues helped identify shared challenges and embed measurable, actionable outcomes within governance
+            processes.
+          </p>
+          <p>Our goal remained consistent: empower communities to actively shape decisions that affect public life.</p>
+
+          <hr class="border-gray-200" />
+
+          <h3 class="text-2xl font-semibold">2025 at a Glance: Impact in Numbers</h3>
+          <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+            <div class="rounded-lg bg-gray-100 p-4">
+              <h5 class="text-2xl font-bold">15+</h5><p class="text-sm">government departments engaged</p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4">
+              <h5 class="text-2xl font-bold">400</h5><p class="text-sm">government officials trained</p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4">
+              <h5 class="text-2xl font-bold">8+</h5><p class="text-sm">digital systems deployed</p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4">
+              <h5 class="text-2xl font-bold">200+</h5><p class="text-sm">youth volunteers mobilised</p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4">
+              <h5 class="text-2xl font-bold">5</h5><p class="text-sm">community townhalls conducted</p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4">
+              <h5 class="text-2xl font-bold">300+</h5><p class="text-sm">participants in community townhalls</p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4">
+              <h5 class="text-2xl font-bold">3</h5><p class="text-sm">Civic Innovation Labs launched</p>
+            </div>
+          </div>
+
+          <hr class="border-gray-200" />
+
+          <h3 class="text-2xl font-semibold">2025's Key Achievements</h3>
+          <p>
+            In 2025, Code for Pakistan (CfP) sharpened its focus on turning civic engagement and digital innovation into
+            tangible improvements within governance systems. Working closely with citizens, government partners, and
+            civil society, while grounding our interventions in inclusive, community-led civic dialogue, we continued
+            beyond problem identification to solution design, piloting, and institutional adoption.
+          </p>
+          <ul class="list-disc pl-6 space-y-2">
+            <li>
+              The successful completion of the <strong>
+                8th cohort of the KP Government Innovation Fellowship Program
+              </strong>, strengthening in-house public sector capacity for digital and civic innovation.
+            </li>
+            <li>
+              The completion of the <strong>Civic Innovator Program</strong>, supporting emerging changemakers to design
+              and implement citizen-centred solutions.
+            </li>
+            <li>
+              The completion of the <strong>3rd cohort of the KP Women's Civic Internship Program</strong> advances women's
+              participation and leadership in civic and governance spaces.
+            </li>
+            <li>
+              <strong>The expansion of Civic Innovation Labs and youth-led initiatives across regions</strong>,
+              strengthening local leadership, building civic capacity, and creating sustainable pathways for ongoing
+              civic engagement.
+            </li>
+            <li>
+              <strong>
+                The official launch of the <a
+                  class="text-sky-700 hover:underline"
+                  href="https://codeforpakistan.org/stories/e-abyana-story"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  E-Abyana
+                </a> Digital Water Billing System
+              </strong> by the Chief Minister of Khyber Pakhtunkhwa marked a major milestone in digitising irrigation management
+              and water revenue systems.
+            </li>
+            <li>
+              <strong>
+                Significant progress in the design, testing, and launch-readiness of multiple government digital systems
+              </strong>, developed in partnership with public sector departments. These included <a
+                class="text-sky-700 hover:underline"
+                href="https://kpgovtgpt.netlify.app/"
+                target="_blank"
+                rel="noopener noreferrer">
+                Government GPT
+              </a>, the <a
+                class="text-sky-700 hover:underline"
+                href="http://ngonpo.kpitb.online/login"
+                target="_blank"
+                rel="noopener noreferrer">
+                NGOs Registration System
+              </a>, the <a
+                class="text-sky-700 hover:underline"
+                href="https://www.codeforpakistan.org/node/319"
+                target="_blank"
+                rel="noopener noreferrer">
+                Advertisement Management System
+              </a>, the <a
+                class="text-sky-700 hover:underline"
+                href="https://www.codeforpakistan.org/node/318"
+                target="_blank"
+                rel="noopener noreferrer">
+                AI-Powered Plant Disease Detection App
+              </a>, and new civic platforms such as <a
+                class="text-sky-700 hover:underline"
+                href="https://internship.hed.gkp.pk/"
+                target="_blank"
+                rel="noopener noreferrer">
+                Tarbiyat
+              </a>, along with enhancements to <a
+                class="text-sky-700 hover:underline"
+                href="https://watchtower.codeforpakistan.org/"
+                target="_blank"
+                rel="noopener noreferrer">
+                Watchtower
+              </a>.
+            </li>
+            <li>
+              <strong>Five civic dialogues (Guftugus) held across regions</strong>, surfacing and translating citizen
+              priorities into clearly defined, actionable outcomes and demonstrating effective pathways from public
+              consultation to implementation.
+            </li>
+          </ul>
+        </section>
+
+        <!-- GOVERNANCE / DRIVING GOVERNMENT SERVICE DELIVERY -->
+        <section id="governance" class="bg-white rounded-lg border p-6 space-y-6 scroll-mt-28">
+          <div class="space-y-3">
+            <h3 class="text-2xl font-semibold">Driving Government Service Delivery</h3>
+            <h4 class="text-xl font-semibold">KP Government Innovation Fellowship</h4>
+            <img
+              src="/media/reports/2025/fellowship.jpg"
+              alt="KP Government Innovation Fellowship"
+              class="w-full rounded-lg"
+            />
+            <p>
+              The KP Government Innovation Fellowship strengthens the government's capacity by embedding skilled
+              professionals within departments to co-create and implement high-impact digital solutions.
+            </p>
+            <p>
+              In 2025, during the 8th cohort of the Fellowship Program, the Fellows trained over 200 field officers
+              across 18 subdivisions, ensuring that the newly developed systems could be effectively used and maintained
+              at the local level. Systems were continuously refined based on departmental feedback, allowing solutions
+              to evolve in response to real-world operational challenges.
+            </p>
+            <p>
+              Departments gradually assumed full ownership of deployed systems, ensuring sustained adoption and
+              long-term impact. Throughout the Fellowship, structured mentoring, including on-site technical sessions
+              and regular mentor calls, helped deliver robust, scalable solutions that improved efficiency,
+              transparency, and service delivery. By combining hands-on training, iterative system refinement, and
+              institutional handover, the Fellowship translated innovative digital solutions into measurable
+              improvements in governance and public services.
+            </p>
+          </div>
+
+          <figure class="rounded-lg border bg-gray-50 p-5">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4 items-start">
+              <div>
+                <img src="/media/people/ibraheem.jpg" alt="Muhammad Ibraheem" class="w-full rounded-lg" />
+              </div>
+              <blockquote class="text-gray-800 italic md:col-span-3">
+                <p>
+                  During the 8th cycle of the KP Government Innovation Fellowship, our focus was on delivering
+                  province-wide, high-impact digitisation while laying the groundwork for next-generation digital
+                  governance. Fellows worked alongside government departments to digitise critical systems, including farm
+                  water billing, NGO registrations, and public information workflows, while also piloting AI-enabled
+                  solutions such as GovGPT to improve access to rules and policies for both officials and citizens, and
+                  AI-powered plant disease detection to support the Agriculture Department. Marking ten years since the
+                  Fellowship's launch in 2014, this cycle reaffirmed the program's core strength of enabling user-centric,
+                  sustainable digital transformation through civic innovation and public-private collaboration.
+                </p>
+                <figcaption class="mt-3 text-sm text-gray-600 not-italic">Muhammad Ibraheem, Senior Manager Programs, CfP</figcaption>
+              </blockquote>
+            </div>
+          </figure>
+
+          <hr class="border-gray-200" />
+
+          <!-- E-Abyana -->
+          <div class="space-y-4">
+            <h4 class="text-xl font-semibold">E-Abyana: Transforming Irrigation Governance</h4>
+            <img
+              src="/media/reports/2025/e-abyana.jpg"
+              alt="E-Abyana Digital Water Billing System"
+              class="w-full rounded-lg"
+            />
+            <p>
+              For decades, irrigation water billing in Khyber Pakhtunkhwa relied on fragmented, manual records that were
+              prone to errors, delays, and inconsistencies. Farmers often faced unclear or inaccurate bills, limited
+              visibility into their payment history, and long administrative processes to resolve disputes, which
+              contributed to revenue leakages for the government and mistrust among water users.
+            </p>
+            <p>
+              To address these challenges, the E-Abyana Digital Water Billing Management System was developed under the
+              8th Cycle of the KP Government Innovation Fellowship, a partnership between the Khyber Pakhtunkhwa
+              Information Technology Board (KPITB) and Code for Pakistan.
+            </p>
+            <p>
+              Officially launched by the Chief Minister of Khyber Pakhtunkhwa on 31 December 2025, E-Abyana digitises
+              the entire irrigation billing process by mapping and digitising irrigation outlets and water channels,
+              maintaining centralised records of farmers, landholdings, and crop data, generating secure electronic
+              Abyana bills, and tracking payments in real time through interactive dashboards, while enhancing
+              transparency, accuracy, and departmental oversight.
+            </p>
+            <p>
+              This system makes irrigation billing simpler, faster, and more reliable for farmers, who now receive
+              accurate, timely, and easily accessible bills, reducing disputes and administrative delays. At the same
+              time, the centralised data and real-time monitoring support fair treatment and better-maintained
+              irrigation infrastructure, resulting in more predictable water supply, improved trust in governance, and
+              ultimately stronger agricultural productivity and livelihoods.
+            </p>
+
+            <figure class="rounded-lg border bg-gray-50 p-5">
+              <blockquote class="text-gray-800 italic">
+                <p>
+                  The launch of the E-Abyana Digital Billing System marks an important step towards transparent and
+                  efficient governance in Khyber Pakhtunkhwa. By digitising core irrigation and billing processes, the
+                  government is making public services more accessible, accountable, and citizen-friendly. Digital
+                  transformation across provincial departments remains a key priority, with a strong commitment to
+                  completing end-to-end digitisation to improve service delivery for farmers and citizens alike.
+                </p>
+              </blockquote>
+              <figcaption class="mt-3 text-sm text-gray-600">Chief Minister Khyber Pakhtunkhwa</figcaption>
+            </figure>
+
+            <p>
+              The launch demonstrates how civic tech talent, when embedded within government systems, can facilitate
+              long-term institutional reform rather than relying on standalone digital solutions. <a
+                class="text-sky-700 hover:underline"
+                href="https://codeforpakistan.org/stories/e-abyana-story"
+                target="_blank"
+                rel="noopener noreferrer">
+                Read more about E-Abyana
+              </a>.
+            </p>
+          </div>
+
+          <hr class="border-gray-200" />
+
+          <!-- Fellowship Projects -->
+          <div class="space-y-4">
+            <h4 class="text-xl font-semibold">Fellowship Projects</h4>
+            <p>
+              In addition to E-Abyana, Code for Pakistan supported the deployment and adoption of several digital
+              governance tools under the 8th cohort of the KP Government Innovation Fellowship Program:
+            </p>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+                <h5 class="font-semibold">NGOs Registration System</h5>
+                <h6 class="text-sm text-gray-600">Social Welfare Department</h6>
+                <p class="text-sm">
+                  Digitises registration, verification, and reporting workflows, enabling the department to monitor
+                  compliance in real time while making key information publicly accessible. Streamlines NGO registration
+                  and oversight, reduces administrative backlogs, and strengthens accountability.
+                </p>
+                <a
+                  class="text-sky-700 hover:underline text-sm"
+                  href="http://ngonpo.kpitb.online/login"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Visit System
+                </a>
+              </div>
+              <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+                <h5 class="font-semibold">Advertisement Management MIS</h5>
+                <h6 class="text-sm text-gray-600">Information &amp; Public Relations Department</h6>
+                <p class="text-sm">
+                  Digitises and automates reporting and payment workflows for government advertisements, enabling staff
+                  to generate, track, and reconcile requests and payments through a single integrated system.
+                </p>
+                <a
+                  class="text-sky-700 hover:underline text-sm"
+                  href="https://www.codeforpakistan.org/node/319"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Learn More
+                </a>
+              </div>
+              <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+                <h5 class="font-semibold">AI-Powered Plant Disease Detection</h5>
+                <h6 class="text-sm text-gray-600">Agriculture Department</h6>
+                <p class="text-sm">
+                  Provides real-time, field-ready diagnostics along with actionable treatment recommendations, enabling
+                  staff and farmers to respond quickly, protect crops, and increase yields.
+                </p>
+                <a
+                  class="text-sky-700 hover:underline text-sm"
+                  href="https://www.codeforpakistan.org/node/318"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Learn More
+                </a>
+              </div>
+              <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+                <h5 class="font-semibold">Government GPT</h5>
+                <h6 class="text-sm text-gray-600">KP IT Board</h6>
+                <p class="text-sm">
+                  AI-powered access to internal government knowledge, enabling staff to find accurate information
+                  quickly and make informed decisions. Enhances efficiency, accelerates service delivery, and enables
+                  better governance.
+                </p>
+                <a
+                  class="text-sky-700 hover:underline text-sm"
+                  href="https://kpgovtgpt.netlify.app/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Try It
+                </a>
+              </div>
+            </div>
+            <p class="text-sm text-gray-600">
+              Each solution is accompanied by structured training and documentation, and aims to improve efficiency,
+              transparency, and service delivery as it moves through testing and phased adoption.
+            </p>
+          </div>
+
+          <hr class="border-gray-200" />
+
+          <!-- AI in Government -->
+          <div class="space-y-4">
+            <h4 class="text-xl font-semibold">AI in Government</h4>
+            <p>
+              In 2025, Code for Pakistan collaborated closely with government institutions and partner organisations to
+              enhance digital governance by developing technical capacity, standardising digital systems, and promoting
+              the sustainable adoption of innovative solutions.
+            </p>
+            <img src="/media/reports/2025/pips-training.jpg" alt="Training Session at PIPS" class="w-full rounded-lg" />
+            <p>
+              In partnership with the Pakistan Institute of Parliamentary Services (PIPS), Code for Pakistan delivered a
+              high-level training session, <em>"Emerging Trends in Office Work: Use of Artificial Intelligence."</em> Led
+              by Ali Raza, CfP's Senior Principal Technologist, the session brought together 25 participants from provincial
+              assemblies across Pakistan, providing hands-on guidance on practical AI applications to improve legislative
+              research, document processing, communication, and administrative workflows.
+            </p>
+            <p>
+              The training also covered the responsible adoption of AI and explored how provincial assemblies can
+              leverage these tools to enhance transparency, constituent services, and decision-making. Structured
+              handover and comprehensive documentation ensured participants could continue applying these skills
+              independently, supporting long-term capacity building and sustained adoption.
+            </p>
+          </div>
+        </section>
+
+        <!-- CIVIC PARTICIPATION -->
+        <section id="civic-participation" class="bg-white rounded-lg border p-6 space-y-6 scroll-mt-28">
+          <h3 class="text-2xl font-semibold">Civic Participation</h3>
+          <p>Engaging citizens across cities through structured civic dialogues.</p>
+
+          <h4 class="text-xl font-semibold">Guftugus: Engaging Citizens Across Cities</h4>
+          <p>
+            5 Civic Town Halls (Guftugus) were convened in 2025, each addressing locally relevant challenges and
+            facilitating collaboration between citizens, government, and civil society.
+          </p>
+
+          <!-- Mardan -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+            <img
+              src="/media/reports/2025/guftugu-mardan.jpg"
+              alt="Guftugu Session - UET Mardan"
+              class="w-full rounded-lg"
+            />
+            <div class="space-y-3">
+              <h5 class="text-lg font-semibold">Mardan</h5>
+              <p>
+                Hosted at UET Mardan with 47 participants from local government departments, civil society, academia,
+                media, youth groups, and climate practitioners. The dialogue focused on climate resilience and local
+                governance. Through the <a
+                  class="text-sky-700 hover:underline"
+                  href="https://whatifbox.codeforpakistan.org/"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  "What If Box"
+                </a> methodology, participants proposed interventions including improved drainage systems, expanded green
+                spaces, and citizen-led awareness campaigns.
+              </p>
+            </div>
+          </div>
+
+          <!-- Charsadda -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+            <img
+              src="/media/reports/2025/guftugu-charsadda.jpg"
+              alt="Guftugu Session - Bacha Khan University Charsadda"
+              class="w-full rounded-lg md:order-2"
+            />
+            <div class="space-y-3 md:order-1">
+              <h5 class="text-lg font-semibold">Charsadda</h5>
+              <p>
+                Convened at Bacha Khan University Charsadda with 46 participants. Discussions centred on infrastructure
+                gaps, youth employability, education quality, energy shortages, and waste management. The dialogue
+                identified ten local changemakers and led to the emergence of a fortnightly Guftugu culture for
+                continued structured conversations on community priorities.
+              </p>
+            </div>
+          </div>
+
+          <!-- Lahore -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+            <img
+              src="/media/reports/2025/guftugu-lahore.jpg"
+              alt="Guftugu Session - Lahore"
+              class="w-full rounded-lg"
+            />
+            <div class="space-y-3">
+              <h5 class="text-lg font-semibold">Lahore</h5>
+              <p>
+                40 participants from Punjab EPA, universities, media, civil society, and private-sector representatives.
+                Focused on smog and air quality, participants co-developed a 90-Day Action Plan centred on student
+                awareness, youth engagement, and early-stage citizen action on air pollution. The Guftugu led to
+                follow-up dialogues and alignment with the Chief Minister of Punjab's Green Credit Program.
+              </p>
+            </div>
+          </div>
+
+          <!-- Karachi -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+            <img
+              src="/media/reports/2025/guftugu-karachi.jpg"
+              alt="Guftugu Session - Karachi"
+              class="w-full rounded-lg md:order-2"
+            />
+            <div class="space-y-3 md:order-1">
+              <h5 class="text-lg font-semibold">Karachi</h5>
+              <p>
+                Held in collaboration with the Climate Action Centre with 30 participants. The discussion on solid waste
+                management led to agreement on the Karachi Commitment Card and the establishment of a <strong>
+                  Citizen R&amp;D Cell
+                </strong>, a volunteer-driven platform designed to strengthen citizen-government feedback loops and
+                support inclusive policy implementation.
+              </p>
+            </div>
+          </div>
+
+          <!-- Faisalabad -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+            <img
+              src="/media/reports/2025/guftugu-faisalabad.jpg"
+              alt="Guftugu Session - National Incubation Centre, Faisalabad"
+              class="w-full rounded-lg"
+            />
+            <div class="space-y-3">
+              <h5 class="text-lg font-semibold">Faisalabad</h5>
+              <p>
+                Convened at the National Incubation Centre Faisalabad to examine the gender divide in agricultural
+                technology. A key outcome was the collective decision to establish a Faisalabad Leadership Circle, a
+                farmer-centred collaboration framework intended to translate dialogue into coordinated action and
+                strengthen women's agency in Faisalabad's agri-tech ecosystem.
+              </p>
+            </div>
+          </div>
+
+          <figure class="rounded-lg border bg-gray-50 p-5">
+            <blockquote class="text-gray-800 italic">
+              <p>
+                Communities thrive when they know they are seen, heard and valued. When people recognise that they hold
+                power and are active decision makers, their outlook shifts. Trust at the grassroots level is key to
+                long-term sustainability and meaningful change.
+              </p>
+            </blockquote>
+            <figcaption class="mt-3 text-sm text-gray-600">Khunsa Khawar, CfP Community Manager</figcaption>
+          </figure>
+
+          <!-- KP Women Civic Digital Internship -->
+          <div class="space-y-4">
+            <h4 class="text-xl font-semibold">KP Women Civic Digital Internship</h4>
+            <p class="text-lg">
+              In 2025, over the course of 6 months, 18 interns strengthened technical, digital, and professional skills
+              through hands-on civic technology projects.
+            </p>
+            <img
+              src="/media/reports/2025/internship.jpg"
+              alt="Fellowship and KP Women Internship Graduation Ceremony 2025"
+              class="w-full rounded-lg"
+            />
+            <h5 class="font-semibold">Key Highlights</h5>
+            <ul class="list-disc pl-6 space-y-1 text-sm">
+              <li>
+                Over <strong>30 external training sessions</strong> delivered by domain experts and practitioners from CfP's
+                network
+              </li>
+              <li>
+                <strong>Four project prototypes</strong> developed by the women interns:
+                <ul class="list-disc pl-6 mt-1 space-y-1">
+                  <li>AI-powered Monitoring &amp; Evaluation for development projects</li>
+                  <li>Air Quality Monitoring &amp; Reporting Platform</li>
+                  <li>Online Booking System for Youth Hostels and Guest Houses</li>
+                  <li>Research Repository and Scientist Directory</li>
+                </ul>
+              </li>
+              <li>Skill-building focused on AI/ML, web and mobile development, UX/UI design, and project management</li>
+              <li>Evaluations by KPITB officials noted measurable growth from mid-term to final assessments</li>
+            </ul>
+          </div>
+        </section>
+
+        <!-- CIVIC INNOVATOR -->
+        <section id="civic-innovator" class="bg-white rounded-lg border p-6 space-y-6 scroll-mt-28">
+          <h3 class="text-2xl font-semibold">Civic Innovator Program</h3>
+          <p>
+            Student teams under the Civic Innovator Program developed <strong>six projects</strong> for government departments
+            in 2025, delivering initial prototypes that were handed over to the respective departments for testing and refinement.
+          </p>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+              <img src="/media/reports/2025/on-farm.jpg" alt="On-Farm Water Management" class="w-full rounded-lg" />
+              <h5 class="font-semibold">On-Farm Water Management</h5>
+              <h6 class="text-sm text-gray-600">Irrigation &amp; Agriculture Department</h6>
+              <p class="text-sm">
+                A prototype system to monitor farm-level water usage through integrated hardware and software
+                components, strengthening evidence-based water management and sustainable irrigation practices. The
+                CECOS University team won a HEC final year project competition.
+              </p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+              <img src="/media/reports/2025/iot-bins.jpg" alt="Smart Waste Management" class="w-full rounded-lg" />
+              <h5 class="font-semibold">Smart Waste Management</h5>
+              <h6 class="text-sm text-gray-600">Water &amp; Sanitation Services Peshawar</h6>
+              <p class="text-sm">
+                IoT-based prototype with sensor-based waste bin monitoring, timely alerts on bin fill levels, and
+                improved coordination between field teams and management for data-informed waste collection planning.
+              </p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+              <img
+                src="/media/reports/2025/agri-alert.jpg"
+                alt="Outbreak Management System"
+                class="w-full rounded-lg"
+              />
+              <h5 class="font-semibold">Outbreak Management System</h5>
+              <h6 class="text-sm text-gray-600">Agriculture Department</h6>
+              <p class="text-sm">
+                AI-powered application for plant disease detection and outbreak identification, aimed at strengthening
+                early warning mechanisms and supporting faster, data-driven disease detection.
+              </p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+              <img src="/media/reports/2025/vms.jpg" alt="Vehicle Management System" class="w-full rounded-lg" />
+              <h5 class="font-semibold">Vehicle Management System</h5>
+              <h6 class="text-sm text-gray-600">Government Fleet Operations</h6>
+              <p class="text-sm">
+                Digital system supporting fleet tracking, allocation workflows, and maintenance scheduling to improve
+                transparency, reduce misuse of public assets, and optimise fleet utilisation.
+              </p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+              <img src="/media/reports/2025/smart-chain.jpg" alt="Supply Chain Management" class="w-full rounded-lg" />
+              <h5 class="font-semibold">Supply Chain Management</h5>
+              <h6 class="text-sm text-gray-600">Public Procurement &amp; Inventory</h6>
+              <p class="text-sm">
+                Prototype to digitise procurement workflows and inventory tracking, introducing greater transparency,
+                efficiency, and traceability into government supply chains.
+              </p>
+            </div>
+            <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+              <img src="/media/reports/2025/digital-zoo.jpg" alt="Peshawar Digital Zoo" class="w-full rounded-lg" />
+              <h5 class="font-semibold">Peshawar Digital Zoo</h5>
+              <h6 class="text-sm text-gray-600">Department of Wildlife</h6>
+              <p class="text-sm">
+                Interactive digital system to enhance visitor information, engagement, and administrative coordination
+                while supporting more efficient day-to-day management.
+              </p>
+            </div>
+          </div>
+
+          <p>
+            Collectively, these projects highlight the strength of multi-institutional collaboration between students,
+            universities, government departments, and CfP. The Civic Innovator Program creates pathways for youth to
+            engage with civic challenges early in their academic and professional journeys, nurturing a generation of
+            technologists and leaders committed to public service, civic responsibility, and collaborative governance.
+          </p>
+        </section>
+
+        <!-- COMMUNITY -->
+        <section id="community" class="bg-white rounded-lg border p-6 space-y-6 scroll-mt-28">
+          <h3 class="text-2xl font-semibold">Community</h3>
+          <p>
+            Strengthening local leadership, building civic capacity, and creating sustainable pathways for ongoing civic
+            engagement.
+          </p>
+
+          <!-- Civic Innovation Labs -->
+          <div class="space-y-4">
+            <h4 class="text-xl font-semibold">Civic Innovation Labs</h4>
+            <p>
+              Civic Innovation Labs (CILs) are now operational in <strong>three universities</strong>, serving as
+              dedicated hubs for youth-led civic technology and public problem-solving.
+            </p>
+            <img
+              src="/media/reports/2025/cil-peshawar.jpg"
+              alt="Introductory Session - Civic Innovation Lab Charsadda"
+              class="w-full rounded-lg"
+            />
+            <p>
+              Through these labs, students receive structured capacity-building support, including hands-on workshops,
+              sustained technical mentorship, and exposure to real governance challenges in collaboration with public
+              sector institutions. Beyond skills development, the CILs promote civic engagement as a long-term practice
+              rather than a one-time intervention, encouraging students to view participation in public life as a
+              continuous responsibility.
+            </p>
+          </div>
+
+          <hr class="border-gray-200" />
+
+          <!-- Mapping and Collaboration -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+            <img
+              src="/media/reports/2025/mapathon.jpg"
+              alt="Mapathon 2025 - CECOS Peshawar"
+              class="w-full rounded-lg"
+            />
+            <div class="space-y-3">
+              <h4 class="text-xl font-semibold">Mapping and Collaboration</h4>
+              <p>
+                In November 2025, Code for Pakistan conducted a <a
+                  class="text-sky-700 hover:underline"
+                  href="https://www.linkedin.com/posts/code-for-pakistan_mapathon-civictech-opendata-activity-7394374595442630656-zeXx"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Mapathon
+                </a> as part of its Civic Innovation Labs initiative, in partnership with CILs at CECOS University, Peshawar
+                and Lahore Garrison University. The Mapathon engaged over 200 students in hands-on civic mapping and climate
+                data challenges using OpenStreetMap and MapRoulette.
+              </p>
+            </div>
+          </div>
+
+          <hr class="border-gray-200" />
+
+          <!-- Volunteers -->
+          <div class="space-y-4">
+            <h4 class="text-xl font-semibold">Our Volunteers: From Awareness to Action</h4>
+            <p>
+              Code for Pakistan's volunteers are central to translating civic dialogue into tangible impact. Across
+              2025, youth and community engagement have taken multiple forms, from campaigns and civic labs to
+              volunteer-driven mapping initiatives.
+            </p>
+
+            <div class="rounded-lg bg-gray-100 p-4 space-y-2">
+              <h5 class="font-semibold">#SmogWarriors — Citizen-led Air Quality Advocacy</h5>
+              <p class="text-sm">
+                Following the Lahore Guftugu on air pollution, we mobilised volunteers as #SmogWarriors, turning
+                awareness into action. Through digital and offline activities, volunteers share real-time Air Quality
+                Index (AQI) updates, fact-based posts, polls, infographics, and health-based content. They organise
+                discussions on campus and in communities, building a youth-led network advocating for clean air and
+                climate action.
+              </p>
+              <div class="grid grid-cols-3 gap-2 text-center text-sm mt-3">
+                <div class="rounded bg-white p-2">
+                  <strong>Observer</strong><p class="text-xs text-gray-600">documenting smog conditions</p>
+                </div>
+                <div class="rounded bg-white p-2">
+                  <strong>Communicator</strong><p class="text-xs text-gray-600">informing the public</p>
+                </div>
+                <div class="rounded bg-white p-2">
+                  <strong>Mobilizer</strong><p class="text-xs text-gray-600">engaging peers &amp; authorities</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <hr class="border-gray-200" />
+
+          <!-- Ammaz Khan Spotlight -->
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+            <img
+              src="/media/reports/2025/ammaz-khan.jpg"
+              alt="Ammaz Khan, CfP Volunteer"
+              class="w-full rounded-lg md:order-2"
+            />
+            <div class="space-y-3 md:order-1">
+              <h4 class="text-xl font-semibold">Spotlight: Ammaz Khan</h4>
+              <p class="text-sm font-medium text-gray-600">Humanitarian Mapping for Flood Relief</p>
+              <p>
+                Ammaz Khan, a Code for Pakistan Volunteer, won the Flood Hackathon organised by The Enlight Lab. He
+                demonstrated how volunteer mapping and open-source data can strengthen flood relief and disaster
+                preparedness by using OpenStreetMap. His solution supported NGOs in local disaster response by utilising
+                AI, creating early warning systems, providing drone rescue insights, and developing hygiene support
+                solutions.
+              </p>
+              <p class="text-sm text-gray-600">
+                This initiative shows how CfP volunteers can transform civic engagement into data-driven,
+                community-focused action across Pakistan.
+              </p>
+            </div>
+          </div>
+        </section>
+
+        <!-- LOOKING AHEAD -->
+        <section id="looking-ahead" class="bg-white rounded-lg border p-6 space-y-6 scroll-mt-28">
+          <h3 class="text-2xl font-semibold">Looking Ahead to 2026</h3>
+          <p>
+            In 2026, we will build on the momentum of 2025 to advance civic participation and government innovation in
+            ways that are both bold and measurable. Our vision is to deepen trust and collaboration between citizens and
+            government, expand human-centred digital systems across more departments, and ensure that local voices
+            meaningfully shape public policies and services.
+          </p>
+          <p>
+            We will strengthen two-way feedback between communities and institutions, nurture a new generation of youth
+            civic leaders, and scale inclusive, community-driven solutions across cities and sectors.
+          </p>
+          <p>
+            Through this work, we aim to help cultivate a culture where technology, transparency, and civic engagement
+            reinforce one another — where democratic values are not merely discussed but practised, felt, and
+            strengthened in everyday life across Pakistan.
+          </p>
+
+          <figure class="rounded-lg border bg-gray-50 p-5">
+            <blockquote class="text-gray-800 italic">
+              <p>
+                As we step into 2026, I do so feeling hopeful and deeply energised by this community. We'll build on the
+                momentum of 2025 by working even more closely with citizens and the government, expanding digital
+                systems, and ensuring that local voices truly shape public decisions. By strengthening feedback loops
+                and investing in youth leadership, we're creating a culture where technology, transparency, and civic
+                participation come together, not just in theory, but in everyday practice. I'm excited for what we'll
+                continue to build, side by side, across Pakistan — all thanks to your participation.
+              </p>
+            </blockquote>
+            <figcaption class="mt-3 text-sm text-gray-600">
+              Sheba Najmi — Founder &amp; Board Chair, Code for Pakistan
+            </figcaption>
+          </figure>
+        </section>
+      </div>
+
+      <div class="md:sticky md:top-24 md:self-start md:w-64 lg:w-72">
+        <aside id="report-sections-nav" class="bg-white rounded-lg border p-4">
+          <h4 class="text-sm font-semibold uppercase tracking-wide text-gray-600 mb-3">Sections</h4>
+          <ul class="space-y-2">
+            {
+              tabItems.map((item) => (
+                <li>
+                  <a
+                    href={`#${item.id}`}
+                    data-nav-link={item.id}
+                    class="block px-3 py-2 rounded-md text-gray-700 hover:bg-gray-100 hover:text-sky-700 transition-colors duration-150">
+                    {item.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </aside>
+      </div>
+    </div>
+  </div>
+</MainLayout>
+
+<script is:inline>
+  const sectionIds = [
+    "message",
+    "highlights",
+    "governance",
+    "civic-participation",
+    "civic-innovator",
+    "community",
+    "looking-ahead",
+  ]
+  const linkSelector = "[data-nav-link]"
+
+  const setActiveLink = (activeId) => {
+    document.querySelectorAll(linkSelector).forEach((link) => {
+      const isActive = link.getAttribute("data-nav-link") === activeId
+      link.classList.toggle("bg-sky-100", isActive)
+      link.classList.toggle("text-sky-700", isActive)
+      link.classList.toggle("font-semibold", isActive)
+      if (isActive) {
+        link.setAttribute("aria-current", "true")
+      } else {
+        link.removeAttribute("aria-current")
+      }
+    })
+  }
+
+  const sections = sectionIds.map((id) => document.getElementById(id)).filter(Boolean)
+
+  if (sections.length) {
+    const getCurrentSectionId = () => {
+      const activationOffset = 140
+      const viewportAnchor = window.scrollY + activationOffset
+      let currentId = sections[0].id
+
+      for (const section of sections) {
+        if (section.offsetTop <= viewportAnchor) {
+          currentId = section.id
+        } else {
+          break
+        }
+      }
+
+      return currentId
+    }
+
+    let ticking = false
+    const onScrollOrResize = () => {
+      if (ticking) return
+      ticking = true
+      requestAnimationFrame(() => {
+        setActiveLink(getCurrentSectionId())
+        ticking = false
+      })
+    }
+
+    window.addEventListener("scroll", onScrollOrResize, { passive: true })
+    window.addEventListener("resize", onScrollOrResize)
+    window.addEventListener("hashchange", onScrollOrResize)
+
+    onScrollOrResize()
+  }
+</script>
