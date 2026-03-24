@@ -2,9 +2,9 @@
 title: "Technology Specialist (LMS Development)"
 slug: "tech-specialist"
 summary: "Technology Specialist will focus on deploying and managing the LMS, ensuring it is scalable, user-friendly, secure, and aligned with program learning objectives."
-sortOrder: 3
-location: ""
-dueDate: ""
+published: false
+location: "Peshawar, Remote"
+dueDate: "2026-02-28"
 ---
 
 The Cloud and IT Services – Technology Specialist will be responsible for the design, development, customization, and maintenance of a Learning Management System (LMS) for the UN Women Digitalisation for Economic Empowerment (D4WEE) Project. The role will focus on deploying and managing the LMS on the Open edX platform, ensuring it is scalable, user-friendly, secure, and aligned with program learning objectives for women’s digital and economic empowerment.

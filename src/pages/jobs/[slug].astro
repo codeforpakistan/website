@@ -24,7 +24,6 @@ const { Content } = await job.render();
             <div class="flex-grow max-w-5xl">
                 <section>
                     <div class="mb-8">
-                        <h3 class="heading">About the Position</h3>
                         <div class="rich-text-content">
                             <Content />
                         </div>
@@ -32,13 +31,32 @@ const { Content } = await job.render();
                 </section>
             </div>
             <div class="md:sticky md:top-24 md:self-start md:w-80 lg:w-96">
-                <aside>
+                <aside class="space-y-6">
                     <div class="bg-gray-100 p-6">
                         <h3 class="heading">Job Details</h3>
                         <div class="space-y-4">
                             <div>
                                 <p class="text-sm text-gray-600 mb-1">Location</p>
                                 <p class="font-medium">{job.data.location}</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="bg-gray-100 p-6">
+                        <h3 class="heading">How to Apply</h3>
+                        <div class="space-y-4 text-sm">
+                            <p>If you're ready to elevate our digital voice, send us:</p>
+                            <ul class="list-disc list-inside space-y-2 pl-2">
+                                <li>A cover letter explaining your interest and your vision for CfP's digital engagement</li>
+                                <li>Your resume</li>
+                                <li>A link to your LinkedIn profile</li>
+                                <li>Link to your Github profile</li>
+                            </ul>
+                            <div class="pt-2">
+                                <p class="font-medium">Email your application to:</p>
+                                <a href="mailto:hiring@codeforpakistan.org" class="text-blue-600 hover:underline">
+                                    hiring@codeforpakistan.org
+                                </a>
                             </div>
                         </div>
                     </div>

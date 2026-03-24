@@ -5,12 +5,26 @@ import JobCard from '../../components/cards/JobCard.astro';
 import CardSection from '../../components/sections/CardSection.astro';
 import CardGrid from '../../components/sections/CardGrid.astro';
 
-const jobs = (await getCollection('jobs')).sort((a, b) => {
-  const orderA = a.data.sortOrder ?? 0;
-  const orderB = b.data.sortOrder ?? 0;
-  if (orderA !== orderB) return orderA - orderB;
-  return a.data.title.localeCompare(b.data.title);
-});
+const jobs = (await getCollection('jobs'))
+  .filter((job) => job.data.published === true)
+  .sort((a, b) => {
+    const hasDateA = a.data.dueDate && a.data.dueDate.trim() !== '';
+    const hasDateB = b.data.dueDate && b.data.dueDate.trim() !== '';
+    
+    // If one has a date and the other doesn't, prioritize the one with a date
+    if (hasDateA && !hasDateB) return -1;
+    if (!hasDateA && hasDateB) return 1;
+    
+    // If both have dates, sort by date descending (latest first)
+    if (hasDateA && hasDateB) {
+      const dateA = new Date(a.data.dueDate).getTime();
+      const dateB = new Date(b.data.dueDate).getTime();
+      if (dateA !== dateB) return dateB - dateA;
+    }
+    
+    // If both don't have dates, or dates are equal, sort by title
+    return a.data.title.localeCompare(b.data.title);
+  });
 ---
 
 <MainLayout title="Jobs">
@@ -116,6 +130,7 @@ const jobs = (await getCollection('jobs')).sort((a, b) => {
       title={job.data.title}
       location={job.data.location}
       summary={job.data.summary}
+      dueDate={job.data.dueDate}
     />
   ))}
 </CardGrid>

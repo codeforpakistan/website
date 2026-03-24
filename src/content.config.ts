@@ -71,12 +71,20 @@ const reportSchema = z.object({
   attachment: z.string().optional().default(''),
 });
 
+const jobSchema = z.object({
+  title: z.string(),
+  summary: z.string().optional().default(''),
+  location: z.string().optional().default(''),
+  dueDate: z.string().optional().default(''),
+  published: z.boolean().optional().default(false),
+});
+
 const people = defineCollection({ schema: peopleSchema });
 const projects = defineCollection({ schema: projectSchema });
 const stories = defineCollection({ schema: storySchema });
 const events = defineCollection({ schema: eventSchema });
 const reports = defineCollection({ schema: reportSchema });
-const jobs = defineCollection({ schema: baseSchema });
+const jobs = defineCollection({ schema: jobSchema });
 
 export const collections = {
   people,

@@ -2,9 +2,9 @@
 title: "Curriculum Designer"
 slug: "curriculum-designer"
 summary: "Curriculum Designer will be responsible for the initial design, content creation, and any necessary updates or iterations required during the project lifecycle"
-sortOrder: 1
-location: ""
-dueDate: ""
+published: false
+location: "Peshawar, Remote"
+dueDate: "2026-02-28"
 ---
 
 The Curriculum Designer will be the primary architect of a specific course under the Digital Skills Training Program. You will be responsible for the initial design, content creation, and any necessary updates or iterations required during the project lifecycle to ensure the curriculum remains accurate, effective, and culturally relevant for women in the KP region.

@@ -4,13 +4,30 @@ interface Props {
   title: string;
   location?: string;
   summary?: string;
+  dueDate?: string;
 }
 
-const { href, title, location = '', summary = '' } = Astro.props;
+const { href, title, location = '', summary = '', dueDate = '' } = Astro.props;
+
+const parsedDate = dueDate ? new Date(dueDate) : null;
+const hasValidDate = parsedDate && !Number.isNaN(parsedDate.getTime());
+const displayDate = hasValidDate
+  ? new Intl.DateTimeFormat('en-US', {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    }).format(parsedDate)
+  : null;
 ---
 
 <a href={href} class="block bg-white border hover:border-gray-300 rounded-lg p-4">
   <h4 class="font-semibold text-gray-900">{title}</h4>
-  <p class="text-sm text-gray-500 mt-1">{location}</p>
+  <p class="text-sm text-gray-500 mt-1">
+    {location}
+    {displayDate && location && <span> • </span>}
+    {displayDate && (
+      <time datetime={hasValidDate ? parsedDate.toISOString() : undefined}>{displayDate}</time>
+    )}
+  </p>
   <p class="text-sm text-gray-600 mt-2 line-clamp-2">{summary}</p>
 </a>

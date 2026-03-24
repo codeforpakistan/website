@@ -2,9 +2,9 @@
 title: "Graphics Designer"
 slug: "graphics-designer"
 summary: "Graphic Designer will develop engaging visual materials including infographics, digital assets, and visual aids for curriculum modules and communication materials"
-sortOrder: 2
-location: ""
-dueDate: ""
+published: false
+location: "Peshawar, Remote"
+dueDate: "2026-02-28"
 ---
 The Graphic Designer will develop engaging visual materials to support the Digital Skills Training Program. This includes designing infographics, digital assets, and visual aids for curriculum modules and communication materials.
 
