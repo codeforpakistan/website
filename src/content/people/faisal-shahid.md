@@ -4,7 +4,6 @@ slug: "faisal-shahid"
 image: "/media/people/faisal.jpg"
 designation: "Sr Manager Operations"
 group: "staff"
-sortOrder: 1
 linkedin: "https://www.linkedin.com/in/faisal-shahid-54b1b720/"
 github: ""
 twitter: ""

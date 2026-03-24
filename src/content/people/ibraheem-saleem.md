@@ -4,7 +4,6 @@ slug: "ibraheem-saleem"
 image: "/media/people/ibraheem.jpg"
 designation: "Sr Manager Programs"
 group: "staff"
-sortOrder: 2
 linkedin: "https://www.linkedin.com/in/muhammad-ahmad-ibraheem/"
 github: "https://github.com/ibraheem-saleem"
 twitter: "https://twitter.com/_ibraheemSaleem"

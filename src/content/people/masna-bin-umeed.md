@@ -4,7 +4,6 @@ slug: "masna-bin-umeed"
 image: "/media/people/masna.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 12
 linkedin: "https://www.linkedin.com/in/masnabinumeed/"
 github: ""
 twitter: ""

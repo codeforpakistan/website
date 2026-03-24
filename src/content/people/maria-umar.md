@@ -4,7 +4,6 @@ slug: "maria-umar"
 image: "/media/people/maria.jpg"
 designation: "Board Member"
 group: "board"
-sortOrder: 2
 linkedin: "https://www.linkedin.com/in/mariaumar/"
 github: ""
 twitter: ""

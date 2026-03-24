@@ -4,7 +4,6 @@ slug: "ahmad-azfaar"
 image: "/media/people/azfaar.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 1
 linkedin: "https://www.linkedin.com/in/siddiqi88/"
 github: ""
 twitter: ""

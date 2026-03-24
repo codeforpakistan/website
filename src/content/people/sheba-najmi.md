@@ -4,7 +4,6 @@ slug: "sheba-najmi"
 image: "/media/people/sheba.jpg"
 designation: "Board Chair"
 group: "board"
-sortOrder: 1
 linkedin: "https://www.linkedin.com/in/snajmi"
 github: "https://github.com/snajmi"
 twitter: "https://twitter.com/snajmi"

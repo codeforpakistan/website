@@ -4,7 +4,6 @@ slug: "fasi-zaka"
 image: "/media/people/fasi.jpg"
 designation: "Board Member"
 group: "board"
-sortOrder: 3
 linkedin: "https://www.linkedin.com/in/fasi-zaka-2b986311/"
 github: ""
 twitter: ""

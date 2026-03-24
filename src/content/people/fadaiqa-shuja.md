@@ -4,7 +4,6 @@ slug: "fadaiqa-shuja"
 image: "/media/people/fadaiqa.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 8
 linkedin: "https://www.linkedin.com/in/fadaiqa-shujah/"
 github: ""
 twitter: ""

@@ -4,7 +4,6 @@ slug: "khunsa-khawar"
 image: "/media/people/khunsa.jpg"
 designation: "Community Manager"
 group: "staff"
-sortOrder: 4
 linkedin: "https://www.linkedin.com/in/khunsa-khawar-1a8602151/"
 github: ""
 twitter: ""

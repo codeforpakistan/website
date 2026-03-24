@@ -4,7 +4,6 @@ slug: "komal-ansar"
 image: "/media/people/komal.jpg"
 designation: "Program Associate"
 group: "staff"
-sortOrder: 5
 linkedin: "https://www.linkedin.com/in/komal-ansar/"
 github: ""
 twitter: ""

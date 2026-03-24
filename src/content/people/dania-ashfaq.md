@@ -4,7 +4,6 @@ slug: "dania-ashfaq"
 image: "/media/people/dania.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 6
 linkedin: "https://www.linkedin.com/in/daniasfq/"
 github: ""
 twitter: ""

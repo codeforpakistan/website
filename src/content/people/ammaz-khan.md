@@ -4,7 +4,6 @@ slug: "ammaz-khan"
 image: "/media/people/ammaz.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 3
 linkedin: "https://www.linkedin.com/in/ammazkhan1/"
 github: ""
 twitter: ""

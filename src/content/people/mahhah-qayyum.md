@@ -4,7 +4,6 @@ slug: "mahhah-qayyum"
 image: "/media/people/mahhah.jpg"
 designation: "Communications Manager"
 group: "staff"
-sortOrder: 6
 linkedin: "https://www.linkedin.com/in/mahhah-qayyum"
 github: ""
 twitter: ""

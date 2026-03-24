@@ -4,7 +4,6 @@ slug: "muhammad-sohail"
 image: "/media/people/sohail.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 14
 linkedin: "https://www.linkedin.com/in/sohail0992/"
 github: ""
 twitter: ""

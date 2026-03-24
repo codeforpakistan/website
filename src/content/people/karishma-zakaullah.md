@@ -4,7 +4,6 @@ slug: "karishma-zakaullah"
 image: "/media/people/karishma.jpg"
 designation: "Program Manager"
 group: "staff"
-sortOrder: 3
 linkedin: "https://www.linkedin.com/in/karishma-zaka-ullah-/"
 github: ""
 twitter: ""

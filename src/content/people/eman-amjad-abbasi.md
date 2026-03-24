@@ -4,7 +4,6 @@ slug: "eman-amjad-abbasi"
 image: "/media/people/eman.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 7
 linkedin: "https://www.linkedin.com/in/emanamjad/"
 github: ""
 twitter: ""

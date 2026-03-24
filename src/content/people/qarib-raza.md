@@ -4,7 +4,6 @@ slug: "qarib-raza"
 image: "/media/people/qarib.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 16
 linkedin: "https://www.linkedin.com/in/qaribraza/"
 github: ""
 twitter: ""

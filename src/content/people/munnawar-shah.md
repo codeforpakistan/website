@@ -4,7 +4,6 @@ slug: "munnawar-shah"
 image: "/media/people/munnawar.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 15
 linkedin: "https://www.linkedin.com/in/9sms9/"
 github: ""
 twitter: ""

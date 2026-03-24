@@ -4,7 +4,6 @@ slug: "anam-zakaria"
 image: "/media/people/anam.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 4
 linkedin: "https://www.linkedin.com/in/anam-zakaria-14377784/"
 github: ""
 twitter: ""

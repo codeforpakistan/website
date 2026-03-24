@@ -4,7 +4,6 @@ slug: "shahzeb-siddiq"
 image: "/media/people/shahzeb.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 17
 linkedin: "https://www.linkedin.com/in/shahzeb-siddiq-8a326b171/"
 github: "https://github.com/shahxeb55"
 twitter: ""

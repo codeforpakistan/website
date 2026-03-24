@@ -4,7 +4,6 @@ slug: "shaji-ahmed"
 image: "/media/people/shaji.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 18
 linkedin: "https://www.linkedin.com/in/schajee/"
 github: "https://github.com/schajee"
 twitter: ""

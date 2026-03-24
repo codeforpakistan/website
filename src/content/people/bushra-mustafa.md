@@ -4,7 +4,6 @@ slug: "bushra-mustafa"
 image: "/media/people/bushra.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 5
 linkedin: "https://www.linkedin.com/in/bushramustafa94/"
 github: ""
 twitter: ""

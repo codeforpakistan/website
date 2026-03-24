@@ -4,7 +4,6 @@ slug: "ali-raza"
 image: "/media/people/ali.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 2
 linkedin: "https://www.linkedin.com/in/aliirz/"
 github: "https://github.com/aliirz"
 twitter: "https://twitter.com/aliirz"

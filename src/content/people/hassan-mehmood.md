@@ -4,7 +4,6 @@ slug: "hassan-mehmood"
 image: "/media/people/hassan.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 10
 linkedin: "https://www.linkedin.com/in/hasanmehmood/"
 github: ""
 twitter: ""

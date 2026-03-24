@@ -4,7 +4,6 @@ slug: "farooq-islam"
 image: "/media/people/farooq.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 9
 linkedin: "https://www.linkedin.com/in/farooq-islam-930a67278/"
 github: ""
 twitter: ""

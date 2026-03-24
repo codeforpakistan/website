@@ -21,17 +21,16 @@ function normalizeGroup(person: PersonEntry): GroupKey {
   return 'staff';
 }
 
-const sortedPeople = [...people].sort((a, b) => {
-  const orderA = a.data.sortOrder ?? 0;
-  const orderB = b.data.sortOrder ?? 0;
-  if (orderA !== orderB) return orderA - orderB;
-  return a.data.title.localeCompare(b.data.title);
-});
-
-const groupedPeople: Record<GroupKey, typeof sortedPeople> = {
-  board: sortedPeople.filter((person) => normalizeGroup(person) === 'board'),
-  staff: sortedPeople.filter((person) => normalizeGroup(person) === 'staff'),
-  volunteer: sortedPeople.filter((person) => normalizeGroup(person) === 'volunteer'),
+const groupedPeople: Record<GroupKey, PersonEntry[]> = {
+  board: [...people]
+    .filter((person) => normalizeGroup(person) === 'board')
+    .sort((a, b) => a.data.title.localeCompare(b.data.title)),
+  staff: [...people]
+    .filter((person) => normalizeGroup(person) === 'staff')
+    .sort((a, b) => a.data.title.localeCompare(b.data.title)),
+  volunteer: [...people]
+    .filter((person) => normalizeGroup(person) === 'volunteer')
+    .sort((a, b) => a.data.title.localeCompare(b.data.title)),
 };
 
 const groupMeta: Array<{ key: GroupKey; title: string }> = [

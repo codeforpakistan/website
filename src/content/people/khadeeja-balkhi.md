@@ -4,7 +4,6 @@ slug: "khadeeja-balkhi"
 image: "/media/people/khadeeja.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 11
 linkedin: "https://www.linkedin.com/in/kbalkhi/"
 github: ""
 twitter: ""

@@ -4,7 +4,6 @@ slug: "mubassir-hayat"
 image: "/media/people/mubassir.jpg"
 designation: "Volunteer"
 group: "volunteer"
-sortOrder: 13
 linkedin: "https://linkedin.com/in/mubassirhayat"
 github: "https://github.com/mubassirhayat"
 twitter: "https://twitter.com/MubassirHayat"
