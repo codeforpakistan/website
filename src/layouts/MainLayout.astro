@@ -1,6 +1,7 @@
 ---
 import SidebarNav from '../components/SidebarNav.astro';
 import SiteFooter from '../components/SiteFooter.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -84,6 +85,7 @@ const resolvedCanonical = canonicalPath.startsWith('http') ? canonicalPath : new
         </aside>
 
         <main class="flex-1 ml-0 lg:ml-[17.25rem] w-full px-4 lg:px-8">
+          <Breadcrumbs />
           <slot />
         </main>
       </div>
