@@ -68,14 +68,12 @@ const { Content } = await course.render();
           
         </div>
         <div class="mt-6">
-          <a 
-            href={course.data.url && course.data.url.trim() !== "" ? course.data.url : "https://forms.gle/your-registration-form"}
-            target="_blank"
-            rel="noopener noreferrer"
-            class="block w-full text-center bg-sky-500 hover:bg-sky-600 text-white font-medium py-3 px-4 rounded-lg transition-colors"
+          <button
+            disabled
+            class="block w-full text-center bg-gray-300 text-gray-500 font-medium py-3 px-4 rounded-lg cursor-not-allowed"
           >
             Apply for Course
-          </a>
+          </button>
         </div>
       </aside>
     </div>
