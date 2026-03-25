@@ -1,0 +1,41 @@
+---
+interface Props {
+  courses: Array<{
+    slug: string;
+    data: {
+      title: string;
+      duration?: string;
+      summary?: string;
+    };
+  }>;
+}
+
+const { courses } = Astro.props;
+---
+
+<table class="w-full border-collapse">
+  <thead>
+    <tr class="border-b">
+      <th class="text-left py-3 px-4 font-semibold text-gray-700 whitespace-nowrap">Course</th>
+      <th class="w-full text-left py-3 px-4 font-semibold text-gray-700 hidden md:table-cell">Summary</th>
+      <th class="text-left py-3 px-4 font-semibold text-gray-700 hidden md:table-cell whitespace-nowrap">Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    {courses.map((course) => (
+      <tr class="border-b hover:bg-gray-50">
+        <td class="py-3 px-4 text-sm whitespace-nowrap">
+          <a href={`/programs/d4wee/${course.slug}`} class="block font-medium link">
+            {course.data.title}
+          </a>
+        </td>
+        <td class="w-full py-3 px-4 text-sm text-gray-600 hidden md:table-cell">
+          {course.data.summary || '—'}
+        </td>
+        <td class="py-3 px-4 text-sm text-gray-600 hidden md:table-cell align-top whitespace-nowrap">
+          {course.data.duration || '—'}
+        </td>
+      </tr>
+    ))}
+  </tbody>
+</table>

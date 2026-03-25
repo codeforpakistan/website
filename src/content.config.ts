@@ -79,12 +79,25 @@ const jobSchema = z.object({
   published: z.boolean().optional().default(false),
 });
 
+const courseSchema = z.object({
+  title: z.string(),
+  summary: z.string().optional().default(''),
+  description: z.string().optional().default(''),
+  category: z.string().optional().default(''),
+  duration: z.string().optional().default(''),
+  outcome: z.string().optional().default(''),
+  url: z.string().optional().default(''),
+  sortOrder: z.number().optional().default(0),
+  published: z.boolean().optional().default(true),
+});
+
 const people = defineCollection({ schema: peopleSchema });
 const projects = defineCollection({ schema: projectSchema });
 const stories = defineCollection({ schema: storySchema });
 const events = defineCollection({ schema: eventSchema });
 const reports = defineCollection({ schema: reportSchema });
 const jobs = defineCollection({ schema: jobSchema });
+const courses = defineCollection({ schema: courseSchema });
 
 export const collections = {
   people,
@@ -93,4 +106,5 @@ export const collections = {
   events,
   reports,
   jobs,
+  courses,
 };

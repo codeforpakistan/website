@@ -1,0 +1,83 @@
+---
+import MainLayout from '../../../layouts/MainLayout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const courses = await getCollection('courses');
+  const publishedCourses = courses.filter((course) => course.data.published);
+
+  return publishedCourses.map((course) => ({
+    params: { slug: course.slug },
+    props: { course },
+  }));
+}
+
+const { course } = Astro.props;
+const { Content } = await course.render();
+---
+
+<MainLayout title={`${course.data.title} - D4WEE`} description={course.data.summary} image={course.data.image}>
+  <div class="py-8">
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">{course.data.title}</h1>
+      {course.data.summary && (
+        <h2 class="text-lg md:text-3xl font-light text-gray-700">{course.data.summary}</h2>
+      )}
+    </div>
+    
+    <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
+      <div class="flex-grow max-w-5xl">
+        <section class="rich-text-content prose max-w-none">
+          <Content />
+        </section>
+        
+        <div class="mt-12 pt-8 border-t">
+          <a 
+            href="/programs/d4wee" 
+            class="inline-flex items-center gap-2 text-cfp-blue-600 hover:text-cfp-blue-800 font-medium"
+          >
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+            </svg>
+            Back to all courses
+          </a>
+        </div>
+      </div>
+      
+      <aside class="md:w-80 shrink-0">
+        <div class="bg-white border rounded-lg p-6 sticky top-4">
+          <h3 class="font-semibold text-lg mb-4">Course Details</h3>
+          <dl class="space-y-3">
+            <div>
+              <dt class="text-sm text-gray-600">Category</dt>
+              <dd class="font-medium">{course.data.category}</dd>
+            </div>
+            {course.data.duration && (
+              <div>
+                <dt class="text-sm text-gray-600">Duration</dt>
+                <dd class="font-medium">{course.data.duration}</dd>
+              </div>
+            )}
+            {course.data.outcome && (
+              <div>
+                <dt class="text-sm text-gray-600">What You'll Achieve</dt>
+                <dd class="text-sm">{course.data.outcome}</dd>
+              </div>
+            )}
+          </dl>
+          
+        </div>
+        <div class="mt-6">
+          <a 
+            href={course.data.url && course.data.url.trim() !== "" ? course.data.url : "https://forms.gle/your-registration-form"}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="block w-full text-center bg-sky-500 hover:bg-sky-600 text-white font-medium py-3 px-4 rounded-lg transition-colors"
+          >
+            Apply for Course
+          </a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</MainLayout>

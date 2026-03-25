@@ -1,0 +1,110 @@
+---
+import MainLayout from '../../layouts/MainLayout.astro';
+import CourseCard from '../../components/cards/CourseCard.astro';
+import { getCollection } from 'astro:content';
+
+const courses = await getCollection('courses');
+const sortedCourses = courses
+  .filter((course) => course.data.published)
+  .sort((a, b) => a.data.sortOrder - b.data.sortOrder);
+
+// Group courses by category
+const categories = [
+  'Foundational Skills',
+  'Creative & Content',
+  'Business & Freelancing',
+  'Technical Skills - Advanced'
+];
+
+const coursesByCategory = categories.map(category => ({
+  name: category,
+  courses: sortedCourses.filter(course => course.data.category === category)
+}));
+---
+
+<MainLayout title="Digitalization for Women's Economic Empowerment" image="/media/programs/d4wee.jpg">
+  <div class="py-8">
+    <div class="mb-6 space-y-2">
+      <h1 class="text-3xl md:text-6xl tracking-tight">Digitalization for Women's Economic Empowerment</h1>
+      <h2 class="text-lg md:text-3xl font-light text-gray-700">
+        A modular curriculum building digital skills for economic independence
+      </h2>
+    </div>
+    
+    <div class="flex flex-col gap-8 max-w-5xl">
+      <img 
+        src="/media/programs/d4wee.jpg" 
+        alt="Digitalization for Women's Economic Empowerment" 
+        class="w-full rounded-lg"
+      />
+      
+      <section class="space-y-6 text-gray-700 leading-relaxed">
+        <div class="space-y-4">
+          <p>
+            Pakistan's digital economy is growing rapidly, with over 300,000 IT professionals and rising global freelance rankings. Yet this transformation remains deeply unequal: women represent only 14% of the tech workforce and face a 65% internet access gap compared to men. Cultural barriers, limited mobility, and lack of gender-responsive training continue to exclude young women from digital opportunities.
+          </p>
+          <p>
+            The <a href="https://pakistan.unwomen.org/en" target="_blank" rel="noopener" class="link">United Nations Entity for Gender Equality and the Empowerment of Women (UN Women)</a>, with support from the <a href="https://www.koica.go.kr/sites/koica_en/index.do" target="_blank" rel="noopener" class="link">Korea International Cooperation Agency (KOICA)</a>, launched the Digitalization for Women Economic Empowerment (D4WEE) project (2024–2028) to bridge this digital gender divide. Operating across six districts in Punjab and Khyber Pakhtunkhwa—including Peshawar, Swabi, and Mardan—the initiative empowers young women through digital skills training, mentorship, community-based tech hubs, and partnerships with the private sector and public institutions.
+          </p>
+          
+          <h3 class="text-xl font-semibold text-gray-900 pt-4">Project Overview</h3>
+          <p>
+            The D4WEE Project, led by <a href="https://islamabad.tie.org" target="_blank" rel="noopener" class="link">TiE Islamabad</a> in partnership with <a href="https://ahk-foundation.org/" target="_blank" rel="noopener" class="link">Akhter Hameed Khan Foundation (AHKF)</a> and Code for Pakistan, aims to accelerate economic engagement of young women (ages 18–35) in Khyber Pakhtunkhwa (KP), Pakistan, through digital skills training, mentorship, and private sector linkages. The initiative spans 27 months (Oct 2025–Dec 2027) with a total budget of PKR 266.6 million.
+          </p>
+          
+          <h3 class="text-xl font-semibold text-gray-900 pt-4">Key Objectives & Targets</h3>
+          <p>
+            The program's primary outcome is to enable 5,940 young women (90% of those trained) to generate income through digital skills in freelancing, employment, or entrepreneurship. To achieve this, we will train 6,000 women in ICT, software development, and data analytics across Peshawar, Mardan, and Swabi. Following their training, 600 graduates will be inducted into industry mentorship programs, while 12 multi-purpose centers will be established as district-level tech hubs to support ongoing learning and collaboration. The initiative also seeks to engage the private sector, with 5 large companies and 4 MSMEs adopting gender-responsive workplace policies.
+          </p>
+          
+          <h3 class="text-xl font-semibold text-gray-900 pt-4">Technical Approach</h3>
+          <p>
+            Our approach combines community mobilization, structured mentorship, innovative training delivery, and private sector linkages. <a href="https://ahk-foundation.org/" target="_blank" rel="noopener" class="link">AHKF's</a> extensive network mobilizes and recruits women while respecting local cultural dynamics. <a href="https://islamabad.tie.org" target="_blank" rel="noopener" class="link">TiE Islamabad</a> leverages a network of over 2,000 mentors to provide structured, goal-oriented mentorship cycles. Code for Pakistan develops and delivers tiered, inclusive curricula through blended learning, supported by local trainers and digital platforms. A custom digital job portal connects graduates to employment and freelance opportunities, while formal partnerships and career fairs facilitate job placements and provide ongoing industry feedback.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 my-8">
+          <div class="bg-cfp-blue-50 border border-cfp-blue-200 rounded p-4">
+            <p class="text-3xl md:text-4xl font-semibold text-cfp-blue-900 leading-none">45+</p>
+            <p class="text-sm text-cfp-blue-700">Total Courses</p>
+          </div>
+          <div class="bg-cfp-blue-50 border border-cfp-blue-200 rounded p-4">
+            <p class="text-3xl md:text-4xl font-semibold text-cfp-blue-900 leading-none">500+</p>
+            <p class="text-sm text-cfp-blue-700">Learning Hours</p>
+          </div>
+          <div class="bg-cfp-blue-50 border border-cfp-blue-200 rounded p-4">
+            <p class="text-3xl md:text-4xl font-semibold text-cfp-blue-900 leading-none">4</p>
+            <p class="text-sm text-cfp-blue-700">Skill Tracks</p>
+          </div>
+          <div class="bg-cfp-blue-50 border border-cfp-blue-200 rounded p-4">
+            <p class="text-3xl md:text-4xl font-semibold text-cfp-blue-900 leading-none">100%</p>
+            <p class="text-sm text-cfp-blue-700">Practical Focus</p>
+          </div>
+        </div>
+      </section>
+
+      {coursesByCategory.map((categoryGroup) => (
+        categoryGroup.courses.length > 0 && (
+          <section class="space-y-4">
+            <div>
+              <h2 class="text-2xl md:text-3xl font-semibold tracking-tight">{categoryGroup.name}</h2>
+              <p class="text-gray-600 mt-1">
+                {categoryGroup.name === 'Foundational Skills' && 'Perfect for beginners or those needing a refresher on core digital competencies'}
+                {categoryGroup.name === 'Creative & Content' && 'Dive into the world of digital content creation, design, and marketing'}
+                {categoryGroup.name === 'Business & Freelancing' && 'Gain the skills to turn your digital expertise into income'}
+                {categoryGroup.name === 'Technical Skills - Advanced' && 'For those looking to specialize in high-demand tech fields'}
+              </p>
+            </div>
+            <CourseCard courses={categoryGroup.courses} />
+          </section>
+        )
+      ))}
+
+      {sortedCourses.length === 0 && (
+        <section class="text-center py-12">
+          <p class="text-gray-600 text-lg">Courses are being added. Check back soon!</p>
+        </section>
+      )}
+    </div>
+  </div>
+</MainLayout>

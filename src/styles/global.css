@@ -54,7 +54,7 @@
   }
 
   .link {
-    @apply text-sky-500 no-underline hover:underline;
+    @apply text-sky-600 no-underline hover:underline;
   }
 
   .nav-link {
@@ -173,5 +173,14 @@
 
   .rich-text-content img {
     @apply max-w-full h-auto my-4;
+  }
+
+  .prose li {
+    @apply my-0;
+  }
+
+  .prose ul > li,
+  .prose ol > li {
+    @apply my-0;
   }
 }
