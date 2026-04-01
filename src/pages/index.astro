@@ -4,6 +4,7 @@ import { getCollection } from "astro:content"
 import FeaturedStoryCard from "../components/cards/FeaturedStoryCard.astro"
 import EventCard from "../components/cards/EventCard.astro"
 import GetInvolved from "../components/GetInvolved.astro"
+import HeroSection from "../components/HeroSection.astro"
 import { sortByDateDesc } from "../utils/sortByDateDesc"
 
 const stories = await getCollection("stories")
@@ -32,24 +33,14 @@ const recentEvents = sortedEvents.slice(0, 3)
   <div class="py-8">
     <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
       <div class="flex-grow max-w-5xl">
-        <div class="w-full mb-8">
-          <img src="/img/home_banner.jpg" alt="Code for Pakistan" class="w-full h-auto rounded-lg" />
-        </div>
-
         <!-- Hero Section -->
-        <section>
-          <h1 class="heading mb-6">
-            Bridging the Gap Between <span class="text-cfp-green-500">Government</span> and <span
-              class="text-cfp-blue-500">
-              Citizens
-            </span>
-          </h1>
-          <p class="text-lg md:text-xl text-gray-700 mb-8">
-            Unlocking the power of civic tech, where citizens and government co-create solutions for real-world
-            problems.
-          </p>
-          <a href="/about" class="inline-block btn btn-primary">Get Started</a>
-        </section>
+        <HeroSection images={[
+          "/media/reports/2025/guftugu-karachi.jpg",
+          "/media/reports/2025/internship.jpg",
+          "/media/reports/2025/pips-training.jpg",
+          "/media/reports/2025/cil-peshawar.jpg",
+          "/media/reports/2025/mapathon.jpg",
+        ]} />
 
         <!-- Who We Are Section -->
         <section class="section border-s-8 border-sky-500 px-8 bg-sky-100">

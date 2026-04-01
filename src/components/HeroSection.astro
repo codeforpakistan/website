@@ -1,0 +1,61 @@
+---
+interface Props {
+  images?: string[]
+}
+
+const { images = ["/img/home_banner.jpg"] } = Astro.props
+---
+
+<section>
+  <!-- Carousel -->
+  <div class="relative w-full mb-8 overflow-hidden rounded-lg">
+    <div class="carousel-container relative h-[400px] md:h-[500px]">
+      {
+        images.map((image, index) => (
+          <img
+            src={image}
+            alt="Code for Pakistan"
+            class={`carousel-image absolute top-0 left-0 w-full h-full object-cover transition-opacity duration-1000 ${index === 0 ? "opacity-100" : "opacity-0"}`}
+            data-index={index}
+          />
+        ))
+      }
+    </div>
+  </div>
+
+  <!-- Hero Content -->
+  <h1 class="heading mb-6">
+    Bridging the Gap Between <span class="text-cfp-green-500">Government</span> and <span class="text-cfp-blue-500">
+      Citizens
+    </span>
+  </h1>
+  <p class="text-lg md:text-xl text-gray-700 mb-8">
+    Unlocking the power of civic tech, where citizens and government co-create solutions for real-world problems.
+  </p>
+  <a href="/about" class="inline-block btn btn-primary">Get Started</a>
+</section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const images = document.querySelectorAll(".carousel-image")
+    if (images.length <= 1) return
+
+    let currentIndex = 0
+
+    function rotateImages() {
+      // Fade out current image
+      images[currentIndex].classList.remove("opacity-100")
+      images[currentIndex].classList.add("opacity-0")
+
+      // Move to next image
+      currentIndex = (currentIndex + 1) % images.length
+
+      // Fade in next image
+      images[currentIndex].classList.remove("opacity-0")
+      images[currentIndex].classList.add("opacity-100")
+    }
+
+    // Auto-rotate every 5 seconds
+    setInterval(rotateImages, 5000)
+  })
+</script>
