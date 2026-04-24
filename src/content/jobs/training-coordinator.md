@@ -38,11 +38,4 @@ The Training Coordinator will support the planning, logistics, and day-to-day ma
 - Excellent communication and organizational skills
 - Proficiency in MS Office and learning management systems
 
-### How to Apply
-
-Interested candidates can apply by sending the following to [hiring@codeforpakistan.org](mailto:hiring@codeforpakistan.org):
-
-- A cover letter highlighting your motivation for applying
-- Your updated resume
-
 **Note**: Applications will be considered on a rolling basis.
