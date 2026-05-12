@@ -1,5 +1,6 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import EventSchema from '../../components/seo/EventSchema.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -32,6 +33,15 @@ const eventTagline = taglineParts.join(' · ');
 ---
 
 <MainLayout title={`${event.data.title}`} description={event.data.summary} image={event.data.image}>
+    <EventSchema 
+      name={event.data.title}
+      description={event.data.summary}
+      image={event.data.image}
+      startDate={event.data.startDate}
+      endDate={event.data.endDate}
+      location={event.data.location}
+      url={Astro.url.href}
+    />
     <div class="py-8">
         <div class="mb-6 space-y-2">
             <h1 class="text-3xl md:text-6xl tracking-tight">{event.data.title}</h1>
@@ -40,7 +50,7 @@ const eventTagline = taglineParts.join(' · ');
         <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
             <div class="flex-grow max-w-5xl">
                 <section>
-                    <img src={event.data.image} alt={event.data.title} class="w-full rounded-lg mb-8" />
+                    <img src={event.data.image} alt={event.data.title} class="w-full rounded-lg mb-8" loading="eager" width="1200" height="675" />
                     <div class="rich-text-content">
                         <Content />
                     </div>

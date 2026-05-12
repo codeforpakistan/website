@@ -1,0 +1,45 @@
+---
+interface Props {
+  name: string;
+  description?: string;
+  image?: string;
+  startDate?: string;
+  endDate?: string;
+  location?: string;
+  url: string;
+}
+
+const { name, description, image, startDate, endDate, location, url } = Astro.props;
+const siteUrl = 'https://codeforpakistan.org';
+
+const imagePath = image || '/img/cfp_logomark.png';
+const resolvedImage = imagePath.startsWith('http') ? imagePath : `${siteUrl}${imagePath}`;
+
+const eventSchema = {
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": name,
+  "description": description || name,
+  "image": resolvedImage,
+  "url": url,
+  "organizer": {
+    "@type": "Organization",
+    "name": "Code for Pakistan",
+    "url": siteUrl
+  },
+  ...(startDate && { "startDate": startDate }),
+  ...(endDate && { "endDate": endDate }),
+  ...(location && {
+    "location": {
+      "@type": "Place",
+      "name": location,
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "PK"
+      }
+    }
+  })
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(eventSchema)} />

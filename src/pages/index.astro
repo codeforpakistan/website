@@ -1,5 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro"
+import OrganizationSchema from "../components/seo/OrganizationSchema.astro"
 import { getCollection } from "astro:content"
 import FeaturedStoryCard from "../components/cards/FeaturedStoryCard.astro"
 import EventCard from "../components/cards/EventCard.astro"
@@ -30,6 +31,7 @@ const recentEvents = sortedEvents.slice(0, 3)
 ---
 
 <MainLayout title="Building technology solutions for social good">
+  <OrganizationSchema />
   <div class="py-8">
     <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
       <div class="flex-grow max-w-5xl">

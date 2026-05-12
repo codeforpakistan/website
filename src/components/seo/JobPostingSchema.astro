@@ -1,0 +1,55 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  datePosted?: string;
+  validThrough?: string;
+  employmentType?: string;
+  location?: string;
+  salary?: string;
+  url: string;
+}
+
+const { title, description, datePosted, validThrough, employmentType, location, salary, url } = Astro.props;
+const siteUrl = 'https://codeforpakistan.org';
+
+const jobSchema = {
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": title,
+  "description": description || title,
+  "url": url,
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Code for Pakistan",
+    "sameAs": siteUrl,
+    "logo": `${siteUrl}/img/cfp_logotype.svg`
+  },
+  ...(datePosted && { "datePosted": datePosted }),
+  ...(validThrough && { "validThrough": validThrough }),
+  ...(employmentType && { "employmentType": employmentType }),
+  ...(location && {
+    "jobLocation": {
+      "@type": "Place",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": location,
+        "addressCountry": "PK"
+      }
+    }
+  }),
+  ...(salary && {
+    "baseSalary": {
+      "@type": "MonetaryAmount",
+      "currency": "PKR",
+      "value": {
+        "@type": "QuantitativeValue",
+        "value": salary,
+        "unitText": "MONTH"
+      }
+    }
+  })
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(jobSchema)} />

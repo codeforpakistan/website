@@ -27,7 +27,7 @@ const tagline = taglineParts.join(' · ');
 ---
 
 <a href={href} class="block bg-white rounded-lg border hover:border-gray-300 transition-shadow overflow-hidden">
-  <img src={image} alt={title} class="w-full h-52 object-cover" />
+  <img src={image} alt={title} class="w-full h-52 object-cover" loading="lazy" width="400" height="208" />
   <div class="p-4">
     <h4 class="font-semibold text-gray-900 line-clamp-2">{title}</h4>
     {tagline && <p class="text-sm text-gray-500 mt-1">{tagline}</p>}

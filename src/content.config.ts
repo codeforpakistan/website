@@ -33,6 +33,8 @@ const storySchema = z.object({
   summary: z.string().optional().default(''),
   image: z.string().optional().default('/img/cfp_logomark.png'),
   date: z.string().optional().default(''),
+  publishedDate: z.string().optional().default(''),
+  modifiedDate: z.string().optional().default(''),
 });
 
 const eventSchema = z.object({
@@ -47,6 +49,7 @@ const eventSchema = z.object({
 
 const projectSchema = z.object({
   title: z.string(),
+  summary: z.string().optional().default(''),
   image: z.string().optional().default('/img/cfp_logomark.png'),
   department: z.string().optional().default(''),
   year: z.preprocess((value) => {
@@ -60,12 +63,14 @@ const projectSchema = z.object({
     return value;
   }, z.number().int().optional()),
   sortOrder: z.number().optional().default(0),
+  publishedDate: z.string().optional().default(''),
 });
 
 const reportSchema = z.object({
   title: z.string(),
   summary: z.string().optional().default(''),
   image: z.string().optional().default('/img/cfp_logomark.png'),
+  publishedDate: z.string().optional().default(''),
   sortOrder: z.number().optional().default(0),
   createdAt: z.string().optional().default(''),
   attachment: z.string().optional().default(''),
@@ -77,7 +82,9 @@ const jobSchema = z.object({
   location: z.string().optional().default(''),
   dueDate: z.string().optional().default(''),
   salary: z.string().optional().default(''),
+  employmentType: z.string().optional().default('FULL_TIME'),
   published: z.boolean().optional().default(false),
+  publishedDate: z.string().optional().default(''),
 });
 
 const courseSchema = z.object({

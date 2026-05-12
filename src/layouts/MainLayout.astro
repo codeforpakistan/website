@@ -10,6 +10,9 @@ interface Props {
   image?: string;
   canonical?: string;
   noindex?: boolean;
+  publishedDate?: string;
+  modifiedDate?: string;
+  type?: 'website' | 'article';
 }
 
 const siteTitle = 'Code for Pakistan';
@@ -17,7 +20,7 @@ const siteUrl = 'https://codeforpakistan.org';
 const defaultDescription = 'Code for Pakistan builds civic technology and collaborates with communities to improve public services.';
 const defaultImage = '/favicon.ico';
 
-const { title, description, image, canonical, noindex } = Astro.props;
+const { title, description, image, canonical, noindex, publishedDate, modifiedDate, type = 'website' } = Astro.props;
 const pageTitle = title?.trim() ?? '';
 const resolvedTitle = pageTitle ? `${pageTitle} | ${siteTitle}` : siteTitle;
 const resolvedDescription = description?.trim() || defaultDescription;
@@ -33,17 +36,24 @@ const resolvedCanonical = canonicalPath.startsWith('http') ? canonicalPath : new
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/cfp_logomark.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/cfp_logomark.png" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#0284c7" />
     <meta name="generator" content={Astro.generator} />
     <meta name="description" content={resolvedDescription} />
     <link rel="canonical" href={resolvedCanonical} />
     {noindex && <meta name="robots" content="noindex,nofollow" />}
 
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={type} />
+    <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content={siteTitle} />
     <meta property="og:title" content={resolvedTitle} />
     <meta property="og:description" content={resolvedDescription} />
     <meta property="og:url" content={resolvedCanonical} />
     <meta property="og:image" content={resolvedImage} />
+    {publishedDate && <meta property="article:published_time" content={publishedDate} />}
+    {modifiedDate && <meta property="article:modified_time" content={modifiedDate} />}
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={resolvedTitle} />

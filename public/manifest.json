@@ -1,0 +1,32 @@
+{
+  "name": "Code for Pakistan",
+  "short_name": "CfP",
+  "description": "Code for Pakistan builds civic technology and collaborates with communities to improve public services.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/img/cfp_logomark.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/cfp_logomark.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["civic tech", "government", "nonprofit"],
+  "lang": "en-US",
+  "dir": "ltr"
+}

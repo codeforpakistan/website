@@ -1,0 +1,29 @@
+---
+const siteUrl = 'https://codeforpakistan.org';
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Code for Pakistan",
+  "url": siteUrl,
+  "logo": `${siteUrl}/img/cfp_logotype.svg`,
+  "description": "Code for Pakistan builds civic technology and collaborates with communities to improve public services.",
+  "sameAs": [
+    "https://twitter.com/codeforpakistan",
+    "https://www.facebook.com/codeforpakistan",
+    "https://www.linkedin.com/company/code-for-pakistan",
+    "https://github.com/codeforpakistan"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "General Inquiries",
+    "email": "info@codeforpakistan.org"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "PK"
+  }
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />

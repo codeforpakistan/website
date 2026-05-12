@@ -1,5 +1,6 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import ArticleSchema from '../../components/seo/ArticleSchema.astro';
 import { getCollection } from 'astro:content';
 import { sortByDateDesc } from '../../utils/sortByDateDesc';
 
@@ -17,7 +18,22 @@ const { story } = Astro.props;
 const { Content } = await story.render();
 ---
 
-<MainLayout title={`${story.data.title}`} description={story.data.summary} image={story.data.image}>
+<MainLayout 
+  title={`${story.data.title}`} 
+  description={story.data.summary} 
+  image={story.data.image}
+  type="article"
+  publishedDate={story.data.publishedDate || story.data.date}
+  modifiedDate={story.data.modifiedDate}
+>
+  <ArticleSchema 
+    title={story.data.title} 
+    description={story.data.summary} 
+    image={story.data.image}
+    datePublished={story.data.publishedDate || story.data.date}
+    dateModified={story.data.modifiedDate}
+    url={Astro.url.href}
+  />
   <div class="py-8">
     <div class="mb-6 space-y-2">
       <h1 class="text-3xl md:text-6xl tracking-tight">{story.data.title}</h1>
@@ -26,7 +42,7 @@ const { Content } = await story.render();
     <div class="flex flex-col md:flex-row gap-4 md:gap-8 lg:gap-12 xl:gap-16">
       <div class="flex-grow max-w-5xl">
         <section>
-          <img src={story.data.image} alt={story.data.title} class="w-full rounded-lg mb-8" />
+          <img src={story.data.image} alt={story.data.title} class="w-full rounded-lg mb-8" loading="eager" width="1200" height="675" />
           <div class="rich-text-content">
             <Content />
           </div>

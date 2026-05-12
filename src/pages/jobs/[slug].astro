@@ -1,5 +1,6 @@
 ---
 import MainLayout from '../../layouts/MainLayout.astro';
+import JobPostingSchema from '../../components/seo/JobPostingSchema.astro';
 import { getCollection } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -15,6 +16,16 @@ const { Content } = await job.render();
 ---
 
 <MainLayout title={`${job.data.title}`} description={job.data.summary}>
+    <JobPostingSchema 
+      title={job.data.title}
+      description={job.data.summary}
+      datePosted={job.data.publishedDate}
+      validThrough={job.data.dueDate}
+      employmentType={job.data.employmentType}
+      location={job.data.location}
+      salary={job.data.salary}
+      url={Astro.url.href}
+    />
     <div class="py-8">
         <div class="mb-6 space-y-2">
             <h1 class="text-3xl md:text-6xl tracking-tight">{job.data.title}</h1>
