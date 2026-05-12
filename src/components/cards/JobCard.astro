@@ -5,9 +5,10 @@ interface Props {
   location?: string;
   summary?: string;
   dueDate?: string;
+  salary?: string;
 }
 
-const { href, title, location = '', summary = '', dueDate = '' } = Astro.props;
+const { href, title, location = '', summary = '', dueDate = '', salary = '' } = Astro.props;
 
 const parsedDate = dueDate ? new Date(dueDate) : null;
 const hasValidDate = parsedDate && !Number.isNaN(parsedDate.getTime());

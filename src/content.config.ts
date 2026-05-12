@@ -76,6 +76,7 @@ const jobSchema = z.object({
   summary: z.string().optional().default(''),
   location: z.string().optional().default(''),
   dueDate: z.string().optional().default(''),
+  salary: z.string().optional().default(''),
   published: z.boolean().optional().default(false),
 });
 

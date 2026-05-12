@@ -39,6 +39,12 @@ const { Content } = await job.render();
                                 <p class="text-sm text-gray-600 mb-1">Location</p>
                                 <p class="font-medium">{job.data.location}</p>
                             </div>
+                            {job.data.salary && (
+                            <div>
+                                <p class="text-sm text-gray-600 mb-1">Salary</p>
+                                <p class="font-medium">{job.data.salary}</p>
+                            </div>
+                            )}
                         </div>
                     </div>
                     
@@ -48,9 +54,8 @@ const { Content } = await job.render();
                             <p>If you're ready to elevate our digital voice, send us:</p>
                             <ul class="list-disc list-inside space-y-2 pl-2">
                                 <li>A cover letter explaining your interest and your vision for CfP's digital engagement</li>
-                                <li>Your resume</li>
-                                <li>A link to your LinkedIn profile</li>
-                                <li>Link to your Github profile</li>
+                                <li>Your CV or Resume</li>
+                                <li>A link to your LinkedIn or GitHub profile</li>
                             </ul>
                             <div class="pt-2">
                                 <p class="font-medium">Email your application to:</p>

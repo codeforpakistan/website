@@ -5,21 +5,20 @@ summary: "Full Stack Developer responsible for the complete software development
 published: true
 location: "Peshawar, Remote"
 dueDate: "2026-04-30"
+salary: "PKR 120,000/-"
 ---
-
-### The Role
 
 You'll be part of a cross-functional team that is responsible for the full software development life cycle, from conception to deployment. As a Full Stack Developer, you should be comfortable around both front-end and back-end coding languages, development frameworks, and third-party libraries. You should also be a team player with a knack for visual design and utility. If you're also familiar with Agile methodologies, we'd like to meet you.
 
 ### Core Competencies
 
-- **Strong communication skills**
-- **Self-directed**: Able to make decisions on your own, to proactively drive products forward
-- **Self-motivated**: You set your own targets and follow up with others to ensure their targets are met
-- **Solid organization skills**: You create processes and document *everything*
-- **Impact-driven**: You have a strong desire and passion to make an impact in Pakistani society
+- Strong communication skills
+- Able to make decisions on your own, to proactively drive products forward
+- You set your own targets and follow up with others to ensure their targets are met
+- You create processes and document *everything*
+- You have a strong desire and passion to make an impact in Pakistani society
 - You get things done and have consistently proven so
-- **Proactive and focused**: You're the kind of person who, once you say you will do something, you will do it on time and well – and no one needs to follow up to remind you
+- You're the kind of person who, once you say you will do something, you will do it on time and well – and no one needs to follow up to remind you
 
 ### Experience
 

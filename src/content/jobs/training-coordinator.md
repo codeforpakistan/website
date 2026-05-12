@@ -5,6 +5,7 @@ summary: "Support the planning, logistics, and day-to-day management of the Digi
 published: true
 location: "Peshawar, Mardan, Swabi"
 dueDate: "2026-05-15"
+salary: "PKR 80,000/-"
 ---
 
 ### The Role
