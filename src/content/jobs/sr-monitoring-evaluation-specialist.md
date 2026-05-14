@@ -5,7 +5,7 @@ summary: "Lead the design of innovative impact frameworks, experimental research
 published: true
 location: "Islamabad, Remote"
 dueDate: "2026-06-15"
-salary: "PKR 200,000/-"
+salary: "PKR 200,000 - 230,000"
 ---
 
 We are looking for a proactive, enthusiastic Sr. Monitoring & Evaluation Specialist who is driven by a desire to uplift citizens' lives by ensuring that our projects deliver real, measurable results. If you're a problem-solver who can see the bigger picture and loves diving into data to uncover insights, this role is for you!
@@ -28,7 +28,7 @@ As our Sr. Monitoring & Evaluation Specialist, you will be at the heart of our m
 - Engage with program teams and stakeholders, compiling comprehensive reports and presenting findings that inspire action and drive decisions.
 - Mentor internal teams and government counterparts to institutionalize modern M&E methodologies and reporting standards, building the long-term capability needed to sustain impact beyond project cycles.
 - Regularly meet with team leads to address challenges, implement improvements, and refine operations for greater efficiency.
-- Aid the Director SPI in project selection and coordination through thorough impact analysis, helping to steer our efforts toward projects with the most significant potential for change.
+- Aid the Director Strategic Planning and Implementation (SPI) in project selection and coordination through thorough impact analysis, helping to steer our efforts toward projects with the most significant potential for change.
 - Create roadmaps to enhance workflows and standardize M&E methodologies, aligning them with the best local and global practices for sustained success.
 
 ### Experience & Qualifications
