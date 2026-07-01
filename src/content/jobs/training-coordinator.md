@@ -2,7 +2,7 @@
 title: "Training Coordinator"
 slug: "training-coordinator"
 summary: "Support the planning, logistics, and day-to-day management of the Digital Skills Training Program, coordinating trainers, managing participant communications, and ensuring smooth training execution"
-published: true
+published: false
 location: "Peshawar, Mardan, Swabi"
 dueDate: "2026-05-15"
 salary: "PKR 80,000/-"

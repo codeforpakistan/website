@@ -2,7 +2,7 @@
 title: "Sr. M&E Specialist"
 slug: "sr-monitoring-evaluation-specialist"
 summary: "Lead the design of innovative impact frameworks, experimental research design, and digital M&E architecture to measure real-world impact of projects and programs"
-published: true
+published: false
 location: "Islamabad, Remote"
 dueDate: "2026-06-15"
 salary: "PKR 200,000 - 230,000"

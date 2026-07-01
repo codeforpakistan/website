@@ -2,7 +2,7 @@
 title: "Technology Associate"
 slug: "technology-associate"
 summary: "Full Stack Developer responsible for the complete software development lifecycle, working with both front-end and back-end technologies in a cross-functional team environment"
-published: true
+published: false
 location: "Peshawar, Remote"
 dueDate: "2026-04-30"
 salary: "PKR 120,000/-"

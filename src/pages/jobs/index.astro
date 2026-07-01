@@ -121,18 +121,22 @@ const jobs = (await getCollection('jobs'))
 
 <CardSection sectionClass="section" title="Current Openings" titleClass="heading">
 <p>Are you ready to become a part of the change you've always wanted to see? Take the first step towards a citizen-centered Pakistan and explore our open positions now!</p>
-<CardGrid gridClass="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
-  {jobs.map((job) => (
-    <JobCard
-      href={`/jobs/${job.slug}`}
-      title={job.data.title}
-      location={job.data.location}
-      summary={job.data.summary}
-      dueDate={job.data.dueDate}
-      salary={job.data.salary}
-    />
-  ))}
-</CardGrid>
+{ jobs.length > 0 ? (
+ <CardGrid gridClass="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
+   {jobs.map((job) => (
+     <JobCard
+       href={`/jobs/${job.slug}`}
+       title={job.data.title}
+       location={job.data.location}
+       summary={job.data.summary}
+       dueDate={job.data.dueDate}
+       salary={job.data.salary}
+     />
+   ))}
+ </CardGrid>
+) : (
+  <p class="border-s-8 border-amber-500 p-8 bg-amber-100">There are no job openings at the moment. Please check back later!</p>
+)
 </CardSection>
     </div>
   </div>
