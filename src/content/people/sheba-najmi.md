@@ -8,7 +8,7 @@ linkedin: "https://www.linkedin.com/in/snajmi"
 github: "https://github.com/snajmi"
 twitter: "https://twitter.com/snajmi"
 ---
-Sheba Najmi is the Founder & Executive Director of Code for Pakistan, a civic tech nonprofit organization that brings together government, communities, and technology to drive citizen-focused innovation in government, create human-centered public solutions, and foster civic engagement across Pakistan.
+Sheba Najmi is the Founder & Executive Director of Code for Pakistan, who brings together government, communities, and technology to drive citizen-focused innovation in government, create human-centered public solutions, and foster civic engagement across Pakistan.
 
 Driven by a lifelong north star of social impact, Sheba was one of the first champions of civic tech in Pakistan. Sheba launched Pakistan's [first civic hackathon in 2013](http://e.com.pk/story/532871/karachis-geek-squad-civic-hackathon-comes-with-an-app-to-keep-tab-on-rishwat), followed by Pakistan's first [Government Innovation Fellowship](/programs/fellowships) in partnership with the Khyber Pakhtunkhwa government and the World Bank. As the first civic tech organization in the country, Code for Pakistan's accomplishments are a testament to Sheba's vision, leadership, dedication, and her ability to inspire, bring together, and enable both citizens who wish to make a difference in their communities and change agents in governments who wish to innovate.
 

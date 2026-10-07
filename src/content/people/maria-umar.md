@@ -9,7 +9,7 @@ github: ""
 twitter: ""
 ---
 
-**Maria Umar** is the Managing Director of **Code for Pakistan**, a civic tech organization dedicated to making governance more citizen-centric through technology. Widely recognized as a pioneer in digital empowerment, Maria is also the founder and president of the **Women's Digital League (WDL)**—Pakistan's first fully virtual platform that trains and connects women with digital work opportunities.
+**Maria Umar** is widely recognized as a pioneer in digital empowerment, Maria is also the founder and president of the **Women's Digital League (WDL)**—Pakistan's first fully virtual platform that trains and connects women with digital work opportunities.
 
 As an **Ashoka Changemaker**, Maria's innovative work has earned international recognition. Under her leadership, WDL has won the Early Stage Award in Changemaker's "Women Powering Work" competition and was featured in a national campaign by Google Pakistan for its groundbreaking use of technology. The platform has also partnered with the **World Bank** to implement a digital literacy program in Khyber Pakhtunkhwa, as well as collaborated with **Facebook** and **UpWork** to further its mission of economic empowerment for women.
 

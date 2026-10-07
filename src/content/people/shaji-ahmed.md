@@ -19,4 +19,4 @@ Following a [study break](https://www.mmu.edu.my/) in Malaysia, where he helped 
 
 Shaji has developed innovative customer experience and engagement products for local [telecommunication companies](https://apollo.com.pk) and [government departments](https://dgip.gov.pk). Utilizing his knowledge in data analysis and user experience design, he guided the teams on improving multiple customer engagement products and processes.
 
-Elsewhere, Shaji works as Director of Engineering at [AlphaX Decision Sciences](https://alphaxds.com), a US-based startup developing AI-assisted decision support systems for companies in the oil and energy sector. He has a background in Computing and Visual Effects for Film from schools in Pakistan and Malaysia. He lives in Islamabad, Pakistan.
+Shaji works as Director of Engineering at [AlphaX Decision Sciences](https://alphaxds.com), a US-based startup developing AI-assisted decision support systems for companies in the oil and energy sector. He has a background in Computing and Visual Effects for Film from schools in Pakistan and Malaysia. He lives in Islamabad, Pakistan.
