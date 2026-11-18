@@ -2,7 +2,7 @@
 title: "Mubassir Hayat"
 slug: "mubassir-hayat"
 image: "/media/people/mubassir.jpg"
-designation: "Volunteer"
+designation: "Technology"
 group: "volunteer"
 linkedin: "https://linkedin.com/in/mubassirhayat"
 github: "https://github.com/mubassirhayat"

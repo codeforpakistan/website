@@ -2,7 +2,7 @@
 title: "Munnawar Shah"
 slug: "munnawar-shah"
 image: "/media/people/munnawar.jpg"
-designation: "Volunteer"
+designation: "Programs"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/9sms9/"
 github: ""

@@ -1,7 +1,7 @@
 ---
 title: "Minecraft & Civic Tech"
 slug: "civic-impact-minecraft-park-hackathon"
-summary: "Meet GovTech Hackathon 2021’s youngest participants who recreated their local park on minecraft"
+summary: "Meet GovTech Hackathon 2021's youngest participants who recreated their local park on minecraft"
 image: "/media/stories/Minecraft_kids_1.jpeg"
 date: "2023-07-06"
 ---

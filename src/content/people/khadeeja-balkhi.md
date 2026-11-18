@@ -2,7 +2,7 @@
 title: "Khadeeja Balkhi"
 slug: "khadeeja-balkhi"
 image: "/media/people/khadeeja.jpg"
-designation: "Volunteer"
+designation: "Board"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/kbalkhi/"
 github: ""

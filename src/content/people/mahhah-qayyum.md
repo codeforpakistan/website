@@ -2,7 +2,7 @@
 title: "Mahhah Qayyum"
 slug: "mahhah-qayyum"
 image: "/media/people/mahhah.jpg"
-designation: "Staff Communications Specialist"
+designation: "Communications"
 group: "staff"
 linkedin: "https://www.linkedin.com/in/mahhah-qayyum"
 github: ""

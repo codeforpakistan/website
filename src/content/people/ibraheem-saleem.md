@@ -2,7 +2,7 @@
 title: "Ibraheem Saleem"
 slug: "ibraheem-saleem"
 image: "/media/people/ibraheem.jpg"
-designation: "Sr Manager Programs"
+designation: "Programs"
 group: "staff"
 linkedin: "https://www.linkedin.com/in/muhammad-ahmad-ibraheem/"
 github: "https://github.com/ibraheem-saleem"

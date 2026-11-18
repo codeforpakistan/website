@@ -29,18 +29,18 @@ Do you need a coder in your team? Yes. And you might need a developer, designer,
 
 ## How do I build my team?
 
-If you are registering with an existing team made up of your peers from university or work, that’s great. You are ready to go!
+If you are registering with an existing team made up of your peers from university or work, that's great. You are ready to go!
 
-If you are registering as an individual (and are panicking) — RELAX! We will help you find a team. It is common practice at hackathons to team up with other enthusiastic individuals who want to make a social impact with their skills, but don’t have a team yet. Even if you don’t know anyone, you’ll all be friends in no time.
+If you are registering as an individual (and are panicking) — RELAX! We will help you find a team. It is common practice at hackathons to team up with other enthusiastic individuals who want to make a social impact with their skills, but don't have a team yet. Even if you don't know anyone, you'll all be friends in no time.
 
 ## How do I win a hackathon?
 
-Wow! You’re catching on quickly. From not knowing what a hackathon is to keeping your eye on the prize, I sure do admire your competitive spirit!
+Wow! You're catching on quickly. From not knowing what a hackathon is to keeping your eye on the prize, I sure do admire your competitive spirit!
 
-Go read up on last year’s winning teams from our [Civic Hackathon](http://167.172.68.51/civic-hackathon-2020/) co-produced with Telenor Velocity:
+Go read up on last year's winning teams from our [Civic Hackathon](http://167.172.68.51/civic-hackathon-2020/) co-produced with Telenor Velocity:
 
--   [**How BioBeing’s Win at Code for Pakistan’s Hackathon Opened More Doors for Their BioDiesel Dream**](https://codeforpakistan.medium.com/how-biobeings-win-at-code-for-pakistan-s-hackathon-opened-more-doors-for-their-biodiesel-dream-9fbe1860396a)
--   [**How Two Rivals Formed a Supergroup to Win Code for Pakistan’s Civic Hackathon 2020**](https://codeforpakistan.medium.com/how-two-rivals-formed-a-supergroup-to-win-code-for-pakistans-civic-hackathon-2020-caf9e7d691f7)
+-   [**How BioBeing's Win at Code for Pakistan's Hackathon Opened More Doors for Their BioDiesel Dream**](https://codeforpakistan.medium.com/how-biobeings-win-at-code-for-pakistan-s-hackathon-opened-more-doors-for-their-biodiesel-dream-9fbe1860396a)
+-   [**How Two Rivals Formed a Supergroup to Win Code for Pakistan's Civic Hackathon 2020**](https://codeforpakistan.medium.com/how-two-rivals-formed-a-supergroup-to-win-code-for-pakistans-civic-hackathon-2020-caf9e7d691f7)
 
 And if you want to know how Team Satisfire took home First Prize, **sign up on our emailing list**; we will share the winning formula with you ?
 
@@ -50,7 +50,7 @@ And if you want to know how Team Satisfire took home First Prize, **sign up on o
 
 The purpose of organizing hackathons is to come up with solutions for social issues that affect a large number of Pakistanis in a short amount of time. Sometimes outcomes are scalable; teams have gone on to become startups. Sometimes it gets the ball rolling by virtue of people starting to think about those problems and ways to solve it.
 
-One outcome I can guarantee is that you will find Code for Pakistan’s hackathons to be a great learning opportunity. We have amazing mentors to guide you through the process. We also have great sessions lined up (on topics like, Critical Thinking, Design Thinking, and Product Management), as well as experienced industry experts as judges and mentors.
+One outcome I can guarantee is that you will find Code for Pakistan's hackathons to be a great learning opportunity. We have amazing mentors to guide you through the process. We also have great sessions lined up (on topics like, Critical Thinking, Design Thinking, and Product Management), as well as experienced industry experts as judges and mentors.
 
 ## Do I have freedom to come up with ideas?
 
@@ -74,7 +74,7 @@ Every hackathon has a theme like our GovTech Hackathon is focused on issues rela
 
 _Complete details will be shared with the participants._
 
-## What’s the usual schedule of a hackathon?
+## What's the usual schedule of a hackathon?
 
 Every hackathon is different, but for our upcoming GovTech Hackathon, activities will start from Friday, October 8th, 2021 to October 10th, 2021. Complete breakdown of schedule will be communicated to registered participants only.
 

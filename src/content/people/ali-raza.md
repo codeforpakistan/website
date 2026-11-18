@@ -2,7 +2,7 @@
 title: "Ali Raza"
 slug: "ali-raza"
 image: "/media/people/ali.jpg"
-designation: "Volunteer"
+designation: "Technology"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/aliirz/"
 github: "https://github.com/aliirz"

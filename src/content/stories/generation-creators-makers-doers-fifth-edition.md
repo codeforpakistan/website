@@ -36,7 +36,7 @@ This edition focuses on an innovative digital solution developed for the [KP Soc
 
 -   **Maryam Siraj:** A significant challenge was the initial lack of discovery research. We overcame this by conducting extensive meetings with the Social Welfare Department, iterating multiple prototypes to finalize a design aligned with user requirements.
 -   **Muhammad Hakim:** Ensuring security, scalability, and seamless integration with existing departmental workflows posed challenges. We implemented robust security protocols, ensured system scalability, and closely collaborated with departmental staff to align our solution with their workflows and needs.
--   **Ibraheem:** Ensuring the system was efficient and user-friendly for diverse users was crucial. With guidance from Masna Bin Umeed, Code for Pakistan’s User Experience Strategist, we developed a comprehensive design system that streamlined registration processes, minimized errors, and enhanced collaboration.
+-   **Ibraheem:** Ensuring the system was efficient and user-friendly for diverse users was crucial. With guidance from Masna Bin Umeed, Code for Pakistan's User Experience Strategist, we developed a comprehensive design system that streamlined registration processes, minimized errors, and enhanced collaboration.
 
 ##### What impact do you anticipate this project having on NGOs, NPOs, and the Social Welfare Department?
 

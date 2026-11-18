@@ -9,7 +9,7 @@ startDate: "2024-11-18"
 endDate: ""
 ---
 
-On November 18, 2024, Code for Pakistan (CfP) marked an important milestone in addressing civic challenges with the launch of the **Civic Innovator Program**. This initiative brings together government, academia, and industry in a tri-party collaboration, aligned with the **Higher Education Commission’s (HEC)** requirements for final-year student projects.
+On November 18, 2024, Code for Pakistan (CfP) marked an important milestone in addressing civic challenges with the launch of the **Civic Innovator Program**. This initiative brings together government, academia, and industry in a tri-party collaboration, aligned with the **Higher Education Commission's (HEC)** requirements for final-year student projects.
 
 By equipping students with the tools to develop technology-driven solutions to real-world challenges, this program strengthens public service delivery and creates meaningful impact.
 
@@ -17,7 +17,7 @@ By equipping students with the tools to develop technology-driven solutions to r
 
 Held at **Durshal Peshawar**, the launch event introduced plans to address over 250 problem statements submitted by government departments. The program enables students to turn these challenges into practical solutions, improving public services and encouraging innovation.
 
-This initiative builds on the success of CfP’s **Government Innovation Fellowship**—developed in partnership with the **KP IT Board and World Bank**—further bridging the gap between government and citizens.
+This initiative builds on the success of CfP's **Government Innovation Fellowship**—developed in partnership with the **KP IT Board and World Bank**—further bridging the gap between government and citizens.
 
 #### How the Program Works
 
@@ -25,7 +25,7 @@ The **Civic Innovator Program** promotes collaboration between government, acade
 
 ##### Key Features of the Program
 
-- **Tri-Party Collaboration:** Students gain practical experience in civic innovation while fulfilling HEC’s final-year project requirements.
+- **Tri-Party Collaboration:** Students gain practical experience in civic innovation while fulfilling HEC's final-year project requirements.
 - **Expert Mentorship:** Teams of three students receive guidance from faculty supervisors and experienced industry professionals.
 - **Technology-Driven Solutions:** Students apply emerging technologies to civic challenges, including IoT-enabled waste management and interactive AR tools for public spaces.
 

@@ -1,15 +1,15 @@
 ---
 title: "Meet Karachi Chal"
 slug: "meet-karachi-chal"
-summary: "AI itinerary planner that understands Karachi’s vibrant pulse"
+summary: "AI itinerary planner that understands Karachi's vibrant pulse"
 image: "/media/stories/karachi.jpg"
 date: "2024-05-07"
 ---
 Sometimes, the best ideas emerge when you need an escape.  After a rough month, I flew to Karachi as a mentor for the Build with AI Hackathon hosted by GDG Kolachi at Geeks of Kolachi. To be honest, more than mentoring, I needed a breather at that point.
 
-Just as we were descending, I peeked out from the window. A sprawling city stretched beneath me—a megacity teeming with life and stories begging to be explored. I'm not a massive planner by nature, but suddenly, it hit me: What if there was a better way to navigate the City of Lights? To find the best biryani in town? Or the ideal spot for ‘kebabs’ on Burns Road? The geek in me wondered how could I tailor my experience while here?
+Just as we were descending, I peeked out from the window. A sprawling city stretched beneath me—a megacity teeming with life and stories begging to be explored. I'm not a massive planner by nature, but suddenly, it hit me: What if there was a better way to navigate the City of Lights? To find the best biryani in town? Or the ideal spot for ‘kebabs' on Burns Road? The geek in me wondered how could I tailor my experience while here?
 
-At that moment, the Young Stunners track "Karachi Chal" blasted through my headphones. I had a lightbulb moment! Why not build an **AI-powered itinerary planner**? One that mirrors Karachi’s vibrancy and culture?
+At that moment, the Young Stunners track "Karachi Chal" blasted through my headphones. I had a lightbulb moment! Why not build an **AI-powered itinerary planner**? One that mirrors Karachi's vibrancy and culture?
 
 ![Karachi](/media/stories/karachi.jpg)
 

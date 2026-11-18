@@ -2,7 +2,7 @@
 title: "Ammaz Khan"
 slug: "ammaz-khan"
 image: "/media/people/ammaz.jpg"
-designation: "Volunteer"
+designation: "Technology"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/ammazkhan1/"
 github: ""

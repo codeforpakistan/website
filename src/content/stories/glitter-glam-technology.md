@@ -9,7 +9,7 @@ Celebrating hard work and achievement through awards and recognition is always e
 
 Sheba Najmi is the founder of Code for Pakistan (CfP), a civic technology organization. For those unfamiliar with the term, civic technology is about co-creating solutions with the help of the community and government to optimize public services. Put simply, it changes old ways of doing things, replacing them with new-age digital solutions that are much more efficient.
 
-When I first met Sheba, her radiant smile immediately stood out. Our introduction came via a Google Meet interview as I was venturing back into the workforce after a few years of hiatus. A fading spark rekindled within me when I read the job description for the role 'eager to bring about meaningful change'----. That, coupled with Sheba’s enthusiasm, told me this would be a fun ride.
+When I first met Sheba, her radiant smile immediately stood out. Our introduction came via a Google Meet interview as I was venturing back into the workforce after a few years of hiatus. A fading spark rekindled within me when I read the job description for the role 'eager to bring about meaningful change'----. That, coupled with Sheba's enthusiasm, told me this would be a fun ride.
 
 > You seem eager to contribute positively to Pakistan, and that's exactly what we do.
 

@@ -9,7 +9,7 @@ startDate: "2020-12-11"
 endDate: ""
 ---
 
-The [Civic Hackathon 2020](/events/civic-hackathon-2020), Code for Pakistan’s first ever virtual hackathon co-organised with Telenor Velocity, brought together a mix of technologists, designers, social scientists, NGOs, private sector and government, among others, to solve social and civic problems in a new way using technology, innovative ideas, data and digital tools. The themes of this year’s hackathon included edtech, fintech, health, environment, food security and public safety.
+The [Civic Hackathon 2020](/events/civic-hackathon-2020), Code for Pakistan's first ever virtual hackathon co-organised with Telenor Velocity, brought together a mix of technologists, designers, social scientists, NGOs, private sector and government, among others, to solve social and civic problems in a new way using technology, innovative ideas, data and digital tools. The themes of this year's hackathon included edtech, fintech, health, environment, food security and public safety.
 
 This year, largely due to logistical constraints posed by COVID-19, a virtual hackathon format presented the opportunity to enable greater participation from all over the country. Over 680 applications were received in all, from more than 90 cities across Pakistan, as well as from Canada, Finland, Saudi Arabia, the UK and the US.
 
@@ -18,13 +18,13 @@ The Hackathon formally kicked off on Friday evening, Dec 4. This year, the teams
 Guest speakers included:
 
 - **Dr Cedric Aimal Edwin** (Chairman, Department of Management Sciences, CECOS University, Peshawar) who conducted a session on, *Entrepreneurial Development: A Design Thinking Approach*
-- **Arsalan Khattak **(GitHub Campus Expert), who shared a detailed guide, *Let’s Git It* on how to use GitHub
+- **Arsalan Khattak **(GitHub Campus Expert), who shared a detailed guide, *Let's Git It* on how to use GitHub
 - **Professor Tim Unwin **(Chairholder, UNESCO Chair in ICT4D and Emeritus Professor of Geography at Royal Holloway, University of London) who gave a talk on, *Making Money and Doing Good: Challenges in Hacking Education for the Most Marginalized*
 - **Saad Hamid **(Developer Relations, Google) who spoke to the participants about, *How to deliver a winning pitch*.
 
 Thirty mentors from various fields including education, health, fintech, environmental sustainability, public safety, food security, tech and user experience design, volunteered their time during the Hackathon to guide participants and help them refine their ideas and projects.
 
-Twelve teams were shortlisted to pitch to the judging panel, and this year’s judges included:
+Twelve teams were shortlisted to pitch to the judging panel, and this year's judges included:
 
 - **Areej Khan **(VP Digital, Telenor Pakistan)
 - **Raymond Muhula **(Senior Public Sector Specialist, Governance Global Practice, World Bank)

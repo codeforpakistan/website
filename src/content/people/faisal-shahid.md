@@ -2,7 +2,7 @@
 title: "Faisal Shahid"
 slug: "faisal-shahid"
 image: "/media/people/faisal.jpg"
-designation: "Sr Manager Operations"
+designation: "Operations"
 group: "staff"
 linkedin: "https://www.linkedin.com/in/faisal-shahid-54b1b720/"
 github: ""

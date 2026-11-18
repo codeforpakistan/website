@@ -1,11 +1,11 @@
 ---
-title: "The Fellowship’s Front Line Workers"
+title: "The Fellowship's Front Line Workers"
 slug: "fellowships-front-line-workers"
 summary: "A team of 4 Data Scientists supported the KP health department in curbing the spread of COVID-19 in┬áthe┬áKP┬áprovince."
 image: "/media/stories/0_WMM2zoH2OE6k-soA.jpg"
 date: "2021-01-11"
 ---
-Back in March, shortly after the first confirmed case of Covid-19 in the Khyber Pakhtunkhwa province, cases started to increase rapidly. To counter this, the Health Department KP quickly developed mechanisms to track patients and potential infection hotspots via the Integrated Performance Management System (IPMS). In May, Code for Pakistan’s Fellowship team, in consultation with our program partners The World Bank Group and KP IT Board, formed a team of data scientists to provide support with caseload management and data analysis on the IPMS platform. Between May and November 2020, the team assisted the Health Department of KP by performing surveys with data entry operators, conducting research for smart lockdown policy making and developing tools to improve patient tracking and caseload management. In this blog post, we share the interventions the IPMS support team worked on and the ways in which citizens and government collaborated to address unprecedented challenges posed by Covid-19.
+Back in March, shortly after the first confirmed case of Covid-19 in the Khyber Pakhtunkhwa province, cases started to increase rapidly. To counter this, the Health Department KP quickly developed mechanisms to track patients and potential infection hotspots via the Integrated Performance Management System (IPMS). In May, Code for Pakistan's Fellowship team, in consultation with our program partners The World Bank Group and KP IT Board, formed a team of data scientists to provide support with caseload management and data analysis on the IPMS platform. Between May and November 2020, the team assisted the Health Department of KP by performing surveys with data entry operators, conducting research for smart lockdown policy making and developing tools to improve patient tracking and caseload management. In this blog post, we share the interventions the IPMS support team worked on and the ways in which citizens and government collaborated to address unprecedented challenges posed by Covid-19.
 
 ### Overview
 
@@ -15,7 +15,7 @@ On February 26 2020, Pakistan confirmed its first two cases of the novel coronav
 
 To contain the spread of the coronavirus, contact tracing played a crucial role. The WHO defines contact tracing in three steps:
 
-**Identification:** Once someone is confirmed as infected with a virus, contacts are identified by asking about the person’s activities and the activities and roles of the people around them since the onset of illness.
+**Identification:** Once someone is confirmed as infected with a virus, contacts are identified by asking about the person's activities and the activities and roles of the people around them since the onset of illness.
 
 **Listing:** All persons considered to have contact with the infected person should be listed as contacts.
 
@@ -53,7 +53,7 @@ The Fellows were also asked to conduct a survey on the impact of Covid-19 on the
 
 ![](/media/stories/0_5kQIOLs9IMsNEbxk.jpg)
 
-The survey was crucial since tourism is one of the most important sectors of the local economy of Pakistan and [analysts predicted](https://blogs.worldbank.org/endpovertyinsouthasia/covid-19-delays-activities-pakistans-domestic-tourism-industry) that KP’s tourism sector alone could face a loss of $20 million in revenues and could slash around 260,000 formal jobs due to Covid-19 related lockdowns. The information collected by the IPMS team was significant in aiding the government in developing policies to address the impact of Covid-19 on the tourism sector. The findings enabled the government to implement a smart lockdown policy, curtailing tourism in hotspot areas to ensure the safety of tourists and the local population while allowing the sector to reopen in locations with low virus activity, thereby providing some relief to the tourism industry and the livelihoods dependent on it.
+The survey was crucial since tourism is one of the most important sectors of the local economy of Pakistan and [analysts predicted](https://blogs.worldbank.org/endpovertyinsouthasia/covid-19-delays-activities-pakistans-domestic-tourism-industry) that KP's tourism sector alone could face a loss of $20 million in revenues and could slash around 260,000 formal jobs due to Covid-19 related lockdowns. The information collected by the IPMS team was significant in aiding the government in developing policies to address the impact of Covid-19 on the tourism sector. The findings enabled the government to implement a smart lockdown policy, curtailing tourism in hotspot areas to ensure the safety of tourists and the local population while allowing the sector to reopen in locations with low virus activity, thereby providing some relief to the tourism industry and the livelihoods dependent on it.
 
 ##### _Reducing the backlog_
 
@@ -67,7 +67,7 @@ We are incredibly proud of the work the Fellows have done to support the governm
 
 ##### _Message from the IPMS Support Team_
 
-“We would like to request all our readers to practice safety and health precautions, and ensure that they continue to wear masks, avoid large gatherings and sanitize their hands whenever possible. Together we can combat the spread of the virus and ensure everyone’s safety.”
+“We would like to request all our readers to practice safety and health precautions, and ensure that they continue to wear masks, avoid large gatherings and sanitize their hands whenever possible. Together we can combat the spread of the virus and ensure everyone's safety.”
 
 **Written by** [**Ibraheem Saleem**](http://linkedin.com/in/muhammad-ahmad-ibraheem)
 

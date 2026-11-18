@@ -15,7 +15,7 @@ Four years later, Hajira graduated with a BSc in Software Engineering.
 
 #### The Program
 
-Late one evening, Hajira opened her inbox to see an encouraging email from a teacher, with an application for Code for Pakistan's KP Women Civic Internship Program attached. So much about the program seemed perfect: her father would never oppose the all-women nature of it, and the program was remote so she could participate from the comfort of her home. Hajira applied, not realizing how different her life would become in the next few months.
+Late one evening, Hajira opened her inbox to see an encouraging email from a teacher, with an application for Code for Pakistan's KP Women Civic Digital Internship attached. So much about the program seemed perfect: her father would never oppose the all-women nature of it, and the program was remote so she could participate from the comfort of her home. Hajira applied, not realizing how different her life would become in the next few months.
 
 Soon after getting her degree, Hajira got married and settled with her husband in Peshawar. But she was only a few months into the marriage when she lost both her father and father-in-law. Hajira was grief-stricken. This was made more complicated when, in the middle of that storm, she found out that she was expecting a baby. A pregnancy marred by complications followed, made all the more difficult by the fact that she was still mourning.
 

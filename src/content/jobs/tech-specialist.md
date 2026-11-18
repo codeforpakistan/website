@@ -7,7 +7,7 @@ location: "Peshawar, Remote"
 dueDate: "2026-02-28"
 ---
 
-The Cloud and IT Services – Technology Specialist will be responsible for the design, development, customization, and maintenance of a Learning Management System (LMS) for the UN Women Digitalisation for Economic Empowerment (D4WEE) Project. The role will focus on deploying and managing the LMS on the Open edX platform, ensuring it is scalable, user-friendly, secure, and aligned with program learning objectives for women’s digital and economic empowerment.
+The Cloud and IT Services – Technology Specialist will be responsible for the design, development, customization, and maintenance of a Learning Management System (LMS) for the UN Women Digitalisation for Economic Empowerment (D4WEE) Project. The role will focus on deploying and managing the LMS on the Open edX platform, ensuring it is scalable, user-friendly, secure, and aligned with program learning objectives for women's digital and economic empowerment.
 
 This position will work closely with program teams, curriculum designers, and external stakeholders to translate learning requirements into a robust, accessible digital learning platform.
 
@@ -23,9 +23,9 @@ This position will work closely with program teams, curriculum designers, and ex
 - Support reporting needs by enabling learner progress tracking, completion metrics, and dashboards.
 - Coordinate with content and training teams to ensure smooth course uploads and updates.
 
-### What We’re Looking For
+### What We're Looking For
 
-- Bachelor’s degree in Computer Science, Information Technology, Software Engineering, or a related field.
+- Bachelor's degree in Computer Science, Information Technology, Software Engineering, or a related field.
 - 5+ years of experience in LMS development, cloud-based platforms, or educational technology systems.
 - Prior hands-on experience with Open edX (required or strongly preferred), including customization and deployment.
 - Strong experience in Python, Django, MySQL/MongoDB, HTML/CSS, and JavaScript.

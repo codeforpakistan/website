@@ -1,5 +1,5 @@
 ---
-title: "Learning from mySociety’s TICTeC 2024"
+title: "Learning from mySociety's TICTeC 2024"
 slug: "learning-from-mySociety-TICTeC-2024-London"
 summary: "Shaping the Future of Civic Technology"
 image: "/media/stories/53798592052_73ca782b0d_o_0.jpg"
@@ -95,7 +95,7 @@ The last day was special for Code for Pakistan. I led a workshop on “[Enhancin
 
 Bushra Mustafa, Technology Lead delivering workshop on “Women and marginalized communities” - Image Credits: mySociety
 
-Ibraheem and Mubassir's session, “[From Data to Action: FloodLight’s Impact on Disaster Response in Pakistan](https://tictec.mysociety.org/event/from-data-to-action-floodlights-impact-on-disaster-response-in-pakistan/)”, showcased how Code for Pakistan responded to the 2022 floods with [FloodLight](https://pak-flood.ushahidi.io/), built on the [UShahidi platform](https://www.ushahidi.com/). We connected with Rhoda Omenya and Petya Kangalova to discuss potential collaborations.
+Ibraheem and Mubassir's session, “[From Data to Action: FloodLight's Impact on Disaster Response in Pakistan](https://tictec.mysociety.org/event/from-data-to-action-floodlights-impact-on-disaster-response-in-pakistan/)”, showcased how Code for Pakistan responded to the 2022 floods with [FloodLight](https://pak-flood.ushahidi.io/), built on the [UShahidi platform](https://www.ushahidi.com/). We connected with Rhoda Omenya and Petya Kangalova to discuss potential collaborations.
 
 ![](/media/stories/b821a811-876a-4ce9-a4be-0aca78d499d2_0.jpg)
 
@@ -121,7 +121,7 @@ Mubassir Hayat, Manager Technology, delivering a session about “Floodlight” 
 
 One of the most inspiring sessions I attended was by [María Baron from Directorio Legislativo](https://tictec.mysociety.org/event/joining-the-dots-on-civic-tech-and-anti-corruption/). Her talk on identifying corrupt officials and their networks resonated deeply with me, sparking new ideas on integrating transparency and accountability into our disaster management projects and work. The session highlighted the broader implications of civic technology beyond immediate relief, emphasizing long-term governance and ethical considerations.
 
-Meeting and engaging with influential figures in the civic tech space helped me expand my knowledge in more ways than one. Conversations with Petya Kangalova from the Humanitarian OpenStreetMap Team, Ana-Maria Dima from Commit Global, and Rhoda Omenya from Ushahidi gave me new insights. These interactions reinforced the importance of cross-organization collaboration. Petya’s insights on community mapping and Rhoda’s experiences with Ushahidi’s platforms provided valuable perspectives on enhancing FloodLight’s capabilities. Ana-Maria’s work in disaster management with Commit Global offered practical strategies that we are keen to integrate into our platform.
+Meeting and engaging with influential figures in the civic tech space helped me expand my knowledge in more ways than one. Conversations with Petya Kangalova from the Humanitarian OpenStreetMap Team, Ana-Maria Dima from Commit Global, and Rhoda Omenya from Ushahidi gave me new insights. These interactions reinforced the importance of cross-organization collaboration. Petya's insights on community mapping and Rhoda's experiences with Ushahidi's platforms provided valuable perspectives on enhancing FloodLight's capabilities. Ana-Maria's work in disaster management with Commit Global offered practical strategies that we are keen to integrate into our platform.
 
 ![](/media/stories/53799844174_0a0461e3c8_o_0.jpg)
 

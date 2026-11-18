@@ -9,7 +9,7 @@ startDate: "2017-08-19"
 endDate: "2017-08-20"
 ---
 
-Held on August 19–20 at the National Incubation Center, Islamabad, the **SDG Hackathon 2017** marked a historic moment as Pakistan’s first civic hackathon focused entirely on the **UN Sustainable Development Goals (SDGs)**. The two-day event was organized by **Ignite – National Technology Fund**, the **Ministry of IT & Telecom**, and **Code for Pakistan**, in collaboration with international partners including the **International Telecommunication Union (ITU)** and the **Internet Society (ISOC)**.
+Held on August 19–20 at the National Incubation Center, Islamabad, the **SDG Hackathon 2017** marked a historic moment as Pakistan's first civic hackathon focused entirely on the **UN Sustainable Development Goals (SDGs)**. The two-day event was organized by **Ignite – National Technology Fund**, the **Ministry of IT & Telecom**, and **Code for Pakistan**, in collaboration with international partners including the **International Telecommunication Union (ITU)** and the **Internet Society (ISOC)**.
 
 The hackathon brought together over 100 participants including technologists, designers, urban planners, community organizers, researchers, journalists, and government representatives to develop open-source digital solutions aimed at eight key SDGs:
 
@@ -24,7 +24,7 @@ The hackathon brought together over 100 participants including technologists, de
 
 ### A Convergence of Civic Tech and Social Innovation
 
-The event aimed to bridge the innovation gap between Pakistan’s public and private sectors by empowering citizens to address pressing development challenges through technology. Mentors from the tech, design, and social impact fields supported teams throughout the weekend as they rapidly prototyped digital tools to address civic issues aligned with the SDGs.
+The event aimed to bridge the innovation gap between Pakistan's public and private sectors by empowering citizens to address pressing development challenges through technology. Mentors from the tech, design, and social impact fields supported teams throughout the weekend as they rapidly prototyped digital tools to address civic issues aligned with the SDGs.
 
 > “Our hackathons bring together technologists and community members to spark civic engagement. Many of the ideas developed here go on to pre-acceleration and real-world impact,” said **Asim Ghaffar**, President of Code for Pakistan.
 
@@ -55,7 +55,7 @@ Held alongside the hackathon, the **SDG Challenge Cup** featured pitches from ea
 * Gender Equality
 * Decent Work and Economic Growth
 
-Winning teams earned the opportunity to represent Pakistan at **ITU Telecom World 2017** and the **Young ICT Leaders’ Forum**. Judges included:
+Winning teams earned the opportunity to represent Pakistan at **ITU Telecom World 2017** and the **Young ICT Leaders' Forum**. Judges included:
 
 * Parvez Abbasi (NIC)
 * Owais Anjum (eMumba)

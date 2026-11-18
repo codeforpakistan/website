@@ -5,7 +5,7 @@ summary: "What unfolds when Pakistani civic hackers step foot in the land of roy
 image: "/media/stories/1.jpg"
 date: "2024-07-08"
 ---
-It all started with our landing at Heathrow to attend MySociety’s The Impacts of Civic Technology Conference (TICTeC). We had spent months preparing for this moment. Not only were we participating in a renowned conference, but we also had the opportunity to explore one of the most historic and oldest cities in the world! Despite the human-centered design and clear instructions, we found ourselves going around in circles before realizing how deeply technology has been integrated into London—or perhaps how London has embraced technology.
+It all started with our landing at Heathrow to attend MySociety's The Impacts of Civic Technology Conference (TICTeC). We had spent months preparing for this moment. Not only were we participating in a renowned conference, but we also had the opportunity to explore one of the most historic and oldest cities in the world! Despite the human-centered design and clear instructions, we found ourselves going around in circles before realizing how deeply technology has been integrated into London—or perhaps how London has embraced technology.
 
 Step 1: We examined the blue Oyster card with great excitement. Mubassir remarked, “Our metro bus service could also use a card like this."
 
@@ -13,19 +13,19 @@ Step 1: We examined the blue Oyster card with great excitement. Mubassir remarke
 
 Using our debit card to top up our Oyster card was NOT a good idea. A word of advice for those visiting London and planning to use their Pakistani plastic to pay: inform the bank before you leave so your card doesn't get blocked, leaving you in a freeze response.
 
-On to better things, a kind staff member at the Airport guided us to use the Piccadilly line to King’s Cross instead of the Elizabeth line; otherwise, I am unsure where we would have ended up. I must admit, once we downed a nice coffee at Costa, things were really beginning to look up. As we used the London public transport for the first time, donning our civic tech hats, we began to notice the smaller details. We admired the tube maps in our hands and the ones on the top sides of the tube, marveling at the clarity with which the British designed their transport systems. To top it off, we saw many people reading newspapers and books and wondered inwardly why Pakistanis did not read as much, especially on public transport.
+On to better things, a kind staff member at the Airport guided us to use the Piccadilly line to King's Cross instead of the Elizabeth line; otherwise, I am unsure where we would have ended up. I must admit, once we downed a nice coffee at Costa, things were really beginning to look up. As we used the London public transport for the first time, donning our civic tech hats, we began to notice the smaller details. We admired the tube maps in our hands and the ones on the top sides of the tube, marveling at the clarity with which the British designed their transport systems. To top it off, we saw many people reading newspapers and books and wondered inwardly why Pakistanis did not read as much, especially on public transport.
 
 ![](/media/stories/1.jpg)
 
 London Tube - Image Credits: Bushra
 
-Upon our arrival at King's Cross Station, as we navigated using Google Maps, Bushra’s debit card slipped from her hand while she dragged a 20kg suitcase and a 7kg handbag on her shoulder. At that moment, a local person stopped to assist her, and another picked up and handed her card over.
+Upon our arrival at King's Cross Station, as we navigated using Google Maps, Bushra's debit card slipped from her hand while she dragged a 20kg suitcase and a 7kg handbag on her shoulder. At that moment, a local person stopped to assist her, and another picked up and handed her card over.
 
 ![](/media/stories/20240614_115712.jpg)
 
-King’s Cross station - Image Credits: Bushra
+King's Cross station - Image Credits: Bushra
 
-As we walked to our hotel to check in, we noticed London's urban infrastructure's intuitive and human-centered design. The road signs and markings were clear and self-explanatory, making it easy for us to find our way around London’s streets as first-time visitors. You could easily identify bus and underground stations from a distance, with each bus route and destination clearly marked at every station. But eventually, we concluded that **the people, not the technology** and design, made London special—and, of course, the late Queen.
+As we walked to our hotel to check in, we noticed London's urban infrastructure's intuitive and human-centered design. The road signs and markings were clear and self-explanatory, making it easy for us to find our way around London's streets as first-time visitors. You could easily identify bus and underground stations from a distance, with each bus route and destination clearly marked at every station. But eventually, we concluded that **the people, not the technology** and design, made London special—and, of course, the late Queen.
 
 ![](/media/stories/2.jpg)
 
@@ -49,13 +49,13 @@ Museum Tavern, Bloomsbury - Image Credits: Bushra
 
 On days two and three in London, we got down to business. We had the incredible opportunity to present and conduct a workshop at [mySociety's TICTeC conference](https://tictec.mysociety.org/event/tictec-2024-london/). The conference was an intimate gathering of 180 civic technologists from 33 countries to explore and share insights on climate change, democracy, civic technology, and government tech initiatives.
 
-We joined the conference early, at 8:30 a.m., and loved our 10-minute walk from our hotel to Mary Ward House. After checking in and receiving our name tags, we attended a breakfast networking event, meeting attendees from around 35 countries worldwide. The [opening keynote by Louise Crow, CEO of mySociety](https://tictec.mysociety.org/event/welcome-to-tictec-2024-how-can-civic-tech-address-todays-most-pressing-challenges/), hit all the right notes, emphasizing how civic tech can address today’s most pressing challenges. The first day was packed with insightful talks and workshops, each offering new perspectives. It was hard to pick and choose which one to attend, given all the speakers had such valuable learnings to offer.
+We joined the conference early, at 8:30 a.m., and loved our 10-minute walk from our hotel to Mary Ward House. After checking in and receiving our name tags, we attended a breakfast networking event, meeting attendees from around 35 countries worldwide. The [opening keynote by Louise Crow, CEO of mySociety](https://tictec.mysociety.org/event/welcome-to-tictec-2024-how-can-civic-tech-address-todays-most-pressing-challenges/), hit all the right notes, emphasizing how civic tech can address today's most pressing challenges. The first day was packed with insightful talks and workshops, each offering new perspectives. It was hard to pick and choose which one to attend, given all the speakers had such valuable learnings to offer.
 
 ![](/media/stories/IMG_4814_1.JPG)
 
 Code for Pakistan team with mySociety and National Democratic Institute team - Image Credits: Bushra
 
-We started Day 2 with the same energy but on a slight note of anxiety. More of the ‘butterflies in my stomach’ kind. This day was particularly special as we had our presentations lined up. Right after lunch, Bushra conducted her workshop while Mubassir and Ibraheem prepared for their talk scheduled at 3 PM. Our panel, themed on Citizen Science for Climate Action, gave us the opportunity to present the incredible work done under the FloodLight initiative in response to the devastating floods in Pakistan in 2022. We shared the stage with Petya Kangalova from the Humanitarian OpenStreetMap Team, UK, and virtually with Christoph Raetzsch from Aarhus University, Denmark. The session concluded with a Q&A, where we discussed the future of FloodLight as a global disaster management platform. Engaging in these conversations gave us a fresh perspective on the potential of civic tech to drive meaningful change. It opened a window of opportunities we could adapt and implement in our own projects back home in Pakistan. The sense of community and shared purpose among the attendees reinforced the idea that we work so much better as a collective.
+We started Day 2 with the same energy but on a slight note of anxiety. More of the ‘butterflies in my stomach' kind. This day was particularly special as we had our presentations lined up. Right after lunch, Bushra conducted her workshop while Mubassir and Ibraheem prepared for their talk scheduled at 3 PM. Our panel, themed on Citizen Science for Climate Action, gave us the opportunity to present the incredible work done under the FloodLight initiative in response to the devastating floods in Pakistan in 2022. We shared the stage with Petya Kangalova from the Humanitarian OpenStreetMap Team, UK, and virtually with Christoph Raetzsch from Aarhus University, Denmark. The session concluded with a Q&A, where we discussed the future of FloodLight as a global disaster management platform. Engaging in these conversations gave us a fresh perspective on the potential of civic tech to drive meaningful change. It opened a window of opportunities we could adapt and implement in our own projects back home in Pakistan. The sense of community and shared purpose among the attendees reinforced the idea that we work so much better as a collective.
 
 ![](/media/stories/IMG_495628129_0.JPG)
 

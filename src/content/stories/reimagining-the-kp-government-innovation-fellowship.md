@@ -29,7 +29,7 @@ In the remote Fellowship we will be using online collaboration tools and softwar
 
 There are different components to this hybrid model. Now that **meetings and interviews with the government departments** are difficult to have in person, we have facilitated those meetings on Google Meet and Live Video Sessions instead. In case of complex requirements or understanding department workflows, we will facilitate an in-person department visit, but this will be considered only for high-priority meetings, and we will ensure compliance with strict health and safety SOPs as set by the government.
 
-For the **user research** phase, we are relying on online forms and survey tools to gather data surveys from the general public. We are using popular social media platforms such as Facebook and Twitter to create polls for citizens’ feedback on specific topics relating to the products under development for different government departments.
+For the **user research** phase, we are relying on online forms and survey tools to gather data surveys from the general public. We are using popular social media platforms such as Facebook and Twitter to create polls for citizens' feedback on specific topics relating to the products under development for different government departments.
 
 Another key component of the Fellowship is **mentoring and training sessions**. The Fellowship management team redesigned the Fellowship curriculum, and most session formats. As we are moving on in this cycle, we are facilitating these sessions and workshops on online platforms as well, and have ensured that some of these sessions are recorded so the fellows can review and revisit key points later.
 

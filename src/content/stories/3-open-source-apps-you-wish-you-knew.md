@@ -29,7 +29,7 @@ _Mustahiq App Features_
 
 _So, what does the Mustahiq app do?_
 
-Well, users of the Mustahiq app can find the contact details of district zakat officers, district zakat chairman and their office locations, giving them better access to zakat-related services. The app also contains locations of hospitals and focal persons handling zakat schemes within these facilities. So, you can all find the mode of assistance that’s perfect for you.
+Well, users of the Mustahiq app can find the contact details of district zakat officers, district zakat chairman and their office locations, giving them better access to zakat-related services. The app also contains locations of hospitals and focal persons handling zakat schemes within these facilities. So, you can all find the mode of assistance that's perfect for you.
 
 #### [2\. Lab Information Management System for DG Livestock & Dairy Research](https://github.com/codeforpakistan/Livestock-lab-management-system)
 

@@ -5,7 +5,7 @@ summary: "Interview of Umer Farooq, CEO Boltay Huroof - GovTech Hackathon winner
 image: "/media/stories/stories-prize-winner-govtech-hackathon-boltay-huroof.jpg"
 date: "2021-12-28"
 ---
-Umer Farooq started working on the problem of making education inclusive for the blind community of Pakistan. Umer’s interest in the problem and the deep dive he took resulted in a startup called Boltay Huroof.In a wide-ranging interview about loving the problems to the evolution of the concept, Umer makes a compelling case for participating in a Code for Pakistan Hackathon. Here are SEVEN reasons to participate in a Hackathon:
+Umer Farooq started working on the problem of making education inclusive for the blind community of Pakistan. Umer's interest in the problem and the deep dive he took resulted in a startup called Boltay Huroof.In a wide-ranging interview about loving the problems to the evolution of the concept, Umer makes a compelling case for participating in a Code for Pakistan Hackathon. Here are SEVEN reasons to participate in a Hackathon:
 
 -   Endorsement of your idea
 -   Networking opportunity

@@ -2,7 +2,7 @@
 title: "Qarib Raza"
 slug: "qarib-raza"
 image: "/media/people/qarib.jpg"
-designation: "Volunteer"
+designation: "Events"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/qaribraza/"
 github: ""

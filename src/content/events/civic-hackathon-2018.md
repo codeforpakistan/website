@@ -40,7 +40,7 @@ Participants worked intensively over the weekend and pitched their solutions to 
 Several other standout projects included:
 
 - A smart food redistribution app developed by *Team JASONS*, connecting surplus food from restaurants and homes to those in need.
-- A solar energy and smart waste management solution addressing Pakistan’s urban utility challenges.
+- A solar energy and smart waste management solution addressing Pakistan's urban utility challenges.
 
 ### Looking Ahead
 

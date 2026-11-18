@@ -1,11 +1,11 @@
 ---
-title: "An Empowering Journey through the KP Women’s Civic Digital Internship Program"
+title: "An Empowering Journey through the KP Women's Civic Digital Internship"
 slug: "empowering-journey-internship"
-summary: "The story of Osmia and her life changing experience in the internship program"
+summary: "The story of Osmia and her life changing experience in the internship"
 image: "/media/stories/1Ia4CRNuGO0VX1Avpjm0SEw.jpg"
 date: "2024-01-02"
 ---
-Osmia, a Computer Science graduate from Malakand University was in Peshawar to deliver her baby when she came across a social media post that changed her life. Code for Pakistan, in partnership with the [KP IT Board](https://www.kpitb.gov.pk/digital-skills) and the World Bank, was inviting women from the region to apply for the Khyber Pakhtunkhwa (KP) Women's Civic Digital Internship Program 2023.
+Osmia, a Computer Science graduate from Malakand University was in Peshawar to deliver her baby when she came across a social media post that changed her life. Code for Pakistan, in partnership with the [KP IT Board](https://www.kpitb.gov.pk/digital-skills) and the World Bank, was inviting women from the region to apply for the Khyber Pakhtunkhwa (KP) Women's Civic Digital Internship 2023.
 
 ![](/media/stories/1Ia4CRNuGO0VX1Avpjm0SEw.jpg)
 
@@ -19,7 +19,7 @@ Balancing her new role as a mother, Osmia applied for the program, a competitive
 
 Osmia's commitment was tested early on when she, along with her supportive husband and two-month-old baby Azlaan, undertook an **eight-hour** journey to Peshawar for the program's inaugural event. A wifi device, donated by [Zong](https://www.zong.com.pk/) proved to be a game changer for Osmia, eliminating her internet accessibility issues.
 
-The KP Women Civic Internship Program is a 6-month internship program designed to up-skill fresh graduates with technology skills, provide practical hands-on work experience and prepare them for exploring a career in Engineering, IT and Software Development.
+The KP Women Civic Digital Internship is a 6-month internship program designed to up-skill fresh graduates with technology skills, provide practical hands-on work experience and prepare them for exploring a career in Engineering, IT and Software Development.
 
 The program offers women a unique opportunity to work on citizen-facing digital services to improve engagement, automate government processes, and create innovation in public service delivery. These digital services help solve problems in various public domains, such as economic development, healthcare, open data, citizen engagement, transportation, education, etc.
 
@@ -27,7 +27,7 @@ The internship program also offers blended learning, tailored mentorship and car
 
 ![](/media/stories/osmia.jpg)
 
-### _Inside the KP Women's Civic Digital Internship Program_
+### _Inside the KP Women's Civic Digital Internship_
 
 Osmia spent a large portion of her time mastering Graphic Design and UI/UX Development, often working late into the night while caring for Azlaan. Guided by mentors Bilal Wahab and the Code for Pakistan team, she found the six months both challenging and immensely rewarding.
 
@@ -43,6 +43,6 @@ Today, Osmia uses her skills to pursue work-from-home opportunities, improving h
 
 Her story stands as a powerful testament to the idea that, given the right opportunities, women in even the most remote regions of Pakistan can surmount obstacles and realize their aspirations.
 
-This November, consider [supporting more programs like the KP Women's Civic Digital Internship Program](/donate) to help women like Osmia on their journey towards empowerment.
+This November, consider [supporting more programs like the KP Women's Civic Digital Internship](/donate) to help women like Osmia on their journey towards empowerment.
 
 Written by [Amna Zafar](https://www.linkedin.com/in/amna-zafar-7558b8298/)

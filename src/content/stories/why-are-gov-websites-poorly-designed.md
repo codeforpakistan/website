@@ -42,13 +42,13 @@ A **Design System** is a set of standards and guidelines for creating digital to
 
 ![UX](/media/stories/image7.jpg)
 
-> Governments worldwide are adopting Design Systems to improve their digital tools. Let’s explore some examples.
+> Governments worldwide are adopting Design Systems to improve their digital tools. Let's explore some examples.
 
 ### Examples of government design systems
 
 #### 1\. GOV.UK design system
 
-The UK Government’s Design System is often considered the gold standard. From ministry websites to tax platforms, their tools are known for simplicity, usability, and accessibility.
+The UK Government's Design System is often considered the gold standard. From ministry websites to tax platforms, their tools are known for simplicity, usability, and accessibility.
 
 ![UK](/media/stories/image8.jpg)
 
@@ -56,7 +56,7 @@ The UK Government’s Design System is often considered the gold standard. From 
 
 #### 2\. UAE design system
 
-The UAE Design System adopts a modern approach, extending beyond digital tools to define the government’s branding and identity. It also prioritizes Arabic language support across platforms.
+The UAE Design System adopts a modern approach, extending beyond digital tools to define the government's branding and identity. It also prioritizes Arabic language support across platforms.
 
 ![UAE](/media/stories/image6.jpg)
 
@@ -64,15 +64,15 @@ The UAE Design System adopts a modern approach, extending beyond digital tools t
 
 #### 3\. Singapore Government design system
 
-Known as a digital-first nation, Singapore’s Design System supports a wide array of apps and websites. It’s comprehensive enough to handle the country’s extensive digital services, from banking to national ID cards.
+Known as a digital-first nation, Singapore's Design System supports a wide array of apps and websites. It's comprehensive enough to handle the country's extensive digital services, from banking to national ID cards.
 
 ![Singapore](/media/stories/image5.jpg)
 
 [_**Visit Website**_](https://www.designsystem.gov.sg/)
 
-#### 4\. Code for America’s Honeycrisp Design System
+#### 4\. Code for America's Honeycrisp Design System
 
-Code for America’s Honeycrisp Design System helps create digital tools for various U.S. government departments. It exemplifies how civic tech organizations can lead the way in innovation.
+Code for America's Honeycrisp Design System helps create digital tools for various U.S. government departments. It exemplifies how civic tech organizations can lead the way in innovation.
 
 ![CFA](/media/stories/image9.jpg)
 
@@ -90,8 +90,8 @@ Building a successful service involves much more than just implementing a Design
 
 ### Get Involved!
 
-At **Code for Pakistan**, we’re developing a Design System to create better tools for the government. We need **designers**, **coders**, **content writers**, and **researchers** to help us launch the beta version.
+At **Code for Pakistan**, we're developing a Design System to create better tools for the government. We need **designers**, **coders**, **content writers**, and **researchers** to help us launch the beta version.
 
-If you’re curious and want to contribute, email us at [masna@codeforpakistan.org](mailto:masna@codeforpakistan.org).
+If you're curious and want to contribute, email us at [masna@codeforpakistan.org](mailto:masna@codeforpakistan.org).
 
-Let’s work together to design a better digital future!
+Let's work together to design a better digital future!

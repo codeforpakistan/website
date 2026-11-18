@@ -2,7 +2,7 @@
 title: "Ahmad Azfaar"
 slug: "ahmad-azfaar"
 image: "/media/people/azfaar.jpg"
-designation: "Volunteer"
+designation: "Operations"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/siddiqi88/"
 github: ""

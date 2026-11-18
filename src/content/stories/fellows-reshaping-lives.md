@@ -5,7 +5,7 @@ summary: "All about 4th cycle KP Fellows and their amicable way of improving gov
 image: "/media/stories/1_tUBf5frSI8Qz_i4yt56OAA.jpg"
 date: "2019-04-03"
 ---
-In this century, innovation is synonymous with technology as that is where the most rapid and effective advancements are happening. In the current circumstances, governments cannot forgo technology for solving citizens’ problems in an innovative way. Over the past few years, Pakistan has jumped the bandwagon for digital innovation in systems of government. For this purpose, government offices across the country are trying to digitize their systems.
+In this century, innovation is synonymous with technology as that is where the most rapid and effective advancements are happening. In the current circumstances, governments cannot forgo technology for solving citizens' problems in an innovative way. Over the past few years, Pakistan has jumped the bandwagon for digital innovation in systems of government. For this purpose, government offices across the country are trying to digitize their systems.
 
 Federal and provincial IT Boards are making tremendous contributions to this cause, particularly in the domain of civic innovation. KPK IT Board in collaboration with Code for Pakistan and The World Bank Group launched its fourth cycle of the KP Government Innovation Fellowship 2018, bringing together 20 talented Fellows to collaborate with 8 different government departments to innovate in public service delivery.
 

@@ -39,7 +39,7 @@ The Fellows incorporated features to facilitate application tracking and quick r
 
 ## User Research
 
-Prior to developing the system, the team conducted user research with potential-end users (serving and retired government employees) and found that there were major delays in the processing of applications. The research revealed that it can take anywhere between 6 months to a year to process an application in some instances. These delays were mainly due to the non-availability of funds, lack of digital tracking and recording keeping, and delays in processing these applications. Serving and retired government officials surveyed also mentioned the delay in processing and lack of communication on the department’s part.
+Prior to developing the system, the team conducted user research with potential-end users (serving and retired government employees) and found that there were major delays in the processing of applications. The research revealed that it can take anywhere between 6 months to a year to process an application in some instances. These delays were mainly due to the non-availability of funds, lack of digital tracking and recording keeping, and delays in processing these applications. Serving and retired government officials surveyed also mentioned the delay in processing and lack of communication on the department's part.
 
 ![](/media/stories/0_LmVfoS7MvvBGub-k.jpg)
 
@@ -49,7 +49,7 @@ Prior to developing the system, the team conducted user research with potential-
 
 ## Developing the Solution
 
-Based on the user research findings, an online solution was developed by the Fellows to enable better communication, data integrity, and identification of duplicate entries to enhance the department’s performance and efficiency in processing applications and disbursement of funds.
+Based on the user research findings, an online solution was developed by the Fellows to enable better communication, data integrity, and identification of duplicate entries to enhance the department's performance and efficiency in processing applications and disbursement of funds.
 
 Features have been added to facilitate application tracking and quick reporting for real-time decision making. The newly developed system improves processing for both applicants and BFC staff to ensure swift processing of applications, providing timely disbursement of funds to applicants in need of financial support.
 
@@ -59,7 +59,7 @@ Features have been added to facilitate application tracking and quick reporting 
 
 ## Expected Impact
 
-Aside from the processing and lead time improvement due to digitization, the online system will also improve internal communication between district offices and Benevolent Fund Cell’s main office. The system will prevent duplication of records and keep them secure. Each grant will be calculated dynamically as per the applicant’s credentials, thereby minimizing the chances of human error and reducing delays. Applicants will be able to track their application status online, adding transparency to the entire process. The online system is designed to benefit serving and retired provincial government employees and their families, particularly those in need. The project was deployed in January 2021 and we cannot wait to see its impact over the next few months!
+Aside from the processing and lead time improvement due to digitization, the online system will also improve internal communication between district offices and Benevolent Fund Cell's main office. The system will prevent duplication of records and keep them secure. Each grant will be calculated dynamically as per the applicant's credentials, thereby minimizing the chances of human error and reducing delays. Applicants will be able to track their application status online, adding transparency to the entire process. The online system is designed to benefit serving and retired provincial government employees and their families, particularly those in need. The project was deployed in January 2021 and we cannot wait to see its impact over the next few months!
 
 **Written by** [**Ibraheem Saleem**](http://linkedin.com/in/muhammad-ahmad-ibraheem)
 

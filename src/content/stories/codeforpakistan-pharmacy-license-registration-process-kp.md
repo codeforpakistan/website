@@ -21,9 +21,9 @@ Following the passing of the Pakistan Pharmacy Act 1967, the Pharmacy Council of
 
 ## Health Reforms in KP
 
-In the health sector of KP, numerous changes have taken place in the past decade. In 2010, Pakistan’s 18th Constitutional Amendment shifted health administration to the provinces, granting the provinces both legislative and executive authorities in the health sector. In Khyber Pakhtunkhwa, the health policy is mainly guided by the 2010–2017 Khyber Pakhtunkhwa Health Sector Survey and the 2016–2025 National Health Vision. Regulations in the health sector are pervasive in Khyber Pakhtunkhwa, with more than 23 health care ordinances/acts and amendments being passed since 2011.
+In the health sector of KP, numerous changes have taken place in the past decade. In 2010, Pakistan's 18th Constitutional Amendment shifted health administration to the provinces, granting the provinces both legislative and executive authorities in the health sector. In Khyber Pakhtunkhwa, the health policy is mainly guided by the 2010–2017 Khyber Pakhtunkhwa Health Sector Survey and the 2016–2025 National Health Vision. Regulations in the health sector are pervasive in Khyber Pakhtunkhwa, with more than 23 health care ordinances/acts and amendments being passed since 2011.
 
-As part of the efforts to reform the health sector of KP, the Health Department and Directorate General Drugs reached out to the KP Government Innovation Fellowship team with the request for digitizing and automating the process of issuing licenses to drug stores and pharmacies in the province. Previously there was no centralized online system where drug store owners could apply online, saving their time and money and expediting the process on the department’s end. Similarly, the Health Department also faced issues in tracking duplicate and fake licenses resulting in illegal pharmacies operating throughout the province.
+As part of the efforts to reform the health sector of KP, the Health Department and Directorate General Drugs reached out to the KP Government Innovation Fellowship team with the request for digitizing and automating the process of issuing licenses to drug stores and pharmacies in the province. Previously there was no centralized online system where drug store owners could apply online, saving their time and money and expediting the process on the department's end. Similarly, the Health Department also faced issues in tracking duplicate and fake licenses resulting in illegal pharmacies operating throughout the province.
 
 Therefore, the department needed an online platform where:
 
@@ -36,7 +36,7 @@ After a careful review of the problem statement, the Fellowship team proposed cr
 
 ## User Research Findings
 
-Three Fellows, Muhammad Awais Khan, Asfandiyar and Abbas Khan (get to know more about our Fellows [here](http://167.172.68.51/blog/2020/06/05/kp-government-innovation-fellowship-program-2020/)) collaborated with the Health Department to develop the online platform. According to the team’s user research, it was evident that the manual processes for license registration had problems. Responding to a question on how many days it takes to acquire a license, most of the respondents, which included pharmacists and businessmen involved in the sale of drugs in KP, said it takes approximately three weeks to a month to acquire the license.
+Three Fellows, Muhammad Awais Khan, Asfandiyar and Abbas Khan (get to know more about our Fellows [here](http://167.172.68.51/blog/2020/06/05/kp-government-innovation-fellowship-program-2020/)) collaborated with the Health Department to develop the online platform. According to the team's user research, it was evident that the manual processes for license registration had problems. Responding to a question on how many days it takes to acquire a license, most of the respondents, which included pharmacists and businessmen involved in the sale of drugs in KP, said it takes approximately three weeks to a month to acquire the license.
 
 Among other things, the respondents also wanted a more efficient and simple process which required fewer in-person visits to the department to fulfil the requirements of obtaining a license.
 
@@ -54,7 +54,7 @@ Based on the user research, the Fellowship team created a fully centralized onli
 
 ## System Overview
 
-The online system has been developed using modern development methodologies and has been built with operability and sustainability in mind. The online system is easy to use for both license acquisition and issuance. The system is accessible through any internet-connected desktop, laptop, tablet or smartphone, on all major internet browsers. The system’s UI and UX are optimized for both desktop and mobile screens with vibrant colours, legible menus, and easy navigation. The system’s snapshots in action are shared below, which illustrate the usability of the online system.
+The online system has been developed using modern development methodologies and has been built with operability and sustainability in mind. The online system is easy to use for both license acquisition and issuance. The system is accessible through any internet-connected desktop, laptop, tablet or smartphone, on all major internet browsers. The system's UI and UX are optimized for both desktop and mobile screens with vibrant colours, legible menus, and easy navigation. The system's snapshots in action are shared below, which illustrate the usability of the online system.
 
 ![](/media/stories/0_449gydvfO-0IcqL5.jpg)
 
@@ -66,7 +66,7 @@ The online system has been developed using modern development methodologies and 
 
 This digital solution is designed to transform the entire process of pharmaceutical license application, renewal, and verification.
 
-Deployed in December 2020, the system will transform and streamline the department’s record keeping processes, improving oversight for detecting discrepancies and other shortcomings in license issuing processes. Since the process will be shifted online, it will reduce the time it takes to issue new licenses, verify existing licenses and renew licenses. It will enable performance tracking of inspectors, with built-in performance tracking mechanisms. The system’s most significant impact will be bringing transparency in the pharmaceutical sector and ensuring that only registered pharmacies are allowed to operate in the province with improved oversight and control of the Health Department.
+Deployed in December 2020, the system will transform and streamline the department's record keeping processes, improving oversight for detecting discrepancies and other shortcomings in license issuing processes. Since the process will be shifted online, it will reduce the time it takes to issue new licenses, verify existing licenses and renew licenses. It will enable performance tracking of inspectors, with built-in performance tracking mechanisms. The system's most significant impact will be bringing transparency in the pharmaceutical sector and ensuring that only registered pharmacies are allowed to operate in the province with improved oversight and control of the Health Department.
 
 **Written by** [**Ibraheem Saleem**](http://linkedin.com/in/muhammad-ahmad-ibraheem)
 

@@ -2,7 +2,7 @@
 title: "Fadaiqa Shuja"
 slug: "fadaiqa-shuja"
 image: "/media/people/fadaiqa.jpg"
-designation: "Volunteer"
+designation: "Communications"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/fadaiqa-shujah/"
 github: ""

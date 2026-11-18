@@ -24,7 +24,7 @@ Click a project name to learn more about the entry:
 
 Check out all the entries in the [submissions gallery](http://kphacks.devpost.com/project-gallery).
 
-Congratulations to the winners, and to everyone who participated. You were a part of creating something for the betterment of your city, so keep up the good work! We’re looking forward to many of these projects being scaled and deployed during the [Peshawar Fellowship](/programs/fellowships).
+Congratulations to the winners, and to everyone who participated. You were a part of creating something for the betterment of your city, so keep up the good work! We're looking forward to many of these projects being scaled and deployed during the [Peshawar Fellowship](/programs/fellowships).
 
 #### Photos
 
@@ -37,10 +37,10 @@ Congratulations to the winners, and to everyone who participated. You were a par
 - Check out the excellent write-ups by [The Express Tribune](http://tribune.com.pk/story/666712/local-solutions-civic-hackathon-concludes-with-promise-to-come-back-every-year/) , [The AppJuice](http://theappjuice.com/peshawar-hackathon-ended-great-products-hand), and [Peshawar 2.0](http://www.peshawar2.org/kphacks-highlights-from-peshawars-first-civic-hackathon/)
 - The event was featured on [BBC Urdu](http://www.bbc.co.uk/urdu/science/2014/02/140207_hackathon_computer_apps_zs.shtml), be sure to give that a read!
 - Code for Resilience did a [special write-up](http://codeforresilience.org/blog/hacking-disaster-resilience-peshawar-pakistan) focusing on disaster-management related initiatives at the Peshawar Civic Hackathon
-- And here’s an entire [recap of the event](http://sfy.co/bZgS), courtesy of @CodeForPakistan’s tweets (thank you, social media team!)
+- And here's an entire [recap of the event](http://sfy.co/bZgS), courtesy of @CodeForPakistan's tweets (thank you, social media team!)
 - You can also check out the awesome [SMS updates](http://smilesn.com/kphacks) by SmileSMS throughout the event
 
-In addition, here’s some TV video coverage of the Peshawar Civic Hackathon:
+In addition, here's some TV video coverage of the Peshawar Civic Hackathon:
 
 - [KPK Students Introduce a Mobile App for Disaster Management Assistance](http://www.siasat.pk/forum/showthread.php?232830-KPK-Students-introduce-a-mobile-app-for-Disaster-Management-Assistance)
 - [Students Create App for Electricity Theft Detection](https://www.facebook.com/photo.php?v=453564814771468)

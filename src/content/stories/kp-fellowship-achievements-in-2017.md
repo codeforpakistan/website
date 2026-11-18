@@ -41,7 +41,7 @@ The Alumni from the previous and 2017 batch of the Fellowship came together to i
 
 ![](/media/stories/1_Y5jSpwOLdtKGIe6KtUC_Vg.jpg)
 
-_A few glimpses from PCIL’s weekly meet ups_
+_A few glimpses from PCIL's weekly meet ups_
 
 ## KP Fellowship Alumni Network
 
@@ -53,7 +53,7 @@ The Alumni are also contributing actively in PCIL and mentoring the new Fellows.
 
 **TICTeC Taiwan**
 
-Our team also participated in Asia’s first information technology conference held in Taipei, Taiwan. Code for Pakistan’s founder Sheba Najmi along with Asim Ghaffar (President), Ali Altaf and Ebtihaj attended the event. One of the main events in this conference was the Code for All meetup in which all of the partners came together and brainstormed on how to make this collaboration stronger. [Read more](https://medium.com/@CodeforPakistan/5-reasons-why-you-should-attend-tictec-5e476fd28ab) on why you should attend the TICTeC.
+Our team also participated in Asia's first information technology conference held in Taipei, Taiwan. Code for Pakistan's founder Sheba Najmi along with Asim Ghaffar (President), Ali Altaf and Ebtihaj attended the event. One of the main events in this conference was the Code for All meetup in which all of the partners came together and brainstormed on how to make this collaboration stronger. [Read more](https://medium.com/@CodeforPakistan/5-reasons-why-you-should-attend-tictec-5e476fd28ab) on why you should attend the TICTeC.
 
 ![](/media/stories/1_ZD804iEKRNWf1MYPdNqa_g.jpg)
 

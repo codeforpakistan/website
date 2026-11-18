@@ -5,7 +5,7 @@ summary: "How a Digital Licensing System in KP is Restoring Trust in Public Heal
 image: "/media/stories/stories-KP-pharmacy-licensing.jpg"
 date: "2025-02-04"
 ---
-For years, Pakistan’s pharmaceutical sector operated with limited oversight, creating dangerous gaps in public health. In Khyber Pakhtunkhwa (KP), counterfeit and expired medicines flooded the market. Without a reliable licensing system, it was nearly impossible to verify which pharmacies were operating legally and which were selling unregulated drugs. The [World Health Organization](https://www.who.int/countries/pak) estimates that up to one million people die each year due to counterfeit medicines. In Pakistan, this issue became painfully clear when fake heart medication led to hundreds of deaths. But counterfeit drugs were only part of the problem — the system that allowed them to spread was broken.
+For years, Pakistan's pharmaceutical sector operated with limited oversight, creating dangerous gaps in public health. In Khyber Pakhtunkhwa (KP), counterfeit and expired medicines flooded the market. Without a reliable licensing system, it was nearly impossible to verify which pharmacies were operating legally and which were selling unregulated drugs. The [World Health Organization](https://www.who.int/countries/pak) estimates that up to one million people die each year due to counterfeit medicines. In Pakistan, this issue became painfully clear when fake heart medication led to hundreds of deaths. But counterfeit drugs were only part of the problem — the system that allowed them to spread was broken.
 
 Pharmacy licensing in KP was paper-based, inefficient, and difficult to enforce. Of the 12,000 registered pharmacies, 2,500 had regulatory violations, including a lack of refrigeration for essential medicines. In Peshawar alone, 600 pharmacy licenses were fraudulent. The process of obtaining a license could take up to two months, requiring multiple office visits and excessive paperwork. Health inspectors had no central system to track violations, making enforcement nearly impossible. Without proper oversight, unregulated pharmacies operated freely, putting millions of people at risk.
 
@@ -21,7 +21,7 @@ A process that once took months now takes just 7–10 days. Over 15,000 pharmacy
 
 ### Results That Strengthen Public Trust
 
-Since its launch in 2021, the impact has been clear. Today, over 21,000 pharmacies in KP operate with verified licenses. Fraudulent pharmacies have been identified and shut down. Regulatory oversight has improved, making it harder for unlicensed pharmacies to continue operating unchecked. The shift to a digital process hasn’t just made compliance easier for pharmacies—it has strengthened public confidence in medicine safety. Citizens now have a way to verify pharmacy licenses before purchasing medicine, and regulators can track compliance in real time.
+Since its launch in 2021, the impact has been clear. Today, over 21,000 pharmacies in KP operate with verified licenses. Fraudulent pharmacies have been identified and shut down. Regulatory oversight has improved, making it harder for unlicensed pharmacies to continue operating unchecked. The shift to a digital process hasn't just made compliance easier for pharmacies—it has strengthened public confidence in medicine safety. Citizens now have a way to verify pharmacy licenses before purchasing medicine, and regulators can track compliance in real time.
 
 ### What This Means for Government Trust
 
@@ -31,7 +31,7 @@ Winning the [2024 DNDA Award](https://dnda.design/2024/en/page/awardees) recogni
 
 ### The Path Forward
 
-Trust in government is built through everyday interactions. When a pharmacy owner can get licensed in days instead of months, when inspectors can track violations in real time, and when citizens can verify that their medicines are safe, government works as it should. The KP pharmacy licensing system is an example of how targeted reforms can improve service delivery and strengthen public confidence in institutions. Better oversight doesn’t just make systems more efficient—it makes them more trustworthy.
+Trust in government is built through everyday interactions. When a pharmacy owner can get licensed in days instead of months, when inspectors can track violations in real time, and when citizens can verify that their medicines are safe, government works as it should. The KP pharmacy licensing system is an example of how targeted reforms can improve service delivery and strengthen public confidence in institutions. Better oversight doesn't just make systems more efficient—it makes them more trustworthy.
 
 #### _Be Part of the Change_
 

@@ -2,7 +2,7 @@
 title: "Eman Amjad Abbasi"
 slug: "eman-amjad-abbasi"
 image: "/media/people/eman.jpg"
-designation: "Volunteer"
+designation: "Community"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/emanamjad/"
 github: ""

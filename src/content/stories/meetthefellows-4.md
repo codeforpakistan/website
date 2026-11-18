@@ -43,7 +43,7 @@ As a _Product Manager_ at _Code for Pakistan_, I have been responsible for overs
 
 As a Data Scientist / AI Specialist, my role was to collect and preprocess data, including tasks like labelling and annotation.
 
-**Bibi Shawana Orakzai:**The Pest Disease Control Mobile App and Web Admin Panel helps farmers identify crop diseases using AI. Farmers can upload pictures of affected plants, and the app gives instant disease detection and treatment suggestions. The web panel allows agriculture experts to monitor cases and update information. My role is designing the app’s interface to make it easy for users to navigate and use.
+**Bibi Shawana Orakzai:**The Pest Disease Control Mobile App and Web Admin Panel helps farmers identify crop diseases using AI. Farmers can upload pictures of affected plants, and the app gives instant disease detection and treatment suggestions. The web panel allows agriculture experts to monitor cases and update information. My role is designing the app's interface to make it easy for users to navigate and use.
 
 **Muhammad Asif Khan:** The Pest Disease Control Mobile App and Web Admin Panel help farmers detect and manage crop diseases using AI-based analysis. The app allows farmers to upload images of affected crops, and the system identifies the disease and provides solutions. The Web Admin Panel helps manage data, monitor reports, and improve disease detection.
 

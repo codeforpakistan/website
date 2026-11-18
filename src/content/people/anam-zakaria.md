@@ -2,7 +2,7 @@
 title: "Anam Zakaria"
 slug: "anam-zakaria"
 image: "/media/people/anam.jpg"
-designation: "Volunteer"
+designation: "Programs"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/anam-zakaria-14377784/"
 github: ""

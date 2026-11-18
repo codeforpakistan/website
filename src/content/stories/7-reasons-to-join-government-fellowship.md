@@ -53,7 +53,7 @@ This program gives you an opportunity to boost your visibility by participating 
 
 ### 4\. The Art of Civic Innovation: Where Creativity Meets Technology
 
-Imagine a place where art and technology converge, creating something truly extraordinary. That's the essence of civic innovation. It's a form of modern art that lets you harness your creativity for the greater good. That’s when you realize the actual power of citizen participation and their role as a change agent to innovate and transform society for the masses.
+Imagine a place where art and technology converge, creating something truly extraordinary. That's the essence of civic innovation. It's a form of modern art that lets you harness your creativity for the greater good. That's when you realize the actual power of citizen participation and their role as a change agent to innovate and transform society for the masses.
 
 ![Fellows Presenting Their Projects (2021)](/media/stories/post_05.jpg)
 

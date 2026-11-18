@@ -2,7 +2,7 @@
 title: "Hassan Mehmood"
 slug: "hassan-mehmood"
 image: "/media/people/hassan.jpg"
-designation: "Volunteer"
+designation: "Technology"
 group: "volunteer"
 linkedin: "https://www.linkedin.com/in/hasanmehmood/"
 github: ""

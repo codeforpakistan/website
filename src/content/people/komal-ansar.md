@@ -2,14 +2,14 @@
 title: "Komal Ansar"
 slug: "komal-ansar"
 image: "/media/people/komal.jpg"
-designation: "Program Associate"
+designation: "Programs"
 group: "staff"
 linkedin: "https://www.linkedin.com/in/komal-ansar/"
 github: ""
 twitter: ""
 ---
 
-Komal Ansar is a results-driven Program Associate at Code for Pakistan, dedicated to civic engagement and women's empowerment in tech and governance. She oversees the Civic Innovator Program and the KP Women Civic Internship Program, designing critical training initiatives that integrate civic technology for impactful solutions.
+Komal Ansar is a results-driven Program Associate at Code for Pakistan, dedicated to civic engagement and women's empowerment in tech and governance. She oversees the Civic Innovator Program and the KP Women Civic Digital Internship, designing critical training initiatives that integrate civic technology for impactful solutions.
 
 Her background includes significant contributions as a Monitoring and Evaluation Officer for the World Food Program and a Coordinator for the Food and Agriculture Organization (FAO). Komal's expertise in program coordination and training was honed as a Training Assistant for the World Bank's Pakistan Community Support Program.
 

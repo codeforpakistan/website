@@ -15,11 +15,11 @@ Various private and non-profit organizations have started supporting government 
 
 ## OPEN DATA DAY
 
-Every year volunteers at Code for Pakistan come together to celebrate Open Data Day, which is observed on the first Saturday of March. For this year’s activity, Code for Pakistan was selected for a [mini-grant from Open Knowledge Foundation](https://blog.okfn.org/2021/02/12/meet-the-organisations-receiving-open-data-day-2021-mini-grants/) to organize a hack day to open environment-related data.
+Every year volunteers at Code for Pakistan come together to celebrate Open Data Day, which is observed on the first Saturday of March. For this year's activity, Code for Pakistan was selected for a [mini-grant from Open Knowledge Foundation](https://blog.okfn.org/2021/02/12/meet-the-organisations-receiving-open-data-day-2021-mini-grants/) to organize a hack day to open environment-related data.
 
 As soon as the team decided to work on environment data, there could not have been a bigger project to choose from than the Billion Tree Afforestation Project (BTAP) also known as the Billion Tree Tsunami. The Billion Tree Tsunami project was launched in 2014, by the Government of Khyber Pakhtunkhwa (KP) to plant one billion trees as a response to the challenge of global warming.
 
-The second step after choosing the project was to answer the question of what could’ve been done to improve the visibility and transparency of the project. Given that not much data was published by the government, which is also why many questions were raised and [investigations](https://www.thenews.com.pk/print/591740-nab-detects-over-rs462m-loss-in-initial-inquiry-into-billion-tree-tsunami) were launched. So after some research, we found out that there was a third-party monitoring report published by WWF which contained the details of all the plantations which were carried out.
+The second step after choosing the project was to answer the question of what could've been done to improve the visibility and transparency of the project. Given that not much data was published by the government, which is also why many questions were raised and [investigations](https://www.thenews.com.pk/print/591740-nab-detects-over-rs462m-loss-in-initial-inquiry-into-billion-tree-tsunami) were launched. So after some research, we found out that there was a third-party monitoring report published by WWF which contained the details of all the plantations which were carried out.
 
 ![](/media/stories/0_2SHVSA9PHzhXk26I_0.jpg)
 

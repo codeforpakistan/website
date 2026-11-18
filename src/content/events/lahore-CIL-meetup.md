@@ -13,11 +13,11 @@ At the end of the Lahore Civic Hackathon, we had invited all participants to joi
 
 [The meetup](https://www.facebook.com/events/652068701512876) was organized at Lahore University of Management Sciences (LUMS), the same place where the Lahore Civic Hackathon was held 4 weeks earlier. We saw several new faces as well as many familiar ones from the Lahore Civic Hackathon. The meeting was opened by Asim Fayaz, Director of TPI at LUMS, who described most of the projects TPI is working on with government. He also made an open offer for everyone to join the exciting projects being undertaken by TPI.
 
-Sheba Najmi, the founder of Code for Pakistan, spoke about CodeAcross, explained the purpose of a Brigade, and emphasized that to be a Brigade, the Brigade members should meet on a regular basis to work on projects. You don’t need to be a techie to participate — there are many non-coding aspects to civic innovation.
+Sheba Najmi, the founder of Code for Pakistan, spoke about CodeAcross, explained the purpose of a Brigade, and emphasized that to be a Brigade, the Brigade members should meet on a regular basis to work on projects. You don't need to be a techie to participate — there are many non-coding aspects to civic innovation.
 
 All the attendees introduced themselves and also proposed potential solutions to civic problems, pertaining to the areas of health, transportation, education, and governance. Some of the participants expressed interest in some of the projects that had been created at the Lahore Civic Hackathon. The ideas were all captured, followed by a rigorous discussion of them. A couple of Brigade Project Mentors were also present and they, like everyone else, expressed their interest in certain ideas. 6 promising project ideas or areas were agreed upon by the group.
 
-For next steps, the Lahore Brigade is planning to meet every 2 weeks. An online discussion forum will be set up as well, and future sessions will involve hands-on work on projects to take them forward. Leadership positions for the Lahore Brigade will be decided after we’ve had a couple of meetings.
+For next steps, the Lahore Brigade is planning to meet every 2 weeks. An online discussion forum will be set up as well, and future sessions will involve hands-on work on projects to take them forward. Leadership positions for the Lahore Brigade will be decided after we've had a couple of meetings.
 
 We will continue to keep you posted on the Lahore Brigade meetups. Till then, you can check out:
 
@@ -25,6 +25,6 @@ We will continue to keep you posted on the Lahore Brigade meetups. Till then, yo
 - [Tweets sent out](http://storify.com/usmanstorify/lahore-brigade-meetup) during the event
 - Coverage by [The AppJuice](http://theappjuice.com/lahore-brigade-meetup-happened-weekend/) and by [Global Voices](https://globalvoicesonline.org/2014/02/26/lahore-brigade-working-to-solve-civic-problems/))
 
-Want to help us take the Lahore Brigade forward? If you’re in Lahore, register as a member (or apply for a leadership position) in the Lahore Brigade!
+Want to help us take the Lahore Brigade forward? If you're in Lahore, register as a member (or apply for a leadership position) in the Lahore Brigade!
 
 We hope to see you join this motivated group of civic innovators that are pioneers of the civic innovation movement in Pakistan!

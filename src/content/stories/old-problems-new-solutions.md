@@ -14,7 +14,7 @@ Living in the twenty-first century, accessing the world through mobile phones, o
 
 Alternatively, the responsibility also rests with the citizens of the state to realize their civic sense of duty and help the government. According to National Human Development Report (NHDR) launched by UNDP in 2018, out of the total population in Pakistan, 64% are below 30 years of age. Imagine the rate of development if a fraction of 64% contributes towards the digital building of the nation. A significant rise in STEM education has compelled Pakistanis to pursue a technology related degree. Why not use this education to innovate solutions? Why not contribute to make your life and your loved ones better by providing one-click digital solutions to the government. Why not be a civic innovator for the government, for the people?
 
-What if there is a paid program that lets you to innovate for the government? One such Program is the KP Government’s Innovation Fellowship which is being run by the Khyber Pakhtunkhwa Information Technology Board(KPITB), Code for Pakistan (CFP) and the World Bank. This program focuses on innovation for the people through the people aiming to create digital solutions through citizens of a particular country and community.
+What if there is a paid program that lets you to innovate for the government? One such Program is the KP Government's Innovation Fellowship which is being run by the Khyber Pakhtunkhwa Information Technology Board(KPITB), Code for Pakistan (CFP) and the World Bank. This program focuses on innovation for the people through the people aiming to create digital solutions through citizens of a particular country and community.
 
 Under the Fellowship, technology enthusiasts are carefully screened and selected by industry experts, donors and mentors. Starting in 2014, so far fourteen projects(with eight more to come in 2018) have been implemented by fifty young enthusiasts.
 
@@ -30,7 +30,7 @@ When asked about the details of his project, he says that the Traffic Police nee
 
 A team from the KP Government Innovation Fellowship, led by Sohail, proposed a solution that allowed the Traffic Wardens to report traffic accidents, traffic violations and the condition of the roads using a mobile application. The Traffic Police KPK were able to monitor the situation using the collected information and the department took steps like increasing workforce where more traffic violations were occurring and conducting traffic rules awareness campaigns.
 
-One can sense pride in Sohail’s voice when he says that
+One can sense pride in Sohail's voice when he says that
 
 > “At our graduation ceremony, the IG of Traffic Police stated that the application has saved several lac rupees which would have otherwise been untraceable through corruption.”
 
