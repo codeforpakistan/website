@@ -3,7 +3,7 @@ title: "Managing Director"
 slug: "managing-director"
 summary: "A high-potential leader and hands-on operator with the drive, judgment, and commitment to grow with the organization over the long term"
 published: true
-location: "Pakistan (Hybrid)"
+location: "Pakistan (Remote)"
 ---
 
 Code for Pakistan is looking for a high-potential leader and hands-on operator with the drive, judgment, and commitment to grow with the organization over the long term. We are looking for someone with a strong upward trajectory — someone who has already demonstrated unusual ownership, execution, and leadership, and is ready to step into a broader role with real organizational responsibility.
